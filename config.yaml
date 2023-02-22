@@ -4,8 +4,8 @@ user_name: "m32us"
 repo_name: "rl-arxiv"
 show_authors: True
 show_links: True
-show_badge: True
-max_results: 10
+show_badge: False
+max_results: 50
 
 publish_readme: True
 publish_gitpage: True
