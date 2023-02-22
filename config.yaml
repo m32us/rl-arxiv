@@ -23,6 +23,10 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Reinforcement Learning":
-        filters: ["Reinforcement Learning"]
+        filters: ["Reinforcement Learning", "Deep Neural Networks"]
     "Combinatorial Optimization":
-        filters: ["Combinatorial Optimization"]
+        filters: ["Combinatorial Optimization", "Approximation Algorithms", "Branch and Cut", "Polyhedra"]
+    "Optimization":
+        filters: ["Optimization", "Neural Networks"]
+    "Infinite Dimensional Optimization":
+        filters: ["distributed Control"]
