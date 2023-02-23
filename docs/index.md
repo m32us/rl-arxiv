@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.22
+## Updated on 2023.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -198,7 +198,7 @@ layout: default
 |**2023-02-21**|**Deep Reinforcement Learning Based on Local GNN for Goal-conditioned Deformable Object Rearranging**|Yuhong Deng et.al.|[2302.10446v1](http://arxiv.org/abs/2302.10446v1)|null|
 |**2023-02-21**|**A Machine Learning Method for Stackelberg Mean Field Games**|Gokce Dayanikli et.al.|[2302.10440v1](http://arxiv.org/abs/2302.10440v1)|null|
 |**2023-02-21**|**Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection**|Chuyang Zhou et.al.|[2302.10437v1](http://arxiv.org/abs/2302.10437v1)|null|
-|**2023-02-21**|**On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis**|Daniel Ordonez-Apraez et.al.|[2302.10433v1](http://arxiv.org/abs/2302.10433v1)|null|
+|**2023-02-21**|**On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis**|Daniel Ordonez-Apraez et.al.|[2302.10433v1](http://arxiv.org/abs/2302.10433v1)|**[link](https://github.com/danfoa/robotequivariantnn)**|
 |**2023-02-21**|**Interval Type-2 Fuzzy Neural Networks for Multi-Label Classification**|Dayong Tian et.al.|[2302.10430v1](http://arxiv.org/abs/2302.10430v1)|null|
 |**2023-02-21**|**Deep Learning via Neural Energy Descent**|Wenrui Hao et.al.|[2302.10424v1](http://arxiv.org/abs/2302.10424v1)|null|
 |**2023-02-21**|**Non-pooling Network for medical image segmentation**|Weihu Song et.al.|[2302.10412v1](http://arxiv.org/abs/2302.10412v1)|null|
