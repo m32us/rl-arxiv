@@ -9,8 +9,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
+|**2023-02-24**|**Provably Efficient Neural Offline Reinforcement Learning via Perturbed Rewards**|Thanh Nguyen-Tang et.al.|[2302.12780v1](http://arxiv.org/abs/2302.12780v1)|**[link](https://github.com/thanhnguyentang/neural-offline-rl)**|
+|**2023-02-24**|**Defending Against Backdoor Attacks by Layer-wise Feature Analysis**|Najeeb Moharram Jebreel et.al.|[2302.12758v1](http://arxiv.org/abs/2302.12758v1)|**[link](https://github.com/najeebjebreel/dbalfa)**|
+|**2023-02-24**|**GANterfactual-RL: Understanding Reinforcement Learning Agents' Strategies through Visual Counterfactual Explanations**|Tobias Huber et.al.|[2302.12689v1](http://arxiv.org/abs/2302.12689v1)|**[link](https://github.com/hcmlab/ganterfactual-rl)**|
+|**2023-02-24**|**Leveraging Jumpy Models for Planning and Fast Learning in Robotic Domains**|Jingwei Zhang et.al.|[2302.12617v1](http://arxiv.org/abs/2302.12617v1)|null|
+|**2023-02-24**|**Neural Laplace Control for Continuous-time Delayed Systems**|Samuel Holt et.al.|[2302.12604v1](http://arxiv.org/abs/2302.12604v1)|**[link](https://github.com/samholt/neurallaplacecontrol)**|
+|**2023-02-24**|**EvoTorch: Scalable Evolutionary Computation in Python**|Nihat Engin Toklu et.al.|[2302.12600v1](http://arxiv.org/abs/2302.12600v1)|null|
+|**2023-02-24**|**Securing IoT Communication using Physical Sensor Data -- Graph Layer Security with Federated Multi-Agent Deep Reinforcement Learning**|Liang Wang et.al.|[2302.12592v1](http://arxiv.org/abs/2302.12592v1)|null|
+|**2023-02-24**|**Variational Linearized Laplace Approximation for Bayesian Deep Learning**|Luis A. Ortega et.al.|[2302.12565v1](http://arxiv.org/abs/2302.12565v1)|null|
+|**2023-02-24**|**Why Target Networks Stabilise Temporal Difference Methods**|Mattie Fellows et.al.|[2302.12537v1](http://arxiv.org/abs/2302.12537v1)|null|
+|**2023-02-24**|**Model-Based Uncertainty in Value Functions**|Carlos E. Luis et.al.|[2302.12526v1](http://arxiv.org/abs/2302.12526v1)|null|
+|**2023-02-24**|**AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning**|Xuefeng Wang et.al.|[2302.12515v1](http://arxiv.org/abs/2302.12515v1)|null|
+|**2023-02-24**|**DyBit: Dynamic Bit-Precision Numbers for Efficient Quantized Neural Network Inference**|Jiajun Zhou et.al.|[2302.12510v1](http://arxiv.org/abs/2302.12510v1)|null|
+|**2023-02-24**|**Joint Learning of Blind Super-Resolution and Crack Segmentation for Realistic Degraded Images**|Yuki Kondoa et.al.|[2302.12491v1](http://arxiv.org/abs/2302.12491v1)|null|
+|**2023-02-24**|**Logarithmic Switching Cost in Reinforcement Learning beyond Linear MDPs**|Dan Qiao et.al.|[2302.12456v1](http://arxiv.org/abs/2302.12456v1)|null|
+|**2023-02-24**|**Inducing Neural Collapse in Deep Long-tailed Learning**|Xuantong Liu et.al.|[2302.12453v1](http://arxiv.org/abs/2302.12453v1)|null|
+|**2023-02-24**|**Harnessing the Speed and Accuracy of Machine Learning to Advance Cybersecurity**|Khatoon Mohammed et.al.|[2302.12415v1](http://arxiv.org/abs/2302.12415v1)|null|
+|**2023-02-24**|**Prioritized Trace Selection: Towards High-Performance DRL-based Network Controllers**|Sagar Patel et.al.|[2302.12403v1](http://arxiv.org/abs/2302.12403v1)|null|
+|**2023-02-24**|**Generalization Analysis for Contrastive Representation Learning**|Yunwen Lei et.al.|[2302.12383v1](http://arxiv.org/abs/2302.12383v1)|null|
+|**2023-02-23**|**Less is More: Data Pruning for Faster Adversarial Training**|Yize Li et.al.|[2302.12366v1](http://arxiv.org/abs/2302.12366v1)|null|
+|**2023-02-23**|**Targeted Search Control in AlphaZero for Effective Policy Improvement**|Alexandre Trudeau et.al.|[2302.12359v1](http://arxiv.org/abs/2302.12359v1)|**[link](https://github.com/alextrudeau/go_exploit)**|
 |**2023-02-23**|**Phase diagram of training dynamics in deep neural networks: effect of learning rate, depth, and width**|Dayal Singh Kalra et.al.|[2302.12250v1](http://arxiv.org/abs/2302.12250v1)|null|
-|**2023-02-23**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v1](http://arxiv.org/abs/2302.12244v1)|null|
+|**2023-02-24**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v2](http://arxiv.org/abs/2302.12244v2)|null|
 |**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
 |**2023-02-23**|**Concept Learning for Interpretable Multi-Agent Reinforcement Learning**|Renos Zabounidis et.al.|[2302.12232v1](http://arxiv.org/abs/2302.12232v1)|null|
 |**2023-02-23**|**Extensions to Generalized Annotated Logic and an Equivalent Neural Architecture**|Paulo Shakarian et.al.|[2302.12195v1](http://arxiv.org/abs/2302.12195v1)|null|
@@ -136,6 +157,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**Globally Optimal Resource Allocation Design for IRS-Assisted Multiuser Networks with Discrete Phase Shifts**|Yifei Wu et.al.|[2302.12664v1](http://arxiv.org/abs/2302.12664v1)|null|
+|**2023-02-24**|**Stochastic Quantum Monte Carlo Algorithm for Large-Scale Combinatorial Optimization Problems**|Naoya Onizawa et.al.|[2302.12454v1](http://arxiv.org/abs/2302.12454v1)|null|
 |**2023-02-23**|**Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier**|Spencer Compton et.al.|[2302.11838v1](http://arxiv.org/abs/2302.11838v1)|null|
 |**2023-02-22**|**Towards Finding an Optimal Flight Gate Assignment on a Digital Quantum Computer**|Yahui Chai et.al.|[2302.11595v1](http://arxiv.org/abs/2302.11595v1)|null|
 |**2023-02-22**|**Fair Correlation Clustering in Forests**|Katrin Casel et.al.|[2302.11295v1](http://arxiv.org/abs/2302.11295v1)|null|
@@ -217,6 +240,55 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning**|Ryan Kortvelesy et.al.|[2302.12826v1](http://arxiv.org/abs/2302.12826v1)|null|
+|**2023-02-24**|**Nonlinear sigma models for monitored dynamics of free fermions**|Michele Fava et.al.|[2302.12820v1](http://arxiv.org/abs/2302.12820v1)|null|
+|**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
+|**2023-02-24**|**3D Generative Model Latent Disentanglement via Local Eigenprojection**|Simone Foti et.al.|[2302.12798v1](http://arxiv.org/abs/2302.12798v1)|null|
+|**2023-02-24**|**Provably Efficient Neural Offline Reinforcement Learning via Perturbed Rewards**|Thanh Nguyen-Tang et.al.|[2302.12780v1](http://arxiv.org/abs/2302.12780v1)|**[link](https://github.com/thanhnguyentang/neural-offline-rl)**|
+|**2023-02-24**|**Defending Against Backdoor Attacks by Layer-wise Feature Analysis**|Najeeb Moharram Jebreel et.al.|[2302.12758v1](http://arxiv.org/abs/2302.12758v1)|**[link](https://github.com/najeebjebreel/dbalfa)**|
+|**2023-02-24**|**Supervised Hierarchical Clustering using Graph Neural Networks for Speaker Diarization**|Prachi Singh et.al.|[2302.12716v1](http://arxiv.org/abs/2302.12716v1)|null|
+|**2023-02-24**|**Adaptive weighting of Bayesian physics informed neural networks for multitask and multiscale forward and inverse problems**|Sarah Perez et.al.|[2302.12697v1](http://arxiv.org/abs/2302.12697v1)|null|
+|**2023-02-24**|**Video4MRI: An Empirical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks**|Yuxuan Zhang et.al.|[2302.12688v1](http://arxiv.org/abs/2302.12688v1)|null|
+|**2023-02-24**|**A DeepONet Multi-Fidelity Approach for Residual Learning in Reduced Order Modeling**|Nicola Demo et.al.|[2302.12682v1](http://arxiv.org/abs/2302.12682v1)|null|
+|**2023-02-24**|**Deep active learning for nonlinear system identification**|Erlend Torje Berg Lundby et.al.|[2302.12667v1](http://arxiv.org/abs/2302.12667v1)|null|
+|**2023-02-24**|**Quantifying Noise Limitations of Neural Network Segmentations in High-Resolution Transmission Electron Microscopy**|Matthew Helmi Leth Larsen et.al.|[2302.12629v1](http://arxiv.org/abs/2302.12629v1)|null|
+|**2023-02-24**|**Retrospective Uncertainties for Deep Models using Vine Copulas**|Nataša Tagasovska et.al.|[2302.12606v1](http://arxiv.org/abs/2302.12606v1)|**[link](https://github.com/tagas/vcnn)**|
+|**2023-02-24**|**Near-field imaging of optical nano-cavities in Hyperuniform disordered materials**|N. Granchi et.al.|[2302.12590v1](http://arxiv.org/abs/2302.12590v1)|null|
+|**2023-02-24**|**Non-parametric analysis of the Hubble Diagram with Neural Networks**|Lorenzo Giambagli et.al.|[2302.12582v1](http://arxiv.org/abs/2302.12582v1)|null|
+|**2023-02-24**|**3D PETCT Tumor Lesion Segmentation via GCN Refinement**|Hengzhi Xue et.al.|[2302.12571v1](http://arxiv.org/abs/2302.12571v1)|null|
+|**2023-02-24**|**Variational Linearized Laplace Approximation for Bayesian Deep Learning**|Luis A. Ortega et.al.|[2302.12565v1](http://arxiv.org/abs/2302.12565v1)|null|
+|**2023-02-24**|**Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice Polytopes**|Christian Haase et.al.|[2302.12553v1](http://arxiv.org/abs/2302.12553v1)|null|
+|**2023-02-24**|**Hybrid machine-learned homogenization: Bayesian data mining and convolutional neural networks**|Julian Lißner et.al.|[2302.12545v1](http://arxiv.org/abs/2302.12545v1)|null|
+|**2023-02-24**|**UnbiasedNets: A Dataset Diversification Framework for Robustness Bias Alleviation in Neural Networks**|Mahum Naseer et.al.|[2302.12538v1](http://arxiv.org/abs/2302.12538v1)|**[link](https://github.com/mahum123/unbiasednets)**|
+|**2023-02-24**|**Pose-Controllable 3D Facial Animation Synthesis using Hierarchical Audio-Vertex Attention**|Bin Liu et.al.|[2302.12532v1](http://arxiv.org/abs/2302.12532v1)|null|
+|**2023-02-24**|**Effective implementation of $l_0$ -Regularised Compressed Sensing with Chaotic-Amplitude-Controlled Coherent Ising Machines**|Mastiyage Don Sudeera Hasaranga Gunathilaka et.al.|[2302.12523v1](http://arxiv.org/abs/2302.12523v1)|null|
+|**2023-02-24**|**DyBit: Dynamic Bit-Precision Numbers for Efficient Quantized Neural Network Inference**|Jiajun Zhou et.al.|[2302.12510v1](http://arxiv.org/abs/2302.12510v1)|null|
+|**2023-02-24**|**Spatial Bias for Attention-free Non-local Neural Networks**|Junhyung Go et.al.|[2302.12505v1](http://arxiv.org/abs/2302.12505v1)|null|
+|**2023-02-24**|**Joint Learning of Blind Super-Resolution and Crack Segmentation for Realistic Degraded Images**|Yuki Kondoa et.al.|[2302.12491v1](http://arxiv.org/abs/2302.12491v1)|null|
+|**2023-02-24**|**Disease Severity Regression with Continuous Data Augmentation**|Shumpei Takezaki et.al.|[2302.12482v1](http://arxiv.org/abs/2302.12482v1)|null|
+|**2023-02-24**|**Frequency and Scale Perspectives of Feature Extraction**|Liangqi Zhang et.al.|[2302.12477v1](http://arxiv.org/abs/2302.12477v1)|null|
+|**2023-02-24**|**PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction**|Shichang Zhang et.al.|[2302.12465v1](http://arxiv.org/abs/2302.12465v1)|null|
+|**2023-02-24**|**Inducing Neural Collapse in Deep Long-tailed Learning**|Xuantong Liu et.al.|[2302.12453v1](http://arxiv.org/abs/2302.12453v1)|null|
+|**2023-02-24**|**Effective Graph-Neural-Network based Models for Discovering Structural Hole Spanners in Large-Scale and Diverse Networks**|Diksha Goel et.al.|[2302.12442v1](http://arxiv.org/abs/2302.12442v1)|null|
+|**2023-02-24**|**Simultaneous upper and lower bounds of American option prices with hedging via neural networks**|Ivan Guo et.al.|[2302.12439v1](http://arxiv.org/abs/2302.12439v1)|null|
+|**2023-02-24**|**Graph Neural Networks with Learnable and Optimal Polynomial Bases**|Yuhe Guo et.al.|[2302.12432v1](http://arxiv.org/abs/2302.12432v1)|null|
+|**2023-02-24**|**Flexible Phase Dynamics for Bio-Plausible Contrastive Learning**|Ezekiel Williams et.al.|[2302.12431v1](http://arxiv.org/abs/2302.12431v1)|null|
+|**2023-02-24**|**A Targeted Accuracy Diagnostic for Variational Approximations**|Yu Wang et.al.|[2302.12419v1](http://arxiv.org/abs/2302.12419v1)|**[link](https://github.com/tarps-group/taddaa)**|
+|**2023-02-24**|**HyperAttack: Multi-Gradient-Guided White-box Adversarial Structure Attack of Hypergraph Neural Networks**|Chao Hu et.al.|[2302.12407v1](http://arxiv.org/abs/2302.12407v1)|null|
+|**2023-02-24**|**Cascaded ELM-based Joint Frame Synchronization and Channel Estimation over Rician Fading Channel with Hardware Imperfections**|Chaojin Qing et.al.|[2302.12397v1](http://arxiv.org/abs/2302.12397v1)|null|
+|**2023-02-24**|**TrafFormer: A Transformer Model for Prediction Long-term Traffic**|David Alexander Tedjopurnomo et.al.|[2302.12388v1](http://arxiv.org/abs/2302.12388v1)|null|
+|**2023-02-24**|**Generalization Analysis for Contrastive Representation Learning**|Yunwen Lei et.al.|[2302.12383v1](http://arxiv.org/abs/2302.12383v1)|null|
+|**2023-02-24**|**Cosmic Microwave Background Recovery: A Graph-Based Bayesian Convolutional Network Approach**|Jadie Adams et.al.|[2302.12378v1](http://arxiv.org/abs/2302.12378v1)|null|
+|**2023-02-23**|**Less is More: Data Pruning for Faster Adversarial Training**|Yize Li et.al.|[2302.12366v1](http://arxiv.org/abs/2302.12366v1)|null|
+|**2023-02-23**|**Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs**|Xin Zheng et.al.|[2302.12357v1](http://arxiv.org/abs/2302.12357v1)|null|
+|**2023-02-23**|**On the Hardness of Robustness Transfer: A Perspective from Rademacher Complexity over Symmetric Difference Hypothesis Space**|Yuyang Deng et.al.|[2302.12351v1](http://arxiv.org/abs/2302.12351v1)|null|
+|**2023-02-23**|**MetaLDC: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption**|Yejia Liu et.al.|[2302.12347v1](http://arxiv.org/abs/2302.12347v1)|null|
+|**2023-02-23**|**Anomalous delocalization of resonant states in graphene \& the vacancy magnetic moment**|Mirko Leccese et.al.|[2302.12339v1](http://arxiv.org/abs/2302.12339v1)|null|
+|**2023-02-23**|**Physics Informed Deep Learning: Applications in Transportation**|Archie J. Huang et.al.|[2302.12336v1](http://arxiv.org/abs/2302.12336v1)|null|
+|**2023-02-23**|**Fact or Artifact? Revise Layer-wise Relevance Propagation on various ANN Architectures**|Marco Landt-Hayen et.al.|[2302.12317v1](http://arxiv.org/abs/2302.12317v1)|null|
+|**2023-02-23**|**Magnetotransport on quantum spin Hall edge coupled to bulk midgap states**|Youjian Chen et.al.|[2302.12282v1](http://arxiv.org/abs/2302.12282v1)|null|
+|**2023-02-23**|**Machine Learning Microscopic Form of Nematic Order in twisted double-bilayer graphene**|João Augusto Sobral et.al.|[2302.12274v1](http://arxiv.org/abs/2302.12274v1)|null|
+|**2023-02-23**|**Dynamical localization and slow dynamics in quasiperiodically-driven quantum systems**|Vatsana Tiwari et.al.|[2302.12271v1](http://arxiv.org/abs/2302.12271v1)|null|
 |**2023-02-23**|**Phase diagram of training dynamics in deep neural networks: effect of learning rate, depth, and width**|Dayal Singh Kalra et.al.|[2302.12250v1](http://arxiv.org/abs/2302.12250v1)|null|
 |**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
 |**2023-02-23**|**Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows**|Owen Dugan et.al.|[2302.12235v1](http://arxiv.org/abs/2302.12235v1)|null|
