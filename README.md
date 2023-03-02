@@ -15,6 +15,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Nearest Neighbors Meet Deep Neural Networks for Point Cloud Analysis**|Renrui Zhang et.al.|[2303.00703v1](http://arxiv.org/abs/2303.00703v1)|null|
+|**2023-03-01**|**The Virtues of Laziness in Model-based RL: A Unified Objective and Algorithms**|Anirudh Vemula et.al.|[2303.00694v1](http://arxiv.org/abs/2303.00694v1)|**[link](https://github.com/vvanirudh/lamps-mbrl)**|
+|**2023-03-01**|**On the Importance of Feature Representation for Flood Mapping using Classical Machine Learning Approaches**|Kevin Iselborn et.al.|[2303.00691v1](http://arxiv.org/abs/2303.00691v1)|**[link](https://github.com/dfki-earth-and-space-applications/flood_mapping_feature_space_importance)**|
+|**2023-03-01**|**Finding the right XAI method -- A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science**|Philine Bommer et.al.|[2303.00652v1](http://arxiv.org/abs/2303.00652v1)|null|
+|**2023-03-01**|**SCRIMP: Scalable Communication for Reinforcement- and Imitation-Learning-Based Multi-Agent Pathfinding**|Yutong Wang et.al.|[2303.00605v1](http://arxiv.org/abs/2303.00605v1)|null|
+|**2023-03-01**|**LS-IQ: Implicit Reward Regularization for Inverse Reinforcement Learning**|Firas Al-Hafez et.al.|[2303.00599v1](http://arxiv.org/abs/2303.00599v1)|null|
+|**2023-03-01**|**FAIR-Ensemble: When Fairness Naturally Emerges From Deep Ensembling**|Wei-Yin Ko et.al.|[2303.00586v1](http://arxiv.org/abs/2303.00586v1)|null|
+|**2023-03-01**|**AdaSAM: Boosting Sharpness-Aware Minimization with Adaptive Learning Rate and Momentum for Training Deep Neural Networks**|Hao Sun et.al.|[2303.00565v1](http://arxiv.org/abs/2303.00565v1)|null|
+|**2023-03-01**|**Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation**|Jean-Marie Lemercier et.al.|[2303.00529v1](http://arxiv.org/abs/2303.00529v1)|null|
+|**2023-02-28**|**Exploiting Multiple Abstractions in Episodic RL via Reward Shaping**|Roberto Cipollone et.al.|[2303.00516v1](http://arxiv.org/abs/2303.00516v1)|**[link](https://github.com/cipollone/multinav2)**|
+|**2023-03-01**|**Multi-Arm Robot Task Planning for Fruit Harvesting Using Multi-Agent Reinforcement Learning**|Tao Li et.al.|[2303.00460v1](http://arxiv.org/abs/2303.00460v1)|null|
+|**2023-03-01**|**A Variational Approach to Mutual Information-Based Coordination for Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2303.00451v1](http://arxiv.org/abs/2303.00451v1)|null|
+|**2023-03-01**|**Federated Learning based Hierarchical 3D Indoor Localization**|Yaya Etiabi et.al.|[2303.00450v1](http://arxiv.org/abs/2303.00450v1)|null|
+|**2023-03-01**|**OliVaR: Improving Olive Variety Recognition using Deep Neural Networks**|Hristofor Miho et.al.|[2303.00431v1](http://arxiv.org/abs/2303.00431v1)|null|
+|**2023-03-01**|**A Deep Reinforcement Learning Trader without Offline Training**|Boian Lazov et.al.|[2303.00356v1](http://arxiv.org/abs/2303.00356v1)|null|
+|**2023-03-01**|**Inline Citation Classification using Peripheral Context and Time-evolving Augmentation**|Priyanshi Gupta et.al.|[2303.00344v1](http://arxiv.org/abs/2303.00344v1)|null|
+|**2023-03-01**|**A Practical Upper Bound for the Worst-Case Attribution Deviations**|Fan Wang et.al.|[2303.00340v1](http://arxiv.org/abs/2303.00340v1)|null|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
+|**2023-03-01**|**Finite-sample Guarantees for Nash Q-learning with Linear Function Approximation**|Pedro Cisneros-Velarde et.al.|[2303.00177v1](http://arxiv.org/abs/2303.00177v1)|null|
+|**2023-03-01**|**A Deep Neural Architecture for Harmonizing 3-D Input Data Analysis and Decision Making in Medical Imaging**|Dimitrios Kollias et.al.|[2303.00175v1](http://arxiv.org/abs/2303.00175v1)|null|
+|**2023-02-28**|**AR3n: A Reinforcement Learning-based Assist-As-Needed Controller for Robotic Rehabilitation**|Shrey Pareek et.al.|[2303.00085v1](http://arxiv.org/abs/2303.00085v1)|null|
+|**2023-02-28**|**Parameter Optimization of LLC-Converter with multiple operation points using Reinforcement Learning**|Georg Kruse et.al.|[2303.00004v1](http://arxiv.org/abs/2303.00004v1)|null|
 |**2023-02-28**|**Learning to Control Autonomous Fleets from Observation via Offline Reinforcement Learning**|Carolin Schmidt et.al.|[2302.14833v1](http://arxiv.org/abs/2302.14833v1)|**[link](https://github.com/carolinssc/offline-rl-for-amod)**|
 |**2023-02-28**|**The self-organization of selfishness: Reinforcement Learning shows how selfish behavior can emerge from agent-environment interaction dynamics**|Aamir Sahil Chandroth et.al.|[2302.14778v1](http://arxiv.org/abs/2302.14778v1)|null|
 |**2023-02-28**|**On Learning Intrinsic Rewards for Faster Multi-Agent Reinforcement Learning based MAC Protocol Design in 6G Wireless Networks**|Luciano Miuccio et.al.|[2302.14765v1](http://arxiv.org/abs/2302.14765v1)|null|
@@ -254,6 +276,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**ASP: Learn a Universal Neural Solver!**|Chenguang Wang et.al.|[2303.00466v1](http://arxiv.org/abs/2303.00466v1)|null|
+|**2023-03-01**|**Non-crossing Hamiltonian Paths and Cycles in Output-Polynomial Time**|David Eppstein et.al.|[2303.00147v1](http://arxiv.org/abs/2303.00147v1)|null|
 |**2023-02-28**|**Heuristic Modularity Maximization Algorithms for Community Detection Rarely Return an Optimal Partition or Anything Similar**|Samin Aref et.al.|[2302.14698v1](http://arxiv.org/abs/2302.14698v1)|null|
 |**2023-02-28**|**Fast as CHITA: Neural Network Pruning with Combinatorial Optimization**|Riade Benbaki et.al.|[2302.14623v1](http://arxiv.org/abs/2302.14623v1)|null|
 |**2023-02-28**|**Non-linear Topology Optimization of District Heating Networks: A benchmark of Mixed-Integer and Adjoint Approaches**|Yannick Wack et.al.|[2302.14555v1](http://arxiv.org/abs/2302.14555v1)|null|
@@ -346,6 +370,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Observing the two-dimensional Bose glass in an optical quasicrystal**|Jr-Chiun Yu et.al.|[2303.00737v1](http://arxiv.org/abs/2303.00737v1)|null|
+|**2023-03-01**|**On the universality of $S_n$-equivariant $k$ -body gates**|Sujay Kazi et.al.|[2303.00728v1](http://arxiv.org/abs/2303.00728v1)|null|
+|**2023-03-01**|**Cross-Modal Entity Matching for Visually Rich Documents**|Ritesh Sarkhel et.al.|[2303.00720v1](http://arxiv.org/abs/2303.00720v1)|null|
+|**2023-03-01**|**Predicting the wall-shear stress and wall pressure through convolutional neural networks**|Arivazhagan G. Balasubramanian et.al.|[2303.00706v1](http://arxiv.org/abs/2303.00706v1)|null|
+|**2023-03-01**|**Nearest Neighbors Meet Deep Neural Networks for Point Cloud Analysis**|Renrui Zhang et.al.|[2303.00703v1](http://arxiv.org/abs/2303.00703v1)|null|
+|**2023-03-01**|**Leveraging Redundancy in Multiple Audio Signals for Far-Field Speech Recognition**|Feng-Ju Chang et.al.|[2303.00692v1](http://arxiv.org/abs/2303.00692v1)|null|
+|**2023-03-01**|**On the Importance of Feature Representation for Flood Mapping using Classical Machine Learning Approaches**|Kevin Iselborn et.al.|[2303.00691v1](http://arxiv.org/abs/2303.00691v1)|**[link](https://github.com/dfki-earth-and-space-applications/flood_mapping_feature_space_importance)**|
+|**2023-03-01**|**Finding the right XAI method -- A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science**|Philine Bommer et.al.|[2303.00652v1](http://arxiv.org/abs/2303.00652v1)|null|
+|**2023-03-01**|**Classifying the age of a glass based on structural properties: A machine learning approach**|Giulia Janzen et.al.|[2303.00636v1](http://arxiv.org/abs/2303.00636v1)|null|
+|**2023-03-01**|**Diffusing Graph Attention**|Daniel Glickman et.al.|[2303.00613v1](http://arxiv.org/abs/2303.00613v1)|null|
+|**2023-03-01**|**Information Plane Analysis for Dropout Neural Networks**|Linara Adilova et.al.|[2303.00596v1](http://arxiv.org/abs/2303.00596v1)|null|
+|**2023-03-01**|**FAIR-Ensemble: When Fairness Naturally Emerges From Deep Ensembling**|Wei-Yin Ko et.al.|[2303.00586v1](http://arxiv.org/abs/2303.00586v1)|null|
+|**2023-03-01**|**Structured Pruning for Deep Convolutional Neural Networks: A survey**|Yang He et.al.|[2303.00566v1](http://arxiv.org/abs/2303.00566v1)|null|
+|**2023-03-01**|**AdaSAM: Boosting Sharpness-Aware Minimization with Adaptive Learning Rate and Momentum for Training Deep Neural Networks**|Hao Sun et.al.|[2303.00565v1](http://arxiv.org/abs/2303.00565v1)|null|
+|**2023-03-01**|**Learning curves for deep structured Gaussian feature models**|Jacob A. Zavatone-Veth et.al.|[2303.00564v1](http://arxiv.org/abs/2303.00564v1)|null|
+|**2023-03-01**|**Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation**|Jean-Marie Lemercier et.al.|[2303.00529v1](http://arxiv.org/abs/2303.00529v1)|null|
+|**2023-03-01**|**Inherently Interpretable Multi-Label Classification Using Class-Specific Counterfactuals**|Susu Sun et.al.|[2303.00500v1](http://arxiv.org/abs/2303.00500v1)|null|
+|**2023-03-01**|**Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**|Qiying Pan et.al.|[2303.00492v1](http://arxiv.org/abs/2303.00492v1)|null|
+|**2023-03-01**|**The miniJPAS survey quasar selection II: Machine learning classification with photometric measurements and uncertainties**|Natália V. N. Rodrigues et.al.|[2303.00489v1](http://arxiv.org/abs/2303.00489v1)|null|
+|**2023-03-01**|**Online Parameter Estimation using Physics-Informed Deep Learning for Vehicle Stability Algorithms**|Kemal Koysuren et.al.|[2303.00474v1](http://arxiv.org/abs/2303.00474v1)|null|
+|**2023-03-01**|**Federated Learning based Hierarchical 3D Indoor Localization**|Yaya Etiabi et.al.|[2303.00450v1](http://arxiv.org/abs/2303.00450v1)|null|
+|**2023-03-01**|**Detection of Berezinskii--Kosterlitz--Thouless transitions for the two-dimensional $q$ -state clock models with neural networks**|Yaun-Heng Tseng et.al.|[2303.00439v1](http://arxiv.org/abs/2303.00439v1)|null|
+|**2023-03-01**|**Assessing the Finite-Time Stability of Nonlinear Systems by means of Physics-Informed Neural Networks**|Adriano Mele et.al.|[2303.00437v1](http://arxiv.org/abs/2303.00437v1)|null|
+|**2023-03-01**|**OliVaR: Improving Olive Variety Recognition using Deep Neural Networks**|Hristofor Miho et.al.|[2303.00431v1](http://arxiv.org/abs/2303.00431v1)|null|
+|**2023-03-01**|**Structure Determination in a new Type of Amorphous Molecular Solids with Different Nonlinear Optical Properties: A Comparative Structural Analysis**|Jonathan Link Vasco et.al.|[2303.00401v1](http://arxiv.org/abs/2303.00401v1)|null|
+|**2023-03-01**|**Application of Deep Learning Methods for Distinguishing Gamma-Ray Bursts from Fermi/GBM TTE Data**|Peng Zhang et.al.|[2303.00370v1](http://arxiv.org/abs/2303.00370v1)|null|
+|**2023-03-01**|**Harnessing the Hubble Space Telescope Archives: A Catalogue of 21,926 Interacting Galaxies**|David O'Ryan et.al.|[2303.00366v1](http://arxiv.org/abs/2303.00366v1)|null|
+|**2023-03-01**|**An end-to-end SE(3)-equivariant segmentation network**|Ivan Diaz et.al.|[2303.00351v1](http://arxiv.org/abs/2303.00351v1)|**[link](https://github.com/scan-nrad/e3nn_unet)**|
+|**2023-03-01**|**Inline Citation Classification using Peripheral Context and Time-evolving Augmentation**|Priyanshi Gupta et.al.|[2303.00344v1](http://arxiv.org/abs/2303.00344v1)|null|
+|**2023-03-01**|**A Practical Upper Bound for the Worst-Case Attribution Deviations**|Fan Wang et.al.|[2303.00340v1](http://arxiv.org/abs/2303.00340v1)|null|
+|**2023-03-01**|**CAM++: A Fast and Efficient Network For Speaker Verification Using Context-Aware Masking**|Hui Wang et.al.|[2303.00332v1](http://arxiv.org/abs/2303.00332v1)|null|
+|**2023-03-01**|**Mean-Field Approximate Optimization Algorithm**|Aditi Misra-Spieldenner et.al.|[2303.00329v1](http://arxiv.org/abs/2303.00329v1)|null|
+|**2023-03-01**|**Empowering Networks With Scale and Rotation Equivariance Using A Similarity Convolution**|Zikai Sun et.al.|[2303.00326v1](http://arxiv.org/abs/2303.00326v1)|null|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
+|**2023-03-01**|**Speeding Up EfficientNet: Selecting Update Blocks of Convolutional Neural Networks using Genetic Algorithm in Transfer Learning**|Md. Mehedi Hasana et.al.|[2303.00261v1](http://arxiv.org/abs/2303.00261v1)|null|
+|**2023-03-01**|**SUNY: A Visual Interpretation Framework for Convolutional Neural Networks from a Necessary and Sufficient Perspective**|Xiwei Xuan et.al.|[2303.00244v1](http://arxiv.org/abs/2303.00244v1)|null|
+|**2023-03-01**|**Single-Cell Multimodal Prediction via Transformers**|Wenzhuo Tang et.al.|[2303.00233v1](http://arxiv.org/abs/2303.00233v1)|null|
+|**2023-03-01**|**Transformed Low-Rank Parameterization Can Help Robust Generalization for Tensor Neural Networks**|Andong Wang et.al.|[2303.00196v1](http://arxiv.org/abs/2303.00196v1)|null|
+|**2023-03-01**|**Zyxin is all you need: machine learning adherent cell mechanics**|Matthew S. Schmitt et.al.|[2303.00176v1](http://arxiv.org/abs/2303.00176v1)|null|
+|**2023-03-01**|**A Deep Neural Architecture for Harmonizing 3-D Input Data Analysis and Decision Making in Medical Imaging**|Dimitrios Kollias et.al.|[2303.00175v1](http://arxiv.org/abs/2303.00175v1)|null|
+|**2023-03-01**|**Asymmetric Learning for Graph Neural Network based Link Prediction**|Kai-Lang Yao et.al.|[2303.00170v1](http://arxiv.org/abs/2303.00170v1)|null|
+|**2023-03-01**|**HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture**|Yi-Chien Lin et.al.|[2303.00158v1](http://arxiv.org/abs/2303.00158v1)|null|
+|**2023-03-01**|**Neural inverse procedural modeling of knitting yarns from images**|Elena Trunz et.al.|[2303.00154v1](http://arxiv.org/abs/2303.00154v1)|null|
+|**2023-02-28**|**Cell Division and Motility Enable Hexatic Order in Biological Tissues**|Yiwen Tang et.al.|[2303.00129v1](http://arxiv.org/abs/2303.00129v1)|null|
+|**2023-02-28**|**Neural Auctions Compromise Bidder Information**|Alex Stein et.al.|[2303.00116v1](http://arxiv.org/abs/2303.00116v1)|null|
+|**2023-02-28**|**Percolation and conductivity in evolving disordered media**|Carl Fredrik Berg et.al.|[2303.00107v1](http://arxiv.org/abs/2303.00107v1)|null|
+|**2023-02-28**|**Scalability and Sample Efficiency Analysis of Graph Neural Networks for Power System State Estimation**|Ognjen Kundacina et.al.|[2303.00105v1](http://arxiv.org/abs/2303.00105v1)|null|
+|**2023-02-28**|**A multivariate Riesz basis of ReLU neural networks**|Cornelia Schneider et.al.|[2303.00076v1](http://arxiv.org/abs/2303.00076v1)|null|
+|**2023-02-28**|**Hyperdimensional Computing with Spiking-Phasor Neurons**|Jeff Orchard et.al.|[2303.00066v1](http://arxiv.org/abs/2303.00066v1)|null|
+|**2023-02-28**|**Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling**|Tyler Will et.al.|[2303.00058v1](http://arxiv.org/abs/2303.00058v1)|null|
 |**2023-02-28**|**Variational deep learning of equilibrium transition path ensembles**|Aditya N. Singh et.al.|[2302.14857v1](http://arxiv.org/abs/2302.14857v1)|null|
 |**2023-02-28**|**EvoPrompting: Language Models for Code-Level Neural Architecture Search**|Angelica Chen et.al.|[2302.14838v1](http://arxiv.org/abs/2302.14838v1)|null|
 |**2023-02-28**|**Incremental Learning of Acoustic Scenes and Sound Events**|Manjunath Mulimani et.al.|[2302.14815v1](http://arxiv.org/abs/2302.14815v1)|null|
@@ -646,6 +720,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Distributed Data-driven Predictive Control via Dissipative Behavior Synthesis**|Yitao Yan et.al.|[2303.00251v1](http://arxiv.org/abs/2303.00251v1)|null|
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-27**|**Distributed Fixed-Time Consensus Control for Multiple AUV Systems with Input Saturations**|Mien Van et.al.|[2302.14162v1](http://arxiv.org/abs/2302.14162v1)|null|
 |**2023-02-01**|**Leader-Following Consensus of High-Order Perturbed Multi-agent Systems under Multiple Time-Varying Delays**|Milad Gholami et.al.|[2302.14033v1](http://arxiv.org/abs/2302.14033v1)|null|
