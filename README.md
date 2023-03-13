@@ -15,6 +15,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-10**|**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**|Yunzhong Hou et.al.|[2303.06145v1](http://arxiv.org/abs/2303.06145v1)|**[link](https://github.com/hou-yz/mvselect)**|
+|**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
+|**2023-03-10**|**Reinforcement Learning Versus Model Predictive Control on Greenhouse Climate Control**|Bernardo Morcego et.al.|[2303.06110v1](http://arxiv.org/abs/2303.06110v1)|null|
+|**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|null|
+|**2023-03-10**|**Tactile-Filter: Interactive Tactile Perception for Part Mating**|Kei Ota et.al.|[2303.06034v1](http://arxiv.org/abs/2303.06034v1)|null|
+|**2023-03-10**|**Automated crack propagation measurement on asphalt concrete specimens using an optical flow-based deep neural network**|Zehui Zhu et.al.|[2303.05957v1](http://arxiv.org/abs/2303.05957v1)|**[link](https://github.com/zehuiz2/crackpropnet)**|
+|**2023-03-09**|**Variational formulations of ODE-Net as a mean-field optimal control problem and existence results**|Noboru Isobe et.al.|[2303.05924v1](http://arxiv.org/abs/2303.05924v1)|null|
+|**2023-03-10**|**Lifelong Machine Learning Potentials**|Marco Eckhoff et.al.|[2303.05911v1](http://arxiv.org/abs/2303.05911v1)|null|
+|**2023-03-10**|**Decision-Making Under Uncertainty: Beyond Probabilities**|Thom Badings et.al.|[2303.05848v1](http://arxiv.org/abs/2303.05848v1)|null|
+|**2023-03-10**|**MIXPGD: Hybrid Adversarial Training for Speech Recognition Systems**|Aminul Huq et.al.|[2303.05758v1](http://arxiv.org/abs/2303.05758v1)|null|
+|**2023-03-10**|**Provably Efficient Model-Free Algorithms for Non-stationary CMDPs**|Honghao Wei et.al.|[2303.05733v1](http://arxiv.org/abs/2303.05733v1)|null|
+|**2023-03-10**|**A Unified and Efficient Coordinating Framework for Autonomous DBMS Tuning**|Xinyi Zhang et.al.|[2303.05710v1](http://arxiv.org/abs/2303.05710v1)|null|
+|**2023-03-10**|**Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity**|Tong Liang et.al.|[2303.05689v1](http://arxiv.org/abs/2303.05689v1)|null|
+|**2023-03-10**|**High-Speed and Energy-Efficient Non-Volatile Silicon Photonic Memory Based on Heterogeneously Integrated Memresonator**|Bassem Tossoun et.al.|[2303.05644v1](http://arxiv.org/abs/2303.05644v1)|null|
+|**2023-03-09**|**Variance-aware robust reinforcement learning with linear function approximation with heavy-tailed rewards**|Xiang Li et.al.|[2303.05606v1](http://arxiv.org/abs/2303.05606v1)|null|
+|**2023-03-09**|**SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces**|Zayne Sprague et.al.|[2303.05584v1](http://arxiv.org/abs/2303.05584v1)|null|
+|**2023-03-09**|**Computably Continuous Reinforcement-Learning Objectives are PAC-learnable**|Cambridge Yang et.al.|[2303.05518v1](http://arxiv.org/abs/2303.05518v1)|null|
 |**2023-03-09**|**Cherry-Picking with Reinforcement Learning**|Yunchu Zhang et.al.|[2303.05508v1](http://arxiv.org/abs/2303.05508v1)|null|
 |**2023-03-09**|**TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization**|Alan Jeffares et.al.|[2303.05506v1](http://arxiv.org/abs/2303.05506v1)|**[link](https://github.com/vanderschaarlab/tangos)**|
 |**2023-03-09**|**Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning**|Mitsuhiko Nakamoto et.al.|[2303.05479v1](http://arxiv.org/abs/2303.05479v1)|null|
@@ -469,6 +486,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-10**|**Material Identification From Radiographs Without Energy Resolution**|Michael T. McCann et.al.|[2303.06005v1](http://arxiv.org/abs/2303.06005v1)|null|
+|**2023-03-10**|**The Critical Node Game**|Gabriele Dragotto et.al.|[2303.05961v1](http://arxiv.org/abs/2303.05961v1)|null|
+|**2023-03-10**|**Informative co-data learning for high-dimensional Horseshoe regression**|Claudio Busatto et.al.|[2303.05898v1](http://arxiv.org/abs/2303.05898v1)|null|
 |**2023-03-09**|**Quantum Enhanced Greedy Solver for Optimization Problems**|Maxime Dupont et.al.|[2303.05509v1](http://arxiv.org/abs/2303.05509v1)|null|
 |**2023-03-08**|**Fairness-driven Skilled Task Assignment with Extra Budget in Spatial Crowdsourcing**|Yunjun Zhou et.al.|[2303.04627v1](http://arxiv.org/abs/2303.04627v1)|null|
 |**2023-03-08**|**Remarks on Differential Inclusion limits of Stochastic Approximation**|Vivek Borkar et.al.|[2303.04558v1](http://arxiv.org/abs/2303.04558v1)|null|
@@ -578,6 +598,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-10**|**An End-to-End Neural Network for Image-to-Audio Transformation**|Liu Chen et.al.|[2303.06078v1](http://arxiv.org/abs/2303.06078v1)|null|
+|**2023-03-09**|**Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse**|Liwei Huang et.al.|[2303.06060v1](http://arxiv.org/abs/2303.06060v1)|**[link](https://github.com/grasshlw/snn-neural-similarity)**|
+|**2023-03-10**|**Tactile-Filter: Interactive Tactile Perception for Part Mating**|Kei Ota et.al.|[2303.06034v1](http://arxiv.org/abs/2303.06034v1)|null|
+|**2023-03-10**|**A hybrid deep-learning-metaheuristic framework to approximate discrete road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
+|**2023-03-10**|**Combining visibility analysis and deep learning for refinement of semantic 3D building models by conflict classification**|Olaf Wysocki et.al.|[2303.05998v1](http://arxiv.org/abs/2303.05998v1)|null|
+|**2023-03-10**|**An autoencoder neural network integrated into gravitational-wave burst searches to improve the rejection of noise transients**|Sophie Bini et.al.|[2303.05986v1](http://arxiv.org/abs/2303.05986v1)|null|
+|**2023-03-10**|**Neural Gromov-Wasserstein Optimal Transport**|Maksim Nekrashevich et.al.|[2303.05978v1](http://arxiv.org/abs/2303.05978v1)|null|
+|**2023-03-10**|**Classifying the evolution of COVID-19 severity on patients with combined dynamic Bayesian networks and neural networks**|David Quesada et.al.|[2303.05972v1](http://arxiv.org/abs/2303.05972v1)|null|
+|**2023-03-10**|**Robust Knowledge Distillation from RNN-T Models With Noisy Training Labels Using Full-Sum Loss**|Mohammad Zeineldeen et.al.|[2303.05958v1](http://arxiv.org/abs/2303.05958v1)|null|
+|**2023-03-10**|**Automated crack propagation measurement on asphalt concrete specimens using an optical flow-based deep neural network**|Zehui Zhu et.al.|[2303.05957v1](http://arxiv.org/abs/2303.05957v1)|**[link](https://github.com/zehuiz2/crackpropnet)**|
+|**2023-03-10**|**Lifelong Machine Learning Potentials**|Marco Eckhoff et.al.|[2303.05911v1](http://arxiv.org/abs/2303.05911v1)|null|
+|**2023-03-10**|**Accurate Real-time Polyp Detection in Videos from Concatenation of Latent Features Extracted from Consecutive Frames**|Hemin Ali Qadir et.al.|[2303.05871v1](http://arxiv.org/abs/2303.05871v1)|null|
+|**2023-03-10**|**Variational Quantum Neural Networks (VQNNS) in Image Classification**|Meghashrita Das et.al.|[2303.05860v1](http://arxiv.org/abs/2303.05860v1)|null|
+|**2023-03-10**|**Anomalous Hall effect in type-I Weyl metals beyond the noncrossing approximation**|Jia-Xing Zhang et.al.|[2303.05829v1](http://arxiv.org/abs/2303.05829v1)|null|
+|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
+|**2023-03-10**|**Scaling Up 3D Kernels with Bayesian Frequency Re-parameterization for Medical Image Segmentation**|Ho Hin Lee et.al.|[2303.05785v1](http://arxiv.org/abs/2303.05785v1)|null|
+|**2023-03-10**|**MIXPGD: Hybrid Adversarial Training for Speech Recognition Systems**|Aminul Huq et.al.|[2303.05758v1](http://arxiv.org/abs/2303.05758v1)|null|
+|**2023-03-10**|**Deep Learning for Predicting Metastasis on Melanoma WSIs**|Christopher Andreassen et.al.|[2303.05752v1](http://arxiv.org/abs/2303.05752v1)|null|
+|**2023-03-10**|**IC classifier: a classifier for 3D industrial components based on geometric prior using GNN**|Zipeng Lin et.al.|[2303.05730v1](http://arxiv.org/abs/2303.05730v1)|null|
+|**2023-03-10**|**On the effectiveness of neural priors in modeling dynamical systems**|Sameera Ramasinghe et.al.|[2303.05728v1](http://arxiv.org/abs/2303.05728v1)|null|
+|**2023-03-10**|**Fairness-enhancing deep learning for ride-hailing demand prediction**|Yunhan Zheng et.al.|[2303.05698v1](http://arxiv.org/abs/2303.05698v1)|null|
+|**2023-03-10**|**Mode-locking Theory for Long-Range Interaction in Artificial Neural Networks**|Xiuxiu Bai et.al.|[2303.05695v1](http://arxiv.org/abs/2303.05695v1)|null|
+|**2023-03-10**|**Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity**|Tong Liang et.al.|[2303.05689v1](http://arxiv.org/abs/2303.05689v1)|null|
+|**2023-03-10**|**High-Speed and Energy-Efficient Non-Volatile Silicon Photonic Memory Based on Heterogeneously Integrated Memresonator**|Bassem Tossoun et.al.|[2303.05644v1](http://arxiv.org/abs/2303.05644v1)|null|
+|**2023-03-10**|**Efficient Real Time Recurrent Learning through combined activity and parameter sparsity**|Anand Subramoney et.al.|[2303.05641v1](http://arxiv.org/abs/2303.05641v1)|null|
+|**2023-03-10**|**Fusarium head blight detection, spikelet estimation, and severity assessment in wheat using 3D convolutional neural networks**|Oumaima Hamila et.al.|[2303.05634v1](http://arxiv.org/abs/2303.05634v1)|null|
+|**2023-03-10**|**Monitoring Efficiency of IoT Wireless Charging**|Pengwei Yang et.al.|[2303.05629v1](http://arxiv.org/abs/2303.05629v1)|null|
+|**2023-03-09**|**DES Y3 cosmic shear down to small scales: constraints on cosmology and baryons**|Giovanni Aricò et.al.|[2303.05537v1](http://arxiv.org/abs/2303.05537v1)|null|
+|**2023-03-09**|**On the Soundness of XAI in Prognostics and Health Management (PHM)**|David Solís-Martín et.al.|[2303.05517v1](http://arxiv.org/abs/2303.05517v1)|null|
 |**2023-03-09**|**TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization**|Alan Jeffares et.al.|[2303.05506v1](http://arxiv.org/abs/2303.05506v1)|**[link](https://github.com/vanderschaarlab/tangos)**|
 |**2023-03-09**|**PDSketch: Integrated Planning Domain Programming and Learning**|Jiayuan Mao et.al.|[2303.05501v1](http://arxiv.org/abs/2303.05501v1)|null|
 |**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
