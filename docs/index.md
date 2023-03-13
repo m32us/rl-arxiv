@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.12
+## Updated on 2023.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -17,7 +17,7 @@ layout: default
 |**2023-03-09**|**Power and Interference Control for VLC-Based UDN: A Reinforcement Learning Approach**|Xiao Tang et.al.|[2303.05448v1](http://arxiv.org/abs/2303.05448v1)|null|
 |**2023-03-08**|**Automatic Detection of Industry Sectors in Legal Articles Using Machine Learning Approaches**|Hui Yang et.al.|[2303.05387v1](http://arxiv.org/abs/2303.05387v1)|null|
 |**2023-03-09**|**Intent-based Deep Reinforcement Learning for Multi-agent Informative Path Planning**|Tianze Yang et.al.|[2303.05351v1](http://arxiv.org/abs/2303.05351v1)|null|
-|**2023-03-09**|**Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective**|Xintong Yang et.al.|[2303.05344v1](http://arxiv.org/abs/2303.05344v1)|null|
+|**2023-03-10**|**Recent Advances of Deep Robotic Affordance Learning: A Reinforcement Learning Perspective**|Xintong Yang et.al.|[2303.05344v2](http://arxiv.org/abs/2303.05344v2)|null|
 |**2023-03-09**|**Penalized Deep Partially Linear Cox Models with Application to CT Scans of Lung Cancer Patients**|Yuming Sun et.al.|[2303.05341v1](http://arxiv.org/abs/2303.05341v1)|null|
 |**2023-03-09**|**Dual-Attention Deep Reinforcement Learning for Multi-MAP 3D Trajectory Optimization in Dynamic 5G Networks**|Esteban Catté et.al.|[2303.05233v1](http://arxiv.org/abs/2303.05233v1)|null|
 |**2023-03-09**|**Active Learning Based Domain Adaptation for Tissue Segmentation of Histopathological Images**|Saul Fuster et.al.|[2303.05225v1](http://arxiv.org/abs/2303.05225v1)|null|
