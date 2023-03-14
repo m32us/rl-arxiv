@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.13
+## Updated on 2023.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -12,7 +12,7 @@ layout: default
 |**2023-03-10**|**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**|Yunzhong Hou et.al.|[2303.06145v1](http://arxiv.org/abs/2303.06145v1)|**[link](https://github.com/hou-yz/mvselect)**|
 |**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
 |**2023-03-10**|**Reinforcement Learning Versus Model Predictive Control on Greenhouse Climate Control**|Bernardo Morcego et.al.|[2303.06110v1](http://arxiv.org/abs/2303.06110v1)|null|
-|**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|null|
+|**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|**[link](https://github.com/gorkamunoz/rl_opts)**|
 |**2023-03-10**|**Tactile-Filter: Interactive Tactile Perception for Part Mating**|Kei Ota et.al.|[2303.06034v1](http://arxiv.org/abs/2303.06034v1)|null|
 |**2023-03-10**|**Automated crack propagation measurement on asphalt concrete specimens using an optical flow-based deep neural network**|Zehui Zhu et.al.|[2303.05957v1](http://arxiv.org/abs/2303.05957v1)|**[link](https://github.com/zehuiz2/crackpropnet)**|
 |**2023-03-09**|**Variational formulations of ODE-Net as a mean-field optimal control problem and existence results**|Noboru Isobe et.al.|[2303.05924v1](http://arxiv.org/abs/2303.05924v1)|null|
@@ -38,7 +38,7 @@ layout: default
 |**2023-03-09**|**Penalized Deep Partially Linear Cox Models with Application to CT Scans of Lung Cancer Patients**|Yuming Sun et.al.|[2303.05341v1](http://arxiv.org/abs/2303.05341v1)|null|
 |**2023-03-09**|**Dual-Attention Deep Reinforcement Learning for Multi-MAP 3D Trajectory Optimization in Dynamic 5G Networks**|Esteban Catté et.al.|[2303.05233v1](http://arxiv.org/abs/2303.05233v1)|null|
 |**2023-03-09**|**Active Learning Based Domain Adaptation for Tissue Segmentation of Histopathological Images**|Saul Fuster et.al.|[2303.05225v1](http://arxiv.org/abs/2303.05225v1)|null|
-|**2023-03-09**|**Real-time scheduling of renewable power systems through planning-based reinforcement learning**|Shaohuai Liu et.al.|[2303.05205v1](http://arxiv.org/abs/2303.05205v1)|null|
+|**2023-03-13**|**Real-time scheduling of renewable power systems through planning-based reinforcement learning**|Shaohuai Liu et.al.|[2303.05205v2](http://arxiv.org/abs/2303.05205v2)|null|
 |**2023-03-09**|**GOATS: Goal Sampling Adaptation for Scooping with Curriculum Reinforcement Learning**|Yaru Niu et.al.|[2303.05193v1](http://arxiv.org/abs/2303.05193v1)|null|
 |**2023-03-09**|**A Framework for History-Aware Hyperparameter Optimisation in Reinforcement Learning**|Juan Marcelo Parra-Ullauri et.al.|[2303.05186v1](http://arxiv.org/abs/2303.05186v1)|null|
 |**2023-03-09**|**Provable Data Subset Selection For Efficient Neural Network Training**|Murad Tukan et.al.|[2303.05151v1](http://arxiv.org/abs/2303.05151v1)|**[link](https://github.com/muradtuk/provable-data-subset-selection-for-efficient-neural-network-training)**|
@@ -479,8 +479,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-10**|**Material Identification From Radiographs Without Energy Resolution**|Michael T. McCann et.al.|[2303.06005v1](http://arxiv.org/abs/2303.06005v1)|null|
-|**2023-03-10**|**The Critical Node Game**|Gabriele Dragotto et.al.|[2303.05961v1](http://arxiv.org/abs/2303.05961v1)|null|
-|**2023-03-10**|**Informative co-data learning for high-dimensional Horseshoe regression**|Claudio Busatto et.al.|[2303.05898v1](http://arxiv.org/abs/2303.05898v1)|null|
+|**2023-03-10**|**The Critical Node Game**|Gabriele Dragotto et.al.|[2303.05961v1](http://arxiv.org/abs/2303.05961v1)|**[link](https://github.com/ds4dm/cng-instances)**|
+|**2023-03-10**|**Informative co-data learning for high-dimensional Horseshoe regression**|Claudio Busatto et.al.|[2303.05898v1](http://arxiv.org/abs/2303.05898v1)|**[link](https://github.com/cbusatto/infhs)**|
 |**2023-03-09**|**Quantum Enhanced Greedy Solver for Optimization Problems**|Maxime Dupont et.al.|[2303.05509v1](http://arxiv.org/abs/2303.05509v1)|null|
 |**2023-03-08**|**Fairness-driven Skilled Task Assignment with Extra Budget in Spatial Crowdsourcing**|Yunjun Zhou et.al.|[2303.04627v1](http://arxiv.org/abs/2303.04627v1)|null|
 |**2023-03-08**|**Remarks on Differential Inclusion limits of Stochastic Approximation**|Vivek Borkar et.al.|[2303.04558v1](http://arxiv.org/abs/2303.04558v1)|null|
