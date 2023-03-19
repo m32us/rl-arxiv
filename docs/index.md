@@ -17,7 +17,7 @@ layout: default
 |**2023-03-16**|**ELFIS: Expert Learning for Fine-grained Image Recognition Using Subsets**|Pablo Villacorta et.al.|[2303.09269v1](http://arxiv.org/abs/2303.09269v1)|null|
 |**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268v1](http://arxiv.org/abs/2303.09268v1)|null|
 |**2023-03-16**|**Recommending the optimal policy by learning to act from temporal data**|Stefano Branchi et.al.|[2303.09209v1](http://arxiv.org/abs/2303.09209v1)|null|
-|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|null|
+|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-16**|**LCS-TF: Multi-Agent Deep Reinforcement Learning-Based Intelligent Lane-Change System for Improving Traffic Flow**|Lokesh Chandra Das et.al.|[2303.09070v1](http://arxiv.org/abs/2303.09070v1)|null|
 |**2023-03-16**|**SVDE: Scalable Value-Decomposition Exploration for Cooperative Multi-Agent Reinforcement Learning**|Shuhan Qi et.al.|[2303.09058v1](http://arxiv.org/abs/2303.09058v1)|null|
 |**2023-03-16**|**FindView: Precise Target View Localization Task for Look Around Agents**|Haruya Ishikawa et.al.|[2303.09054v1](http://arxiv.org/abs/2303.09054v1)|**[link](https://github.com/haruishi43/look_around)**|
