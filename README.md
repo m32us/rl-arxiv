@@ -1,4 +1,4 @@
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2023-03-16**|**FindView: Precise Target View Localization Task for Look Around Agents**|Haruya Ishikawa et.al.|[2303.09054v1](http://arxiv.org/abs/2303.09054v1)|**[link](https://github.com/haruishi43/look_around)**|
 |**2023-03-16**|**Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning**|Xutong Zhao et.al.|[2303.09032v1](http://arxiv.org/abs/2303.09032v1)|null|
 |**2023-03-16**|**Learning Rewards to Optimize Global Performance Metrics in Deep Reinforcement Learning**|Junqi Qian et.al.|[2303.09027v1](http://arxiv.org/abs/2303.09027v1)|null|
-|**2023-03-16**|**Commonsense Knowledge Assisted Deep Learning for Resource-constrained and Fine-grained Object Detection**|Pu Zhang et.al.|[2303.09026v1](http://arxiv.org/abs/2303.09026v1)|null|
+|**2023-03-17**|**Commonsense Knowledge Assisted Deep Learning for Resource-constrained and Fine-grained Object Detection**|Pu Zhang et.al.|[2303.09026v2](http://arxiv.org/abs/2303.09026v2)|null|
 |**2023-03-16**|**Self-Inspection Method of Unmanned Aerial Vehicles in Power Plants Using Deep Q-Network Reinforcement Learning**|Haoran Guan et.al.|[2303.09013v1](http://arxiv.org/abs/2303.09013v1)|null|
 |**2023-03-15**|**Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting**|Yitzchak Shmalo et.al.|[2303.08986v1](http://arxiv.org/abs/2303.08986v1)|**[link](https://github.com/jtj5311/nn-rmt-svd)**|
 |**2023-03-15**|**Optimal Energy Management of Plug-in Hybrid Vehicles Through Exploration-to-Exploitation Ratio Control in Ensemble Reinforcement Learning**|Bin Shuai et.al.|[2303.08981v1](http://arxiv.org/abs/2303.08981v1)|null|
@@ -39,7 +39,7 @@
 |**2023-03-15**|**Efficient Planning of Multi-Robot Collective Transport using Graph Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
 |**2023-03-15**|**Data-Driven Deep Learning Based Feedback Linearization of Systems with Unknown Dynamics**|Raktim Gautam Goswami et.al.|[2303.08926v1](http://arxiv.org/abs/2303.08926v1)|null|
 |**2023-03-15**|**Latent-Conditioned Policy Gradient for Multi-Objective Deep Reinforcement Learning**|Takuya Kanazawa et.al.|[2303.08909v1](http://arxiv.org/abs/2303.08909v1)|**[link](https://github.com/tatksm/lcmopg)**|
-|**2023-03-15**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888v1](http://arxiv.org/abs/2303.08888v1)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
+|**2023-03-17**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888v2](http://arxiv.org/abs/2303.08888v2)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
 |**2023-03-15**|**Probing Cosmological Particle Production and Pairwise Hotspots with Deep Neural Networks**|Taegyun Kim et.al.|[2303.08869v1](http://arxiv.org/abs/2303.08869v1)|null|
 |**2023-03-15**|**EvalAttAI: A Holistic Approach to Evaluating Attribution Maps in Robust and Non-Robust Models**|Ian E. Nielsen et.al.|[2303.08866v1](http://arxiv.org/abs/2303.08866v1)|null|
 |**2023-03-15**|**On the Benefits of Leveraging Structural Information in Planning Over the Learned Model**|Jiajun Shen et.al.|[2303.08856v1](http://arxiv.org/abs/2303.08856v1)|null|
@@ -608,7 +608,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -726,7 +726,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## Optimization
 
@@ -750,18 +750,18 @@
 |**2023-03-16**|**Reduction of rain-induced errors for wind speed estimation on SAR observations using convolutional neural networks**|Aurélien Colin et.al.|[2303.09200v1](http://arxiv.org/abs/2303.09200v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
 |**2023-03-16**|**Fine-Grained and High-Faithfulness Explanations for Convolutional Neural Networks**|Changqing Qiu et.al.|[2303.09171v1](http://arxiv.org/abs/2303.09171v1)|null|
-|**2023-03-16**|**NLUT: Neuarl-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170v1](http://arxiv.org/abs/2303.09170v1)|null|
+|**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170v2](http://arxiv.org/abs/2303.09170v2)|null|
 |**2023-03-16**|**Quasi-localized modes in crystalline high entropy alloys**|Silvia Bonfanti et.al.|[2303.09161v1](http://arxiv.org/abs/2303.09161v1)|null|
 |**2023-03-16**|**Bayesian Generalization Error in Linear Neural Networks with Concept Bottleneck Structure and Multitask Formulation**|Naoki Hayashi et.al.|[2303.09154v1](http://arxiv.org/abs/2303.09154v1)|null|
 |**2023-03-16**|**Predicting nonlinear reshaping of periodic signals in optical fibre with a neural network**|Sonia Boscolo et.al.|[2303.09133v1](http://arxiv.org/abs/2303.09133v1)|null|
 |**2023-03-16**|**Machine learning based biomedical image processing for echocardiographic images**|Ayesha Heena et.al.|[2303.09103v1](http://arxiv.org/abs/2303.09103v1)|null|
 |**2023-03-16**|**Analysis of Dark Matter Halo Structure Formation in $N$ -body Simulations with Machine Learning**|Jazhiel Chacón et.al.|[2303.09098v1](http://arxiv.org/abs/2303.09098v1)|null|
 |**2023-03-16**|**VFP: Converting Tabular Data for IIoT into Images Considering Correlations of Attributes for Convolutional Neural Networks**|Jong-Ik Park et.al.|[2303.09068v1](http://arxiv.org/abs/2303.09068v1)|null|
-|**2023-03-16**|**Maximum Margin Learning of t-SPNs for Cell Classification with Filtering**|Haeyong Kang et.al.|[2303.09065v1](http://arxiv.org/abs/2303.09065v1)|null|
+|**2023-03-17**|**Maximum Margin Learning of t-SPNs for Cell Classification with Filtering**|Haeyong Kang et.al.|[2303.09065v2](http://arxiv.org/abs/2303.09065v2)|null|
 |**2023-03-16**|**Plant Disease Detection using Region-Based Convolutional Neural Network**|Hasin Rehana et.al.|[2303.09063v1](http://arxiv.org/abs/2303.09063v1)|null|
 |**2023-03-16**|**Generating synthetic multi-dimensional molecular-mediator time series data for artificial intelligence-based disease trajectory forecasting and drug development digital twins: Considerations**|Gary An et.al.|[2303.09056v1](http://arxiv.org/abs/2303.09056v1)|null|
 |**2023-03-16**|**Embedding Theory of Reservoir Computing and Reducing Reservoir Network Using Time Delays**|Xing-Yue Duan et.al.|[2303.09042v1](http://arxiv.org/abs/2303.09042v1)|null|
-|**2023-03-16**|**Commonsense Knowledge Assisted Deep Learning for Resource-constrained and Fine-grained Object Detection**|Pu Zhang et.al.|[2303.09026v1](http://arxiv.org/abs/2303.09026v1)|null|
+|**2023-03-17**|**Commonsense Knowledge Assisted Deep Learning for Resource-constrained and Fine-grained Object Detection**|Pu Zhang et.al.|[2303.09026v2](http://arxiv.org/abs/2303.09026v2)|null|
 |**2023-03-16**|**Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review**|Yuda Bi et.al.|[2303.09012v1](http://arxiv.org/abs/2303.09012v1)|null|
 |**2023-03-15**|**Physics-Informed Neural Networks for Time-Domain Simulations: Accuracy, Computational Cost, and Flexibility**|Jochen Stiasny et.al.|[2303.08994v1](http://arxiv.org/abs/2303.08994v1)|null|
 |**2023-03-15**|**Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting**|Yitzchak Shmalo et.al.|[2303.08986v1](http://arxiv.org/abs/2303.08986v1)|**[link](https://github.com/jtj5311/nn-rmt-svd)**|
@@ -772,8 +772,8 @@
 |**2023-03-15**|**Data-Driven Deep Learning Based Feedback Linearization of Systems with Unknown Dynamics**|Raktim Gautam Goswami et.al.|[2303.08926v1](http://arxiv.org/abs/2303.08926v1)|null|
 |**2023-03-15**|**Latent-Conditioned Policy Gradient for Multi-Objective Deep Reinforcement Learning**|Takuya Kanazawa et.al.|[2303.08909v1](http://arxiv.org/abs/2303.08909v1)|**[link](https://github.com/tatksm/lcmopg)**|
 |**2023-03-15**|**Learning ground states of gapped quantum Hamiltonians with Kernel Methods**|Clemens Giuliani et.al.|[2303.08902v1](http://arxiv.org/abs/2303.08902v1)|null|
-|**2023-03-15**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888v1](http://arxiv.org/abs/2303.08888v1)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
-|**2023-03-15**|**Bayesian Quadrature for Neural Ensemble Search**|Saad Hamid et.al.|[2303.08874v1](http://arxiv.org/abs/2303.08874v1)|**[link](https://github.com/saadhamidml/bq-nes)**|
+|**2023-03-17**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888v2](http://arxiv.org/abs/2303.08888v2)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
+|**2023-03-17**|**Bayesian Quadrature for Neural Ensemble Search**|Saad Hamid et.al.|[2303.08874v2](http://arxiv.org/abs/2303.08874v2)|**[link](https://github.com/saadhamidml/bq-nes)**|
 |**2023-03-15**|**Probing Cosmological Particle Production and Pairwise Hotspots with Deep Neural Networks**|Taegyun Kim et.al.|[2303.08869v1](http://arxiv.org/abs/2303.08869v1)|null|
 |**2023-03-15**|**EvalAttAI: A Holistic Approach to Evaluating Attribution Maps in Robust and Non-Robust Models**|Ian E. Nielsen et.al.|[2303.08866v1](http://arxiv.org/abs/2303.08866v1)|null|
 |**2023-03-15**|**GRNN-based Real-time Fault Chain Prediction**|Anmol Dwivedi et.al.|[2303.08864v1](http://arxiv.org/abs/2303.08864v1)|null|
@@ -1580,7 +1580,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -1645,5 +1645,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
