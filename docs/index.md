@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.21
+## Updated on 2023.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -21,12 +21,12 @@ layout: default
 |**2023-03-20**|**Bi-orthogonal fPINN: A physics-informed neural network method for solving time-dependent stochastic fractional PDEs**|Lei Ma et.al.|[2303.10913v1](http://arxiv.org/abs/2303.10913v1)|null|
 |**2023-03-20**|**Feature Alignment and Uniformity for Test Time Adaptation**|Shuai Wang et.al.|[2303.10902v1](http://arxiv.org/abs/2303.10902v1)|null|
 |**2023-03-20**|**Machine Learning Automated Approach for Enormous Synchrotron X-Ray Diffraction Data Interpretation**|Xiaodong Zhao et.al.|[2303.10881v1](http://arxiv.org/abs/2303.10881v1)|null|
-|**2023-03-20**|**Rotating without Seeing: Towards In-hand Dexterity through Touch**|Zhao-Heng Yin et.al.|[2303.10880v1](http://arxiv.org/abs/2303.10880v1)|null|
+|**2023-03-21**|**Rotating without Seeing: Towards In-hand Dexterity through Touch**|Zhao-Heng Yin et.al.|[2303.10880v2](http://arxiv.org/abs/2303.10880v2)|null|
 |**2023-03-20**|**Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs**|Yuan Cheng et.al.|[2303.10859v1](http://arxiv.org/abs/2303.10859v1)|null|
 |**2023-03-20**|**Deceptive Reinforcement Learning in Model-Free Domains**|Alan Lewis et.al.|[2303.10838v1](http://arxiv.org/abs/2303.10838v1)|null|
 |**2023-03-20**|**Data Might be Enough: Bridge Real-World Traffic Signal Control Using Offline Reinforcement Learning**|Liang Zhang et.al.|[2303.10828v1](http://arxiv.org/abs/2303.10828v1)|**[link](https://github.com/LiangZhang1996/DataLight)**|
 |**2023-03-19**|**PheME: A deep ensemble framework for improving phenotype prediction from multi-modal data**|Shenghan Zhang et.al.|[2303.10794v1](http://arxiv.org/abs/2303.10794v1)|null|
-|**2023-03-19**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v1](http://arxiv.org/abs/2303.10766v1)|null|
+|**2023-03-21**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
 |**2023-03-19**|**Reinforcement Learning-supported AB Testing of Business Process Improvements: An Industry Perspective**|Aaron Friedrich Kurz et.al.|[2303.10756v1](http://arxiv.org/abs/2303.10756v1)|null|
 |**2023-03-19**|**Computer Vision Estimation of Emotion Reaction Intensity in the Wild**|Yang Qian et.al.|[2303.10741v1](http://arxiv.org/abs/2303.10741v1)|null|
 |**2023-03-19**|**Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning**|Yat Long Lo et.al.|[2303.10733v1](http://arxiv.org/abs/2303.10733v1)|null|
@@ -807,7 +807,7 @@ layout: default
 |**2023-03-20**|**Zero-Shot Noise2Noise: Efficient Image Denoising without any Data**|Youssef Mansour et.al.|[2303.11253v1](http://arxiv.org/abs/2303.11253v1)|null|
 |**2023-03-20**|**What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement**|Yotam Alexander et.al.|[2303.11249v1](http://arxiv.org/abs/2303.11249v1)|null|
 |**2023-03-20**|**Memorization Capacity of Neural Networks with Conditional Computation**|Erdem Koyuncu et.al.|[2303.11247v1](http://arxiv.org/abs/2303.11247v1)|null|
-|**2023-03-20**|**Training Invertible Neural Networks as Autoencoders**|The-Gia Leo Nguyen et.al.|[2303.11239v1](http://arxiv.org/abs/2303.11239v1)|**[link](https://github.com/xenovortex/training-invertible-neural-networks-as-autoencoders)**|
+|**2023-03-21**|**Training Invertible Neural Networks as Autoencoders**|The-Gia Leo Nguyen et.al.|[2303.11239v2](http://arxiv.org/abs/2303.11239v2)|**[link](https://github.com/xenovortex/training-invertible-neural-networks-as-autoencoders)**|
 |**2023-03-20**|**Investigating Topological Order using Recurrent Neural Networks**|Mohamed Hibat-Allah et.al.|[2303.11207v1](http://arxiv.org/abs/2303.11207v1)|null|
 |**2023-03-20**|**Data-driven feedforward control design for nonlinear systems: A control-oriented system identification approach**|Max Bolderman et.al.|[2303.11197v1](http://arxiv.org/abs/2303.11197v1)|null|
 |**2023-03-20**|**Integration of Radiomics and Tumor Biomarkers in Interpretable Machine Learning Models**|Lennart Brocki et.al.|[2303.11177v1](http://arxiv.org/abs/2303.11177v1)|null|
@@ -843,7 +843,7 @@ layout: default
 |**2023-03-19**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
 |**2023-03-19**|**PheME: A deep ensemble framework for improving phenotype prediction from multi-modal data**|Shenghan Zhang et.al.|[2303.10794v1](http://arxiv.org/abs/2303.10794v1)|null|
 |**2023-03-19**|**A hybrid CNN-RNN approach for survival analysis in a Lung Cancer Screening study**|Yaozhi Lu et.al.|[2303.10789v1](http://arxiv.org/abs/2303.10789v1)|null|
-|**2023-03-19**|**A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices**|Kai Malcom et.al.|[2303.10780v1](http://arxiv.org/abs/2303.10780v1)|null|
+|**2023-03-21**|**A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices**|Kai Malcolm et.al.|[2303.10780v2](http://arxiv.org/abs/2303.10780v2)|null|
 |**2023-03-17**|**Inequality of avalanche sizes in models of fracture**|Diksha et.al.|[2303.10168v1](http://arxiv.org/abs/2303.10168v1)|null|
 |**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|**[link](https://github.com/tamararruda/dnx)**|
 |**2023-03-17**|**Learning from 2D: machine learning of 3D effective properties of heterogeneous materials based on 2D microstructure sections**|Guangyu Hu et.al.|[2303.10092v1](http://arxiv.org/abs/2303.10092v1)|null|
