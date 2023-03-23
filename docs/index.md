@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.22
+## Updated on 2023.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -12,7 +12,7 @@ layout: default
 |**2023-03-21**|**Influencer Backdoor Attack on Semantic Segmentation**|Haoheng Lan et.al.|[2303.12054v1](http://arxiv.org/abs/2303.12054v1)|null|
 |**2023-03-21**|**Using Explanations to Guide Models**|Sukrut Rao et.al.|[2303.11932v1](http://arxiv.org/abs/2303.11932v1)|null|
 |**2023-03-21**|**Efficient Decision-based Black-box Patch Attacks on Video Recognition**|Kaixun Jiang et.al.|[2303.11917v1](http://arxiv.org/abs/2303.11917v1)|null|
-|**2023-03-21**|**Multi-agent Reinforcement Learning for Regional Signal control in Large-scale Grid Traffic network**|Hankang Gu et.al.|[2303.11899v1](http://arxiv.org/abs/2303.11899v1)|null|
+|**2023-03-22**|**Multi-agent Reinforcement Learning for Regional Signal control in Large-scale Grid Traffic network**|Hankang Gu et.al.|[2303.11899v2](http://arxiv.org/abs/2303.11899v2)|null|
 |**2023-03-21**|**Better Understanding Differences in Attribution Methods via Systematic Evaluations**|Sukrut Rao et.al.|[2303.11884v1](http://arxiv.org/abs/2303.11884v1)|**[link](https://github.com/sukrutrao/attribution-evaluation)**|
 |**2023-03-21**|**Fighting over-fitting with quantization for learning deep neural networks on noisy labels**|Gauthier Tallec et.al.|[2303.11803v1](http://arxiv.org/abs/2303.11803v1)|null|
 |**2023-03-21**|**SACPlanner: Real-World Collision Avoidance with a Soft Actor Critic Local Planner and Polar State Representations**|Khaled Nakhleh et.al.|[2303.11801v1](http://arxiv.org/abs/2303.11801v1)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2023-03-20**|**Bi-orthogonal fPINN: A physics-informed neural network method for solving time-dependent stochastic fractional PDEs**|Lei Ma et.al.|[2303.10913v1](http://arxiv.org/abs/2303.10913v1)|null|
 |**2023-03-20**|**Feature Alignment and Uniformity for Test Time Adaptation**|Shuai Wang et.al.|[2303.10902v1](http://arxiv.org/abs/2303.10902v1)|null|
 |**2023-03-20**|**Machine Learning Automated Approach for Enormous Synchrotron X-Ray Diffraction Data Interpretation**|Xiaodong Zhao et.al.|[2303.10881v1](http://arxiv.org/abs/2303.10881v1)|null|
-|**2023-03-21**|**Rotating without Seeing: Towards In-hand Dexterity through Touch**|Zhao-Heng Yin et.al.|[2303.10880v2](http://arxiv.org/abs/2303.10880v2)|null|
+|**2023-03-22**|**Rotating without Seeing: Towards In-hand Dexterity through Touch**|Zhao-Heng Yin et.al.|[2303.10880v3](http://arxiv.org/abs/2303.10880v3)|null|
 |**2023-03-20**|**Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs**|Yuan Cheng et.al.|[2303.10859v1](http://arxiv.org/abs/2303.10859v1)|null|
 |**2023-03-20**|**Deceptive Reinforcement Learning in Model-Free Domains**|Alan Lewis et.al.|[2303.10838v1](http://arxiv.org/abs/2303.10838v1)|null|
 |**2023-03-20**|**Data Might be Enough: Bridge Real-World Traffic Signal Control Using Offline Reinforcement Learning**|Liang Zhang et.al.|[2303.10828v1](http://arxiv.org/abs/2303.10828v1)|**[link](https://github.com/LiangZhang1996/DataLight)**|
@@ -819,7 +819,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2023-03-21**|**Influencer Backdoor Attack on Semantic Segmentation**|Haoheng Lan et.al.|[2303.12054v1](http://arxiv.org/abs/2303.12054v1)|null|
-|**2023-03-21**|**Reaction dynamics for the Cl( $^2$P) + XCl $\to$ XCl + Cl($^2$ P) (X = H, D, Mu) reaction on a high-fidelity ground state potential energy surface**|Qiang Li et.al.|[2303.11973v1](http://arxiv.org/abs/2303.11973v1)|null|
+|**2023-03-22**|**Reaction dynamics for the Cl( $^2$P) + XCl $\to$ XCl + Cl($^2$ P) (X = H, D, Mu) reaction on a high-fidelity ground state potential energy surface**|Qiang Li et.al.|[2303.11973v2](http://arxiv.org/abs/2303.11973v2)|null|
 |**2023-03-21**|**Explain To Me: Salience-Based Explainability for Synthetic Face Detection Models**|Colton Crum et.al.|[2303.11969v1](http://arxiv.org/abs/2303.11969v1)|null|
 |**2023-03-21**|**Modelling Force-Free Neutron Star Magnetospheres using Physics-Informed Neural Networks**|Jorge F. Urbán et.al.|[2303.11968v1](http://arxiv.org/abs/2303.11968v1)|null|
 |**2023-03-21**|**Using Explanations to Guide Models**|Sukrut Rao et.al.|[2303.11932v1](http://arxiv.org/abs/2303.11932v1)|null|
@@ -842,11 +842,11 @@ layout: default
 |**2023-03-21**|**ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization**|Jintao Guo et.al.|[2303.11674v1](http://arxiv.org/abs/2303.11674v1)|**[link](https://github.com/lingeringlight/aloft)**|
 |**2023-03-21**|**Equiangular Basis Vectors**|Yang Shen et.al.|[2303.11637v1](http://arxiv.org/abs/2303.11637v1)|**[link](https://github.com/njust-vipgroup/equiangular-basis-vectors)**|
 |**2023-03-21**|**An Embarrassingly Simple Approach for Wafer Feature Extraction and Defect Pattern Recognition**|Nitish Shukla et.al.|[2303.11632v1](http://arxiv.org/abs/2303.11632v1)|null|
-|**2023-03-21**|**Adaptive quadratures for nonlinear approximation of low-dimensional PDEs using smooth neural networks**|Alexandre Magueresse et.al.|[2303.11617v1](http://arxiv.org/abs/2303.11617v1)|**[link](https://github.com/AlexandreMagueresse/AQSNN.jl)**|
-|**2023-03-21**|**HRDFuse: Monocular 360°Depth Estimation by Collaboratively Learning Holistic-with-Regional Depth Distributions**|Hao Ai et.al.|[2303.11616v1](http://arxiv.org/abs/2303.11616v1)|null|
+|**2023-03-22**|**Adaptive quadratures for nonlinear approximation of low-dimensional PDEs using smooth neural networks**|Alexandre Magueresse et.al.|[2303.11617v2](http://arxiv.org/abs/2303.11617v2)|**[link](https://github.com/AlexandreMagueresse/AQSNN.jl)**|
+|**2023-03-22**|**HRDFuse: Monocular 360°Depth Estimation by Collaboratively Learning Holistic-with-Regional Depth Distributions**|Hao Ai et.al.|[2303.11616v2](http://arxiv.org/abs/2303.11616v2)|null|
 |**2023-03-21**|**Convergence of stochastic gradient descent on parameterized sphere with applications to variational Monte Carlo simulation**|Nilin Abrahamsen et.al.|[2303.11602v1](http://arxiv.org/abs/2303.11602v1)|null|
 |**2023-03-21**|**Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution**|Yiming Chen et.al.|[2303.11595v1](http://arxiv.org/abs/2303.11595v1)|null|
-|**2023-03-21**|**Feature-adjacent multi-fidelity physics-informed machine learning for partial differential equations**|Wenqian Chen et.al.|[2303.11577v1](http://arxiv.org/abs/2303.11577v1)|null|
+|**2023-03-22**|**Feature-adjacent multi-fidelity physics-informed machine learning for partial differential equations**|Wenqian Chen et.al.|[2303.11577v2](http://arxiv.org/abs/2303.11577v2)|null|
 |**2023-03-21**|**Nonuniform magnetic domain-wall synapses enabled by population coding**|Ya Qiao et.al.|[2303.11572v1](http://arxiv.org/abs/2303.11572v1)|null|
 |**2023-03-21**|**Boundary Unlearning**|Min Chen et.al.|[2303.11570v1](http://arxiv.org/abs/2303.11570v1)|null|
 |**2023-03-21**|**Dynamic Healthcare Embeddings for Improving Patient Care**|Hankyu Jang et.al.|[2303.11563v1](http://arxiv.org/abs/2303.11563v1)|**[link](https://github.com/hankyujang/decent-dynamic-healthcare-embeddings)**|
