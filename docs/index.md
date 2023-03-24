@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.23
+## Updated on 2023.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -29,7 +29,7 @@ layout: default
 |**2023-03-22**|**Adaptive Road Configurations for Improved Autonomous Vehicle-Pedestrian Interactions using Reinforcement Learning**|Qiming Ye et.al.|[2303.12289v1](http://arxiv.org/abs/2303.12289v1)|null|
 |**2023-03-22**|**Hardness of Independent Learning and Sparse Equilibrium Computation in Markov Games**|Dylan J. Foster et.al.|[2303.12287v1](http://arxiv.org/abs/2303.12287v1)|null|
 |**2023-03-22**|**Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models**|Nicholas I-Hsien Kuo et.al.|[2303.12281v1](http://arxiv.org/abs/2303.12281v1)|null|
-|**2023-03-22**|**A Hierarchical Hybrid Learning Framework for Multi-agent Trajectory Prediction**|Yujun Jiao et.al.|[2303.12274v1](http://arxiv.org/abs/2303.12274v1)|null|
+|**2023-03-23**|**A Hierarchical Hybrid Learning Framework for Multi-agent Trajectory Prediction**|Yujun Jiao et.al.|[2303.12274v2](http://arxiv.org/abs/2303.12274v2)|null|
 |**2023-03-21**|**Policy Optimization for Personalized Interventions in Behavioral Health**|Jackie Baek et.al.|[2303.12206v1](http://arxiv.org/abs/2303.12206v1)|null|
 |**2023-03-21**|**Universal Approximation Property of Hamiltonian Deep Neural Networks**|Muhammad Zakwan et.al.|[2303.12147v1](http://arxiv.org/abs/2303.12147v1)|null|
 |**2023-03-21**|**CLSA: Contrastive Learning-based Survival Analysis for Popularity Prediction in MEC Networks**|Zohreh Hajiakhondi-Meybodi et.al.|[2303.12097v1](http://arxiv.org/abs/2303.12097v1)|null|
@@ -873,7 +873,7 @@ layout: default
 |**2023-03-21**|**Removing Noise From Simulated Events at The Main Drift Chamber of BESIII Using Convolutional Neural Networks**|Hosein Karimi Khozani et.al.|[2303.12202v1](http://arxiv.org/abs/2303.12202v1)|null|
 |**2023-03-21**|**Algorithmic Threshold for Multi-Species Spherical Spin Glasses**|Brice Huang et.al.|[2303.12172v1](http://arxiv.org/abs/2303.12172v1)|null|
 |**2023-03-21**|**Viscoelastic Constitutive Artificial Neural Networks (vCANNs) $-$ a framework for data-driven anisotropic nonlinear finite viscoelasticity**|Kian P. Abdolazizi et.al.|[2303.12164v1](http://arxiv.org/abs/2303.12164v1)|null|
-|**2023-03-21**|**Learning for Online Mixed-Integer Model Predictive Control with Parametric Optimality Certificates**|Luigi Russo et.al.|[2303.12152v1](http://arxiv.org/abs/2303.12152v1)|null|
+|**2023-03-23**|**Learning for Online Mixed-Integer Model Predictive Control with Parametric Optimality Certificates**|Luigi Russo et.al.|[2303.12152v2](http://arxiv.org/abs/2303.12152v2)|null|
 |**2023-03-21**|**Neural Pre-Processing: A Learning Framework for End-to-end Brain MRI Pre-processing**|Xinzi He et.al.|[2303.12148v1](http://arxiv.org/abs/2303.12148v1)|null|
 |**2023-03-21**|**Universal Approximation Property of Hamiltonian Deep Neural Networks**|Muhammad Zakwan et.al.|[2303.12147v1](http://arxiv.org/abs/2303.12147v1)|null|
 |**2023-03-21**|**Physics Informed Neural Networks for Phase Locked Loop Transient Stability Assessment**|Rahul Nellikkath et.al.|[2303.12116v1](http://arxiv.org/abs/2303.12116v1)|null|
