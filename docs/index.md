@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.24
+## Updated on 2023.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -912,7 +912,7 @@ layout: default
 |**2023-03-23**|**Continuous Indeterminate Probability Neural Network**|Tao Yang et.al.|[2303.12964v1](http://arxiv.org/abs/2303.12964v1)|**[link](https://github.com/starfruit007/cipnn)**|
 |**2023-03-22**|**LightPainter: Interactive Portrait Relighting with Freehand Scribble**|Yiqun Mei et.al.|[2303.12950v1](http://arxiv.org/abs/2303.12950v1)|null|
 |**2023-03-22**|**Analyzing the Generalizability of Deep Contextualized Language Representations For Text Classification**|Berfu Buyukoz et.al.|[2303.12936v1](http://arxiv.org/abs/2303.12936v1)|null|
-|**2023-03-22**|**Revisiting the Fragility of Influence Functions**|Jacob R. Epifano et.al.|[2303.12922v1](http://arxiv.org/abs/2303.12922v1)|null|
+|**2023-03-22**|**Revisiting the Fragility of Influence Functions**|Jacob R. Epifano et.al.|[2303.12922v1](http://arxiv.org/abs/2303.12922v1)|**[link](https://github.com/jrepifano/xai_is_fragile)**|
 |**2023-03-22**|**TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**|Salma Afifi et.al.|[2303.12914v1](http://arxiv.org/abs/2303.12914v1)|null|
 |**2023-03-22**|**Cross-Layer Design for AI Acceleration with Non-Coherent Optical Computing**|Febin Sunny et.al.|[2303.12910v1](http://arxiv.org/abs/2303.12910v1)|null|
 |**2023-03-22**|**Dynasparse: Accelerating GNN Inference through Dynamic Sparsity Exploitation**|Bingyi Zhang et.al.|[2303.12901v1](http://arxiv.org/abs/2303.12901v1)|null|
