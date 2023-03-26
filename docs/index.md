@@ -20,7 +20,7 @@ layout: default
 |**2023-03-23**|**RLOR: A Flexible Framework of Deep Reinforcement Learning for Operation Research**|Ching Pui Wan et.al.|[2303.13117v1](http://arxiv.org/abs/2303.13117v1)|**[link](https://github.com/cpwan/rlor)**|
 |**2023-03-23**|**Lightweight High-Performance Blind Image Quality Assessment**|Zhanxuan Mei et.al.|[2303.13057v1](http://arxiv.org/abs/2303.13057v1)|null|
 |**2023-03-23**|**Reimagining Application User Interface (UI) Design using Deep Learning Methods: Challenges and Opportunities**|Subtain Malik et.al.|[2303.13055v1](http://arxiv.org/abs/2303.13055v1)|null|
-|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|null|
+|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|**[link](https://github.com/lizonghang/agod)**|
 |**2023-03-23**|**Benchmarking the Reliability of Post-training Quantization: a Particular Focus on Worst-case Performance**|Zhihang Yuan et.al.|[2303.13003v1](http://arxiv.org/abs/2303.13003v1)|null|
 |**2023-03-23**|**Planning Goals for Exploration**|Edward S. Hu et.al.|[2303.13002v1](http://arxiv.org/abs/2303.13002v1)|**[link](https://github.com/penn-pal-lab/peg)**|
 |**2023-03-23**|**Backdoor Defense via Adaptively Splitting Poisoned Dataset**|Kuofeng Gao et.al.|[2303.12993v1](http://arxiv.org/abs/2303.12993v1)|**[link](https://github.com/kuofenggao/asd)**|
@@ -41,7 +41,7 @@ layout: default
 |**2023-03-22**|**Wasserstein Auto-encoded MDPs: Formal Verification of Efficiently Distilled RL Policies with Many-sided Guarantees**|Florent Delgrange et.al.|[2303.12558v1](http://arxiv.org/abs/2303.12558v1)|**[link](https://github.com/florentdelgrange/wae_mdp)**|
 |**2023-03-22**|**Inexact iterative numerical linear algebra for neural network-based spectral estimation and rare-event prediction**|John Strahan et.al.|[2303.12534v1](http://arxiv.org/abs/2303.12534v1)|null|
 |**2023-03-22**|**Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications**|Luigi Capogrosso et.al.|[2303.12524v1](http://arxiv.org/abs/2303.12524v1)|**[link](https://github.com/luigicapogrosso/split_et_impera)**|
-|**2023-03-22**|**Revisiting DeepFool: generalization and improvement**|Alireza Abdollahpourrostam et.al.|[2303.12481v1](http://arxiv.org/abs/2303.12481v1)|**[link](https://github.com/alirezaabdollahpour/superdeepfool)**|
+|**2023-03-22**|**Revisiting DeepFool: generalization and improvement**|Alireza Abdollahpourrostam et.al.|[2303.12481v1](http://arxiv.org/abs/2303.12481v1)|null|
 |**2023-03-22**|**Distributed Two-tier DRL Framework for Cell-Free Network: Association, Beamforming and Power Allocation**|Kaiwen Yu et.al.|[2303.12479v1](http://arxiv.org/abs/2303.12479v1)|**[link](https://github.com/kiven-ykw/dhdrl)**|
 |**2023-03-22**|**EDGI: Equivariant Diffusion for Planning with Embodied Agents**|Johann Brehmer et.al.|[2303.12410v1](http://arxiv.org/abs/2303.12410v1)|null|
 |**2023-03-22**|**$P^{3}O$ : Transferring Visual Representations for Reinforcement Learning via Prompting**|Guoliang You et.al.|[2303.12371v1](http://arxiv.org/abs/2303.12371v1)|null|
