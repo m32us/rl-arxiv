@@ -1,4 +1,4 @@
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2023-03-22**|**Wasserstein Auto-encoded MDPs: Formal Verification of Efficiently Distilled RL Policies with Many-sided Guarantees**|Florent Delgrange et.al.|[2303.12558v1](http://arxiv.org/abs/2303.12558v1)|**[link](https://github.com/florentdelgrange/wae_mdp)**|
 |**2023-03-22**|**Inexact iterative numerical linear algebra for neural network-based spectral estimation and rare-event prediction**|John Strahan et.al.|[2303.12534v1](http://arxiv.org/abs/2303.12534v1)|null|
 |**2023-03-22**|**Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications**|Luigi Capogrosso et.al.|[2303.12524v1](http://arxiv.org/abs/2303.12524v1)|**[link](https://github.com/luigicapogrosso/split_et_impera)**|
-|**2023-03-22**|**Revisiting DeepFool: generalization and improvement**|Alireza Abdollahpourrostam et.al.|[2303.12481v1](http://arxiv.org/abs/2303.12481v1)|null|
+|**2023-03-22**|**Revisiting DeepFool: generalization and improvement**|Alireza Abdollahpourrostam et.al.|[2303.12481v1](http://arxiv.org/abs/2303.12481v1)|**[link](https://github.com/alirezaabdollahpour/superdeepfool)**|
 |**2023-03-22**|**Distributed Two-tier DRL Framework for Cell-Free Network: Association, Beamforming and Power Allocation**|Kaiwen Yu et.al.|[2303.12479v1](http://arxiv.org/abs/2303.12479v1)|**[link](https://github.com/kiven-ykw/dhdrl)**|
 |**2023-03-22**|**EDGI: Equivariant Diffusion for Planning with Embodied Agents**|Johann Brehmer et.al.|[2303.12410v1](http://arxiv.org/abs/2303.12410v1)|null|
 |**2023-03-22**|**$P^{3}O$ : Transferring Visual Representations for Reinforcement Learning via Prompting**|Guoliang You et.al.|[2303.12371v1](http://arxiv.org/abs/2303.12371v1)|null|
@@ -58,7 +58,7 @@
 |**2023-03-22**|**Adaptive Road Configurations for Improved Autonomous Vehicle-Pedestrian Interactions using Reinforcement Learning**|Qiming Ye et.al.|[2303.12289v1](http://arxiv.org/abs/2303.12289v1)|null|
 |**2023-03-22**|**Hardness of Independent Learning and Sparse Equilibrium Computation in Markov Games**|Dylan J. Foster et.al.|[2303.12287v1](http://arxiv.org/abs/2303.12287v1)|null|
 |**2023-03-22**|**Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models**|Nicholas I-Hsien Kuo et.al.|[2303.12281v1](http://arxiv.org/abs/2303.12281v1)|null|
-|**2023-03-23**|**A Hierarchical Hybrid Learning Framework for Multi-agent Trajectory Prediction**|Yujun Jiao et.al.|[2303.12274v2](http://arxiv.org/abs/2303.12274v2)|null|
+|**2023-03-24**|**A Hierarchical Hybrid Learning Framework for Multi-agent Trajectory Prediction**|Yujun Jiao et.al.|[2303.12274v3](http://arxiv.org/abs/2303.12274v3)|null|
 |**2023-03-21**|**Policy Optimization for Personalized Interventions in Behavioral Health**|Jackie Baek et.al.|[2303.12206v1](http://arxiv.org/abs/2303.12206v1)|null|
 |**2023-03-21**|**Universal Approximation Property of Hamiltonian Deep Neural Networks**|Muhammad Zakwan et.al.|[2303.12147v1](http://arxiv.org/abs/2303.12147v1)|null|
 |**2023-03-21**|**CLSA: Contrastive Learning-based Survival Analysis for Popularity Prediction in MEC Networks**|Zohreh Hajiakhondi-Meybodi et.al.|[2303.12097v1](http://arxiv.org/abs/2303.12097v1)|null|
@@ -748,7 +748,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -871,7 +871,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Optimization
 
@@ -903,8 +903,8 @@
 |**2023-03-23**|**Improvement of Color Image Analysis Using a New Hybrid Face Recognition Algorithm based on Discrete Wavelets and Chebyshev Polynomials**|Hassan Mohamed Muhi-Aldeen et.al.|[2303.13158v1](http://arxiv.org/abs/2303.13158v1)|null|
 |**2023-03-23**|**Laplacian Segmentation Networks: Improved Epistemic Uncertainty from Spatial Aleatoric Uncertainty**|Kilian Zepf et.al.|[2303.13123v1](http://arxiv.org/abs/2303.13123v1)|null|
 |**2023-03-23**|**RLOR: A Flexible Framework of Deep Reinforcement Learning for Operation Research**|Ching Pui Wan et.al.|[2303.13117v1](http://arxiv.org/abs/2303.13117v1)|**[link](https://github.com/cpwan/rlor)**|
-|**2023-03-23**|**Adaptive Regularization for Class-Incremental Learning**|Elif Ceren Gok et.al.|[2303.13113v1](http://arxiv.org/abs/2303.13113v1)|null|
-|**2023-03-23**|**A Permutable Hybrid Network for Volumetric Medical Image Segmentation**|Yi Lin et.al.|[2303.13111v1](http://arxiv.org/abs/2303.13111v1)|null|
+|**2023-03-24**|**Adaptive Regularization for Class-Incremental Learning**|Elif Ceren Gok Yildirim et.al.|[2303.13113v2](http://arxiv.org/abs/2303.13113v2)|null|
+|**2023-03-24**|**A Permutable Hybrid Network for Volumetric Medical Image Segmentation**|Yi Lin et.al.|[2303.13111v2](http://arxiv.org/abs/2303.13111v2)|null|
 |**2023-03-23**|**CP $^3$ : Channel Pruning Plug-in for Point-based Networks**|Yaomin Huang et.al.|[2303.13097v1](http://arxiv.org/abs/2303.13097v1)|null|
 |**2023-03-23**|**The Probabilistic Stability of Stochastic Gradient Descent**|Liu Ziyin et.al.|[2303.13093v1](http://arxiv.org/abs/2303.13093v1)|null|
 |**2023-03-23**|**MSAT: Biologically Inspired Multi-Stage Adaptive Threshold for Conversion of Spiking Neural Networks**|Xiang He et.al.|[2303.13080v1](http://arxiv.org/abs/2303.13080v1)|null|
@@ -1947,7 +1947,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -2014,5 +2014,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
