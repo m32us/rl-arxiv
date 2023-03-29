@@ -15,6 +15,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**BC-IRL: Learning Generalizable Reward Functions from Demonstrations**|Andrew Szot et.al.|[2303.16194v1](http://arxiv.org/abs/2303.16194v1)|null|
+|**2023-03-28**|**Planning with Sequence Models through Iterative Energy Minimization**|Hongyi Chen et.al.|[2303.16189v1](http://arxiv.org/abs/2303.16189v1)|null|
+|**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
+|**2023-03-25**|**Energy-efficient Task Adaptation for NLP Edge Inference Leveraging Heterogeneous Memory Architectures**|Zirui Fu et.al.|[2303.16100v1](http://arxiv.org/abs/2303.16100v1)|null|
+|**2023-03-28**|**Medical Image Analysis using Deep Relational Learning**|Zhihua Liu et.al.|[2303.16099v1](http://arxiv.org/abs/2303.16099v1)|null|
+|**2023-03-28**|**Information-Theoretic GAN Compression with Variational Energy-based Model**|Minsoo Kang et.al.|[2303.16050v1](http://arxiv.org/abs/2303.16050v1)|null|
+|**2023-03-28**|**Polar Coded Integrated Data and Energy Networking: A Deep Neural Network Assisted End-to-End Design**|Luping Xiang et.al.|[2303.16038v1](http://arxiv.org/abs/2303.16038v1)|null|
+|**2023-03-28**|**The DL Advocate: Playing the devil's advocate with hidden systematic uncertainties**|Andrei Golutvin et.al.|[2303.15956v1](http://arxiv.org/abs/2303.15956v1)|null|
+|**2023-03-28**|**Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings**|Ryo Hachiuma et.al.|[2303.15947v1](http://arxiv.org/abs/2303.15947v1)|null|
+|**2023-03-28**|**FC Portugal 3D Simulation Team: Team Description Paper 2020**|Nuno Lau et.al.|[2303.15931v1](http://arxiv.org/abs/2303.15931v1)|null|
+|**2023-03-28**|**Denoising Autoencoder-based Defensive Distillation as an Adversarial Robustness Algorithm**|Bakary Badjie et.al.|[2303.15901v1](http://arxiv.org/abs/2303.15901v1)|null|
+|**2023-03-28**|**A reinforced learning approach to optimal design under model uncertainty**|Mingyao Ai et.al.|[2303.15887v1](http://arxiv.org/abs/2303.15887v1)|null|
+|**2023-03-28**|**Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization**|Haoran Xu et.al.|[2303.15810v1](http://arxiv.org/abs/2303.15810v1)|**[link](https://github.com/ryanxhr/ivr)**|
+|**2023-03-28**|**On Feature Scaling of Recursive Feature Machines**|Arunav Gupta et.al.|[2303.15745v1](http://arxiv.org/abs/2303.15745v1)|**[link](https://github.com/agupta01/ml-theory-capstone)**|
+|**2023-03-28**|**System-status-aware Adaptive Network for Online Streaming Video Understanding**|Lin Geng Foo et.al.|[2303.15742v1](http://arxiv.org/abs/2303.15742v1)|null|
+|**2023-03-28**|**Concentration of Contractive Stochastic Approximation: Additive and Multiplicative Noise**|Zaiwei Chen et.al.|[2303.15740v1](http://arxiv.org/abs/2303.15740v1)|null|
+|**2023-03-28**|**Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized Cases**|Shuya Nagayasu et.al.|[2303.15739v1](http://arxiv.org/abs/2303.15739v1)|null|
+|**2023-03-28**|**On the Use of Reinforcement Learning for Attacking and Defending Load Frequency Control**|Amr S. Mohamed et.al.|[2303.15736v1](http://arxiv.org/abs/2303.15736v1)|null|
+|**2023-03-28**|**Improving the Transferability of Adversarial Samples by Path-Augmented Method**|Jianping Zhang et.al.|[2303.15735v1](http://arxiv.org/abs/2303.15735v1)|null|
+|**2023-03-28**|**Adaptive Background Music for a Fighting Game: A Multi-Instrument Volume Modulation Approach**|Ibrahim Khan et.al.|[2303.15734v1](http://arxiv.org/abs/2303.15734v1)|null|
+|**2023-03-27**|**EMShepherd: Detecting Adversarial Samples via Side-channel Leakage**|Ruyi Ding et.al.|[2303.15571v1](http://arxiv.org/abs/2303.15571v1)|null|
+|**2023-03-27**|**Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder**|Tao Sun et.al.|[2303.15564v1](http://arxiv.org/abs/2303.15564v1)|**[link](https://github.com/tsun/bdmae)**|
+|**2023-03-27**|**Multi-Flow Transmission in Wireless Interference Networks: A Convergent Graph Learning Approach**|Raz Paul et.al.|[2303.15544v1](http://arxiv.org/abs/2303.15544v1)|null|
+|**2023-03-27**|**GlassNet: a multitask deep neural network for predicting many glass properties**|Daniel R. Cassar et.al.|[2303.15538v1](http://arxiv.org/abs/2303.15538v1)|null|
+|**2023-03-25**|**Embedding Contextual Information through Reward Shaping in Multi-Agent Learning: A Case Study from Google Football**|Chaoyi Gu et.al.|[2303.15471v1](http://arxiv.org/abs/2303.15471v1)|null|
 |**2023-03-27**|**Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot using Scalable Motion Imitation**|Arnaud Klipfel et.al.|[2303.15331v1](http://arxiv.org/abs/2303.15331v1)|null|
 |**2023-03-27**|**Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling**|Ryo Hachiuma et.al.|[2303.15270v1](http://arxiv.org/abs/2303.15270v1)|null|
 |**2023-03-27**|**Robust Risk-Aware Option Hedging**|David Wu et.al.|[2303.15216v1](http://arxiv.org/abs/2303.15216v1)|null|
@@ -810,6 +835,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Density Matrix Minimization Meets a Combinatorial Optimization Problem**|Yasuharu Okamoto et.al.|[2303.15643v1](http://arxiv.org/abs/2303.15643v1)|null|
+|**2023-03-27**|**Revisiting Area Convexity: Faster Box-Simplex Games and Spectrahedral Generalizations**|Arun Jambulapati et.al.|[2303.15627v1](http://arxiv.org/abs/2303.15627v1)|null|
+|**2023-03-27**|**Real-Time Semantic Segmentation using Hyperspectral Images for Mapping Unstructured and Unknown Environments**|Anthony Medellin et.al.|[2303.15623v1](http://arxiv.org/abs/2303.15623v1)|null|
+|**2023-03-27**|**Randomized rounding algorithms for large scale unsplittable flow problems**|François Lamothe et.al.|[2303.15550v1](http://arxiv.org/abs/2303.15550v1)|null|
 |**2023-03-27**|**Spatial-photonic Boltzmann machines: low-rank combinatorial optimization and statistical learning by spatial light modulation**|Hiroshi Yamashita et.al.|[2303.14993v1](http://arxiv.org/abs/2303.14993v1)|null|
 |**2023-03-27**|**Error-mitigated Quantum Approximate Optimization via Learning-based Adaptive Optimization**|Lixue Cheng et.al.|[2303.14877v1](http://arxiv.org/abs/2303.14877v1)|**[link](https://github.com/sherrylixuecheng/EMQAOA-DARBO)**|
 |**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|null|
@@ -937,6 +966,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
+|**2023-03-28**|**When to be critical? Performance and evolvability in different regimes of neural Ising agents**|Sina Khajehabdollahi et.al.|[2303.16195v1](http://arxiv.org/abs/2303.16195v1)|null|
+|**2023-03-28**|**Metastate analysis of the ground states of two-dimensional Ising spin glasses**|A. K. Hartmann et.al.|[2303.16192v1](http://arxiv.org/abs/2303.16192v1)|null|
+|**2023-03-28**|**Label Smoothing Improves Neural Source Code Summarization**|Sakib Haque et.al.|[2303.16178v1](http://arxiv.org/abs/2303.16178v1)|null|
+|**2023-03-28**|**Importance-Aware Fresh Delivery of Versions over Energy Harvesting MACs**|Gangadhar Karevvanavar et.al.|[2303.16143v1](http://arxiv.org/abs/2303.16143v1)|null|
+|**2023-03-28**|**DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets**|Isabella Huang et.al.|[2303.16138v1](http://arxiv.org/abs/2303.16138v1)|null|
+|**2023-03-28**|**Transformer and Snowball Graph Convolution Learning for Biomedical Graph Classification**|Jinlong Hu et.al.|[2303.16132v1](http://arxiv.org/abs/2303.16132v1)|null|
+|**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
+|**2023-03-28**|**Medical Image Analysis using Deep Relational Learning**|Zhihua Liu et.al.|[2303.16099v1](http://arxiv.org/abs/2303.16099v1)|null|
+|**2023-03-28**|**Information-Theoretic GAN Compression with Variational Energy-based Model**|Minsoo Kang et.al.|[2303.16050v1](http://arxiv.org/abs/2303.16050v1)|null|
+|**2023-03-28**|**Referenceless characterisation of complex media using physics-informed neural networks**|Suraj Goel et.al.|[2303.16041v1](http://arxiv.org/abs/2303.16041v1)|null|
+|**2023-03-28**|**Polar Coded Integrated Data and Energy Networking: A Deep Neural Network Assisted End-to-End Design**|Luping Xiang et.al.|[2303.16038v1](http://arxiv.org/abs/2303.16038v1)|null|
+|**2023-03-28**|**Finite-size prethermalization at the chaos-to-integrable crossover**|Johannes Dieplinger et.al.|[2303.16019v1](http://arxiv.org/abs/2303.16019v1)|null|
+|**2023-03-28**|**Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction**|Yi Xu et.al.|[2303.16005v1](http://arxiv.org/abs/2303.16005v1)|**[link](https://github.com/colorfulfuture/gc-vrnn)**|
+|**2023-03-28**|**A Survey on Malware Detection with Graph Representation Learning**|Tristan Bilot et.al.|[2303.16004v1](http://arxiv.org/abs/2303.16004v1)|null|
+|**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v1](http://arxiv.org/abs/2303.16001v1)|null|
+|**2023-03-28**|**An Experimental Study on Sentiment Classification of Moroccan dialect texts in the web**|Mouad Jbel et.al.|[2303.15987v1](http://arxiv.org/abs/2303.15987v1)|null|
+|**2023-03-28**|**Electrical analogue of one-dimensional and quasi-one-dimensional Aubry-André-Harper lattices**|Sudin Ganguly et.al.|[2303.15983v1](http://arxiv.org/abs/2303.15983v1)|null|
+|**2023-03-28**|**Coined Quantum Walks on the Line: Disorder, Entanglement and Localization**|Louie Hong Yao et.al.|[2303.15978v1](http://arxiv.org/abs/2303.15978v1)|null|
+|**2023-03-28**|**Do Neural Topic Models Really Need Dropout? Analysis of the Effect of Dropout in Topic Modeling**|Suman Adhya et.al.|[2303.15973v1](http://arxiv.org/abs/2303.15973v1)|**[link](https://github.com/adhyasuman/ntms_dropout_analysis)**|
+|**2023-03-28**|**Machine learning independent conservation laws through neural deflation**|Wei Zhu et.al.|[2303.15958v1](http://arxiv.org/abs/2303.15958v1)|null|
+|**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v1](http://arxiv.org/abs/2303.15954v1)|**[link](https://github.com/mayunyi-1999/traffnet_code)**|
+|**2023-03-28**|**Randomly Initialized Subnetworks with Iterative Weight Recycling**|Matt Gorbett et.al.|[2303.15953v1](http://arxiv.org/abs/2303.15953v1)|null|
+|**2023-03-28**|**Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings**|Ryo Hachiuma et.al.|[2303.15947v1](http://arxiv.org/abs/2303.15947v1)|null|
+|**2023-03-28**|**Searching for long faint astronomical high energy transients: a data driven approach**|Riccardo Crupi et.al.|[2303.15936v1](http://arxiv.org/abs/2303.15936v1)|**[link](https://github.com/rcrupi/deepgrb)**|
+|**2023-03-28**|**Hole doping in compositionally complex correlated oxide enables tunable exchange biasing**|Alessandro R. Mazza et.al.|[2303.15922v1](http://arxiv.org/abs/2303.15922v1)|null|
+|**2023-03-28**|**Hyperbolic Geometry in Computer Vision: A Novel Framework for Convolutional Neural Networks**|Ahmad Bdeir et.al.|[2303.15919v1](http://arxiv.org/abs/2303.15919v1)|**[link](https://github.com/kschwethelm/hyperboliccv)**|
+|**2023-03-28**|**Denoising Autoencoder-based Defensive Distillation as an Adversarial Robustness Algorithm**|Bakary Badjie et.al.|[2303.15901v1](http://arxiv.org/abs/2303.15901v1)|null|
+|**2023-03-28**|**Kernel interpolation generalizes poorly**|Yicheng Li et.al.|[2303.15809v1](http://arxiv.org/abs/2303.15809v1)|null|
+|**2023-03-28**|**Make the Most Out of Your Net: Alternating Between Canonical and Hard Datasets for Improved Image Demosaicing**|Yuval Becker et.al.|[2303.15792v1](http://arxiv.org/abs/2303.15792v1)|null|
+|**2023-03-28**|**On Feature Scaling of Recursive Feature Machines**|Arunav Gupta et.al.|[2303.15745v1](http://arxiv.org/abs/2303.15745v1)|**[link](https://github.com/agupta01/ml-theory-capstone)**|
+|**2023-03-28**|**System-status-aware Adaptive Network for Online Streaming Video Understanding**|Lin Geng Foo et.al.|[2303.15742v1](http://arxiv.org/abs/2303.15742v1)|null|
+|**2023-03-28**|**Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized Cases**|Shuya Nagayasu et.al.|[2303.15739v1](http://arxiv.org/abs/2303.15739v1)|null|
+|**2023-03-28**|**Improving the Transferability of Adversarial Samples by Path-Augmented Method**|Jianping Zhang et.al.|[2303.15735v1](http://arxiv.org/abs/2303.15735v1)|null|
+|**2023-03-28**|**Smart Handover with Predicted User Behavior using Convolutional Neural Networks for WiGig Systems**|Tiago Koketsu Rodrigues et.al.|[2303.15731v1](http://arxiv.org/abs/2303.15731v1)|null|
+|**2023-03-28**|**Adaptive trajectories sampling for solving PDEs with deep learning methods**|Xingyu Chen et.al.|[2303.15704v1](http://arxiv.org/abs/2303.15704v1)|null|
+|**2023-03-28**|**TFS-ViT: Token-Level Feature Stylization for Domain Generalization**|Mehrdad Noori et.al.|[2303.15698v1](http://arxiv.org/abs/2303.15698v1)|**[link](https://github.com/mehrdad-noori/tfs-vit_token-level_feature_stylization)**|
+|**2023-03-28**|**GNN-based physics solver for time-independent PDEs**|Rini Jasmine Gladstone et.al.|[2303.15681v1](http://arxiv.org/abs/2303.15681v1)|null|
+|**2023-03-28**|**Cross-View Visual Geo-Localization for Outdoor Augmented Reality**|Niluthpol Chowdhury Mithun et.al.|[2303.15676v1](http://arxiv.org/abs/2303.15676v1)|null|
+|**2023-03-28**|**4D Panoptic Segmentation as Invariant and Equivariant Field Prediction**|Minghan Zhu et.al.|[2303.15651v1](http://arxiv.org/abs/2303.15651v1)|null|
+|**2023-03-27**|**Graph Sequence Learning for Premise Selection**|Edvard K. Holden et.al.|[2303.15642v1](http://arxiv.org/abs/2303.15642v1)|null|
+|**2023-03-27**|**Learning Rate Schedules in the Presence of Distribution Shift**|Matthew Fahrbach et.al.|[2303.15634v1](http://arxiv.org/abs/2303.15634v1)|null|
+|**2023-03-27**|**UFO: A unified method for controlling Understandability and Faithfulness Objectives in concept-based explanations for CNNs**|Vikram V. Ramaswamy et.al.|[2303.15632v1](http://arxiv.org/abs/2303.15632v1)|null|
+|**2023-03-27**|**A Framework for Demonstrating Practical Quantum Advantage: Racing Quantum against Classical Generative Models**|Mohamed Hibat-Allah et.al.|[2303.15626v1](http://arxiv.org/abs/2303.15626v1)|null|
+|**2023-03-27**|**Real-Time Semantic Segmentation using Hyperspectral Images for Mapping Unstructured and Unknown Environments**|Anthony Medellin et.al.|[2303.15623v1](http://arxiv.org/abs/2303.15623v1)|null|
+|**2023-03-27**|**EMShepherd: Detecting Adversarial Samples via Side-channel Leakage**|Ruyi Ding et.al.|[2303.15571v1](http://arxiv.org/abs/2303.15571v1)|null|
+|**2023-03-27**|**Online Non-Destructive Moisture Content Estimation of Filter Media During Drying Using Artificial Neural Networks**|Christian Remi Wewer et.al.|[2303.15570v1](http://arxiv.org/abs/2303.15570v1)|null|
+|**2023-03-27**|**Core-Periphery Principle Guided Redesign of Self-Attention in Transformers**|Xiaowei Yu et.al.|[2303.15569v1](http://arxiv.org/abs/2303.15569v1)|null|
+|**2023-03-27**|**Bridging the Gap: Applying Assurance Arguments to MIL-HDBK-516C Certification of a Neural Network Control System with ASIF Run Time Assurance Architecture**|Jonathan Rowanhill et.al.|[2303.15568v1](http://arxiv.org/abs/2303.15568v1)|null|
+|**2023-03-27**|**Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder**|Tao Sun et.al.|[2303.15564v1](http://arxiv.org/abs/2303.15564v1)|**[link](https://github.com/tsun/bdmae)**|
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414v1](http://arxiv.org/abs/2303.15414v1)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-28**|**Constraints on cosmic curvature from cosmic chronometer and quasar observations**|Bikash R. Dinda et.al.|[2303.15401v2](http://arxiv.org/abs/2303.15401v2)|null|
 |**2023-03-27**|**Probing semi-classical chaos in the spherical $p$ -spin glass model**|Lorenzo Correale et.al.|[2303.15393v1](http://arxiv.org/abs/2303.15393v1)|null|
