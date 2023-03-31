@@ -15,6 +15,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**When Learning Is Out of Reach, Reset: Generalization in Autonomous Visuomotor Reinforcement Learning**|Zichen Zhang et.al.|[2303.17600v1](http://arxiv.org/abs/2303.17600v1)|null|
+|**2023-03-30**|**Anatomically aware dual-hop learning for pulmonary embolism detection in CT pulmonary angiograms**|Florin Condrea et.al.|[2303.17593v1](http://arxiv.org/abs/2303.17593v1)|null|
+|**2023-03-30**|**Learning Human-to-Robot Handovers from Point Clouds**|Sammy Christen et.al.|[2303.17592v1](http://arxiv.org/abs/2303.17592v1)|null|
+|**2023-03-30**|**Learning in Factored Domains with Information-Constrained Visual Representations**|Tyler Malloy et.al.|[2303.17508v1](http://arxiv.org/abs/2303.17508v1)|null|
+|**2023-03-29**|**Pgx: Hardware-accelerated parallel game simulation for reinforcement learning**|Sotetsu Koyamada et.al.|[2303.17503v1](http://arxiv.org/abs/2303.17503v1)|**[link](https://github.com/sotetsuk/pgx)**|
+|**2023-03-30**|**Language Models can Solve Computer Tasks**|Geunwoo Kim et.al.|[2303.17491v1](http://arxiv.org/abs/2303.17491v1)|null|
+|**2023-03-30**|**On the Analysis of Computational Delays in Reinforcement Learning-based Rate Adaptation Algorithms**|Ricardo Trancoso et.al.|[2303.17477v1](http://arxiv.org/abs/2303.17477v1)|null|
+|**2023-03-30**|**NN-Copula-CD: A Copula-Guided Interpretable Neural Network for Change Detection in Heterogeneous Remote Sensing Images**|Weiming Li et.al.|[2303.17448v1](http://arxiv.org/abs/2303.17448v1)|null|
+|**2023-03-30**|**Finetuning from Offline Reinforcement Learning: Challenges, Trade-offs and Practical Solutions**|Yicheng Luo et.al.|[2303.17396v1](http://arxiv.org/abs/2303.17396v1)|null|
+|**2023-03-30**|**Switching Pushing Skill Combined MPC and Deep Reinforcement Learning for Planar Non-prehensile Manipulation**|Bo Zhang et.al.|[2303.17379v1](http://arxiv.org/abs/2303.17379v1)|null|
+|**2023-03-30**|**A Joint Model and Data Driven Method for Distributed Estimation**|Meng He et.al.|[2303.17241v1](http://arxiv.org/abs/2303.17241v1)|null|
+|**2023-03-30**|**Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation**|Hang Du et.al.|[2303.17167v1](http://arxiv.org/abs/2303.17167v1)|**[link](https://github.com/hikvision-research/3dvision)**|
+|**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156v1](http://arxiv.org/abs/2303.17156v1)|null|
+|**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100v1](http://arxiv.org/abs/2303.17100v1)|null|
+|**2023-03-30**|**OpenMix: Exploring Outlier Samples for Misclassification Detection**|Fei Zhu et.al.|[2303.17093v1](http://arxiv.org/abs/2303.17093v1)|**[link](https://github.com/Impression2805/OpenMix)**|
+|**2023-03-29**|**Ideal Abstractions for Decision-Focused Learning**|Michael Poli et.al.|[2303.17062v1](http://arxiv.org/abs/2303.17062v1)|null|
+|**2023-03-29**|**Does Sparsity Help in Learning Misspecified Linear Bandits?**|Jialin Dong et.al.|[2303.16998v1](http://arxiv.org/abs/2303.16998v1)|null|
 |**2023-03-29**|**Towards Understanding the Effect of Pretraining Label Granularity**|Guan Zhe Hong et.al.|[2303.16887v1](http://arxiv.org/abs/2303.16887v1)|null|
 |**2023-03-29**|**The Hidden-Manifold Hopfield Model and a learning phase transition**|Matteo Negri et.al.|[2303.16880v1](http://arxiv.org/abs/2303.16880v1)|null|
 |**2023-03-29**|**Beyond Empirical Risk Minimization: Local Structure Preserving Regularization for Improving Adversarial Robustness**|Wei Wei et.al.|[2303.16861v1](http://arxiv.org/abs/2303.16861v1)|null|
@@ -854,6 +871,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**The Essential Algorithms for the Matrix Chain**|Francisco López et.al.|[2303.17352v1](http://arxiv.org/abs/2303.17352v1)|null|
 |**2023-03-28**|**Lower Bounds for Pseudo-Deterministic Counting in a Stream**|Vladimir Braverman et.al.|[2303.16287v1](http://arxiv.org/abs/2303.16287v1)|null|
 |**2023-03-27**|**Density Matrix Minimization Meets a Combinatorial Optimization Problem**|Yasuharu Okamoto et.al.|[2303.15643v1](http://arxiv.org/abs/2303.15643v1)|null|
 |**2023-03-27**|**Revisiting Area Convexity: Faster Box-Simplex Games and Spectrahedral Generalizations**|Arun Jambulapati et.al.|[2303.15627v1](http://arxiv.org/abs/2303.15627v1)|null|
@@ -986,6 +1004,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer**|Xuanyao Chen et.al.|[2303.17605v1](http://arxiv.org/abs/2303.17605v1)|null|
+|**2023-03-30**|**Anatomically aware dual-hop learning for pulmonary embolism detection in CT pulmonary angiograms**|Florin Condrea et.al.|[2303.17593v1](http://arxiv.org/abs/2303.17593v1)|null|
+|**2023-03-30**|**Quantum Circuit Fidelity Improvement with Long Short-Term Memory Networks**|Yikai Mao et.al.|[2303.17523v1](http://arxiv.org/abs/2303.17523v1)|null|
+|**2023-03-30**|**Surrogate Neural Networks for Efficient Simulation-based Trajectory Planning Optimization**|Evelyn Ruff et.al.|[2303.17468v1](http://arxiv.org/abs/2303.17468v1)|null|
+|**2023-03-30**|**Regulatory Changes in Power Systems Explored with Explainable Artificial Intelligence**|Sebatian Pütz et.al.|[2303.17455v1](http://arxiv.org/abs/2303.17455v1)|null|
+|**2023-03-30**|**NN-Copula-CD: A Copula-Guided Interpretable Neural Network for Change Detection in Heterogeneous Remote Sensing Images**|Weiming Li et.al.|[2303.17448v1](http://arxiv.org/abs/2303.17448v1)|null|
+|**2023-03-30**|**Complementary Random Masking for RGB-Thermal Semantic Segmentation**|Ukcheol Shin et.al.|[2303.17386v1](http://arxiv.org/abs/2303.17386v1)|**[link](https://github.com/UkcheolShin/CRM_RGBTSeg)**|
+|**2023-03-30**|**Incremental Self-Supervised Learning Based on Transformer for Anomaly Detection and Localization**|Wenping Jin et.al.|[2303.17354v1](http://arxiv.org/abs/2303.17354v1)|null|
+|**2023-03-30**|**The impact of training dataset size and ensemble inference strategies on head and neck auto-segmentation**|Edward G. A. Henderson et.al.|[2303.17318v1](http://arxiv.org/abs/2303.17318v1)|null|
+|**2023-03-30**|**Computationally efficient predictive control based on ANN state-space model**|Jan H. Hoekstra et.al.|[2303.17305v1](http://arxiv.org/abs/2303.17305v1)|null|
+|**2023-03-30**|**Robust offset-free constrained Model Predictive Control with Long Short-Term Memory Networks -- Extended version**|Irene Schimperna et.al.|[2303.17304v1](http://arxiv.org/abs/2303.17304v1)|null|
+|**2023-03-30**|**Exotic Tetraquark states with two $\bar{b}$-quarks and $J^P=0^+$ and $1^+$ $B_s$ states in a nonperturbatively-tuned Lattice NRQCD setup**|R. J. Hudspith et.al.|[2303.17295v1](http://arxiv.org/abs/2303.17295v1)|null|
+|**2023-03-30**|**A Joint Model and Data Driven Method for Distributed Estimation**|Meng He et.al.|[2303.17241v1](http://arxiv.org/abs/2303.17241v1)|null|
+|**2023-03-30**|**The Graphical Nadaraya-Watson Estimator on Latent Position Models**|M. Gjorgjevski et.al.|[2303.17229v1](http://arxiv.org/abs/2303.17229v1)|null|
+|**2023-03-30**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v1](http://arxiv.org/abs/2303.17218v1)|null|
+|**2023-03-30**|**Data-driven approach for modelling Reynolds stress tensor with invariance preservation**|Xuepeng Fu et.al.|[2303.17178v1](http://arxiv.org/abs/2303.17178v1)|null|
+|**2023-03-30**|**Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation**|Hang Du et.al.|[2303.17167v1](http://arxiv.org/abs/2303.17167v1)|**[link](https://github.com/hikvision-research/3dvision)**|
+|**2023-03-30**|**Optical information transfer through random unknown diffusers using electronic encoding and diffractive decoding**|Yuhang Li et.al.|[2303.17164v1](http://arxiv.org/abs/2303.17164v1)|null|
+|**2023-03-30**|**TreePiece: Faster Semantic Parsing via Tree Tokenization**|Sid Wang et.al.|[2303.17161v1](http://arxiv.org/abs/2303.17161v1)|null|
+|**2023-03-30**|**A Deep Learning Approach to Extracting Nuclear Matter Properties from Neutron Star Observations**|Plamen G. Krastev et.al.|[2303.17146v1](http://arxiv.org/abs/2303.17146v1)|null|
+|**2023-03-30**|**ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing**|Xiaodan Li et.al.|[2303.17096v1](http://arxiv.org/abs/2303.17096v1)|**[link](https://github.com/alibaba/easyrobust)**|
+|**2023-03-30**|**OpenMix: Exploring Outlier Samples for Misclassification Detection**|Fei Zhu et.al.|[2303.17093v1](http://arxiv.org/abs/2303.17093v1)|**[link](https://github.com/Impression2805/OpenMix)**|
+|**2023-03-29**|**Ideal Abstractions for Decision-Focused Learning**|Michael Poli et.al.|[2303.17062v1](http://arxiv.org/abs/2303.17062v1)|null|
+|**2023-03-29**|**A Tensor-based Convolutional Neural Network for Small Dataset Classification**|Zhenhua Chen et.al.|[2303.17061v1](http://arxiv.org/abs/2303.17061v1)|null|
+|**2023-03-29**|**Training Neural Networks is NP-Hard in Fixed Dimension**|Vincent Froese et.al.|[2303.17045v1](http://arxiv.org/abs/2303.17045v1)|null|
+|**2023-03-29**|**Deep convolutional neural networks to restore single-shot electron microscopy images**|I. Lobato et.al.|[2303.17025v1](http://arxiv.org/abs/2303.17025v1)|null|
+|**2023-03-29**|**PopSparse: Accelerated block sparse matrix multiplication on IPU**|Zhiyi Li et.al.|[2303.16999v1](http://arxiv.org/abs/2303.16999v1)|null|
+|**2023-03-29**|**ContraSim -- A Similarity Measure Based on Contrastive Learning**|Adir Rahamim et.al.|[2303.16992v1](http://arxiv.org/abs/2303.16992v1)|null|
+|**2023-03-29**|**Are Neural Architecture Search Benchmarks Well Designed? A Deeper Look Into Operation Importance**|Vasco Lopes et.al.|[2303.16938v1](http://arxiv.org/abs/2303.16938v1)|**[link](https://github.com/vascolopes/nas-benchmark-evaluation)**|
 |**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
 |**2023-03-29**|**Towards Understanding the Effect of Pretraining Label Granularity**|Guan Zhe Hong et.al.|[2303.16887v1](http://arxiv.org/abs/2303.16887v1)|null|
 |**2023-03-29**|**The Hidden-Manifold Hopfield Model and a learning phase transition**|Matteo Negri et.al.|[2303.16880v1](http://arxiv.org/abs/2303.16880v1)|null|
