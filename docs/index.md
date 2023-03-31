@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.30
+## Updated on 2023.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -19,7 +19,7 @@ layout: default
 |**2023-03-29**|**Modeling online adaptive navigation in virtual environments based on PID control**|Yuyang Wang et.al.|[2303.16635v1](http://arxiv.org/abs/2303.16635v1)|null|
 |**2023-03-29**|**Poster: Link between Bias, Node Sensitivity and Long-Tail Distribution in trained DNNs**|Mahum Naseer et.al.|[2303.16589v1](http://arxiv.org/abs/2303.16589v1)|null|
 |**2023-03-29**|**Quantum Deep Hedging**|El Amine Cherrat et.al.|[2303.16585v1](http://arxiv.org/abs/2303.16585v1)|null|
-|**2023-03-29**|**Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a Bayesian Neural Network**|Rebecca S Stone et.al.|[2303.16564v1](http://arxiv.org/abs/2303.16564v1)|null|
+|**2023-03-30**|**Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a Bayesian Neural Network**|Rebecca S Stone et.al.|[2303.16564v2](http://arxiv.org/abs/2303.16564v2)|null|
 |**2023-03-29**|**Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks**|Haoqi Yuan et.al.|[2303.16563v1](http://arxiv.org/abs/2303.16563v1)|null|
 |**2023-03-29**|**Policy Gradient Methods for Discrete Time Linear Quadratic Regulator With Random Parameters**|Deyue Li et.al.|[2303.16548v1](http://arxiv.org/abs/2303.16548v1)|null|
 |**2023-03-29**|**Importance Sampling for Stochastic Gradient Descent in Deep Neural Networks**|Thibault Lahire et.al.|[2303.16529v1](http://arxiv.org/abs/2303.16529v1)|**[link](https://github.com/thibault-lahire/impsampsgd)**|
@@ -992,7 +992,7 @@ layout: default
 |**2023-03-29**|**Convolutional neural network search for long-duration transient gravitational waves from glitching pulsars**|Luana M. Modafferi et.al.|[2303.16720v1](http://arxiv.org/abs/2303.16720v1)|null|
 |**2023-03-29**|**Latent Feature Relation Consistency for Adversarial Robustness**|Xingbin Liu et.al.|[2303.16697v1](http://arxiv.org/abs/2303.16697v1)|**[link](https://github.com/liuxingbin/lfrc)**|
 |**2023-03-29**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690v1](http://arxiv.org/abs/2303.16690v1)|null|
-|**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|null|
+|**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|**[link](https://github.com/yukiyasuda2718/3d-sr-micrometeorology)**|
 |**2023-03-29**|**Neuro-symbolic Rule Learning in Real-world Classification Tasks**|Kexin Gu Baugh et.al.|[2303.16674v1](http://arxiv.org/abs/2303.16674v1)|**[link](https://github.com/kittykg/neural-dnf-tmc)**|
 |**2023-03-29**|**Learning Flow Functions from Data with Applications to Nonlinear Oscillators**|Miguel Aguiar et.al.|[2303.16656v1](http://arxiv.org/abs/2303.16656v1)|null|
 |**2023-03-29**|**Operational Neural Networks for Efficient Hyperspectral Single-Image Super-Resolution**|Alexander Ulrichsen et.al.|[2303.16636v1](http://arxiv.org/abs/2303.16636v1)|null|
@@ -1000,7 +1000,7 @@ layout: default
 |**2023-03-29**|**Targeted Adversarial Attacks on Wind Power Forecasts**|René Heinrich et.al.|[2303.16633v1](http://arxiv.org/abs/2303.16633v1)|null|
 |**2023-03-29**|**Poster: Link between Bias, Node Sensitivity and Long-Tail Distribution in trained DNNs**|Mahum Naseer et.al.|[2303.16589v1](http://arxiv.org/abs/2303.16589v1)|null|
 |**2023-03-29**|**Quantum Deep Hedging**|El Amine Cherrat et.al.|[2303.16585v1](http://arxiv.org/abs/2303.16585v1)|null|
-|**2023-03-29**|**Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a Bayesian Neural Network**|Rebecca S Stone et.al.|[2303.16564v1](http://arxiv.org/abs/2303.16564v1)|null|
+|**2023-03-30**|**Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a Bayesian Neural Network**|Rebecca S Stone et.al.|[2303.16564v2](http://arxiv.org/abs/2303.16564v2)|null|
 |**2023-03-29**|**Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case**|Maicol Ciani et.al.|[2303.16554v1](http://arxiv.org/abs/2303.16554v1)|null|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
 |**2023-03-29**|**The Backtracking Dynamical Cavity Method**|Freya Behrens et.al.|[2303.16536v1](http://arxiv.org/abs/2303.16536v1)|null|
@@ -1022,10 +1022,10 @@ layout: default
 |**2023-03-29**|**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**|Yaobo Liang et.al.|[2303.16434v1](http://arxiv.org/abs/2303.16434v1)|null|
 |**2023-03-29**|**Real-time Controllable Denoising for Image and Video**|Zhaoyang Zhang et.al.|[2303.16425v1](http://arxiv.org/abs/2303.16425v1)|null|
 |**2023-03-29**|**Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration**|Man Zhou et.al.|[2303.16411v1](http://arxiv.org/abs/2303.16411v1)|null|
-|**2023-03-29**|**LMDA-Net:A lightweight multi-dimensional attention network for general EEG-based brain-computer interface paradigms and interpretability**|Zhengqing Miao et.al.|[2303.16407v1](http://arxiv.org/abs/2303.16407v1)|null|
+|**2023-03-29**|**LMDA-Net:A lightweight multi-dimensional attention network for general EEG-based brain-computer interface paradigms and interpretability**|Zhengqing Miao et.al.|[2303.16407v1](http://arxiv.org/abs/2303.16407v1)|**[link](https://github.com/TNTLFreiburg/braindecode)**|
 |**2023-03-29**|**A Unified Single-stage Learning Model for Estimating Fiber Orientation Distribution Functions on Heterogeneous Multi-shell Diffusion-weighted MRI**|Tianyuan Yao et.al.|[2303.16376v1](http://arxiv.org/abs/2303.16376v1)|null|
 |**2023-03-28**|**Trainable Variational Quantum-Multiblock ADMM Algorithm for Generation Scheduling**|Reza Mahroo et.al.|[2303.16318v1](http://arxiv.org/abs/2303.16318v1)|null|
-|**2023-03-28**|**Operator learning with PCA-Net: upper and lower complexity bounds**|Samuel Lanthaler et.al.|[2303.16317v1](http://arxiv.org/abs/2303.16317v1)|null|
+|**2023-03-30**|**Operator learning with PCA-Net: upper and lower complexity bounds**|Samuel Lanthaler et.al.|[2303.16317v2](http://arxiv.org/abs/2303.16317v2)|null|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
 |**2023-03-28**|**When to be critical? Performance and evolvability in different regimes of neural Ising agents**|Sina Khajehabdollahi et.al.|[2303.16195v1](http://arxiv.org/abs/2303.16195v1)|null|
 |**2023-03-28**|**Metastate analysis of the ground states of two-dimensional Ising spin glasses**|A. K. Hartmann et.al.|[2303.16192v1](http://arxiv.org/abs/2303.16192v1)|null|
