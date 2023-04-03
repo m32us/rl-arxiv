@@ -9,6 +9,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**How Efficient Are Today's Continual Learning Algorithms?**|Md Yousuf Harun et.al.|[2303.18171v1](http://arxiv.org/abs/2303.18171v1)|null|
+|**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157v1](http://arxiv.org/abs/2303.18157v1)|null|
+|**2023-03-31**|**Analysis and Comparison of Two-Level KFAC Methods for Training Deep Neural Networks**|Abdoulaye Koroko et.al.|[2303.18083v1](http://arxiv.org/abs/2303.18083v1)|null|
+|**2023-03-31**|**Models as Agents: Optimizing Multi-Step Predictions of Interactive Local Models in Model-Based Multi-Agent Reinforcement Learning**|Zifan Wu et.al.|[2303.17984v1](http://arxiv.org/abs/2303.17984v1)|null|
+|**2023-03-31**|**Data-enabled Policy Optimization for the Linear Quadratic Regulator**|Feiran Zhao et.al.|[2303.17958v1](http://arxiv.org/abs/2303.17958v1)|null|
+|**2023-03-31**|**DARKSIDE: A Heterogeneous RISC-V Compute Cluster for Extreme-Edge On-Chip DNN Inference and Training**|Angelo Garofalo et.al.|[2303.17954v1](http://arxiv.org/abs/2303.17954v1)|null|
+|**2023-03-31**|**CoSMo: a Framework for Implementing Conditioned Process Simulation Models**|Rafael S. Oyamada et.al.|[2303.17879v1](http://arxiv.org/abs/2303.17879v1)|**[link](https://github.com/raseidi/cosmo)**|
+|**2023-03-31**|**Fused Depthwise Tiling for Memory Optimization in TinyML Deep Neural Network Inference**|Rafael Stahl et.al.|[2303.17878v1](http://arxiv.org/abs/2303.17878v1)|null|
+|**2023-03-31**|**An Efficient Off-Policy Reinforcement Learning Algorithm for the Continuous-Time LQR Problem**|Victor G. Lopez et.al.|[2303.17819v1](http://arxiv.org/abs/2303.17819v1)|null|
+|**2023-03-30**|**Q-learning Based System for Path Planning with UAV Swarms in Obstacle Environments**|Alejandro Puente-Castro et.al.|[2303.17655v1](http://arxiv.org/abs/2303.17655v1)|**[link](https://github.com/themvs/uav_swarms_rl_fixed_obstacles_maps)**|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|null|
+|**2023-03-30**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v1](http://arxiv.org/abs/2303.17649v1)|null|
+|**2023-03-30**|**XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing**|Abhishek Moitra et.al.|[2303.17646v1](http://arxiv.org/abs/2303.17646v1)|**[link](https://github.com/intelligent-computing-lab-yale/xpert)**|
+|**2023-03-30**|**Utilizing Reinforcement Learning for de novo Drug Design**|Hampus Gummesson Svensson et.al.|[2303.17615v1](http://arxiv.org/abs/2303.17615v1)|null|
 |**2023-03-30**|**When Learning Is Out of Reach, Reset: Generalization in Autonomous Visuomotor Reinforcement Learning**|Zichen Zhang et.al.|[2303.17600v1](http://arxiv.org/abs/2303.17600v1)|null|
 |**2023-03-30**|**Anatomically aware dual-hop learning for pulmonary embolism detection in CT pulmonary angiograms**|Florin Condrea et.al.|[2303.17593v1](http://arxiv.org/abs/2303.17593v1)|null|
 |**2023-03-30**|**Learning Human-to-Robot Handovers from Point Clouds**|Sammy Christen et.al.|[2303.17592v1](http://arxiv.org/abs/2303.17592v1)|null|
@@ -863,6 +877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**Explicit sets with ideal robustness are achievable in combinatorial optimization problems with cost uncertainty**|Alejandro Crema et.al.|[2303.17901v1](http://arxiv.org/abs/2303.17901v1)|null|
 |**2023-03-30**|**The Essential Algorithms for the Matrix Chain**|Francisco López et.al.|[2303.17352v1](http://arxiv.org/abs/2303.17352v1)|null|
 |**2023-03-28**|**Lower Bounds for Pseudo-Deterministic Counting in a Stream**|Vladimir Braverman et.al.|[2303.16287v1](http://arxiv.org/abs/2303.16287v1)|null|
 |**2023-03-27**|**Density Matrix Minimization Meets a Combinatorial Optimization Problem**|Yasuharu Okamoto et.al.|[2303.15643v1](http://arxiv.org/abs/2303.15643v1)|null|
@@ -994,6 +1009,48 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**Adaptive Model Prediction Control-Based Multi-Terrain Trajectory Tracking Framework for Mobile Spherical Robots**|Yifan Liu et.al.|[2303.18186v1](http://arxiv.org/abs/2303.18186v1)|null|
+|**2023-03-31**|**Dynamical fluctuations in a minimal model of higher-order networks**|Leonardo Di Gaetano et.al.|[2303.18169v1](http://arxiv.org/abs/2303.18169v1)|null|
+|**2023-03-31**|**Single Image Depth Prediction Made Better: A Multivariate Gaussian Take**|Ce Liu et.al.|[2303.18164v1](http://arxiv.org/abs/2303.18164v1)|null|
+|**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157v1](http://arxiv.org/abs/2303.18157v1)|null|
+|**2023-03-31**|**Robust LSTM-based Vehicle Velocity Observer for Regular and Near-limits Applications**|Agapius Bou Ghosn et.al.|[2303.18094v1](http://arxiv.org/abs/2303.18094v1)|null|
+|**2023-03-31**|**Analysis and Comparison of Two-Level KFAC Methods for Training Deep Neural Networks**|Abdoulaye Koroko et.al.|[2303.18083v1](http://arxiv.org/abs/2303.18083v1)|null|
+|**2023-03-30**|**Inferring networks from time series: a neural approach**|Thomas Gaskin et.al.|[2303.18059v1](http://arxiv.org/abs/2303.18059v1)|**[link](https://github.com/thgaskin/neuralabm)**|
+|**2023-03-31**|**The Topology-Overlap Trade-Off in Retinal Arteriole-Venule Segmentation**|Angel Victor Juanco Muller et.al.|[2303.18022v1](http://arxiv.org/abs/2303.18022v1)|null|
+|**2023-03-31**|**Rapid prediction of lab-grown tissue properties using deep learning**|Allison E. Andrews et.al.|[2303.18017v1](http://arxiv.org/abs/2303.18017v1)|null|
+|**2023-03-31**|**Modeling meteorite craters by impacting melted tin on sand**|H. Y. Huang et.al.|[2303.18016v1](http://arxiv.org/abs/2303.18016v1)|null|
+|**2023-03-31**|**Neural Network Entropy (NNetEn): EEG Signals and Chaotic Time Series Separation by Entropy Features, Python Package for NNetEn Calculation**|Andrei Velichko et.al.|[2303.17995v1](http://arxiv.org/abs/2303.17995v1)|null|
+|**2023-03-31**|**Unsupervised crack detection on complex stone masonry surfaces**|Panagiotis Agrafiotis et.al.|[2303.17989v1](http://arxiv.org/abs/2303.17989v1)|null|
+|**2023-03-31**|**Learning with Explicit Shape Priors for Medical Image Segmentation**|Xin You et.al.|[2303.17967v1](http://arxiv.org/abs/2303.17967v1)|null|
+|**2023-03-31**|**DARKSIDE: A Heterogeneous RISC-V Compute Cluster for Extreme-Edge On-Chip DNN Inference and Training**|Angelo Garofalo et.al.|[2303.17954v1](http://arxiv.org/abs/2303.17954v1)|null|
+|**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951v1](http://arxiv.org/abs/2303.17951v1)|null|
+|**2023-03-31**|**LyAl-Net: A high-efficiency Lyman- $α$ forest simulation with a neural network**|Chotipan Boonkongkird et.al.|[2303.17939v1](http://arxiv.org/abs/2303.17939v1)|null|
+|**2023-03-31**|**Learning-based Observer Evaluated on the Kinematic Bicycle Model**|Agapius Bou Ghosn et.al.|[2303.17933v1](http://arxiv.org/abs/2303.17933v1)|null|
+|**2023-03-31**|**Beyond Multilayer Perceptrons: Investigating Complex Topologies in Neural Networks**|Tommaso Boccato et.al.|[2303.17925v1](http://arxiv.org/abs/2303.17925v1)|null|
+|**2023-03-31**|**Multiple Instance Ensembling For Paranasal Anomaly Classification In The Maxillary Sinus**|Debayan Bhattacharya et.al.|[2303.17915v1](http://arxiv.org/abs/2303.17915v1)|null|
+|**2023-03-31**|**Single-ended Recovery of Optical fiber Transmission Matrices using Neural Networks**|Yijie Zheng et.al.|[2303.17883v1](http://arxiv.org/abs/2303.17883v1)|null|
+|**2023-03-31**|**CoSMo: a Framework for Implementing Conditioned Process Simulation Models**|Rafael S. Oyamada et.al.|[2303.17879v1](http://arxiv.org/abs/2303.17879v1)|**[link](https://github.com/raseidi/cosmo)**|
+|**2023-03-31**|**Fused Depthwise Tiling for Memory Optimization in TinyML Deep Neural Network Inference**|Rafael Stahl et.al.|[2303.17878v1](http://arxiv.org/abs/2303.17878v1)|null|
+|**2023-03-31**|**Zero-point entropies of spin-jam and spin-glass states in a frustrated magnet**|Chairote Piyakulworawat et.al.|[2303.17871v1](http://arxiv.org/abs/2303.17871v1)|null|
+|**2023-03-31**|**Improved Difference Images for Change Detection Classifiers in SAR Imagery Using Deep Learning**|Janne Alatalo et.al.|[2303.17835v1](http://arxiv.org/abs/2303.17835v1)|**[link](https://github.com/janne-alatalo/sar-change-detection)**|
+|**2023-03-31**|**An interpretable neural network-based non-proportional odds model for ordinal regression with continuous response**|Akifumi Okuno et.al.|[2303.17823v1](http://arxiv.org/abs/2303.17823v1)|null|
+|**2023-03-31**|**Complexity analysis of weakly noisy quantum states via quantum machine learning**|Yusen Wu et.al.|[2303.17813v1](http://arxiv.org/abs/2303.17813v1)|null|
+|**2023-03-31**|**Generalized Anthropomorphic Functional Grasping with Minimal Demonstrations**|Wei Wei et.al.|[2303.17808v1](http://arxiv.org/abs/2303.17808v1)|null|
+|**2023-03-31**|**On the Effect of Initialization: The Scaling Path of 2-Layer Neural Networks**|Sebastian Neumayer et.al.|[2303.17805v1](http://arxiv.org/abs/2303.17805v1)|null|
+|**2023-03-31**|**Semi-Weakly Supervised Object Kinematic Motion Prediction**|Gengxin Liu et.al.|[2303.17774v1](http://arxiv.org/abs/2303.17774v1)|null|
+|**2023-03-31**|**MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis**|Mohammad Khodadad et.al.|[2303.17748v1](http://arxiv.org/abs/2303.17748v1)|null|
+|**2023-03-30**|**Regularized Shallow Image Prior for Electrical Impedance Tomography**|Zhe Liu et.al.|[2303.17735v1](http://arxiv.org/abs/2303.17735v1)|null|
+|**2023-03-30**|**Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network**|Chinmay Rane et.al.|[2303.17732v1](http://arxiv.org/abs/2303.17732v1)|null|
+|**2023-03-30**|**BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Neural Networks on Commodity CPU Hardware**|Nicholas Meisburger et.al.|[2303.17727v1](http://arxiv.org/abs/2303.17727v1)|null|
+|**2023-03-30**|**Generating Adversarial Samples in Mini-Batches May Be Detrimental To Adversarial Robustness**|Timothy Redgrave et.al.|[2303.17720v1](http://arxiv.org/abs/2303.17720v1)|null|
+|**2023-03-30**|**Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem**|Purvish Jajal et.al.|[2303.17708v1](http://arxiv.org/abs/2303.17708v1)|null|
+|**2023-03-30**|**Bayes-optimal inference for spreading processes on random networks**|D. Ghio et.al.|[2303.17704v1](http://arxiv.org/abs/2303.17704v1)|null|
+|**2023-03-30**|**Progress towards an improved particle flow algorithm at CMS with machine learning**|Farouk Mokhtar et.al.|[2303.17657v1](http://arxiv.org/abs/2303.17657v1)|null|
+|**2023-03-30**|**Incommensurability-Induced Enhancement of Superconductivity in One Dimensional Critical Systems**|Ricardo Oliveira et.al.|[2303.17656v1](http://arxiv.org/abs/2303.17656v1)|null|
+|**2023-03-30**|**Q-learning Based System for Path Planning with UAV Swarms in Obstacle Environments**|Alejandro Puente-Castro et.al.|[2303.17655v1](http://arxiv.org/abs/2303.17655v1)|**[link](https://github.com/themvs/uav_swarms_rl_fixed_obstacles_maps)**|
+|**2023-03-30**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v1](http://arxiv.org/abs/2303.17649v1)|null|
+|**2023-03-30**|**XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing**|Abhishek Moitra et.al.|[2303.17646v1](http://arxiv.org/abs/2303.17646v1)|**[link](https://github.com/intelligent-computing-lab-yale/xpert)**|
+|**2023-03-30**|**Interplay of many-body interactions and quasiperiodic disorder in the all-band-flat diamond chain**|Aamna Ahmed et.al.|[2303.17633v1](http://arxiv.org/abs/2303.17633v1)|null|
 |**2023-03-30**|**SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer**|Xuanyao Chen et.al.|[2303.17605v1](http://arxiv.org/abs/2303.17605v1)|null|
 |**2023-03-30**|**Anatomically aware dual-hop learning for pulmonary embolism detection in CT pulmonary angiograms**|Florin Condrea et.al.|[2303.17593v1](http://arxiv.org/abs/2303.17593v1)|null|
 |**2023-03-30**|**Quantum Circuit Fidelity Improvement with Long Short-Term Memory Networks**|Yikai Mao et.al.|[2303.17523v1](http://arxiv.org/abs/2303.17523v1)|null|
