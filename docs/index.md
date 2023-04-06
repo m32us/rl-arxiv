@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Conformal Off-Policy Evaluation in Markov Decision Processes**|Daniele Foffano et.al.|[2304.02574v1](http://arxiv.org/abs/2304.02574v1)|null|
+|**2023-04-05**|**Self-Supervised Siamese Autoencoders**|Friederike Baier et.al.|[2304.02549v1](http://arxiv.org/abs/2304.02549v1)|null|
+|**2023-04-05**|**Multi-annotator Deep Learning: A Probabilistic Framework for Classification**|Marek Herde et.al.|[2304.02539v1](http://arxiv.org/abs/2304.02539v1)|**[link](https://github.com/ies-research/multi-annotator-deep-learning)**|
+|**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480v1](http://arxiv.org/abs/2304.02480v1)|null|
+|**2023-04-05**|**Comparing and improving hybrid deep learning algorithms for identifying and locating primary vertices**|Simon Akar et.al.|[2304.02423v1](http://arxiv.org/abs/2304.02423v1)|null|
+|**2023-04-05**|**AutoRL Hyperparameter Landscapes**|Aditya Mohan et.al.|[2304.02396v1](http://arxiv.org/abs/2304.02396v1)|null|
+|**2023-04-05**|**Effective control of two-dimensional Rayleigh--Bénard convection: invariant multi-agent reinforcement learning is all you need**|Colin Vignon et.al.|[2304.02370v1](http://arxiv.org/abs/2304.02370v1)|null|
+|**2023-04-05**|**How to choose your best allies for a transferable attack?**|Thibault Maho et.al.|[2304.02312v1](http://arxiv.org/abs/2304.02312v1)|**[link](https://github.com/t-maho/transferability_measure_fit)**|
+|**2023-04-05**|**Efficient Deduplication and Leakage Detection in Large Scale Image Datasets with a focus on the CrowdAI Mapping Challenge Dataset**|Yeshwanth Kumar Adimoolam et.al.|[2304.02296v1](http://arxiv.org/abs/2304.02296v1)|null|
+|**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264v1](http://arxiv.org/abs/2304.02264v1)|null|
+|**2023-04-05**|**Optimal Energy Storage Scheduling for Wind Curtailment Reduction and Energy Arbitrage: A Deep Reinforcement Learning Approach**|Jinhao Li et.al.|[2304.02239v1](http://arxiv.org/abs/2304.02239v1)|null|
+|**2023-04-05**|**Towards Self-Explainability of Deep Neural Networks with Heatmap Captioning and Large-Language Models**|Osman Tursun et.al.|[2304.02202v1](http://arxiv.org/abs/2304.02202v1)|null|
+|**2023-04-04**|**Online augmentation of learned grasp sequence policies for more adaptable and data-efficient in-hand manipulation**|Ethan K. Gordon et.al.|[2304.02052v1](http://arxiv.org/abs/2304.02052v1)|null|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
 |**2023-04-04**|**Risk-Aware Distributed Multi-Agent Reinforcement Learning**|Abdullah Al Maruf et.al.|[2304.02005v1](http://arxiv.org/abs/2304.02005v1)|null|
 |**2023-04-04**|**Incremental Verification of Neural Networks**|Shubham Ugare et.al.|[2304.01874v1](http://arxiv.org/abs/2304.01874v1)|null|
@@ -946,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**A Simple 1.5-Approximation Algorithm for a Wide Range of Max-SMTI Generalizations**|Gergely Csáji et.al.|[2304.02558v1](http://arxiv.org/abs/2304.02558v1)|null|
+|**2023-04-05**|**Doubly Stochastic Matrix Models for Estimation of Distribution Algorithms**|Valentino Santucci et.al.|[2304.02458v1](http://arxiv.org/abs/2304.02458v1)|null|
 |**2023-04-04**|**Gamma counterparts for robust nonlinear combinatorial and discrete optimization**|Dennis Adelhütte et.al.|[2304.01688v1](http://arxiv.org/abs/2304.01688v1)|null|
 |**2023-04-04**|**Adaptive Image Compression via Optimal Mesh Refinement**|Michael Feischl et.al.|[2304.01640v1](http://arxiv.org/abs/2304.01640v1)|null|
 |**2023-04-02**|**A greedy approach for increased vehicle utilization in ridesharing networks**|Aqsa Ashraf Makhdomi et.al.|[2304.01225v1](http://arxiv.org/abs/2304.01225v1)|null|
@@ -1085,6 +1100,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
+|**2023-04-05**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v1](http://arxiv.org/abs/2304.02628v1)|null|
+|**2023-04-05**|**Deep learning estimation of modified Zernike coefficients for image point spread functions**|Abu Bucker Siddik et.al.|[2304.02576v1](http://arxiv.org/abs/2304.02576v1)|null|
+|**2023-04-05**|**Strong-disorder renormalization group approach to the Anderson model using Raleigh-Schrödinger perturbation theory**|Rachel Wortis et.al.|[2304.02564v1](http://arxiv.org/abs/2304.02564v1)|null|
+|**2023-04-05**|**Self-Supervised Siamese Autoencoders**|Friederike Baier et.al.|[2304.02549v1](http://arxiv.org/abs/2304.02549v1)|null|
+|**2023-04-05**|**Multi-annotator Deep Learning: A Probabilistic Framework for Classification**|Marek Herde et.al.|[2304.02539v1](http://arxiv.org/abs/2304.02539v1)|**[link](https://github.com/ies-research/multi-annotator-deep-learning)**|
+|**2023-04-05**|**Quantifying the Roles of Visual, Linguistic, and Visual-Linguistic Complexity in Verb Acquisition**|Yuchen Zhou et.al.|[2304.02492v1](http://arxiv.org/abs/2304.02492v1)|**[link](https://github.com/flamingozh/verb_learning_quantification)**|
+|**2023-04-05**|**Comparing and improving hybrid deep learning algorithms for identifying and locating primary vertices**|Simon Akar et.al.|[2304.02423v1](http://arxiv.org/abs/2304.02423v1)|null|
+|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|**[link](https://github.com/joerowelll/comp0132_rjxz25)**|
+|**2023-04-05**|**Learning earthquake sources using symmetric autoencoders**|Pawan Bharadwaj et.al.|[2304.02404v1](http://arxiv.org/abs/2304.02404v1)|null|
+|**2023-04-05**|**How good Neural Networks interpretation methods really are? A quantitative benchmark**|Antoine Passemiers et.al.|[2304.02383v1](http://arxiv.org/abs/2304.02383v1)|null|
+|**2023-04-05**|**Neural Cellular Automata for Solidification Microstructure Modelling**|Jian Tang et.al.|[2304.02354v1](http://arxiv.org/abs/2304.02354v1)|null|
+|**2023-04-05**|**SMPConv: Self-moving Point Representations for Continuous Convolution**|Sanghyeon Kim et.al.|[2304.02330v1](http://arxiv.org/abs/2304.02330v1)|null|
+|**2023-04-05**|**Efficient CNNs via Passive Filter Pruning**|Arshdeep Singh et.al.|[2304.02319v1](http://arxiv.org/abs/2304.02319v1)|null|
+|**2023-04-05**|**How to choose your best allies for a transferable attack?**|Thibault Maho et.al.|[2304.02312v1](http://arxiv.org/abs/2304.02312v1)|**[link](https://github.com/t-maho/transferability_measure_fit)**|
+|**2023-04-05**|**Efficient Deduplication and Leakage Detection in Large Scale Image Datasets with a focus on the CrowdAI Mapping Challenge Dataset**|Yeshwanth Kumar Adimoolam et.al.|[2304.02296v1](http://arxiv.org/abs/2304.02296v1)|null|
+|**2023-04-05**|**About optimal loss function for training physics-informed neural networks under respecting causality**|Vasiliy A. Es'kin et.al.|[2304.02282v1](http://arxiv.org/abs/2304.02282v1)|null|
+|**2023-04-05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
+|**2023-04-05**|**Deep Perceptual Similarity is Adaptable to Ambiguous Contexts**|Gustav Grund Pihlgren et.al.|[2304.02265v1](http://arxiv.org/abs/2304.02265v1)|null|
+|**2023-04-05**|**Low Latency Computing for Time Stretch Instruments**|Tingyi Zhou et.al.|[2304.02249v1](http://arxiv.org/abs/2304.02249v1)|null|
+|**2023-04-05**|**Local Intrinsic Dimensional Entropy**|Rohan Ghosh et.al.|[2304.02223v1](http://arxiv.org/abs/2304.02223v1)|null|
+|**2023-04-05**|**On the universal approximation property of radial basis function neural networks**|Aysu Ismayilova et.al.|[2304.02220v1](http://arxiv.org/abs/2304.02220v1)|null|
+|**2023-04-05**|**Towards Self-Explainability of Deep Neural Networks with Heatmap Captioning and Large-Language Models**|Osman Tursun et.al.|[2304.02202v1](http://arxiv.org/abs/2304.02202v1)|null|
+|**2023-04-05**|**Estimating Patterns of Classical and Quantum Skyrmion States**|Vladimir V. Mazurenko et.al.|[2304.02201v1](http://arxiv.org/abs/2304.02201v1)|null|
+|**2023-04-05**|**Knowledge Combination to Learn Rotated Detection Without Rotated Annotation**|Tianyu Zhu et.al.|[2304.02199v1](http://arxiv.org/abs/2304.02199v1)|null|
+|**2023-04-05**|**A system for exploring big data: an iterative k-means searchlight for outlier detection on open health data**|A. Ravishankar Rao et.al.|[2304.02189v1](http://arxiv.org/abs/2304.02189v1)|null|
+|**2023-04-04**|**Initialization Approach for Nonlinear State-Space Identification via the Subspace Encoder Approach**|Rishi Ramkannan et.al.|[2304.02119v1](http://arxiv.org/abs/2304.02119v1)|null|
+|**2023-04-04**|**Deep learning for diffusion in porous media**|Krzysztof M. Graczyk et.al.|[2304.02104v1](http://arxiv.org/abs/2304.02104v1)|null|
+|**2023-04-04**|**Performance Analysis of ML-based MTC Traffic Pattern Predictors**|David E. Ruiz-Guirola et.al.|[2304.02100v1](http://arxiv.org/abs/2304.02100v1)|null|
+|**2023-04-04**|**The CAMELS project: Expanding the galaxy formation model space with new ASTRID and 28-parameter TNG and SIMBA suites**|Yueying Ni et.al.|[2304.02096v1](http://arxiv.org/abs/2304.02096v1)|null|
+|**2023-04-04**|**Scalable and Accurate Self-supervised Multimodal Representation Learning without Aligned Video and Text Data**|Vladislav Lialin et.al.|[2304.02080v1](http://arxiv.org/abs/2304.02080v1)|null|
+|**2023-04-04**|**Effective Theory of Transformers at Initialization**|Emily Dinan et.al.|[2304.02034v1](http://arxiv.org/abs/2304.02034v1)|null|
 |**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
 |**2023-04-04**|**Multi-Level Contrastive Learning for Dense Prediction Task**|Qiushan Guo et.al.|[2304.02010v1](http://arxiv.org/abs/2304.02010v1)|**[link](https://github.com/guoqiushan/mcl)**|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
