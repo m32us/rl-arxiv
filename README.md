@@ -1,4 +1,4 @@
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,12 +39,12 @@
 |**2023-04-03**|**Empirical Design in Reinforcement Learning**|Andrew Patterson et.al.|[2304.01315v1](http://arxiv.org/abs/2304.01315v1)|null|
 |**2023-04-03**|**PyFlyt -- UAV Simulation Environments for Reinforcement Learning Research**|Jun Jet Tai et.al.|[2304.01305v1](http://arxiv.org/abs/2304.01305v1)|null|
 |**2023-04-03**|**Non-Generative Energy Based Models**|Jacob Piland et.al.|[2304.01297v1](http://arxiv.org/abs/2304.01297v1)|null|
-|**2023-04-03**|**X-TIME: An in-memory engine for accelerating machine learning on tabular data with CAMs**|Giacomo Pedretti et.al.|[2304.01285v1](http://arxiv.org/abs/2304.01285v1)|**[link](https://github.com/hewlettpackard/x-time)**|
+|**2023-04-05**|**X-TIME: An in-memory engine for accelerating machine learning on tabular data with CAMs**|Giacomo Pedretti et.al.|[2304.01285v2](http://arxiv.org/abs/2304.01285v2)|**[link](https://github.com/hewlettpackard/x-time)**|
 |**2023-04-03**|**Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation**|Yan Jin et.al.|[2304.01279v1](http://arxiv.org/abs/2304.01279v1)|**[link](https://github.com/jinyan-06/shike)**|
 |**2023-04-03**|**Unified Emulation-Simulation Training Environment for Autonomous Cyber Agents**|Li Li et.al.|[2304.01244v1](http://arxiv.org/abs/2304.01244v1)|null|
 |**2023-04-03**|**Online Distillation with Continual Learning for Cyclic Domain Shifts**|Joachim Houyon et.al.|[2304.01239v1](http://arxiv.org/abs/2304.01239v1)|null|
 |**2023-04-02**|**SEENN: Towards Temporal Spiking Early-Exit Neural Networks**|Yuhang Li et.al.|[2304.01230v1](http://arxiv.org/abs/2304.01230v1)|null|
-|**2023-04-03**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203v1](http://arxiv.org/abs/2304.01203v1)|null|
+|**2023-04-05**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203v2](http://arxiv.org/abs/2304.01203v2)|null|
 |**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159v1](http://arxiv.org/abs/2304.01159v1)|null|
 |**2023-04-03**|**Theoretical guarantees for neural control variates in MCMC**|Denis Belomestny et.al.|[2304.01111v1](http://arxiv.org/abs/2304.01111v1)|null|
 |**2023-04-03**|**RunBugRun -- An Executable Dataset for Automated Program Repair**|Julian Aron Prenner et.al.|[2304.01102v1](http://arxiv.org/abs/2304.01102v1)|null|
@@ -948,7 +948,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -960,7 +960,7 @@
 |**2023-03-24**|**A Multilevel Stochastic Approximation Algorithm for Value-at-Risk and Expected Shortfall Estimation**|Stéphane Crépey et.al.|[2304.01207v1](http://arxiv.org/abs/2304.01207v1)|null|
 |**2023-04-03**|**A Tutorial Introduction to Reinforcement Learning**|Mathukumalli Vidyasagar et.al.|[2304.00803v1](http://arxiv.org/abs/2304.00803v1)|null|
 |**2023-04-03**|**Combinatorial Optimization enriched Machine Learning to solve the Dynamic Vehicle Routing Problem with Time Windows**|Léo Baty et.al.|[2304.00789v1](http://arxiv.org/abs/2304.00789v1)|**[link](https://github.com/tumbais/euro-meets-neurips-2022)**|
-|**2023-04-02**|**Mixed-Integer Programming Approaches to Generalized Submodular Optimization and its Applications**|Simge Küçükyavuz et.al.|[2304.00479v1](http://arxiv.org/abs/2304.00479v1)|null|
+|**2023-04-04**|**Mixed-Integer Programming Approaches to Generalized Submodular Optimization and its Applications**|Simge Küçükyavuz et.al.|[2304.00479v2](http://arxiv.org/abs/2304.00479v2)|null|
 |**2023-03-31**|**Explicit sets with ideal robustness are achievable in combinatorial optimization problems with cost uncertainty**|Alejandro Crema et.al.|[2303.17901v1](http://arxiv.org/abs/2303.17901v1)|null|
 |**2023-03-30**|**The Essential Algorithms for the Matrix Chain**|Francisco López et.al.|[2303.17352v1](http://arxiv.org/abs/2303.17352v1)|null|
 |**2023-03-28**|**Lower Bounds for Pseudo-Deterministic Counting in a Stream**|Vladimir Braverman et.al.|[2303.16287v1](http://arxiv.org/abs/2303.16287v1)|null|
@@ -1089,7 +1089,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
 ## Optimization
 
@@ -2536,7 +2536,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -2606,5 +2606,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
