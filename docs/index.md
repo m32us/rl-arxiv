@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -18,7 +18,7 @@ layout: default
 |**2023-04-06**|**Investigating Chain-of-thought with ChatGPT for Stance Detection on Social Media**|Bowen Zhang et.al.|[2304.03087v1](http://arxiv.org/abs/2304.03087v1)|null|
 |**2023-04-06**|**Unconstrained Parametrization of Dissipative and Contracting Neural Ordinary Differential Equations**|Daniele Martinelli et.al.|[2304.02976v1](http://arxiv.org/abs/2304.02976v1)|**[link](https://github.com/decodepfl/noderen)**|
 |**2023-04-06**|**Computer-aided Diagnosis of Malaria through Transfer Learning using the ResNet50 Backbone**|Sanya Sinha et.al.|[2304.02925v1](http://arxiv.org/abs/2304.02925v1)|null|
-|**2023-04-06**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v1](http://arxiv.org/abs/2304.02911v1)|null|
+|**2023-04-07**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v2](http://arxiv.org/abs/2304.02911v2)|null|
 |**2023-04-06**|**Towards Efficient MCMC Sampling in Bayesian Neural Networks by Exploiting Symmetry**|Jonas Gregor Wiese et.al.|[2304.02902v1](http://arxiv.org/abs/2304.02902v1)|null|
 |**2023-04-06**|**Synthetic Sample Selection for Generalized Zero-Shot Learning**|Shreyank N Gowda et.al.|[2304.02846v1](http://arxiv.org/abs/2304.02846v1)|null|
 |**2023-04-06**|**Deep Reinforcement Learning Based Vehicle Selection for Asynchronous Federated Learning Enabled Vehicular Edge Computing**|Qiong Wu et.al.|[2304.02832v1](http://arxiv.org/abs/2304.02832v1)|null|
@@ -1146,7 +1146,7 @@ layout: default
 |**2023-04-06**|**Mask Detection and Classification in Thermal Face Images**|Natalia Kowalczyk et.al.|[2304.02931v1](http://arxiv.org/abs/2304.02931v1)|**[link](https://github.com/natkowalczyk/thermal-mask-classification-and-detection)**|
 |**2023-04-06**|**Computer-aided Diagnosis of Malaria through Transfer Learning using the ResNet50 Backbone**|Sanya Sinha et.al.|[2304.02925v1](http://arxiv.org/abs/2304.02925v1)|null|
 |**2023-04-06**|**Classification of Superstatistical Features in High Dimensions**|Urte Adomaityte et.al.|[2304.02912v1](http://arxiv.org/abs/2304.02912v1)|null|
-|**2023-04-06**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v1](http://arxiv.org/abs/2304.02911v1)|null|
+|**2023-04-07**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v2](http://arxiv.org/abs/2304.02911v2)|null|
 |**2023-04-06**|**Towards Efficient MCMC Sampling in Bayesian Neural Networks by Exploiting Symmetry**|Jonas Gregor Wiese et.al.|[2304.02902v1](http://arxiv.org/abs/2304.02902v1)|null|
 |**2023-04-06**|**Automatic ICD-10 Code Association: A Challenging Task on French Clinical Texts**|Yakini Tchouka et.al.|[2304.02886v1](http://arxiv.org/abs/2304.02886v1)|null|
 |**2023-04-06**|**Learning to Learn with Indispensable Connections**|Sambhavi Tiwari et.al.|[2304.02862v1](http://arxiv.org/abs/2304.02862v1)|null|
@@ -1168,7 +1168,7 @@ layout: default
 |**2023-04-05**|**Quantum Coding Transitions in the Presence of Boundary Dissipation**|Izabella Lovas et.al.|[2304.02664v1](http://arxiv.org/abs/2304.02664v1)|null|
 |**2023-04-05**|**Deep learning approach for identification of HII regions during reionization in 21-cm observations -- II. foreground contamination**|Michele Bianco et.al.|[2304.02661v1](http://arxiv.org/abs/2304.02661v1)|null|
 |**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
-|**2023-04-05**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v1](http://arxiv.org/abs/2304.02628v1)|null|
+|**2023-04-07**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v2](http://arxiv.org/abs/2304.02628v2)|null|
 |**2023-04-05**|**Deep learning estimation of modified Zernike coefficients for image point spread functions**|Abu Bucker Siddik et.al.|[2304.02576v1](http://arxiv.org/abs/2304.02576v1)|null|
 |**2023-04-05**|**Strong-disorder renormalization group approach to the Anderson model using Raleigh-Schrödinger perturbation theory**|Rachel Wortis et.al.|[2304.02564v1](http://arxiv.org/abs/2304.02564v1)|null|
 |**2023-04-05**|**Self-Supervised Siamese Autoencoders**|Friederike Baier et.al.|[2304.02549v1](http://arxiv.org/abs/2304.02549v1)|null|

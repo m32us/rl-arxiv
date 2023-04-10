@@ -1,4 +1,4 @@
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2023-04-06**|**Investigating Chain-of-thought with ChatGPT for Stance Detection on Social Media**|Bowen Zhang et.al.|[2304.03087v1](http://arxiv.org/abs/2304.03087v1)|null|
 |**2023-04-06**|**Unconstrained Parametrization of Dissipative and Contracting Neural Ordinary Differential Equations**|Daniele Martinelli et.al.|[2304.02976v1](http://arxiv.org/abs/2304.02976v1)|**[link](https://github.com/decodepfl/noderen)**|
 |**2023-04-06**|**Computer-aided Diagnosis of Malaria through Transfer Learning using the ResNet50 Backbone**|Sanya Sinha et.al.|[2304.02925v1](http://arxiv.org/abs/2304.02925v1)|null|
-|**2023-04-06**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v1](http://arxiv.org/abs/2304.02911v1)|null|
+|**2023-04-07**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v2](http://arxiv.org/abs/2304.02911v2)|null|
 |**2023-04-06**|**Towards Efficient MCMC Sampling in Bayesian Neural Networks by Exploiting Symmetry**|Jonas Gregor Wiese et.al.|[2304.02902v1](http://arxiv.org/abs/2304.02902v1)|null|
 |**2023-04-06**|**Synthetic Sample Selection for Generalized Zero-Shot Learning**|Shreyank N Gowda et.al.|[2304.02846v1](http://arxiv.org/abs/2304.02846v1)|null|
 |**2023-04-06**|**Deep Reinforcement Learning Based Vehicle Selection for Asynchronous Federated Learning Enabled Vehicular Edge Computing**|Qiong Wu et.al.|[2304.02832v1](http://arxiv.org/abs/2304.02832v1)|null|
@@ -979,7 +979,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1126,7 +1126,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## Optimization
 
@@ -1156,7 +1156,7 @@
 |**2023-04-06**|**Mask Detection and Classification in Thermal Face Images**|Natalia Kowalczyk et.al.|[2304.02931v1](http://arxiv.org/abs/2304.02931v1)|**[link](https://github.com/natkowalczyk/thermal-mask-classification-and-detection)**|
 |**2023-04-06**|**Computer-aided Diagnosis of Malaria through Transfer Learning using the ResNet50 Backbone**|Sanya Sinha et.al.|[2304.02925v1](http://arxiv.org/abs/2304.02925v1)|null|
 |**2023-04-06**|**Classification of Superstatistical Features in High Dimensions**|Urte Adomaityte et.al.|[2304.02912v1](http://arxiv.org/abs/2304.02912v1)|null|
-|**2023-04-06**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v1](http://arxiv.org/abs/2304.02911v1)|null|
+|**2023-04-07**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v2](http://arxiv.org/abs/2304.02911v2)|null|
 |**2023-04-06**|**Towards Efficient MCMC Sampling in Bayesian Neural Networks by Exploiting Symmetry**|Jonas Gregor Wiese et.al.|[2304.02902v1](http://arxiv.org/abs/2304.02902v1)|null|
 |**2023-04-06**|**Automatic ICD-10 Code Association: A Challenging Task on French Clinical Texts**|Yakini Tchouka et.al.|[2304.02886v1](http://arxiv.org/abs/2304.02886v1)|null|
 |**2023-04-06**|**Learning to Learn with Indispensable Connections**|Sambhavi Tiwari et.al.|[2304.02862v1](http://arxiv.org/abs/2304.02862v1)|null|
@@ -1178,7 +1178,7 @@
 |**2023-04-05**|**Quantum Coding Transitions in the Presence of Boundary Dissipation**|Izabella Lovas et.al.|[2304.02664v1](http://arxiv.org/abs/2304.02664v1)|null|
 |**2023-04-05**|**Deep learning approach for identification of HII regions during reionization in 21-cm observations -- II. foreground contamination**|Michele Bianco et.al.|[2304.02661v1](http://arxiv.org/abs/2304.02661v1)|null|
 |**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
-|**2023-04-05**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v1](http://arxiv.org/abs/2304.02628v1)|null|
+|**2023-04-07**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v2](http://arxiv.org/abs/2304.02628v2)|null|
 |**2023-04-05**|**Deep learning estimation of modified Zernike coefficients for image point spread functions**|Abu Bucker Siddik et.al.|[2304.02576v1](http://arxiv.org/abs/2304.02576v1)|null|
 |**2023-04-05**|**Strong-disorder renormalization group approach to the Anderson model using Raleigh-Schrödinger perturbation theory**|Rachel Wortis et.al.|[2304.02564v1](http://arxiv.org/abs/2304.02564v1)|null|
 |**2023-04-05**|**Self-Supervised Siamese Autoencoders**|Friederike Baier et.al.|[2304.02549v1](http://arxiv.org/abs/2304.02549v1)|null|
@@ -2650,7 +2650,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -2721,5 +2721,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
