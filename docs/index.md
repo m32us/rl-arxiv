@@ -9,6 +9,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Full Gradient Deep Reinforcement Learning for Average-Reward Criterion**|Tejas Pagare et.al.|[2304.03729v1](http://arxiv.org/abs/2304.03729v1)|null|
+|**2023-04-05**|**HumanLight: Incentivizing Ridesharing via Human-centric Deep Reinforcement Learning in Traffic Signal Control**|Dimitris M. Vlachogiannis et.al.|[2304.03697v1](http://arxiv.org/abs/2304.03697v1)|**[link](https://github.com/dimvlachogiannis/humanlight)**|
+|**2023-04-07**|**ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**|Xiaoming Zhao et.al.|[2304.03608v1](http://arxiv.org/abs/2304.03608v1)|null|
+|**2023-04-07**|**Deep Reinforcement Learning-Based Mapless Crowd Navigation with Perceived Risk of the Moving Crowd for Mobile Robots**|Hafiq Anas et.al.|[2304.03593v1](http://arxiv.org/abs/2304.03593v1)|null|
+|**2023-04-07**|**Combined Registration and Fusion of Evidential Occupancy Grid Maps for Live Digital Twins of Traffic**|Raphael van Kempen et.al.|[2304.03578v1](http://arxiv.org/abs/2304.03578v1)|null|
+|**2023-04-07**|**CRISP: Curriculum inducing Primitive Informed Subgoal Prediction for Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2304.03535v1](http://arxiv.org/abs/2304.03535v1)|null|
+|**2023-04-07**|**On-site Noise Exposure technique for noise-robust machine fault classification**|Wonjun Yi et.al.|[2304.03522v1](http://arxiv.org/abs/2304.03522v1)|null|
+|**2023-04-07**|**Improving Adaptive Real-Time Video Communication Via Cross-layer Optimization**|Yueheng Li et.al.|[2304.03505v1](http://arxiv.org/abs/2304.03505v1)|null|
+|**2023-04-07**|**Continuous Input Embedding Size Search For Recommender Systems**|Yunke Qu et.al.|[2304.03501v1](http://arxiv.org/abs/2304.03501v1)|null|
+|**2023-04-07**|**Architecture-Preserving Provable Repair of Deep Neural Networks**|Zhe Tao et.al.|[2304.03496v1](http://arxiv.org/abs/2304.03496v1)|null|
+|**2023-04-07**|**Deep Reinforcement Learning Based Optimal Infinite-Horizon Control of Probabilistic Boolean Control Networks**|Jingjie Ni et.al.|[2304.03489v1](http://arxiv.org/abs/2304.03489v1)|null|
+|**2023-04-07**|**Can we learn better with hard samples?**|Subin Sahayam et.al.|[2304.03486v1](http://arxiv.org/abs/2304.03486v1)|null|
+|**2023-04-07**|**AMS-DRL: Learning Multi-Pursuit Evasion for Safe Targeted Navigation of Drones**|Jiaping Xiao et.al.|[2304.03443v1](http://arxiv.org/abs/2304.03443v1)|**[link](https://github.com/ntu-uavg/ams-drl-for-pursuit-evasion)**|
+|**2023-04-07**|**A modular framework for stabilizing deep reinforcement learning control**|Nathan P. Lawrence et.al.|[2304.03422v1](http://arxiv.org/abs/2304.03422v1)|null|
+|**2023-04-06**|**Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean Field Neural Networks**|Blake Bordelon et.al.|[2304.03408v1](http://arxiv.org/abs/2304.03408v1)|null|
+|**2023-04-06**|**Deep Learning for Opinion Mining and Topic Classification of Course Reviews**|Anna Koufakou et.al.|[2304.03394v1](http://arxiv.org/abs/2304.03394v1)|null|
+|**2023-04-06**|**EZClone: Improving DNN Model Extraction Attack via Shape Distillation from GPU Execution Profiles**|Jonah O'Brien Weiss et.al.|[2304.03388v1](http://arxiv.org/abs/2304.03388v1)|null|
+|**2023-04-06**|**Robust Decision-Focused Learning for Reward Transfer**|Abhishek Sharma et.al.|[2304.03365v1](http://arxiv.org/abs/2304.03365v1)|null|
+|**2023-04-06**|**Finite Time Lyapunov Exponent Analysis of Model Predictive Control and Reinforcement Learning**|Kartik Krishna et.al.|[2304.03326v1](http://arxiv.org/abs/2304.03326v1)|null|
+|**2023-04-06**|**CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing**|Tianrui Ma et.al.|[2304.03320v1](http://arxiv.org/abs/2304.03320v1)|null|
 |**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274v1](http://arxiv.org/abs/2304.03274v1)|**[link](https://github.com/jiawei-ren/diffmimic)**|
 |**2023-04-06**|**Improving Visual Question Answering Models through Robustness Analysis and In-Context Learning with a Chain of Basic Questions**|Jia-Hong Huang et.al.|[2304.03147v1](http://arxiv.org/abs/2304.03147v1)|null|
 |**2023-04-06**|**Deep reinforcement learning reveals fewer sensors are needed for autonomous gust alleviation**|Kevin PT. Haughn et.al.|[2304.03133v1](http://arxiv.org/abs/2304.03133v1)|null|
@@ -1122,6 +1142,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Deepfake Detection with Deep Learning: Convolutional Neural Networks versus Transformers**|Vrizlynn L. L. Thing et.al.|[2304.03698v1](http://arxiv.org/abs/2304.03698v1)|null|
+|**2023-04-07**|**EPINN-NSE: Enhanced Physics-Informed Neural Networks for Solving Navier-Stokes Equations**|Ayoub Farkane et.al.|[2304.03689v1](http://arxiv.org/abs/2304.03689v1)|null|
+|**2023-04-07**|**Contraction-Guided Adaptive Partitioning for Reachability Analysis of Neural Network Controlled Systems**|Akash Harapanahalli et.al.|[2304.03671v1](http://arxiv.org/abs/2304.03671v1)|null|
+|**2023-04-07**|**The boson peak in the vibrational spectra of glasses**|Avraham Moriel et.al.|[2304.03661v1](http://arxiv.org/abs/2304.03661v1)|null|
+|**2023-04-07**|**ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**|Xiaoming Zhao et.al.|[2304.03608v1](http://arxiv.org/abs/2304.03608v1)|null|
+|**2023-04-07**|**Deep Ising Born Machine**|Zhu Cao et.al.|[2304.03606v1](http://arxiv.org/abs/2304.03606v1)|null|
+|**2023-04-07**|**Thermally driven elastic membranes are quasi-linear across all scales**|Chanania Steinbock et.al.|[2304.03603v1](http://arxiv.org/abs/2304.03603v1)|null|
+|**2023-04-07**|**Pallet Detection from Synthetic Data Using Game Engines**|Jouveer Naidoo et.al.|[2304.03602v1](http://arxiv.org/abs/2304.03602v1)|null|
+|**2023-04-07**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v1](http://arxiv.org/abs/2304.03586v1)|null|
+|**2023-04-07**|**Combined Registration and Fusion of Evidential Occupancy Grid Maps for Live Digital Twins of Traffic**|Raphael van Kempen et.al.|[2304.03578v1](http://arxiv.org/abs/2304.03578v1)|null|
+|**2023-04-07**|**A physics-informed neural network framework for modeling obstacle-related equations**|Hamid El Bahja et.al.|[2304.03552v1](http://arxiv.org/abs/2304.03552v1)|null|
+|**2023-04-07**|**HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets**|Witold Wydmański et.al.|[2304.03543v1](http://arxiv.org/abs/2304.03543v1)|null|
+|**2023-04-07**|**On-site Noise Exposure technique for noise-robust machine fault classification**|Wonjun Yi et.al.|[2304.03522v1](http://arxiv.org/abs/2304.03522v1)|null|
+|**2023-04-07**|**Carrot Cure: A CNN based Application to Detect Carrot Disease**|Shree. Dolax Ray et.al.|[2304.03511v1](http://arxiv.org/abs/2304.03511v1)|null|
+|**2023-04-07**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507v1](http://arxiv.org/abs/2304.03507v1)|null|
+|**2023-04-07**|**Architecture-Preserving Provable Repair of Deep Neural Networks**|Zhe Tao et.al.|[2304.03496v1](http://arxiv.org/abs/2304.03496v1)|null|
+|**2023-04-07**|**ParaGraph: Weighted Graph Representation for Performance Optimization of HPC Kernels**|Ali TehraniJamsaz et.al.|[2304.03487v1](http://arxiv.org/abs/2304.03487v1)|null|
+|**2023-04-07**|**Can we learn better with hard samples?**|Subin Sahayam et.al.|[2304.03486v1](http://arxiv.org/abs/2304.03486v1)|null|
+|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v1](http://arxiv.org/abs/2304.03468v1)|null|
+|**2023-04-07**|**AMS-DRL: Learning Multi-Pursuit Evasion for Safe Targeted Navigation of Drones**|Jiaping Xiao et.al.|[2304.03443v1](http://arxiv.org/abs/2304.03443v1)|**[link](https://github.com/ntu-uavg/ams-drl-for-pursuit-evasion)**|
+|**2023-04-07**|**Supervised Contrastive Learning with Heterogeneous Similarity for Distribution Shifts**|Takuro Kutsuna et.al.|[2304.03440v1](http://arxiv.org/abs/2304.03440v1)|null|
+|**2023-04-07**|**A modular framework for stabilizing deep reinforcement learning control**|Nathan P. Lawrence et.al.|[2304.03422v1](http://arxiv.org/abs/2304.03422v1)|null|
+|**2023-04-06**|**Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean Field Neural Networks**|Blake Bordelon et.al.|[2304.03408v1](http://arxiv.org/abs/2304.03408v1)|null|
+|**2023-04-06**|**Deep Learning for Opinion Mining and Topic Classification of Course Reviews**|Anna Koufakou et.al.|[2304.03394v1](http://arxiv.org/abs/2304.03394v1)|null|
+|**2023-04-06**|**EZClone: Improving DNN Model Extraction Attack via Shape Distillation from GPU Execution Profiles**|Jonah O'Brien Weiss et.al.|[2304.03388v1](http://arxiv.org/abs/2304.03388v1)|null|
+|**2023-04-06**|**Wide neural networks: From non-gaussian random fields at initialization to the NTK geometry of training**|Luís Carvalho et.al.|[2304.03385v1](http://arxiv.org/abs/2304.03385v1)|null|
+|**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376v1](http://arxiv.org/abs/2304.03376v1)|null|
+|**2023-04-06**|**Optimizing Neural Networks through Activation Function Discovery and Automatic Weight Initialization**|Garrett Bingham et.al.|[2304.03374v1](http://arxiv.org/abs/2304.03374v1)|null|
+|**2023-04-06**|**On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis**|Kailai Yang et.al.|[2304.03347v1](http://arxiv.org/abs/2304.03347v1)|null|
+|**2023-04-06**|**CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing**|Tianrui Ma et.al.|[2304.03320v1](http://arxiv.org/abs/2304.03320v1)|null|
 |**2023-04-06**|**ImageEye: Batch Image Processing Using Program Synthesis**|Celeste Barnaby et.al.|[2304.03253v1](http://arxiv.org/abs/2304.03253v1)|null|
 |**2023-04-06**|**Probing Dark QCD Sector through the Higgs Portal with Machine Learning at the LHC**|Chih-Ting Lu et.al.|[2304.03237v1](http://arxiv.org/abs/2304.03237v1)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
