@@ -1,4 +1,4 @@
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,8 +33,8 @@
 |**2023-04-06**|**Deep Learning for Opinion Mining and Topic Classification of Course Reviews**|Anna Koufakou et.al.|[2304.03394v1](http://arxiv.org/abs/2304.03394v1)|null|
 |**2023-04-06**|**EZClone: Improving DNN Model Extraction Attack via Shape Distillation from GPU Execution Profiles**|Jonah O'Brien Weiss et.al.|[2304.03388v1](http://arxiv.org/abs/2304.03388v1)|null|
 |**2023-04-06**|**Robust Decision-Focused Learning for Reward Transfer**|Abhishek Sharma et.al.|[2304.03365v1](http://arxiv.org/abs/2304.03365v1)|null|
-|**2023-04-06**|**Finite Time Lyapunov Exponent Analysis of Model Predictive Control and Reinforcement Learning**|Kartik Krishna et.al.|[2304.03326v1](http://arxiv.org/abs/2304.03326v1)|null|
-|**2023-04-06**|**CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing**|Tianrui Ma et.al.|[2304.03320v1](http://arxiv.org/abs/2304.03320v1)|null|
+|**2023-04-10**|**Finite Time Lyapunov Exponent Analysis of Model Predictive Control and Reinforcement Learning**|Kartik Krishna et.al.|[2304.03326v2](http://arxiv.org/abs/2304.03326v2)|null|
+|**2023-04-06**|**CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing**|Tianrui Ma et.al.|[2304.03320v1](http://arxiv.org/abs/2304.03320v1)|**[link](https://github.com/horizon-research/camj)**|
 |**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274v1](http://arxiv.org/abs/2304.03274v1)|**[link](https://github.com/jiawei-ren/diffmimic)**|
 |**2023-04-06**|**Improving Visual Question Answering Models through Robustness Analysis and In-Context Learning with a Chain of Basic Questions**|Jia-Hong Huang et.al.|[2304.03147v1](http://arxiv.org/abs/2304.03147v1)|null|
 |**2023-04-06**|**Deep reinforcement learning reveals fewer sensors are needed for autonomous gust alleviation**|Kevin PT. Haughn et.al.|[2304.03133v1](http://arxiv.org/abs/2304.03133v1)|null|
@@ -999,7 +999,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1009,7 +1009,7 @@
 |**2023-04-06**|**Efficient SAGE Estimation via Causal Structure Learning**|Christoph Luther et.al.|[2304.03113v1](http://arxiv.org/abs/2304.03113v1)|**[link](https://github.com/gcskoenig/csl-experiments)**|
 |**2023-04-06**|**Parallel circuit implementation of variational quantum algorithms**|Michele Cattelan et.al.|[2304.03037v1](http://arxiv.org/abs/2304.03037v1)|null|
 |**2023-04-06**|**When approximate design for fast homomorphic computation provides differential privacy guarantees**|Arnaud Grivet Sébert et.al.|[2304.02959v1](http://arxiv.org/abs/2304.02959v1)|null|
-|**2023-04-05**|**A Simple 1.5-Approximation Algorithm for a Wide Range of Max-SMTI Generalizations**|Gergely Csáji et.al.|[2304.02558v1](http://arxiv.org/abs/2304.02558v1)|null|
+|**2023-04-10**|**A Simple 1.5-Approximation Algorithm for a Wide Range of Max-SMTI Problems**|Gergely Csáji et.al.|[2304.02558v2](http://arxiv.org/abs/2304.02558v2)|null|
 |**2023-04-05**|**Doubly Stochastic Matrix Models for Estimation of Distribution Algorithms**|Valentino Santucci et.al.|[2304.02458v1](http://arxiv.org/abs/2304.02458v1)|null|
 |**2023-04-04**|**Gamma counterparts for robust nonlinear combinatorial and discrete optimization**|Dennis Adelhütte et.al.|[2304.01688v1](http://arxiv.org/abs/2304.01688v1)|null|
 |**2023-04-04**|**Adaptive Image Compression via Optimal Mesh Refinement**|Michael Feischl et.al.|[2304.01640v1](http://arxiv.org/abs/2304.01640v1)|null|
@@ -1018,7 +1018,7 @@
 |**2023-04-03**|**A Tutorial Introduction to Reinforcement Learning**|Mathukumalli Vidyasagar et.al.|[2304.00803v1](http://arxiv.org/abs/2304.00803v1)|null|
 |**2023-04-03**|**Combinatorial Optimization enriched Machine Learning to solve the Dynamic Vehicle Routing Problem with Time Windows**|Léo Baty et.al.|[2304.00789v1](http://arxiv.org/abs/2304.00789v1)|**[link](https://github.com/tumbais/euro-meets-neurips-2022)**|
 |**2023-04-04**|**Mixed-Integer Programming Approaches to Generalized Submodular Optimization and its Applications**|Simge Küçükyavuz et.al.|[2304.00479v2](http://arxiv.org/abs/2304.00479v2)|null|
-|**2023-03-31**|**Explicit sets with ideal robustness are achievable in combinatorial optimization problems with cost uncertainty**|Alejandro Crema et.al.|[2303.17901v1](http://arxiv.org/abs/2303.17901v1)|null|
+|**2023-04-08**|**Explicit sets with ideal robustness are achievable in combinatorial optimization problems with cost uncertainty**|Alejandro Crema et.al.|[2303.17901v2](http://arxiv.org/abs/2303.17901v2)|null|
 |**2023-03-30**|**The Essential Algorithms for the Matrix Chain**|Francisco López et.al.|[2303.17352v1](http://arxiv.org/abs/2303.17352v1)|null|
 |**2023-03-28**|**Lower Bounds for Pseudo-Deterministic Counting in a Stream**|Vladimir Braverman et.al.|[2303.16287v1](http://arxiv.org/abs/2303.16287v1)|null|
 |**2023-03-27**|**Density Matrix Minimization Meets a Combinatorial Optimization Problem**|Yasuharu Okamoto et.al.|[2303.15643v1](http://arxiv.org/abs/2303.15643v1)|null|
@@ -1146,7 +1146,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## Optimization
 
@@ -1160,7 +1160,7 @@
 |**2023-04-07**|**Deep Ising Born Machine**|Zhu Cao et.al.|[2304.03606v1](http://arxiv.org/abs/2304.03606v1)|null|
 |**2023-04-07**|**Thermally driven elastic membranes are quasi-linear across all scales**|Chanania Steinbock et.al.|[2304.03603v1](http://arxiv.org/abs/2304.03603v1)|null|
 |**2023-04-07**|**Pallet Detection from Synthetic Data Using Game Engines**|Jouveer Naidoo et.al.|[2304.03602v1](http://arxiv.org/abs/2304.03602v1)|null|
-|**2023-04-07**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v1](http://arxiv.org/abs/2304.03586v1)|null|
+|**2023-04-10**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v2](http://arxiv.org/abs/2304.03586v2)|**[link](https://github.com/littleflyingsheep/graphac)**|
 |**2023-04-07**|**Combined Registration and Fusion of Evidential Occupancy Grid Maps for Live Digital Twins of Traffic**|Raphael van Kempen et.al.|[2304.03578v1](http://arxiv.org/abs/2304.03578v1)|null|
 |**2023-04-07**|**A physics-informed neural network framework for modeling obstacle-related equations**|Hamid El Bahja et.al.|[2304.03552v1](http://arxiv.org/abs/2304.03552v1)|null|
 |**2023-04-07**|**HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets**|Witold Wydmański et.al.|[2304.03543v1](http://arxiv.org/abs/2304.03543v1)|null|
@@ -1170,7 +1170,7 @@
 |**2023-04-07**|**Architecture-Preserving Provable Repair of Deep Neural Networks**|Zhe Tao et.al.|[2304.03496v1](http://arxiv.org/abs/2304.03496v1)|null|
 |**2023-04-07**|**ParaGraph: Weighted Graph Representation for Performance Optimization of HPC Kernels**|Ali TehraniJamsaz et.al.|[2304.03487v1](http://arxiv.org/abs/2304.03487v1)|null|
 |**2023-04-07**|**Can we learn better with hard samples?**|Subin Sahayam et.al.|[2304.03486v1](http://arxiv.org/abs/2304.03486v1)|null|
-|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v1](http://arxiv.org/abs/2304.03468v1)|null|
+|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v2](http://arxiv.org/abs/2304.03468v2)|null|
 |**2023-04-07**|**AMS-DRL: Learning Multi-Pursuit Evasion for Safe Targeted Navigation of Drones**|Jiaping Xiao et.al.|[2304.03443v1](http://arxiv.org/abs/2304.03443v1)|**[link](https://github.com/ntu-uavg/ams-drl-for-pursuit-evasion)**|
 |**2023-04-07**|**Supervised Contrastive Learning with Heterogeneous Similarity for Distribution Shifts**|Takuro Kutsuna et.al.|[2304.03440v1](http://arxiv.org/abs/2304.03440v1)|null|
 |**2023-04-07**|**A modular framework for stabilizing deep reinforcement learning control**|Nathan P. Lawrence et.al.|[2304.03422v1](http://arxiv.org/abs/2304.03422v1)|null|
@@ -1179,10 +1179,10 @@
 |**2023-04-06**|**EZClone: Improving DNN Model Extraction Attack via Shape Distillation from GPU Execution Profiles**|Jonah O'Brien Weiss et.al.|[2304.03388v1](http://arxiv.org/abs/2304.03388v1)|null|
 |**2023-04-06**|**Wide neural networks: From non-gaussian random fields at initialization to the NTK geometry of training**|Luís Carvalho et.al.|[2304.03385v1](http://arxiv.org/abs/2304.03385v1)|null|
 |**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376v1](http://arxiv.org/abs/2304.03376v1)|null|
-|**2023-04-06**|**Optimizing Neural Networks through Activation Function Discovery and Automatic Weight Initialization**|Garrett Bingham et.al.|[2304.03374v1](http://arxiv.org/abs/2304.03374v1)|null|
+|**2023-04-06**|**Optimizing Neural Networks through Activation Function Discovery and Automatic Weight Initialization**|Garrett Bingham et.al.|[2304.03374v1](http://arxiv.org/abs/2304.03374v1)|**[link](https://github.com/cognizant-ai-labs/aquasurf)**|
 |**2023-04-06**|**On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis**|Kailai Yang et.al.|[2304.03347v1](http://arxiv.org/abs/2304.03347v1)|null|
-|**2023-04-06**|**CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing**|Tianrui Ma et.al.|[2304.03320v1](http://arxiv.org/abs/2304.03320v1)|null|
-|**2023-04-06**|**ImageEye: Batch Image Processing Using Program Synthesis**|Celeste Barnaby et.al.|[2304.03253v1](http://arxiv.org/abs/2304.03253v1)|null|
+|**2023-04-06**|**CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing**|Tianrui Ma et.al.|[2304.03320v1](http://arxiv.org/abs/2304.03320v1)|**[link](https://github.com/horizon-research/camj)**|
+|**2023-04-10**|**ImageEye: Batch Image Processing Using Program Synthesis**|Celeste Barnaby et.al.|[2304.03253v2](http://arxiv.org/abs/2304.03253v2)|null|
 |**2023-04-06**|**Probing Dark QCD Sector through the Higgs Portal with Machine Learning at the LHC**|Chih-Ting Lu et.al.|[2304.03237v1](http://arxiv.org/abs/2304.03237v1)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
 |**2023-04-06**|**RFAConv: Innovating Spatital Attention and Standard Convolutional Operation**|Xin Zhang et.al.|[2304.03198v1](http://arxiv.org/abs/2304.03198v1)|**[link](https://github.com/liuchen1997/rfaconv)**|
@@ -2700,7 +2700,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -2771,5 +2771,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
