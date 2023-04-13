@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.12
+## Updated on 2023.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -23,7 +23,7 @@ layout: default
 |**2023-04-11**|**Investigating Imbalances Between SAR and Optical Utilization for Multi-Modal Urban Mapping**|Sebastian Hafner et.al.|[2304.05080v1](http://arxiv.org/abs/2304.05080v1)|null|
 |**2023-04-11**|**A Tale of Sampling and Estimation in Discounted Reinforcement Learning**|Alberto Maria Metelli et.al.|[2304.05073v1](http://arxiv.org/abs/2304.05073v1)|null|
 |**2023-04-11**|**A Deep Analysis of Transfer Learning Based Breast Cancer Detection Using Histopathology Images**|Md Ishtyaq Mahmud et.al.|[2304.05022v1](http://arxiv.org/abs/2304.05022v1)|null|
-|**2023-04-11**|**Biological Factor Regulatory Neural Network**|Xinnan Dai et.al.|[2304.04982v1](http://arxiv.org/abs/2304.04982v1)|null|
+|**2023-04-11**|**Biological Factor Regulatory Neural Network**|Xinnan Dai et.al.|[2304.04982v1](http://arxiv.org/abs/2304.04982v1)|**[link](https://github.com/ddigimon/bfreg)**|
 |**2023-04-11**|**Reinforcement Learning Based Minimum State-flipped Control for the Reachability of Boolean Control Networks**|Jingjie Ni et.al.|[2304.04950v1](http://arxiv.org/abs/2304.04950v1)|null|
 |**2023-04-11**|**Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**|Sherry Ruan et.al.|[2304.04933v1](http://arxiv.org/abs/2304.04933v1)|null|
 |**2023-04-11**|**A Data-Driven State Aggregation Approach for Dynamic Discrete Choice Models**|Sinong Geng et.al.|[2304.04916v1](http://arxiv.org/abs/2304.04916v1)|null|
@@ -1214,7 +1214,7 @@ layout: default
 |**2023-04-11**|**Quenched complexity of equilibria for asymmetric Generalized Lotka-Volterra equations**|Valentina Ros et.al.|[2304.05284v1](http://arxiv.org/abs/2304.05284v1)|null|
 |**2023-04-11**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277v1](http://arxiv.org/abs/2304.05277v1)|**[link](https://github.com/opendrivelab/toponet)**|
 |**2023-04-11**|**Prompt Learning for News Recommendation**|Zizhuo Zhang et.al.|[2304.05263v1](http://arxiv.org/abs/2304.05263v1)|**[link](https://github.com/resistzzz/prompt4nr)**|
-|**2023-04-11**|**r-softmax: Generalized Softmax with Controllable Sparsity Rate**|Klaudia Bałazy et.al.|[2304.05243v1](http://arxiv.org/abs/2304.05243v1)|null|
+|**2023-04-12**|**r-softmax: Generalized Softmax with Controllable Sparsity Rate**|Klaudia Bałazy et.al.|[2304.05243v2](http://arxiv.org/abs/2304.05243v2)|null|
 |**2023-04-11**|**Field configurable skyrmion devices utilising fine planar motion control**|Charles Kind et.al.|[2304.05217v1](http://arxiv.org/abs/2304.05217v1)|null|
 |**2023-04-11**|**CGXplain: Rule-Based Deep Neural Network Explanations Using Dual Linear Programs**|Konstantin Hemker et.al.|[2304.05207v1](http://arxiv.org/abs/2304.05207v1)|**[link](https://github.com/konst-int-i/cgx)**|
 |**2023-04-11**|**TinyReptile: TinyML with Federated Meta-Learning**|Haoyu Ren et.al.|[2304.05201v1](http://arxiv.org/abs/2304.05201v1)|null|
@@ -1227,7 +1227,7 @@ layout: default
 |**2023-04-11**|**Approaching Test Time Augmentation in the Context of Uncertainty Calibration for Deep Neural Networks**|Pedro Conde et.al.|[2304.05104v1](http://arxiv.org/abs/2304.05104v1)|null|
 |**2023-04-11**|**Feature Guided Training and Rotational Standardisation for the Morphological Classification of Radio Galaxies**|Kevin Brand et.al.|[2304.05095v1](http://arxiv.org/abs/2304.05095v1)|null|
 |**2023-04-11**|**Generative modeling for time series via Schr{ö}dinger bridge**|Mohamed Hamdouche et.al.|[2304.05093v1](http://arxiv.org/abs/2304.05093v1)|null|
-|**2023-04-11**|**An Efficient Deep Learning Image Condition for Locating Earthquakes**|Wenhuan Kuang et.al.|[2304.05087v1](http://arxiv.org/abs/2304.05087v1)|null|
+|**2023-04-12**|**An Efficient Deep Learning Image Condition for Locating Earthquakes**|Wenhuan Kuang et.al.|[2304.05087v2](http://arxiv.org/abs/2304.05087v2)|null|
 |**2023-04-11**|**Investigating Imbalances Between SAR and Optical Utilization for Multi-Modal Urban Mapping**|Sebastian Hafner et.al.|[2304.05080v1](http://arxiv.org/abs/2304.05080v1)|null|
 |**2023-04-11**|**TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification**|Huaiyuan Liu et.al.|[2304.05078v1](http://arxiv.org/abs/2304.05078v1)|**[link](https://github.com/liuxz1011/todynet)**|
 |**2023-04-11**|**Audio Bank: A High-Level Acoustic Signal Representation for Audio Event Recognition**|Tushar Sandhan et.al.|[2304.05067v1](http://arxiv.org/abs/2304.05067v1)|null|
@@ -1239,9 +1239,9 @@ layout: default
 |**2023-04-11**|**A Deep Analysis of Transfer Learning Based Breast Cancer Detection Using Histopathology Images**|Md Ishtyaq Mahmud et.al.|[2304.05022v1](http://arxiv.org/abs/2304.05022v1)|null|
 |**2023-04-11**|**Neural Multi-network Diffusion towards Social Recommendation**|Boxin Du et.al.|[2304.04994v1](http://arxiv.org/abs/2304.04994v1)|null|
 |**2023-04-11**|**Efficient Feature Description for Small Body Relative Navigation using Binary Convolutional Neural Networks**|Travis Driver et.al.|[2304.04985v1](http://arxiv.org/abs/2304.04985v1)|**[link](https://github.com/travisdriver/didymosnet)**|
-|**2023-04-11**|**Biological Factor Regulatory Neural Network**|Xinnan Dai et.al.|[2304.04982v1](http://arxiv.org/abs/2304.04982v1)|null|
+|**2023-04-11**|**Biological Factor Regulatory Neural Network**|Xinnan Dai et.al.|[2304.04982v1](http://arxiv.org/abs/2304.04982v1)|**[link](https://github.com/ddigimon/bfreg)**|
 |**2023-04-11**|**GRIL: A $2$ -parameter Persistence Based Vectorization for Machine Learning**|Cheng Xin et.al.|[2304.04970v1](http://arxiv.org/abs/2304.04970v1)|null|
-|**2023-04-11**|**A priori compression of convolutional neural networks for wave simulators**|Hamza Boukraichi et.al.|[2304.04964v1](http://arxiv.org/abs/2304.04964v1)|null|
+|**2023-04-12**|**A priori compression of convolutional neural networks for wave simulators**|Hamza Boukraichi et.al.|[2304.04964v2](http://arxiv.org/abs/2304.04964v2)|null|
 |**2023-04-11**|**Multi-Graph Convolution Network for Pose Forecasting**|Hongwei Ren et.al.|[2304.04956v1](http://arxiv.org/abs/2304.04956v1)|null|
 |**2023-04-11**|**Financial Time Series Forecasting using CNN and Transformer**|Zhen Zeng et.al.|[2304.04912v1](http://arxiv.org/abs/2304.04912v1)|null|
 |**2023-04-11**|**Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing**|Mehedi Hasan et.al.|[2304.04906v1](http://arxiv.org/abs/2304.04906v1)|**[link](https://github.com/mehedihasantutul/reject_option)**|
