@@ -53,7 +53,7 @@ layout: default
 |**2023-04-11**|**Control invariant set enhanced reinforcement learning for process control: improved sampling efficiency and guaranteed stability**|Song Bo et.al.|[2304.05509v1](http://arxiv.org/abs/2304.05509v1)|null|
 |**2023-04-11**|**Frontier Semantic Exploration for Visual Target Navigation**|Bangguo Yu et.al.|[2304.05506v1](http://arxiv.org/abs/2304.05506v1)|null|
 |**2023-04-11**|**Communication Efficient DNN Partitioning-based Federated Learning**|Di Wu et.al.|[2304.05495v1](http://arxiv.org/abs/2304.05495v1)|null|
-|**2023-04-13**|**Hamiltonian Switching Control of Noisy Bipartite Qubit Systems**|Zhibo Yang et.al.|[2304.05478v2](http://arxiv.org/abs/2304.05478v2)|null|
+|**2023-04-13**|**Hamiltonian Switching Control of Noisy Bipartite Qubit Systems**|Zhibo Yang et.al.|[2304.05478v2](http://arxiv.org/abs/2304.05478v2)|**[link](https://github.com/PiggsBoson/qaoaoqs_v1)**|
 |**2023-04-11**|**Efficient Automation of Neural Network Design: A Survey on Differentiable Neural Architecture Search**|Alexandre Heuillet et.al.|[2304.05405v1](http://arxiv.org/abs/2304.05405v1)|null|
 |**2023-04-11**|**Did we personalize? Assessing personalization by an online reinforcement learning algorithm using resampling**|Susobhan Ghosh et.al.|[2304.05365v1](http://arxiv.org/abs/2304.05365v1)|**[link](https://github.com/changon/resampling_heartsteps)**|
 |**2023-04-11**|**Emergent autonomous scientific research capabilities of large language models**|Daniil A. Boiko et.al.|[2304.05332v1](http://arxiv.org/abs/2304.05332v1)|null|
@@ -1258,7 +1258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v1](http://arxiv.org/abs/2304.06715v1)|null|
+|**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v1](http://arxiv.org/abs/2304.06715v1)|**[link](https://github.com/jonathancrabbe/robustxai)**|
 |**2023-04-13**|**Observation of subdiffusive dynamic scaling in a driven and disordered box-trapped Bose gas**|Gevorg Martirosyan et.al.|[2304.06697v1](http://arxiv.org/abs/2304.06697v1)|null|
 |**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696v1](http://arxiv.org/abs/2304.06696v1)|null|
 |**2023-04-13**|**Topological enhancement of non-normality in non-Hermitian skin effects**|Yusuke O. Nakai et.al.|[2304.06689v1](http://arxiv.org/abs/2304.06689v1)|null|
