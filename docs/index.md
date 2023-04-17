@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.16
+## Updated on 2023.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -1288,7 +1288,7 @@ layout: default
 |**2023-04-13**|**Algorithms and Hardware for Efficient Processing of Logic-based Neural Networks**|Jingkai Hong et.al.|[2304.06299v1](http://arxiv.org/abs/2304.06299v1)|null|
 |**2023-04-13**|**EWT: Efficient Wavelet-Transformer for Single Image Denoising**|Juncheng Li et.al.|[2304.06274v1](http://arxiv.org/abs/2304.06274v1)|null|
 |**2023-04-13**|**Gamifying Math Education using Object Detection**|Yueqiu Sun et.al.|[2304.06270v1](http://arxiv.org/abs/2304.06270v1)|null|
-|**2023-04-13**|**MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging**|Yuanyuan Wei et.al.|[2304.06258v1](http://arxiv.org/abs/2304.06258v1)|**[link](https://github.com/aywi/mprotonet)**|
+|**2023-04-14**|**MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging**|Yuanyuan Wei et.al.|[2304.06258v2](http://arxiv.org/abs/2304.06258v2)|**[link](https://github.com/aywi/mprotonet)**|
 |**2023-04-13**|**Enhancing Model Learning and Interpretation Using Multiple Molecular Graph Representations for Compound Property and Activity Prediction**|Apakorn Kengkanna et.al.|[2304.06253v1](http://arxiv.org/abs/2304.06253v1)|null|
 |**2023-04-13**|**Rapid Brain Meninges Surface Reconstruction with Layer Topology Guarantee**|Peiyu Duan et.al.|[2304.06246v1](http://arxiv.org/abs/2304.06246v1)|null|
 |**2023-04-13**|**Physics-informed radial basis network (PIRBN): A local approximation neural network for solving nonlinear PDEs**|Jinshuai Bai et.al.|[2304.06234v1](http://arxiv.org/abs/2304.06234v1)|**[link](https://github.com/jinshuaibai/pirbn)**|
@@ -1303,7 +1303,7 @@ layout: default
 |**2023-04-12**|**Cosmology with one galaxy? -- The ASTRID model and robustness**|Nicolas Echeverri et.al.|[2304.06084v1](http://arxiv.org/abs/2304.06084v1)|null|
 |**2023-04-12**|**Generic mobility edges in several classes of duality-breaking one-dimensional quasiperiodic potential models**|DinhDuy Vu et.al.|[2304.06081v1](http://arxiv.org/abs/2304.06081v1)|null|
 |**2023-04-12**|**Fluctuation based interpretable analysis scheme for quantum many-body snapshots**|Henning Schlömer et.al.|[2304.06029v1](http://arxiv.org/abs/2304.06029v1)|null|
-|**2023-04-12**|**Maximum-likelihood Estimators in Physics-Informed Neural Networks for High-dimensional Inverse Problems**|Gabriel S. Gusmão et.al.|[2304.05991v1](http://arxiv.org/abs/2304.05991v1)|**[link](https://github.com/gusmaogabriels/kinn)**|
+|**2023-04-14**|**Maximum-likelihood Estimators in Physics-Informed Neural Networks for High-dimensional Inverse Problems**|Gabriel S. Gusmão et.al.|[2304.05991v2](http://arxiv.org/abs/2304.05991v2)|**[link](https://github.com/gusmaogabriels/kinn)**|
 |**2023-04-12**|**Neural Attention Forests: Transformer-Based Forest Improvement**|Andrei V. Konstantinov et.al.|[2304.05980v1](http://arxiv.org/abs/2304.05980v1)|**[link](https://github.com/andruekonst/naf)**|
 |**2023-04-12**|**Localizing Model Behavior with Path Patching**|Nicholas Goldowsky-Dill et.al.|[2304.05969v1](http://arxiv.org/abs/2304.05969v1)|**[link](https://github.com/redwoodresearch/rust_circuit_public)**|
 |**2023-04-12**|**Entanglement detection with classical deep neural networks**|Julio Ureña et.al.|[2304.05946v1](http://arxiv.org/abs/2304.05946v1)|null|
