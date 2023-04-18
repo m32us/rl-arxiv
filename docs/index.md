@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.17
+## Updated on 2023.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -20,7 +20,7 @@ layout: default
 |**2023-04-14**|**Who breaks early, looses: goal oriented training of deep neural networks based on port Hamiltonian dynamics**|Julian Burghoff et.al.|[2304.07070v1](http://arxiv.org/abs/2304.07070v1)|null|
 |**2023-04-14**|**Hierarchical Agent-based Reinforcement Learning Framework for Automated Quality Assessment of Fetal Ultrasound Video**|Sijing Liu et.al.|[2304.07036v1](http://arxiv.org/abs/2304.07036v1)|null|
 |**2023-04-14**|**QNEAT: Natural Evolution of Variational Quantum Circuit Architecture**|Alessandro Giovagnoli et.al.|[2304.06981v1](http://arxiv.org/abs/2304.06981v1)|null|
-|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v1](http://arxiv.org/abs/2304.06943v1)|null|
+|**2023-04-17**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v2](http://arxiv.org/abs/2304.06943v2)|null|
 |**2023-04-14**|**AUTOSPARSE: Towards Automated Sparse Training of Deep Neural Networks**|Abhisek Kundu et.al.|[2304.06941v1](http://arxiv.org/abs/2304.06941v1)|null|
 |**2023-04-14**|**Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense**|Jingyuan Wang et.al.|[2304.06919v1](http://arxiv.org/abs/2304.06919v1)|null|
 |**2023-04-14**|**SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders**|Qingsen Yan et.al.|[2304.06914v1](http://arxiv.org/abs/2304.06914v1)|null|
@@ -1310,7 +1310,7 @@ layout: default
 |**2023-04-14**|**Domain shifts in dermoscopic skin cancer datasets: Evaluation of essential limitations for clinical translation**|Katharina Fogelberg et.al.|[2304.06968v1](http://arxiv.org/abs/2304.06968v1)|null|
 |**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
 |**2023-04-14**|**Convex Dual Theory Analysis of Two-Layer Convolutional Neural Networks with Soft-Thresholding**|Chunyan Xiong et.al.|[2304.06959v1](http://arxiv.org/abs/2304.06959v1)|null|
-|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v1](http://arxiv.org/abs/2304.06943v1)|null|
+|**2023-04-17**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v2](http://arxiv.org/abs/2304.06943v2)|null|
 |**2023-04-14**|**AUTOSPARSE: Towards Automated Sparse Training of Deep Neural Networks**|Abhisek Kundu et.al.|[2304.06941v1](http://arxiv.org/abs/2304.06941v1)|null|
 |**2023-04-14**|**Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense**|Jingyuan Wang et.al.|[2304.06919v1](http://arxiv.org/abs/2304.06919v1)|null|
 |**2023-04-14**|**SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders**|Qingsen Yan et.al.|[2304.06914v1](http://arxiv.org/abs/2304.06914v1)|null|
