@@ -1,4 +1,4 @@
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -53,7 +53,7 @@
 |**2023-04-14**|**Spectrum-aware Multi-hop Task Routing in Vehicle-assisted Collaborative Edge Computing**|Yiqin Deng et.al.|[2304.07422v1](http://arxiv.org/abs/2304.07422v1)|null|
 |**2023-04-14**|**A Reconfigurable Linear RF Analog Processor for Realizing Microwave Artificial Neural Network**|Minning Zhu et.al.|[2304.07378v1](http://arxiv.org/abs/2304.07378v1)|null|
 |**2023-04-14**|**Learning to Learn Group Alignment: A Self-Tuning Credo Framework with Multiagent Teams**|David Radke et.al.|[2304.07337v1](http://arxiv.org/abs/2304.07337v1)|null|
-|**2023-04-14**|**OpenAssistant Conversations -- Democratizing Large Language Model Alignment**|Andreas Köpf et.al.|[2304.07327v1](http://arxiv.org/abs/2304.07327v1)|null|
+|**2023-04-14**|**OpenAssistant Conversations -- Democratizing Large Language Model Alignment**|Andreas Köpf et.al.|[2304.07327v1](http://arxiv.org/abs/2304.07327v1)|**[link](https://github.com/laion-ai/open-assistant)**|
 |**2023-04-14**|**Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning**|Gen Li et.al.|[2304.07278v1](http://arxiv.org/abs/2304.07278v1)|null|
 |**2023-04-14**|**Phantom Embeddings: Using Embedding Space for Model Regularization in Deep Neural Networks**|Mofassir ul Islam Arif et.al.|[2304.07262v1](http://arxiv.org/abs/2304.07262v1)|null|
 |**2023-04-14**|**Bandit-Based Policy Invariant Explicit Shaping for Incorporating External Advice in Reinforcement Learning**|Yash Satsangi et.al.|[2304.07163v1](http://arxiv.org/abs/2304.07163v1)|null|
@@ -1160,13 +1160,13 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-17**|**Comparing a classical and quantum one round algorithm on LocalMaxCut**|Charlie Carlson et.al.|[2304.08420v1](http://arxiv.org/abs/2304.08420v1)|null|
+|**2023-04-18**|**A quantum advantage over classical for local max cut**|Charlie Carlson et.al.|[2304.08420v2](http://arxiv.org/abs/2304.08420v2)|null|
 |**2023-04-16**|**On modeling NP-Complete problems as polynomial-sized linear programs: Escaping/Side-stepping the "barriers"**|Moustapha Diaby et.al.|[2304.07716v1](http://arxiv.org/abs/2304.07716v1)|null|
 |**2023-04-16**|**Thin trees for laminar families**|Nathan Klein et.al.|[2304.07674v1](http://arxiv.org/abs/2304.07674v1)|null|
 |**2023-04-15**|**Learned Interpolation for Better Streaming Quantile Approximation with Worst-Case Guarantees**|Nicholas Schiefer et.al.|[2304.07652v1](http://arxiv.org/abs/2304.07652v1)|null|
@@ -1327,13 +1327,13 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-17**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446v1](http://arxiv.org/abs/2304.08446v1)|null|
+|**2023-04-18**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446v2](http://arxiv.org/abs/2304.08446v2)|null|
 |**2023-04-17**|**Structured Multifractal Scaling of the Principal Cryptocurrencies: Examination using a Self-Explainable Machine Learning**|Foued Saâdaoui et.al.|[2304.08440v1](http://arxiv.org/abs/2304.08440v1)|null|
 |**2023-04-17**|**Predicting Malaria Incidence Using Artifical Neural Networks and Disaggregation Regression**|Jack A. Hall et.al.|[2304.08419v1](http://arxiv.org/abs/2304.08419v1)|null|
 |**2023-04-17**|**A first application of machine and deep learning for background rejection in the ALPS II TES detector**|Manuel Meyer et.al.|[2304.08406v1](http://arxiv.org/abs/2304.08406v1)|null|
@@ -1348,7 +1348,7 @@
 |**2023-04-17**|**Promises and Pitfalls of the Linearized Laplace in Bayesian Optimization**|Agustinus Kristiadi et.al.|[2304.08309v1](http://arxiv.org/abs/2304.08309v1)|null|
 |**2023-04-17**|**Solving stiff ordinary differential equations using physics informed neural networks (PINNs): simple recipes to improve training of vanilla-PINNs**|Hubert Baty et.al.|[2304.08289v1](http://arxiv.org/abs/2304.08289v1)|null|
 |**2023-04-17**|**Synchronization in STDP-driven memristive neural networks with time-varying topology**|Marius E. Yamakou et.al.|[2304.08281v1](http://arxiv.org/abs/2304.08281v1)|null|
-|**2023-04-17**|**About latent roles in forecasting players in team sports**|Luca Scofano et.al.|[2304.08272v1](http://arxiv.org/abs/2304.08272v1)|null|
+|**2023-04-18**|**About latent roles in forecasting players in team sports**|Luca Scofano et.al.|[2304.08272v2](http://arxiv.org/abs/2304.08272v2)|null|
 |**2023-04-17**|**Cross or Wait? Predicting Pedestrian Interaction Outcomes at Unsignalized Crossings**|Chi Zhang et.al.|[2304.08260v1](http://arxiv.org/abs/2304.08260v1)|null|
 |**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230v1](http://arxiv.org/abs/2304.08230v1)|**[link](https://github.com/elego9/6dp-data-bias)**|
 |**2023-04-17**|**The impact of local pinning sites in magnetic tunnel junctions with non-homogeneous free layers**|Alex. S. Jenkins et.al.|[2304.08228v1](http://arxiv.org/abs/2304.08228v1)|null|
@@ -3171,7 +3171,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -3243,5 +3243,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
