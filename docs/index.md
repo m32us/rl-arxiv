@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -1358,10 +1358,10 @@ layout: default
 |**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067v1](http://arxiv.org/abs/2304.09067v1)|null|
 |**2023-04-18**|**DeepGEMM: Accelerated Ultra Low-Precision Inference on CPU Architectures using Lookup Tables**|Darshan C. Ganji et.al.|[2304.09049v1](http://arxiv.org/abs/2304.09049v1)|null|
 |**2023-04-18**|**Machine Learning Methods for Autonomous Ordinary Differential Equations**|Maxime Bouchereau et.al.|[2304.09036v1](http://arxiv.org/abs/2304.09036v1)|null|
-|**2023-04-18**|**Joint Age-based Client Selection and Resource Allocation for Communication-Efficient Federated Learning over NOMA Networks**|Bibo Wu et.al.|[2304.08996v1](http://arxiv.org/abs/2304.08996v1)|null|
+|**2023-04-19**|**Energy-Efficient Design of STAR-RIS Aided MIMO-NOMA Networks**|Fang Fang et.al.|[2304.08996v2](http://arxiv.org/abs/2304.08996v2)|null|
 |**2023-04-18**|**A Comparison of Image Denoising Methods**|Zhaoming Kong et.al.|[2304.08990v1](http://arxiv.org/abs/2304.08990v1)|null|
 |**2023-04-18**|**Robustness of Visual Explanations to Common Data Augmentation**|Lenka Tětková et.al.|[2304.08984v1](http://arxiv.org/abs/2304.08984v1)|null|
-|**2023-04-18**|**Fibroglandular Tissue Segmentation in Breast MRI using Vision Transformers -- A multi-institutional evaluation**|Gustav Müller-Franzes et.al.|[2304.08972v1](http://arxiv.org/abs/2304.08972v1)|null|
+|**2023-04-18**|**Fibroglandular Tissue Segmentation in Breast MRI using Vision Transformers -- A multi-institutional evaluation**|Gustav Müller-Franzes et.al.|[2304.08972v1](http://arxiv.org/abs/2304.08972v1)|**[link](https://github.com/mueller-franzes/trabs)**|
 |**2023-04-18**|**Generative modeling of living cells with SO(3)-equivariant implicit neural representations**|David Wiesner et.al.|[2304.08960v1](http://arxiv.org/abs/2304.08960v1)|null|
 |**2023-04-18**|**Prediction of equivalent sand-grain size and identification of drag-relevant scales of roughness -- a data driven approach**|Jiasheng Yang et.al.|[2304.08958v1](http://arxiv.org/abs/2304.08958v1)|null|
 |**2023-04-18**|**A Hyper-network Based End-to-end Visual Servoing with Arbitrary Desired Poses**|Hongxiang Yu et.al.|[2304.08952v1](http://arxiv.org/abs/2304.08952v1)|null|
