@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.23
+## Updated on 2023.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -1431,7 +1431,7 @@ layout: default
 |**2023-04-20**|**LA3: Efficient Label-Aware AutoAugment**|Mingjun Zhao et.al.|[2304.10310v1](http://arxiv.org/abs/2304.10310v1)|**[link](https://github.com/simpleple/la3-label-aware-autoaugment)**|
 |**2023-04-20**|**Observer-Feedback-Feedforward Controller Structures in Reinforcement Learning**|Ruoqi Zhang et.al.|[2304.10276v1](http://arxiv.org/abs/2304.10276v1)|null|
 |**2023-04-20**|**Towards replacing precipitation ensemble predictions systems using machine learning**|Rüdiger Brecht et.al.|[2304.10251v1](http://arxiv.org/abs/2304.10251v1)|**[link](https://github.com/rudigerbrecht/towards-replacing-precipitation-ensemble-predictions-systems-using-machine-learning-)**|
-|**2023-04-20**|**Focus on the Challenges: Analysis of a User-friendly Data Search Approach with CLIP in the Automotive Domain**|Philipp Rigoll et.al.|[2304.10247v1](http://arxiv.org/abs/2304.10247v1)|null|
+|**2023-04-21**|**Focus on the Challenges: Analysis of a User-friendly Data Search Approach with CLIP in the Automotive Domain**|Philipp Rigoll et.al.|[2304.10247v2](http://arxiv.org/abs/2304.10247v2)|null|
 |**2023-04-20**|**Filter-Aware Model-Predictive Control**|Baris Kayalibay et.al.|[2304.10246v1](http://arxiv.org/abs/2304.10246v1)|null|
 |**2023-04-20**|**Fourier Neural Operator Surrogate Model to Predict 3D Seismic Waves Propagation**|Fanny Lehmann et.al.|[2304.10242v1](http://arxiv.org/abs/2304.10242v1)|null|
 |**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
