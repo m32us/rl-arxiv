@@ -9,6 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Approximate Shielding of Atari Agents for Safe Exploration**|Alexander W. Goodall et.al.|[2304.11104v1](http://arxiv.org/abs/2304.11104v1)|null|
+|**2023-04-21**|**Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study**|Ruichen Zhang et.al.|[2304.11098v1](http://arxiv.org/abs/2304.11098v1)|null|
+|**2023-04-19**|**Fundamental Limitations of Alignment in Large Language Models**|Yotam Wolf et.al.|[2304.11082v1](http://arxiv.org/abs/2304.11082v1)|null|
+|**2023-04-20**|**Backpropagation-free Training of Deep Physical Neural Networks**|Ali Momeni et.al.|[2304.11042v1](http://arxiv.org/abs/2304.11042v1)|null|
+|**2023-04-21**|**Launching a Robust Backdoor Attack under Capability Constrained Scenarios**|Ming Yi et.al.|[2304.10985v1](http://arxiv.org/abs/2304.10985v1)|null|
+|**2023-04-21**|**A Cubic-regularized Policy Newton Algorithm for Reinforcement Learning**|Mizhaan Prajit Maniyar et.al.|[2304.10951v1](http://arxiv.org/abs/2304.10951v1)|null|
+|**2023-04-21**|**Comparison of Matlantis and VASP bulk formation and surface energies in metal hydrides, carbides, nitrides, oxides, and sulfides**|Shinya Mine et.al.|[2304.10820v1](http://arxiv.org/abs/2304.10820v1)|null|
+|**2023-04-21**|**Contrastive Language, Action, and State Pre-training for Robot Learning**|Krishan Rana et.al.|[2304.10782v1](http://arxiv.org/abs/2304.10782v1)|null|
+|**2023-04-21**|**DEIR: Efficient and Robust Exploration through Discriminative-Model-Based Episodic Intrinsic Rewards**|Shanchuan Wan et.al.|[2304.10770v1](http://arxiv.org/abs/2304.10770v1)|null|
+|**2023-04-21**|**Reinforcement Learning Approaches for Traffic Signal Control under Missing Data**|Hao Mei et.al.|[2304.10722v1](http://arxiv.org/abs/2304.10722v1)|null|
+|**2023-04-21**|**Picking Up Quantization Steps for Compressed Image Classification**|Li Ma et.al.|[2304.10714v1](http://arxiv.org/abs/2304.10714v1)|**[link](https://github.com/limapku/qsam)**|
+|**2023-04-20**|**A Plug-and-Play Defensive Perturbation for Copyright Protection of DNN-based Applications**|Donghua Wang et.al.|[2304.10679v1](http://arxiv.org/abs/2304.10679v1)|null|
+|**2023-04-20**|**Meta Semantics: Towards better natural language understanding and reasoning**|Xiaolin Hu et.al.|[2304.10663v1](http://arxiv.org/abs/2304.10663v1)|null|
+|**2023-04-20**|**Enhancing object detection robustness: A synthetic and natural perturbation approach**|Nilantha Premakumara et.al.|[2304.10622v1](http://arxiv.org/abs/2304.10622v1)|null|
+|**2023-04-20**|**ULEEN: A Novel Architecture for Ultra Low-Energy Edge Neural Networks**|Zachary Susskind et.al.|[2304.10618v1](http://arxiv.org/abs/2304.10618v1)|null|
+|**2023-04-20**|**Debiasing Conditional Stochastic Optimization**|Lie He et.al.|[2304.10613v1](http://arxiv.org/abs/2304.10613v1)|null|
+|**2023-04-20**|**A Review of Symbolic, Subsymbolic and Hybrid Methods for Sequential Decision Making**|Carlos Núñez-Molina et.al.|[2304.10590v1](http://arxiv.org/abs/2304.10590v1)|null|
+|**2023-04-20**|**B-Learner: Quasi-Oracle Bounds on Heterogeneous Causal Effects Under Hidden Confounding**|Miruna Oprescu et.al.|[2304.10577v1](http://arxiv.org/abs/2304.10577v1)|**[link](https://github.com/causalml/sharpcate)**|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
 |**2023-04-20**|**Censoring chemical data to mitigate dual use risk**|Quintina L. Campbell et.al.|[2304.10510v1](http://arxiv.org/abs/2304.10510v1)|**[link](https://github.com/ur-whitelab/chem-dual-use)**|
 |**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466v1](http://arxiv.org/abs/2304.10466v1)|null|
@@ -1237,6 +1255,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Solving the List Coloring Problem through a Branch-and-Price algorithm**|Mauro Lucci et.al.|[2304.10995v1](http://arxiv.org/abs/2304.10995v1)|null|
+|**2023-04-20**|**A Conjecture Related to the Traveling Salesman Problem**|Jian Yang et.al.|[2304.10661v1](http://arxiv.org/abs/2304.10661v1)|null|
 |**2023-04-19**|**The Price of Explainability for Clustering**|Anupam Gupta et.al.|[2304.09743v1](http://arxiv.org/abs/2304.09743v1)|null|
 |**2023-04-19**|**Genetic Algorithm Based Combinatorial Optimization for the Optimal Design of Water Distribution Network of Gurudeniya Service Zone, Sri Lanka**|K. H. M. R. N. Senavirathna et.al.|[2304.09720v1](http://arxiv.org/abs/2304.09720v1)|null|
 |**2023-04-19**|**Quantum-Assisted Solution Paths for the Capacitated Vehicle Routing Problem**|Lilly Palackal et.al.|[2304.09629v1](http://arxiv.org/abs/2304.09629v1)|null|
@@ -1409,6 +1429,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Low-Variance Gradient Estimation in Unrolled Computation Graphs with ES-Single**|Paul Vicol et.al.|[2304.11153v1](http://arxiv.org/abs/2304.11153v1)|null|
+|**2023-04-21**|**Monomodes in Tribonacci Chains**|Julius Krebbekx et.al.|[2304.11144v1](http://arxiv.org/abs/2304.11144v1)|null|
+|**2023-04-21**|**Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140v1](http://arxiv.org/abs/2304.11140v1)|null|
+|**2023-04-21**|**A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**|Yiming Ai et.al.|[2304.11106v1](http://arxiv.org/abs/2304.11106v1)|null|
+|**2023-04-20**|**Emotional Expression Detection in Spoken Language Employing Machine Learning Algorithms**|Mehrab Hosain et.al.|[2304.11040v1](http://arxiv.org/abs/2304.11040v1)|null|
+|**2023-04-21**|**Launching a Robust Backdoor Attack under Capability Constrained Scenarios**|Ming Yi et.al.|[2304.10985v1](http://arxiv.org/abs/2304.10985v1)|null|
+|**2023-04-21**|**Self-Supervised Adversarial Imitation Learning**|Juarez Monteiro et.al.|[2304.10914v1](http://arxiv.org/abs/2304.10914v1)|**[link](https://github.com/nathangavenski/sail)**|
+|**2023-04-21**|**Electromechanical memcapacitive neurons for energy-efficient spiking neural networks**|Zixi Zhang et.al.|[2304.10899v1](http://arxiv.org/abs/2304.10899v1)|null|
+|**2023-04-21**|**GCNH: A Simple Method For Representation Learning On Heterophilous Graphs**|Andrea Cavallo et.al.|[2304.10896v1](http://arxiv.org/abs/2304.10896v1)|**[link](https://github.com/smartdata-polito/gcnh)**|
+|**2023-04-21**|**Transformer-based models and hardware acceleration analysis in autonomous driving: A survey**|Juan Zhong et.al.|[2304.10891v1](http://arxiv.org/abs/2304.10891v1)|null|
+|**2023-04-21**|**Adversarial Hamiltonian learning of quantum dots in a minimal Kitaev chain**|Rouven Koch et.al.|[2304.10852v1](http://arxiv.org/abs/2304.10852v1)|null|
+|**2023-04-21**|**What Do GNNs Actually Learn? Towards Understanding their Representations**|Giannis Nikolentzos et.al.|[2304.10851v1](http://arxiv.org/abs/2304.10851v1)|null|
+|**2023-04-21**|**Residual-Based Multi-peak Sampling Algorithm in Inverse Problems of Dynamical Systems**|Xiao-Kai An et.al.|[2304.10842v1](http://arxiv.org/abs/2304.10842v1)|null|
+|**2023-04-21**|**A Deep Learning algorithm to accelerate Algebraic Multigrid methods in Finite Element solvers of 3D elliptic PDEs**|Matteo Caldana et.al.|[2304.10832v1](http://arxiv.org/abs/2304.10832v1)|null|
+|**2023-04-21**|**Individual Fairness in Bayesian Neural Networks**|Alice Doherty et.al.|[2304.10828v1](http://arxiv.org/abs/2304.10828v1)|**[link](https://github.com/alicedoherty/bayesian-fairness)**|
+|**2023-04-21**|**Comparison of Matlantis and VASP bulk formation and surface energies in metal hydrides, carbides, nitrides, oxides, and sulfides**|Shinya Mine et.al.|[2304.10820v1](http://arxiv.org/abs/2304.10820v1)|null|
+|**2023-04-21**|**First-Principles Modeling of Equilibration Dynamics of Hyperthermal Products of Surface Reactions Using Scalable Neural Network Potential**|Qidong Lin et.al.|[2304.10812v1](http://arxiv.org/abs/2304.10812v1)|null|
+|**2023-04-21**|**Classical-to-Quantum Sequence Encoding in Genomics**|Nouhaila Innan et.al.|[2304.10786v1](http://arxiv.org/abs/2304.10786v1)|null|
+|**2023-04-21**|**Surface properties of alkali silicate glasses: Influence of the modifiers**|Zhen Zhang et.al.|[2304.10781v1](http://arxiv.org/abs/2304.10781v1)|null|
+|**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780v1](http://arxiv.org/abs/2304.10780v1)|null|
+|**2023-04-21**|**A Revisit to the Normalized Eight-Point Algorithm and A Self-Supervised Deep Solution**|Bin Fan et.al.|[2304.10771v1](http://arxiv.org/abs/2304.10771v1)|null|
+|**2023-04-21**|**Enhancing Wind Power Forecast Precision via Multi-head Attention Transformer: An Investigation on Single-step and Multi-step Forecasting**|Md Rasel Sarkar et.al.|[2304.10758v1](http://arxiv.org/abs/2304.10758v1)|null|
+|**2023-04-21**|**Multi-scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2304.10749v1](http://arxiv.org/abs/2304.10749v1)|null|
+|**2023-04-21**|**Schooling to Exploit Foolish Contracts**|Tamer Abdelaziz et.al.|[2304.10737v1](http://arxiv.org/abs/2304.10737v1)|null|
+|**2023-04-21**|**Smart Learning to Find Dumb Contracts**|Tamer Abdelaziz et.al.|[2304.10726v1](http://arxiv.org/abs/2304.10726v1)|null|
+|**2023-04-21**|**Deep Learning-empowered Predictive Precoder Design for OTFS Transmission in URLLC**|Chang Liu et.al.|[2304.10723v1](http://arxiv.org/abs/2304.10723v1)|null|
+|**2023-04-21**|**Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources**|Linwei Sang et.al.|[2304.10720v1](http://arxiv.org/abs/2304.10720v1)|null|
+|**2023-04-21**|**Physics-informed Neural Network Combined with Characteristic-Based Split for Solving Navier-Stokes Equations**|Shuang Hu et.al.|[2304.10717v1](http://arxiv.org/abs/2304.10717v1)|null|
+|**2023-04-21**|**Picking Up Quantization Steps for Compressed Image Classification**|Li Ma et.al.|[2304.10714v1](http://arxiv.org/abs/2304.10714v1)|**[link](https://github.com/limapku/qsam)**|
+|**2023-04-21**|**Multiple-object Grasping Using a Multiple-suction-cup Vacuum Gripper in Cluttered Scenes**|Ping Jiang et.al.|[2304.10693v1](http://arxiv.org/abs/2304.10693v1)|null|
+|**2023-04-20**|**A Plug-and-Play Defensive Perturbation for Copyright Protection of DNN-based Applications**|Donghua Wang et.al.|[2304.10679v1](http://arxiv.org/abs/2304.10679v1)|null|
+|**2023-04-20**|**Deep reproductive feature generation framework for the diagnosis of COVID-19 and viral pneumonia using chest X-ray images**|Ceyhun Efe Kayan et.al.|[2304.10677v1](http://arxiv.org/abs/2304.10677v1)|null|
+|**2023-04-20**|**Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs**|Costas Mavromatis et.al.|[2304.10668v1](http://arxiv.org/abs/2304.10668v1)|null|
+|**2023-04-20**|**Meta Semantics: Towards better natural language understanding and reasoning**|Xiaolin Hu et.al.|[2304.10663v1](http://arxiv.org/abs/2304.10663v1)|null|
+|**2023-04-20**|**Learning a quantum computer's capability using convolutional neural networks**|Daniel Hothem et.al.|[2304.10650v1](http://arxiv.org/abs/2304.10650v1)|null|
+|**2023-04-20**|**Multi-module based CVAE to predict HVCM faults in the SNS accelerator**|Yasir Alanazi et.al.|[2304.10639v1](http://arxiv.org/abs/2304.10639v1)|null|
+|**2023-04-20**|**Enhancing object detection robustness: A synthetic and natural perturbation approach**|Nilantha Premakumara et.al.|[2304.10622v1](http://arxiv.org/abs/2304.10622v1)|null|
+|**2023-04-20**|**ULEEN: A Novel Architecture for Ultra Low-Energy Edge Neural Networks**|Zachary Susskind et.al.|[2304.10618v1](http://arxiv.org/abs/2304.10618v1)|null|
+|**2023-04-20**|**Causal Analysis of Customer Churn Using Deep Learning**|David Hason Rudd et.al.|[2304.10604v1](http://arxiv.org/abs/2304.10604v1)|**[link](https://github.com/DavidHason/Causal_Analysis)**|
+|**2023-04-20**|**DeepReShape: Redesigning Neural Networks for Efficient Private Inference**|Nandan Kumar Jha et.al.|[2304.10593v1](http://arxiv.org/abs/2304.10593v1)|null|
+|**2023-04-20**|**Invariant Scattering Transform for Medical Imaging**|Md Manjurul Ahsan et.al.|[2304.10582v1](http://arxiv.org/abs/2304.10582v1)|null|
+|**2023-04-20**|**Improved calorimetric particle identification in NA62 using machine learning techniques**|NA62 Collaboration et.al.|[2304.10580v1](http://arxiv.org/abs/2304.10580v1)|null|
+|**2023-04-20**|**B-Learner: Quasi-Oracle Bounds on Heterogeneous Causal Effects Under Hidden Confounding**|Miruna Oprescu et.al.|[2304.10577v1](http://arxiv.org/abs/2304.10577v1)|**[link](https://github.com/causalml/sharpcate)**|
+|**2023-04-20**|**Random geometry at an infinite-randomness fixed point**|Akshat Pandey et.al.|[2304.10564v1](http://arxiv.org/abs/2304.10564v1)|null|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
 |**2023-04-20**|**A class of mesh-free algorithms for some problems arising in finance and machine learning**|Philippe G. LeFloch et.al.|[2304.10521v1](http://arxiv.org/abs/2304.10521v1)|null|
 |**2023-04-20**|**Censoring chemical data to mitigate dual use risk**|Quintina L. Campbell et.al.|[2304.10510v1](http://arxiv.org/abs/2304.10510v1)|**[link](https://github.com/ur-whitelab/chem-dual-use)**|
@@ -3398,6 +3462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Gradient-Based Distributed Controller Design Over Directed Networks**|Yuto Watanabe et.al.|[2304.10921v1](http://arxiv.org/abs/2304.10921v1)|null|
 |**2023-04-18**|**Optimal distributed control for a viscous non-local tumour growth model**|Matteo Fornoni et.al.|[2304.08867v1](http://arxiv.org/abs/2304.08867v1)|null|
 |**2023-04-12**|**Optimal Motions of an Elastic Structure under Finite-Dimensional Distributed Control**|Georgy Kostin et.al.|[2304.05765v1](http://arxiv.org/abs/2304.05765v1)|null|
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172v1](http://arxiv.org/abs/2304.03172v1)|null|
