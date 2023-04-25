@@ -1,4 +1,4 @@
-## Updated on 2023.04.24
+## Updated on 2023.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -51,7 +51,7 @@
 |**2023-04-20**|**Learning Bottleneck Concepts in Image Classification**|Bowen Wang et.al.|[2304.10131v1](http://arxiv.org/abs/2304.10131v1)|**[link](https://github.com/wbw520/botcl)**|
 |**2023-04-20**|**Mastering Asymmetrical Multiplayer Game with Multi-Agent Asymmetric-Evolution Reinforcement Learning**|Chenglu Sun et.al.|[2304.10124v1](http://arxiv.org/abs/2304.10124v1)|null|
 |**2023-04-20**|**Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors**|Hoang-Giang Cao et.al.|[2304.10108v1](http://arxiv.org/abs/2304.10108v1)|null|
-|**2023-04-20**|**Two-Memory Reinforcement Learning**|Zhao Yang et.al.|[2304.10098v1](http://arxiv.org/abs/2304.10098v1)|null|
+|**2023-04-23**|**Two-Memory Reinforcement Learning**|Zhao Yang et.al.|[2304.10098v2](http://arxiv.org/abs/2304.10098v2)|null|
 |**2023-04-20**|**Topological Guided Actor-Critic Modular Learning of Continuous Systems with Temporal Objectives**|Lening Li et.al.|[2304.10041v1](http://arxiv.org/abs/2304.10041v1)|null|
 |**2023-04-20**|**A Survey on Deep Neural Network Partition over Cloud, Edge and End Devices**|Di Xu et.al.|[2304.10020v1](http://arxiv.org/abs/2304.10020v1)|null|
 |**2023-04-19**|**Model Based Reinforcement Learning for Personalized Heparin Dosing**|Qinyang He et.al.|[2304.10000v1](http://arxiv.org/abs/2304.10000v1)|null|
@@ -1257,7 +1257,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1273,7 +1273,7 @@
 |**2023-04-17**|**Graph Sparsification by Approximate Matrix Multiplication**|Neophytos Charalambides et.al.|[2304.08581v1](http://arxiv.org/abs/2304.08581v1)|null|
 |**2023-04-17**|**Traversing combinatorial 0/1-polytopes via optimization**|Arturo Merino et.al.|[2304.08567v1](http://arxiv.org/abs/2304.08567v1)|null|
 |**2023-04-18**|**A quantum advantage over classical for local max cut**|Charlie Carlson et.al.|[2304.08420v2](http://arxiv.org/abs/2304.08420v2)|null|
-|**2023-04-16**|**On modeling NP-Complete problems as polynomial-sized linear programs: Escaping/Side-stepping the "barriers"**|Moustapha Diaby et.al.|[2304.07716v1](http://arxiv.org/abs/2304.07716v1)|null|
+|**2023-04-22**|**On modeling NP-Complete problems as polynomial-sized linear programs: Escaping/Side-stepping the "barriers"**|Moustapha Diaby et.al.|[2304.07716v2](http://arxiv.org/abs/2304.07716v2)|null|
 |**2023-04-16**|**Thin trees for laminar families**|Nathan Klein et.al.|[2304.07674v1](http://arxiv.org/abs/2304.07674v1)|null|
 |**2023-04-15**|**Learned Interpolation for Better Streaming Quantile Approximation with Worst-Case Guarantees**|Nicholas Schiefer et.al.|[2304.07652v1](http://arxiv.org/abs/2304.07652v1)|null|
 |**2023-04-15**|**Simple Combinatorial Construction of the $k^{o(1)}$-Lower Bound for Approximating the Parameterized $k$ -Clique**|Yijia Chen et.al.|[2304.07516v1](http://arxiv.org/abs/2304.07516v1)|null|
@@ -1433,7 +1433,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
 
 ## Optimization
 
@@ -1451,7 +1451,7 @@
 |**2023-04-21**|**Transformer-based models and hardware acceleration analysis in autonomous driving: A survey**|Juan Zhong et.al.|[2304.10891v1](http://arxiv.org/abs/2304.10891v1)|null|
 |**2023-04-21**|**Adversarial Hamiltonian learning of quantum dots in a minimal Kitaev chain**|Rouven Koch et.al.|[2304.10852v1](http://arxiv.org/abs/2304.10852v1)|null|
 |**2023-04-21**|**What Do GNNs Actually Learn? Towards Understanding their Representations**|Giannis Nikolentzos et.al.|[2304.10851v1](http://arxiv.org/abs/2304.10851v1)|null|
-|**2023-04-21**|**Residual-Based Multi-peak Sampling Algorithm in Inverse Problems of Dynamical Systems**|Xiao-Kai An et.al.|[2304.10842v1](http://arxiv.org/abs/2304.10842v1)|null|
+|**2023-04-24**|**Residual-Based Multi-peak Sampling Algorithm in Inverse Problems of Dynamical Systems**|Xiao-Kai An et.al.|[2304.10842v2](http://arxiv.org/abs/2304.10842v2)|null|
 |**2023-04-21**|**A Deep Learning algorithm to accelerate Algebraic Multigrid methods in Finite Element solvers of 3D elliptic PDEs**|Matteo Caldana et.al.|[2304.10832v1](http://arxiv.org/abs/2304.10832v1)|null|
 |**2023-04-21**|**Individual Fairness in Bayesian Neural Networks**|Alice Doherty et.al.|[2304.10828v1](http://arxiv.org/abs/2304.10828v1)|**[link](https://github.com/alicedoherty/bayesian-fairness)**|
 |**2023-04-21**|**Comparison of Matlantis and VASP bulk formation and surface energies in metal hydrides, carbides, nitrides, oxides, and sulfides**|Shinya Mine et.al.|[2304.10820v1](http://arxiv.org/abs/2304.10820v1)|null|
@@ -3468,7 +3468,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -3511,7 +3511,7 @@
 |**2023-01-13**|**Distributed Random Block-Coordinate descent methods for ill-posed composite convex optimisation problems**|Mathias Staudigl et.al.|[2212.12045v2](http://arxiv.org/abs/2212.12045v2)|null|
 |**2022-11-30**|**CatlNet: Learning Communication and Coordination Policies from CaTL+ Specifications**|Wenliang Liu et.al.|[2212.11792v1](http://arxiv.org/abs/2212.11792v1)|null|
 |**2022-12-21**|**Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models**|Najoung Kim et.al.|[2212.10769v1](http://arxiv.org/abs/2212.10769v1)|**[link](https://github.com/najoungkim/cogs-with-pretraining)**|
-|**2022-12-16**|**Comparing Approaches to Distributed Control of Fluid Systems based on Multi-Agent Systems**|Kevin T. Logan et.al.|[2212.08450v1](http://arxiv.org/abs/2212.08450v1)|null|
+|**2023-04-24**|**Comparing Approaches to Distributed Control of Fluid Systems based on Multi-Agent Systems**|Kevin T. Logan et.al.|[2212.08450v2](http://arxiv.org/abs/2212.08450v2)|null|
 |**2022-12-15**|**On Disturbance Propagation in Vehicular Platoons with Different Communication Ranges**|Chengshuai Wu et.al.|[2212.07927v1](http://arxiv.org/abs/2212.07927v1)|null|
 |**2022-12-15**|**Null-controllability of cascade reaction-diffusion systems with odd coupling terms**|Kévin Le Balc'h et.al.|[2212.07647v1](http://arxiv.org/abs/2212.07647v1)|null|
 |**2022-12-13**|**On optimal control in a nonlinear interface problem described by hemivariational inequalities**|Joachim Gwinner et.al.|[2212.06510v1](http://arxiv.org/abs/2212.06510v1)|null|
@@ -3542,5 +3542,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
 
