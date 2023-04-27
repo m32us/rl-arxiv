@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -24,11 +24,11 @@ layout: default
 |**2023-04-25**|**Loss and Reward Weighing for increased learning in Distributed Reinforcement Learning**|Martin Holen et.al.|[2304.12778v1](http://arxiv.org/abs/2304.12778v1)|null|
 |**2023-04-25**|**Inverting the Imaging Process by Learning an Implicit Camera Model**|Xin Huang et.al.|[2304.12748v1](http://arxiv.org/abs/2304.12748v1)|null|
 |**2023-04-25**|**Eye tracking guided deep multiple instance learning with dual cross-attention for fundus disease detection**|Hongyang Jiang et.al.|[2304.12719v1](http://arxiv.org/abs/2304.12719v1)|null|
-|**2023-04-25**|**Imperfectly coordinated water molecules pave the way for homogeneous ice nucleation**|Mingyi Chen et.al.|[2304.12665v1](http://arxiv.org/abs/2304.12665v1)|null|
+|**2023-04-26**|**Imperfectly coordinated water molecules pave the way for homogeneous ice nucleation**|Mingyi Chen et.al.|[2304.12665v2](http://arxiv.org/abs/2304.12665v2)|null|
 |**2023-04-25**|**A Multi-Task Approach to Robust Deep Reinforcement Learning for Resource Allocation**|Steffen Gracla et.al.|[2304.12660v1](http://arxiv.org/abs/2304.12660v1)|null|
 |**2023-04-25**|**Partially Observable Mean Field Multi-Agent Reinforcement Learning Based on Graph-Attention**|Min Yang et.al.|[2304.12653v1](http://arxiv.org/abs/2304.12653v1)|null|
 |**2023-04-25**|**MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes**|Han Wang et.al.|[2304.12592v1](http://arxiv.org/abs/2304.12592v1)|null|
-|**2023-04-25**|**Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic and Structure Constraints**|Ganning Zhao et.al.|[2304.12591v1](http://arxiv.org/abs/2304.12591v1)|null|
+|**2023-04-26**|**Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic-Structural Constraints**|Ganning Zhao et.al.|[2304.12591v2](http://arxiv.org/abs/2304.12591v2)|null|
 |**2023-04-25**|**Learning Trajectories are Generalization Indicators**|Jingwen Fu et.al.|[2304.12579v1](http://arxiv.org/abs/2304.12579v1)|null|
 |**2023-04-25**|**Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks**|Jesse Farebrother et.al.|[2304.12567v1](http://arxiv.org/abs/2304.12567v1)|null|
 |**2023-04-25**|**Combining Adversaries with Anti-adversaries in Training**|Xiaoling Zhou et.al.|[2304.12550v1](http://arxiv.org/abs/2304.12550v1)|null|
@@ -1336,7 +1336,7 @@ layout: default
 |**2023-04-19**|**Quantum-Assisted Solution Paths for the Capacitated Vehicle Routing Problem**|Lilly Palackal et.al.|[2304.09629v1](http://arxiv.org/abs/2304.09629v1)|null|
 |**2023-04-18**|**A bilevel approach for compensation and routing decisions in last-mile delivery**|Martina Cerulli et.al.|[2304.09170v1](http://arxiv.org/abs/2304.09170v1)|null|
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
-|**2023-04-17**|**Graph Sparsification by Approximate Matrix Multiplication**|Neophytos Charalambides et.al.|[2304.08581v1](http://arxiv.org/abs/2304.08581v1)|null|
+|**2023-04-26**|**Graph Sparsification by Approximate Matrix Multiplication**|Neophytos Charalambides et.al.|[2304.08581v2](http://arxiv.org/abs/2304.08581v2)|null|
 |**2023-04-17**|**Traversing combinatorial 0/1-polytopes via optimization**|Arturo Merino et.al.|[2304.08567v1](http://arxiv.org/abs/2304.08567v1)|null|
 |**2023-04-18**|**A quantum advantage over classical for local max cut**|Charlie Carlson et.al.|[2304.08420v2](http://arxiv.org/abs/2304.08420v2)|null|
 |**2023-04-22**|**On modeling NP-Complete problems as polynomial-sized linear programs: Escaping/Side-stepping the "barriers"**|Moustapha Diaby et.al.|[2304.07716v2](http://arxiv.org/abs/2304.07716v2)|null|
@@ -1528,17 +1528,17 @@ layout: default
 |**2023-04-25**|**Enhanced multilayer perceptron with feature selection and grid search for travel mode choice prediction**|Li Tang et.al.|[2304.12698v1](http://arxiv.org/abs/2304.12698v1)|null|
 |**2023-04-25**|**Leveraging Audio-Tagging Assisted Sound Event Detection using Weakified Strong Labels and Frequency Dynamic Convolutions**|Tanmay Khandelwal et.al.|[2304.12688v1](http://arxiv.org/abs/2304.12688v1)|null|
 |**2023-04-25**|**Docmarking: Real-Time Screen-Cam Robust Document Image Watermarking**|Aleksey Yakushev et.al.|[2304.12682v1](http://arxiv.org/abs/2304.12682v1)|null|
-|**2023-04-25**|**Imperfectly coordinated water molecules pave the way for homogeneous ice nucleation**|Mingyi Chen et.al.|[2304.12665v1](http://arxiv.org/abs/2304.12665v1)|null|
+|**2023-04-26**|**Imperfectly coordinated water molecules pave the way for homogeneous ice nucleation**|Mingyi Chen et.al.|[2304.12665v2](http://arxiv.org/abs/2304.12665v2)|null|
 |**2023-04-25**|**Spatiotemporal Graph Convolutional Recurrent Neural Network Model for Citywide Air Pollution Forecasting**|Van-Duc Le et.al.|[2304.12630v1](http://arxiv.org/abs/2304.12630v1)|null|
 |**2023-04-25**|**Bias in Pruned Vision Models: In-Depth Analysis and Countermeasures**|Eugenia Iofinova et.al.|[2304.12622v1](http://arxiv.org/abs/2304.12622v1)|null|
 |**2023-04-25**|**Reconstruction and fast prediction of a 3D flow field based on a variational autoencoder**|Gongyan Liu et.al.|[2304.12598v1](http://arxiv.org/abs/2304.12598v1)|null|
 |**2023-04-25**|**Detection of Pavement Cracks by Deep Learning Models of Transformer and UNet**|Yu Zhang et.al.|[2304.12596v1](http://arxiv.org/abs/2304.12596v1)|null|
 |**2023-04-25**|**MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes**|Han Wang et.al.|[2304.12592v1](http://arxiv.org/abs/2304.12592v1)|null|
-|**2023-04-25**|**Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic and Structure Constraints**|Ganning Zhao et.al.|[2304.12591v1](http://arxiv.org/abs/2304.12591v1)|null|
+|**2023-04-26**|**Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic-Structural Constraints**|Ganning Zhao et.al.|[2304.12591v2](http://arxiv.org/abs/2304.12591v2)|null|
 |**2023-04-25**|**Learning Trajectories are Generalization Indicators**|Jingwen Fu et.al.|[2304.12579v1](http://arxiv.org/abs/2304.12579v1)|null|
 |**2023-04-25**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v1](http://arxiv.org/abs/2304.12568v1)|null|
 |**2023-04-25**|**Combining Adversaries with Anti-adversaries in Training**|Xiaoling Zhou et.al.|[2304.12550v1](http://arxiv.org/abs/2304.12550v1)|null|
-|**2023-04-25**|**Efficient Bayesian inference using physics-informed invertible neural networks for inverse problems**|Xiaofei Guan et.al.|[2304.12541v1](http://arxiv.org/abs/2304.12541v1)|null|
+|**2023-04-26**|**Efficient Bayesian inference using physics-informed invertible neural networks for inverse problems**|Xiaofei Guan et.al.|[2304.12541v2](http://arxiv.org/abs/2304.12541v2)|null|
 |**2023-04-25**|**GARCIA: Powering Representations of Long-tail Query with Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537v1](http://arxiv.org/abs/2304.12537v1)|null|
 |**2023-04-25**|**A fast and flexible algorithm for microstructure reconstruction combining simulated annealing and deep learning**|Zhenchuan Ma et.al.|[2304.12513v1](http://arxiv.org/abs/2304.12513v1)|null|
 |**2023-04-25**|**CNN-Assisted Steganography -- Integrating Machine Learning with Established Steganographic Techniques**|Andrew Havard et.al.|[2304.12503v1](http://arxiv.org/abs/2304.12503v1)|null|
