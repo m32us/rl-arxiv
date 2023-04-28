@@ -1,4 +1,4 @@
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,17 +16,17 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-26**|**Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning**|Tuomas Haarnoja et.al.|[2304.13653v1](http://arxiv.org/abs/2304.13653v1)|null|
-|**2023-04-26**|**CROP: Towards Distributional-Shift Robust Reinforcement Learning using Compact Reshaped Observation Processing**|Philipp Altmann et.al.|[2304.13616v1](http://arxiv.org/abs/2304.13616v1)|null|
+|**2023-04-26**|**CROP: Towards Distributional-Shift Robust Reinforcement Learning using Compact Reshaped Observation Processing**|Philipp Altmann et.al.|[2304.13616v1](http://arxiv.org/abs/2304.13616v1)|**[link](https://github.com/philippaltmann/crop)**|
 |**2023-04-26**|**Tissue Classification During Needle Insertion Using Self-Supervised Contrastive Learning and Optical Coherence Tomography**|Debayan Bhattacharya et.al.|[2304.13574v1](http://arxiv.org/abs/2304.13574v1)|null|
-|**2023-04-26**|**Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning**|Nico Meyer et.al.|[2304.13571v1](http://arxiv.org/abs/2304.13571v1)|null|
+|**2023-04-26**|**Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning**|Nico Meyer et.al.|[2304.13571v1](http://arxiv.org/abs/2304.13571v1)|**[link](https://gitlab.com/nicomeyer/qnpg)**|
 |**2023-04-26**|**An efficient neural optimizer for resonant nanostructures: demonstration of highly-saturated red silicon structural color**|Ronghui Lin et.al.|[2304.13516v1](http://arxiv.org/abs/2304.13516v1)|null|
 |**2023-04-26**|**Fundamental Tradeoffs in Learning with Prior Information**|Anirudha Majumdar et.al.|[2304.13479v1](http://arxiv.org/abs/2304.13479v1)|null|
-|**2023-04-26**|**From Chaos Comes Order: Ordering Event Representations for Object Detection**|Nikola Zubić et.al.|[2304.13455v1](http://arxiv.org/abs/2304.13455v1)|null|
-|**2023-04-26**|**Optimizing Energy Efficiency in Metro Systems Under Uncertainty Disturbances Using Reinforcement Learning**|Haiqin Xie et.al.|[2304.13443v1](http://arxiv.org/abs/2304.13443v1)|null|
+|**2023-04-27**|**From Chaos Comes Order: Ordering Event Representations for Object Detection**|Nikola Zubić et.al.|[2304.13455v2](http://arxiv.org/abs/2304.13455v2)|null|
+|**2023-04-27**|**Optimizing Energy Efficiency in Metro Systems Under Uncertainty Disturbances Using Reinforcement Learning**|Haiqin Xie et.al.|[2304.13443v2](http://arxiv.org/abs/2304.13443v2)|null|
 |**2023-04-26**|**Implicit Counterfactual Data Augmentation for Deep Neural Networks**|Xiaoling Zhou et.al.|[2304.13431v1](http://arxiv.org/abs/2304.13431v1)|null|
-|**2023-04-26**|**FLEX: an Adaptive Exploration Algorithm for Nonlinear Systems**|Matthieu Blanke et.al.|[2304.13426v1](http://arxiv.org/abs/2304.13426v1)|null|
+|**2023-04-26**|**FLEX: an Adaptive Exploration Algorithm for Nonlinear Systems**|Matthieu Blanke et.al.|[2304.13426v1](http://arxiv.org/abs/2304.13426v1)|**[link](https://github.com/mb-29/exploration)**|
 |**2023-04-26**|**Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories**|Li-Cheng Lan et.al.|[2304.13424v1](http://arxiv.org/abs/2304.13424v1)|null|
-|**2023-04-26**|**N $\text{A}^\text{2}$ Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning**|Zichuan Liu et.al.|[2304.13383v1](http://arxiv.org/abs/2304.13383v1)|null|
+|**2023-04-26**|**N $\text{A}^\text{2}$ Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning**|Zichuan Liu et.al.|[2304.13383v1](http://arxiv.org/abs/2304.13383v1)|**[link](https://github.com/zichuan-liu/na2q)**|
 |**2023-04-26**|**LoRaWAN-enabled Smart Campus: The Dataset and a People Counter Use Case**|Eslam Eldeeb et.al.|[2304.13366v1](http://arxiv.org/abs/2304.13366v1)|null|
 |**2023-04-26**|**Technical Note: Defining and Quantifying AND-OR Interactions for Faithful and Concise Explanation of DNNs**|Mingjie Li et.al.|[2304.13312v1](http://arxiv.org/abs/2304.13312v1)|null|
 |**2023-04-26**|**HiQ -- A Declarative, Non-intrusive, Dynamic and Transparent Observability and Optimization System**|Fuheng Wu et.al.|[2304.13302v1](http://arxiv.org/abs/2304.13302v1)|**[link](https://github.com/oracle/hiq)**|
@@ -1349,7 +1349,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1534,7 +1534,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## Optimization
 
@@ -1554,7 +1554,7 @@
 |**2023-04-26**|**Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar**|Simranjeet Singh et.al.|[2304.13531v1](http://arxiv.org/abs/2304.13531v1)|null|
 |**2023-04-26**|**Comparison of artificial neural network adaptive control techniques for a nonlinear system with delay**|Bartłomiej Guś et.al.|[2304.13468v1](http://arxiv.org/abs/2304.13468v1)|null|
 |**2023-04-26**|**An Adaptive Control Strategy for Neural Network based Optimal Quadcopter Controllers**|Robin Ferede et.al.|[2304.13460v1](http://arxiv.org/abs/2304.13460v1)|null|
-|**2023-04-26**|**From Chaos Comes Order: Ordering Event Representations for Object Detection**|Nikola Zubić et.al.|[2304.13455v1](http://arxiv.org/abs/2304.13455v1)|null|
+|**2023-04-27**|**From Chaos Comes Order: Ordering Event Representations for Object Detection**|Nikola Zubić et.al.|[2304.13455v2](http://arxiv.org/abs/2304.13455v2)|null|
 |**2023-04-26**|**Implicit Counterfactual Data Augmentation for Deep Neural Networks**|Xiaoling Zhou et.al.|[2304.13431v1](http://arxiv.org/abs/2304.13431v1)|null|
 |**2023-04-26**|**GENIE-NF-AI: Identifying Neurofibromatosis Tumors using Liquid Neural Network (LTC) trained on AACR GENIE Datasets**|Michael Bidollahkhani et.al.|[2304.13429v1](http://arxiv.org/abs/2304.13429v1)|null|
 |**2023-04-26**|**Compensation Learning in Semantic Segmentation**|Timo Kaiser et.al.|[2304.13428v1](http://arxiv.org/abs/2304.13428v1)|**[link](https://github.com/tnt-LUH/compensation_learning)**|
@@ -1571,7 +1571,7 @@
 |**2023-04-26**|**Making Models Shallow Again: Jointly Learning to Reduce Non-Linearity and Depth for Latency-Efficient Private Inference**|Souvik Kundu et.al.|[2304.13274v1](http://arxiv.org/abs/2304.13274v1)|null|
 |**2023-04-26**|**C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference**|Yuke Zhang et.al.|[2304.13266v1](http://arxiv.org/abs/2304.13266v1)|null|
 |**2023-04-26**|**A Security Verification Framework of Cryptographic Protocols Using Machine Learning**|Kentaro Ohno et.al.|[2304.13249v1](http://arxiv.org/abs/2304.13249v1)|null|
-|**2023-04-26**|**Machine learning method for $^{12}$ C event classification and reconstruction in the active target time-projection chamber**|Huangkai Wu et.al.|[2304.13233v1](http://arxiv.org/abs/2304.13233v1)|null|
+|**2023-04-27**|**Machine learning method for $^{12}$ C event classification and reconstruction in the active target time-projection chamber**|Huangkai Wu et.al.|[2304.13233v2](http://arxiv.org/abs/2304.13233v2)|null|
 |**2023-04-26**|**Single-View Height Estimation with Conditional Diffusion Probabilistic Models**|Isaac Corley et.al.|[2304.13214v1](http://arxiv.org/abs/2304.13214v1)|null|
 |**2023-04-26**|**Splitting physics-informed neural networks for inferring the dynamics of integer- and fractional-order neuron models**|Simin Shekarpaz et.al.|[2304.13205v1](http://arxiv.org/abs/2304.13205v1)|null|
 |**2023-04-26**|**Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation**|Negar Nejatishahidin et.al.|[2304.13201v1](http://arxiv.org/abs/2304.13201v1)|null|
@@ -1583,7 +1583,7 @@
 |**2023-04-25**|**LSTM-based Load Forecasting Robustness Against Noise Injection Attack in Microgrid**|Amirhossein Nazeri et.al.|[2304.13104v1](http://arxiv.org/abs/2304.13104v1)|null|
 |**2023-04-25**|**Uncovering the Representation of Spiking Neural Networks Trained with Surrogate Gradient**|Yuhang Li et.al.|[2304.13098v1](http://arxiv.org/abs/2304.13098v1)|**[link](https://github.com/intelligent-computing-lab-yale/snncka)**|
 |**2023-04-25**|**Model Extraction Attacks Against Reinforcement Learning Based Controllers**|Momina Sajid et.al.|[2304.13090v1](http://arxiv.org/abs/2304.13090v1)|null|
-|**2023-04-25**|**AI-Synthesized Voice Detection Using Neural Vocoder Artifacts**|Chengzhe Sun et.al.|[2304.13085v1](http://arxiv.org/abs/2304.13085v1)|null|
+|**2023-04-27**|**AI-Synthesized Voice Detection Using Neural Vocoder Artifacts**|Chengzhe Sun et.al.|[2304.13085v2](http://arxiv.org/abs/2304.13085v2)|null|
 |**2023-04-25**|**Metallic-insulator phase transitions in the extended Harper model**|João Chakrian et.al.|[2304.13078v1](http://arxiv.org/abs/2304.13078v1)|null|
 |**2023-04-25**|**iMixer: hierarchical Hopfield network implies an invertible, implicit and iterative MLP-Mixer**|Toshihiro Ota et.al.|[2304.13061v1](http://arxiv.org/abs/2304.13061v1)|**[link](https://github.com/toshihiro-ota/imixer)**|
 |**2023-04-25**|**DuETT: Dual Event Time Transformer for Electronic Health Records**|Alex Labach et.al.|[2304.13017v1](http://arxiv.org/abs/2304.13017v1)|**[link](https://github.com/layer6ai-labs/duett)**|
@@ -3713,7 +3713,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -3789,5 +3789,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
