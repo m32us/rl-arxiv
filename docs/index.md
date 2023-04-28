@@ -9,6 +9,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Learning to Extrapolate: A Transductive Approach**|Aviv Netanyahu et.al.|[2304.14329v1](http://arxiv.org/abs/2304.14329v1)|null|
+|**2023-04-27**|**A Modern Global Extraction of the Sivers Function**|I. P. Fernando et.al.|[2304.14328v1](http://arxiv.org/abs/2304.14328v1)|null|
+|**2023-04-27**|**Exploring the flavor structure of quarks and leptons with reinforcement learning**|Satsuki Nishimura et.al.|[2304.14176v1](http://arxiv.org/abs/2304.14176v1)|null|
+|**2023-04-27**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning: A Dynamic Weight-based Approach**|Junlin Lu et.al.|[2304.14115v1](http://arxiv.org/abs/2304.14115v1)|null|
+|**2023-04-27**|**SocNavGym: A Reinforcement Learning Gym for Social Navigation**|Aditya Kapoor et.al.|[2304.14102v1](http://arxiv.org/abs/2304.14102v1)|null|
+|**2023-04-27**|**Spherical Inducing Features for Orthogonally-Decoupled Gaussian Processes**|Louis C. Tiao et.al.|[2304.14034v1](http://arxiv.org/abs/2304.14034v1)|null|
+|**2023-04-27**|**XAI-based Comparison of Input Representations for Audio Event Classification**|Annika Frommholz et.al.|[2304.14019v1](http://arxiv.org/abs/2304.14019v1)|null|
+|**2023-04-27**|**Optimization-Inspired Cross-Attention Transformer for Compressive Sensing**|Jiechong Song et.al.|[2304.13986v1](http://arxiv.org/abs/2304.13986v1)|**[link](https://github.com/songjiechong/octuf)**|
+|**2023-04-27**|**Convergence of Adam Under Relaxed Assumptions**|Haochuan Li et.al.|[2304.13972v1](http://arxiv.org/abs/2304.13972v1)|null|
+|**2023-04-27**|**Detection of Adversarial Physical Attacks in Time-Series Image Data**|Ramneet Kaur et.al.|[2304.13919v1](http://arxiv.org/abs/2304.13919v1)|null|
+|**2023-04-27**|**Discovering Object-Centric Generalized Value Functions From Pixels**|Somjit Nath et.al.|[2304.13892v1](http://arxiv.org/abs/2304.13892v1)|**[link](https://github.com/somjit77/oc_gvfs)**|
+|**2023-04-26**|**Guaranteed Quantization Error Computation for Neural Network Model Compression**|Wesley Cooke et.al.|[2304.13812v1](http://arxiv.org/abs/2304.13812v1)|null|
+|**2023-04-26**|**A Survey on Solving and Discovering Differential Equations Using Deep Neural Networks**|Hyeonjung et.al.|[2304.13807v1](http://arxiv.org/abs/2304.13807v1)|null|
+|**2023-04-26**|**Physics-informed neural networks for predicting gas flow dynamics and unknown parameters in diesel engines**|Kamaljyoti Nath et.al.|[2304.13799v1](http://arxiv.org/abs/2304.13799v1)|null|
+|**2023-04-26**|**Distance Weighted Supervised Learning for Offline Interaction Data**|Joey Hejna et.al.|[2304.13774v1](http://arxiv.org/abs/2304.13774v1)|null|
 |**2023-04-26**|**Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning**|Tuomas Haarnoja et.al.|[2304.13653v1](http://arxiv.org/abs/2304.13653v1)|null|
 |**2023-04-26**|**CROP: Towards Distributional-Shift Robust Reinforcement Learning using Compact Reshaped Observation Processing**|Philipp Altmann et.al.|[2304.13616v1](http://arxiv.org/abs/2304.13616v1)|**[link](https://github.com/philippaltmann/crop)**|
 |**2023-04-26**|**Tissue Classification During Needle Insertion Using Self-Supervised Contrastive Learning and Optical Coherence Tomography**|Debayan Bhattacharya et.al.|[2304.13574v1](http://arxiv.org/abs/2304.13574v1)|null|
@@ -1530,6 +1545,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**On the capacity of a quantum perceptron for storing biased patterns**|Fabio Benatti et.al.|[2304.14393v1](http://arxiv.org/abs/2304.14393v1)|null|
+|**2023-04-27**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388v1](http://arxiv.org/abs/2304.14388v1)|null|
+|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374v1](http://arxiv.org/abs/2304.14374v1)|null|
+|**2023-04-27**|**Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics**|Pingchuan Ma et.al.|[2304.14369v1](http://arxiv.org/abs/2304.14369v1)|null|
+|**2023-04-27**|**Localization of quantum walk with classical randomness: Comparison between manual methods and supervised machine learning**|Christopher Mastandrea et.al.|[2304.14348v1](http://arxiv.org/abs/2304.14348v1)|null|
+|**2023-04-27**|**Learning to Extrapolate: A Transductive Approach**|Aviv Netanyahu et.al.|[2304.14329v1](http://arxiv.org/abs/2304.14329v1)|null|
+|**2023-04-27**|**A Modern Global Extraction of the Sivers Function**|I. P. Fernando et.al.|[2304.14328v1](http://arxiv.org/abs/2304.14328v1)|null|
+|**2023-04-27**|**Learning Absorption Rates in Glucose-Insulin Dynamics from Meal Covariates**|Ke Alexander Wang et.al.|[2304.14300v1](http://arxiv.org/abs/2304.14300v1)|null|
+|**2023-04-27**|**Instance Segmentation in the Dark**|Linwei Chen et.al.|[2304.14298v1](http://arxiv.org/abs/2304.14298v1)|**[link](https://github.com/linwei-chen/lis)**|
+|**2023-04-27**|**Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals**|Helem Salinas et.al.|[2304.14283v1](http://arxiv.org/abs/2304.14283v1)|null|
+|**2023-04-27**|**Some of the variables, some of the parameters, some of the times, with some physics known: Identification with partial information**|Saurabh Malani et.al.|[2304.14214v1](http://arxiv.org/abs/2304.14214v1)|null|
+|**2023-04-27**|**A Closed Machine Learning Parametric Reduced Order Model Approach - Application to Turbulent Flows**|M. Oulghelou et.al.|[2304.14183v1](http://arxiv.org/abs/2304.14183v1)|null|
+|**2023-04-27**|**Exploring the flavor structure of quarks and leptons with reinforcement learning**|Satsuki Nishimura et.al.|[2304.14176v1](http://arxiv.org/abs/2304.14176v1)|null|
+|**2023-04-27**|**An Algorithm for Computing with Brauer's Group Equivariant Neural Network Layers**|Edward Pearce-Crump et.al.|[2304.14165v1](http://arxiv.org/abs/2304.14165v1)|null|
+|**2023-04-27**|**Spiking Neural Network Decision Feedback Equalization for IM/DD Systems**|Alexander von Bank et.al.|[2304.14152v1](http://arxiv.org/abs/2304.14152v1)|**[link](https://github.com/kit-cel/snn-dfe)**|
+|**2023-04-27**|**Categorification of Group Equivariant Neural Networks**|Edward Pearce-Crump et.al.|[2304.14144v1](http://arxiv.org/abs/2304.14144v1)|null|
+|**2023-04-27**|**Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification**|Xuehu Liu et.al.|[2304.14122v1](http://arxiv.org/abs/2304.14122v1)|null|
+|**2023-04-27**|**Scalable quantum circuits for $n$ -qubit unitary matrices**|Rohit Sarma Sarkar et.al.|[2304.14096v1](http://arxiv.org/abs/2304.14096v1)|null|
+|**2023-04-27**|**JaxPruner: A concise library for sparsity research**|Joo Hyung Lee et.al.|[2304.14082v1](http://arxiv.org/abs/2304.14082v1)|**[link](https://github.com/google-research/jaxpruner)**|
+|**2023-04-27**|**Cluster Flow: how a hierarchical clustering layer make allows deep-NNs more resilient to hacking, more human-like and easily implements relational reasoning**|Ella Gale et.al.|[2304.14081v1](http://arxiv.org/abs/2304.14081v1)|null|
+|**2023-04-27**|**Interpretable Neural-Symbolic Concept Reasoning**|Pietro Barbiero et.al.|[2304.14068v1](http://arxiv.org/abs/2304.14068v1)|null|
+|**2023-04-27**|**Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation**|Yulong Huang et.al.|[2304.14050v1](http://arxiv.org/abs/2304.14050v1)|null|
+|**2023-04-27**|**Spherical Inducing Features for Orthogonally-Decoupled Gaussian Processes**|Louis C. Tiao et.al.|[2304.14034v1](http://arxiv.org/abs/2304.14034v1)|null|
+|**2023-04-27**|**XAI-based Comparison of Input Representations for Audio Event Classification**|Annika Frommholz et.al.|[2304.14019v1](http://arxiv.org/abs/2304.14019v1)|null|
+|**2023-04-27**|**Vision Conformer: Incorporating Convolutions into Vision Transformer Layers**|Brian Kenji Iwana et.al.|[2304.13991v1](http://arxiv.org/abs/2304.13991v1)|**[link](https://github.com/uchidalab/vision-conformer)**|
+|**2023-04-27**|**Optimization-Inspired Cross-Attention Transformer for Compressive Sensing**|Jiechong Song et.al.|[2304.13986v1](http://arxiv.org/abs/2304.13986v1)|**[link](https://github.com/songjiechong/octuf)**|
+|**2023-04-27**|**A Review of Panoptic Segmentation for Mobile Mapping Point Clouds**|Binbin Xiang et.al.|[2304.13980v1](http://arxiv.org/abs/2304.13980v1)|null|
+|**2023-04-27**|**Convergence of Adam Under Relaxed Assumptions**|Haochuan Li et.al.|[2304.13972v1](http://arxiv.org/abs/2304.13972v1)|null|
+|**2023-04-27**|**Patient Independent Interictal Epileptiform Discharge Detection**|Matthew McDougall et.al.|[2304.13965v1](http://arxiv.org/abs/2304.13965v1)|null|
+|**2023-04-27**|**Bitcoin Double-Spending Attack Detection using Graph Neural Network**|Changhoon Kang et.al.|[2304.13935v1](http://arxiv.org/abs/2304.13935v1)|null|
+|**2023-04-27**|**Detection of Adversarial Physical Attacks in Time-Series Image Data**|Ramneet Kaur et.al.|[2304.13919v1](http://arxiv.org/abs/2304.13919v1)|null|
+|**2023-04-27**|**Neuromorphic Computing with AER using Time-to-Event-Margin Propagation**|Madhuvanthi Srivatsav R et.al.|[2304.13918v1](http://arxiv.org/abs/2304.13918v1)|**[link](https://github.com/neuronics-lab/temp-framework)**|
+|**2023-04-27**|**CNN based IoT Device Identification**|Kahraman Kostas et.al.|[2304.13894v1](http://arxiv.org/abs/2304.13894v1)|**[link](https://github.com/kahramankostas/cnn-based-iot-device-identification)**|
+|**2023-04-27**|**Neural Keyphrase Generation: Analysis and Evaluation**|Tuhin Kundu et.al.|[2304.13883v1](http://arxiv.org/abs/2304.13883v1)|null|
+|**2023-04-26**|**Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review**|Mohamed Fadhlallah Guerri et.al.|[2304.13880v1](http://arxiv.org/abs/2304.13880v1)|null|
+|**2023-04-26**|**Typical and atypical solutions in non-convex neural networks with discrete and continuous weights**|Carlo Baldassi et.al.|[2304.13871v1](http://arxiv.org/abs/2304.13871v1)|null|
+|**2023-04-26**|**Radiation-induced Acoustic Signal Denoising using a Supervised Deep Learning Framework for Imaging and Therapy Monitoring**|Zhuoran Jiang et.al.|[2304.13868v1](http://arxiv.org/abs/2304.13868v1)|null|
+|**2023-04-26**|**highway2vec -- representing OpenStreetMap microregions with respect to their road network characteristics**|Kacper Leśniara et.al.|[2304.13865v1](http://arxiv.org/abs/2304.13865v1)|**[link](https://github.com/calychas/highway2vec)**|
+|**2023-04-26**|**Enhancing Inverse Problem Solutions with Accurate Surrogate Simulators and Promising Candidates**|Akihiro Fujii et.al.|[2304.13860v1](http://arxiv.org/abs/2304.13860v1)|**[link](https://github.com/akiratosei/neulag)**|
+|**2023-04-26**|**Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**|Renhao Wang et.al.|[2304.13826v1](http://arxiv.org/abs/2304.13826v1)|null|
+|**2023-04-26**|**Guaranteed Quantization Error Computation for Neural Network Model Compression**|Wesley Cooke et.al.|[2304.13812v1](http://arxiv.org/abs/2304.13812v1)|null|
+|**2023-04-26**|**A Data-Driven Hybrid Automaton Framework to Modeling Complex Dynamical Systems**|Yejiang Yang et.al.|[2304.13811v1](http://arxiv.org/abs/2304.13811v1)|null|
+|**2023-04-26**|**A Survey on Solving and Discovering Differential Equations Using Deep Neural Networks**|Hyeonjung et.al.|[2304.13807v1](http://arxiv.org/abs/2304.13807v1)|null|
+|**2023-04-26**|**Physics-informed neural networks for predicting gas flow dynamics and unknown parameters in diesel engines**|Kamaljyoti Nath et.al.|[2304.13799v1](http://arxiv.org/abs/2304.13799v1)|null|
 |**2023-04-26**|**Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models**|Dominik Honegger et.al.|[2304.13718v1](http://arxiv.org/abs/2304.13718v1)|null|
 |**2023-04-26**|**Association Rules Mining with Auto-Encoders**|Théophile Berteloot et.al.|[2304.13717v1](http://arxiv.org/abs/2304.13717v1)|null|
 |**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710v1](http://arxiv.org/abs/2304.13710v1)|null|
