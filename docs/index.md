@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.28
+## Updated on 2023.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -1547,14 +1547,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-27**|**On the capacity of a quantum perceptron for storing biased patterns**|Fabio Benatti et.al.|[2304.14393v1](http://arxiv.org/abs/2304.14393v1)|null|
 |**2023-04-27**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388v1](http://arxiv.org/abs/2304.14388v1)|null|
-|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374v1](http://arxiv.org/abs/2304.14374v1)|null|
+|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374v1](http://arxiv.org/abs/2304.14374v1)|**[link](https://github.com/sintef/pseudo-hamiltonian-neural-networks)**|
 |**2023-04-27**|**Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics**|Pingchuan Ma et.al.|[2304.14369v1](http://arxiv.org/abs/2304.14369v1)|null|
 |**2023-04-27**|**Localization of quantum walk with classical randomness: Comparison between manual methods and supervised machine learning**|Christopher Mastandrea et.al.|[2304.14348v1](http://arxiv.org/abs/2304.14348v1)|null|
 |**2023-04-27**|**Learning to Extrapolate: A Transductive Approach**|Aviv Netanyahu et.al.|[2304.14329v1](http://arxiv.org/abs/2304.14329v1)|null|
 |**2023-04-27**|**A Modern Global Extraction of the Sivers Function**|I. P. Fernando et.al.|[2304.14328v1](http://arxiv.org/abs/2304.14328v1)|null|
 |**2023-04-27**|**Learning Absorption Rates in Glucose-Insulin Dynamics from Meal Covariates**|Ke Alexander Wang et.al.|[2304.14300v1](http://arxiv.org/abs/2304.14300v1)|null|
 |**2023-04-27**|**Instance Segmentation in the Dark**|Linwei Chen et.al.|[2304.14298v1](http://arxiv.org/abs/2304.14298v1)|**[link](https://github.com/linwei-chen/lis)**|
-|**2023-04-27**|**Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals**|Helem Salinas et.al.|[2304.14283v1](http://arxiv.org/abs/2304.14283v1)|null|
+|**2023-04-27**|**Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals**|Helem Salinas et.al.|[2304.14283v1](http://arxiv.org/abs/2304.14283v1)|**[link](https://github.com/helemysm/attention_exoplanets)**|
 |**2023-04-27**|**Some of the variables, some of the parameters, some of the times, with some physics known: Identification with partial information**|Saurabh Malani et.al.|[2304.14214v1](http://arxiv.org/abs/2304.14214v1)|null|
 |**2023-04-27**|**A Closed Machine Learning Parametric Reduced Order Model Approach - Application to Turbulent Flows**|M. Oulghelou et.al.|[2304.14183v1](http://arxiv.org/abs/2304.14183v1)|null|
 |**2023-04-27**|**Exploring the flavor structure of quarks and leptons with reinforcement learning**|Satsuki Nishimura et.al.|[2304.14176v1](http://arxiv.org/abs/2304.14176v1)|null|
