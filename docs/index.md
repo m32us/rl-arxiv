@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -1608,7 +1608,7 @@ layout: default
 |**2023-04-27**|**Phase classification in the long-range Harper model using machine learning**|Abee Nelson et.al.|[2304.14436v1](http://arxiv.org/abs/2304.14436v1)|null|
 |**2023-04-27**|**Inferring Warm Dark Matter Masses with Deep Learning**|Jonah C. Rose et.al.|[2304.14432v1](http://arxiv.org/abs/2304.14432v1)|null|
 |**2023-04-27**|**On the capacity of a quantum perceptron for storing biased patterns**|Fabio Benatti et.al.|[2304.14393v1](http://arxiv.org/abs/2304.14393v1)|null|
-|**2023-04-27**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388v1](http://arxiv.org/abs/2304.14388v1)|null|
+|**2023-05-01**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388v2](http://arxiv.org/abs/2304.14388v2)|null|
 |**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374v1](http://arxiv.org/abs/2304.14374v1)|**[link](https://github.com/sintef/pseudo-hamiltonian-neural-networks)**|
 |**2023-04-27**|**Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics**|Pingchuan Ma et.al.|[2304.14369v1](http://arxiv.org/abs/2304.14369v1)|null|
 |**2023-04-27**|**Localization of quantum walk with classical randomness: Comparison between manual methods and supervised machine learning**|Christopher Mastandrea et.al.|[2304.14348v1](http://arxiv.org/abs/2304.14348v1)|null|
