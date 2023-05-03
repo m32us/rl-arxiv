@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -14,7 +14,7 @@ layout: default
 |**2023-05-01**|**Heterogeneous Social Value Orientation Leads to Meaningful Diversity in Sequential Social Dilemmas**|Udari Madhushani et.al.|[2305.00768v1](http://arxiv.org/abs/2305.00768v1)|null|
 |**2023-05-01**|**slytHErin: An Agile Framework for Encrypted Deep Neural Network Inference**|Francesco Intoci et.al.|[2305.00690v1](http://arxiv.org/abs/2305.00690v1)|null|
 |**2023-05-01**|**On the Complexity of Multi-Agent Decision Making: From Learning in Games to Partial Monitoring**|Dylan J. Foster et.al.|[2305.00684v1](http://arxiv.org/abs/2305.00684v1)|null|
-|**2023-05-01**|**Representations and Exploration for Deep Reinforcement Learning using Singular Value Decomposition**|Yash Chandak et.al.|[2305.00654v1](http://arxiv.org/abs/2305.00654v1)|null|
+|**2023-05-02**|**Representations and Exploration for Deep Reinforcement Learning using Singular Value Decomposition**|Yash Chandak et.al.|[2305.00654v2](http://arxiv.org/abs/2305.00654v2)|null|
 |**2023-05-01**|**Discover and Cure: Concept-aware Mitigation of Spurious Correlation**|Shirley Wu et.al.|[2305.00650v1](http://arxiv.org/abs/2305.00650v1)|**[link](https://github.com/wuyxin/disc)**|
 |**2023-05-01**|**Learning Self-Prior for Mesh Inpainting Using Self-Supervised Graph Convolutional Networks**|Shota Hattori et.al.|[2305.00635v1](http://arxiv.org/abs/2305.00635v1)|null|
 |**2023-05-01**|**Differentiable Neural Networks with RePU Activation: with Applications to Score Estimation and Isotonic Regression**|Guohao Shen et.al.|[2305.00608v1](http://arxiv.org/abs/2305.00608v1)|null|
@@ -49,7 +49,7 @@ layout: default
 |**2023-04-28**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation**|Hanwen Du et.al.|[2304.14668v1](http://arxiv.org/abs/2304.14668v1)|null|
 |**2023-04-28**|**Fusion is Not Enough: Single-Modal Attacks to Compromise Fusion Models in Autonomous Driving**|Zhiyuan Cheng et.al.|[2304.14614v1](http://arxiv.org/abs/2304.14614v1)|null|
 |**2023-04-28**|**Deep Intellectual Property: A Survey**|Yuchen Sun et.al.|[2304.14613v1](http://arxiv.org/abs/2304.14613v1)|null|
-|**2023-04-28**|**ALL-E: Aesthetics-guided Low-light Image Enhancement**|Ling Li et.al.|[2304.14610v1](http://arxiv.org/abs/2304.14610v1)|null|
+|**2023-05-02**|**ALL-E: Aesthetics-guided Low-light Image Enhancement**|Ling Li et.al.|[2304.14610v2](http://arxiv.org/abs/2304.14610v2)|null|
 |**2023-04-28**|**Deep Neural-network Prior for Orbit Recovery from Method of Moments**|Yuehaw Khoo et.al.|[2304.14604v1](http://arxiv.org/abs/2304.14604v1)|null|
 |**2023-04-28**|**Learning adaptive manipulation of objects with revolute joint: A case study on varied cabinet doors opening**|Hongxiang Yu et.al.|[2304.14602v1](http://arxiv.org/abs/2304.14602v1)|null|
 |**2023-04-27**|**Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540v1](http://arxiv.org/abs/2304.14540v1)|null|
@@ -1597,7 +1597,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-01**|**Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty**|Aliaksandr Hubin et.al.|[2305.00934v1](http://arxiv.org/abs/2305.00934v1)|**[link](https://github.com/aliaksah/variational-inference-for-bayesian-neural-networks-under-model-and-parameter-uncertainty)**|
 |**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884v1](http://arxiv.org/abs/2305.00884v1)|null|
-|**2023-05-01**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v1](http://arxiv.org/abs/2305.00851v1)|null|
+|**2023-05-02**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v2](http://arxiv.org/abs/2305.00851v2)|null|
 |**2023-05-01**|**Neurosymbolic AI - Why, What, and How**|Amit Sheth et.al.|[2305.00813v1](http://arxiv.org/abs/2305.00813v1)|null|
 |**2023-05-01**|**Performance and Energy Consumption of Parallel Machine Learning Algorithms**|Xidong Wu et.al.|[2305.00798v1](http://arxiv.org/abs/2305.00798v1)|null|
 |**2023-05-01**|**Interfacing spiking VCSEL-neurons with silicon photonics weight banks towards integrated neuromorphic photonic systems**|Matěj Hejda et.al.|[2305.00788v1](http://arxiv.org/abs/2305.00788v1)|null|
