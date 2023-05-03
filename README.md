@@ -15,6 +15,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**More Than an Arm: Using a Manipulator as a Tail for Enhanced Stability in Legged Locomotion**|Huang Huang et.al.|[2305.01648v1](http://arxiv.org/abs/2305.01648v1)|null|
+|**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626v1](http://arxiv.org/abs/2305.01626v1)|null|
+|**2023-05-02**|**Mitigating Approximate Memorization in Language Models via Dissimilarity Learned Policy**|Aly M. Kassem et.al.|[2305.01550v1](http://arxiv.org/abs/2305.01550v1)|null|
+|**2023-05-01**|**BCEdge: SLO-Aware DNN Inference Services with Adaptive Batching on Edge Platforms**|Ziyang Zhang et.al.|[2305.01519v1](http://arxiv.org/abs/2305.01519v1)|null|
+|**2023-05-02**|**Discovering the Effectiveness of Pre-Training in a Large-scale Car-sharing Platform**|Kyung Ho Park et.al.|[2305.01506v1](http://arxiv.org/abs/2305.01506v1)|null|
+|**2023-05-02**|**An Adaptive Behaviour-Based Strategy for SARs interacting with Older Adults with MCI during a Serious Game Scenario**|Eleonora Zedda et.al.|[2305.01492v1](http://arxiv.org/abs/2305.01492v1)|null|
+|**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
+|**2023-05-02**|**Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management**|Jinming Xu et.al.|[2305.01461v1](http://arxiv.org/abs/2305.01461v1)|null|
+|**2023-05-02**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381v1](http://arxiv.org/abs/2305.01381v1)|null|
+|**2023-05-02**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v1](http://arxiv.org/abs/2305.01361v1)|null|
+|**2023-05-02**|**Validation of massively-parallel adaptive testing using dynamic control matching**|Schaun Wheeler et.al.|[2305.01334v1](http://arxiv.org/abs/2305.01334v1)|null|
+|**2023-05-02**|**An Autonomous Non-monolithic Agent with Multi-mode Exploration based on Options Framework**|JaeYoon Kim et.al.|[2305.01322v1](http://arxiv.org/abs/2305.01322v1)|null|
+|**2023-05-02**|**An Improved Yaw Control Algorithm for Wind Turbines via Reinforcement Learning**|Alban Puech et.al.|[2305.01299v1](http://arxiv.org/abs/2305.01299v1)|null|
+|**2023-05-02**|**Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation**|Marius-Constantin Dinu et.al.|[2305.01281v1](http://arxiv.org/abs/2305.01281v1)|**[link](https://github.com/xpitfire/iwa)**|
+|**2023-05-02**|**Recent Applications of Dynamical Mean-Field Methods**|Leticia F. Cugliandolo et.al.|[2305.01229v1](http://arxiv.org/abs/2305.01229v1)|null|
+|**2023-05-02**|**Deep Q-Learning-based Distribution Network Reconfiguration for Reliability Improvement**|Mukesh Gautam et.al.|[2305.01180v1](http://arxiv.org/abs/2305.01180v1)|null|
+|**2023-05-02**|**Fast quantum gate design with deep reinforcement learning using real-time feedback on readout signals**|Emily Wright et.al.|[2305.01169v1](http://arxiv.org/abs/2305.01169v1)|null|
+|**2023-05-02**|**Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective**|Yuxin Dong et.al.|[2305.01143v1](http://arxiv.org/abs/2305.01143v1)|**[link](https://github.com/gamepiaynmo/kre)**|
+|**2023-05-01**|**A novel neural-network architecture for continuous gravitational waves**|Prasanna M. Joshi et.al.|[2305.01057v1](http://arxiv.org/abs/2305.01057v1)|null|
+|**2023-05-01**|**Model-agnostic Measure of Generalization Difficulty**|Akhilan Boopathy et.al.|[2305.01034v1](http://arxiv.org/abs/2305.01034v1)|**[link](https://github.com/fietelab/inductive-bias-complexity)**|
+|**2023-04-30**|**Detecting Novelties with Empty Classes**|Svenja Uhlemeyer et.al.|[2305.00983v1](http://arxiv.org/abs/2305.00983v1)|null|
 |**2023-04-27**|**Batch Quantum Reinforcement Learning**|Maniraman Periyasamy et.al.|[2305.00905v1](http://arxiv.org/abs/2305.00905v1)|null|
 |**2023-05-01**|**AI-based Radio and Computing Resource Allocation and Path Planning in NOMA NTNs: AoI Minimization under CSI Uncertainty**|Maryam Ansarifard et.al.|[2305.00780v1](http://arxiv.org/abs/2305.00780v1)|null|
 |**2023-05-01**|**Heterogeneous Social Value Orientation Leads to Meaningful Diversity in Sequential Social Dilemmas**|Udari Madhushani et.al.|[2305.00768v1](http://arxiv.org/abs/2305.00768v1)|null|
@@ -1417,6 +1438,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Randomized algorithms for fully online multiprocessor scheduling with testing**|Mingyang Gong et.al.|[2305.01605v1](http://arxiv.org/abs/2305.01605v1)|null|
+|**2023-05-02**|**FPT Approximations for Capacitated/Fair Clustering with Outliers**|Rajni Dabas et.al.|[2305.01471v1](http://arxiv.org/abs/2305.01471v1)|null|
+|**2023-05-01**|**Hardware implementation of digital memcomputing on small-size FPGAs**|Dyk Chung Nguyen et.al.|[2305.01061v1](http://arxiv.org/abs/2305.01061v1)|null|
 |**2023-04-29**|**Local Search for Integer Linear Programming**|Peng Lin et.al.|[2305.00188v1](http://arxiv.org/abs/2305.00188v1)|null|
 |**2023-04-29**|**Clustering What Matters in Constrained Settings**|Ragesh Jaiswal et.al.|[2305.00175v1](http://arxiv.org/abs/2305.00175v1)|null|
 |**2023-04-28**|**Faster Submodular Maximization for Several Classes of Matroids**|Monika Henzinger et.al.|[2305.00122v1](http://arxiv.org/abs/2305.00122v1)|null|
@@ -1605,6 +1629,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
+|**2023-05-02**|**Deep Learning for Joint Acoustic Echo and Acoustic Howling Suppression in Hybrid Meetings**|Hao Zhang et.al.|[2305.01637v1](http://arxiv.org/abs/2305.01637v1)|null|
+|**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626v1](http://arxiv.org/abs/2305.01626v1)|null|
+|**2023-05-02**|**Self-supervised learning for infant cry analysis**|Arsenii Gorin et.al.|[2305.01578v1](http://arxiv.org/abs/2305.01578v1)|null|
+|**2023-05-02**|**Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**|Philipp Christmann et.al.|[2305.01548v1](http://arxiv.org/abs/2305.01548v1)|null|
+|**2023-05-02**|**Accelerating Neural Self-Improvement via Bootstrapping**|Kazuki Irie et.al.|[2305.01547v1](http://arxiv.org/abs/2305.01547v1)|**[link](https://github.com/idsia/modern-srwm)**|
+|**2023-05-02**|**Discovering the Effectiveness of Pre-Training in a Large-scale Car-sharing Platform**|Kyung Ho Park et.al.|[2305.01506v1](http://arxiv.org/abs/2305.01506v1)|null|
+|**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
+|**2023-05-02**|**Efficient estimation of quantum state k-designs with randomized measurements**|Lorenzo Versini et.al.|[2305.01465v1](http://arxiv.org/abs/2305.01465v1)|null|
+|**2023-05-02**|**Memory of recurrent networks: Do we compute it right?**|Giovanni Ballarin et.al.|[2305.01457v1](http://arxiv.org/abs/2305.01457v1)|**[link](https://github.com/learning-of-dynamic-processes/memorycapacity)**|
+|**2023-05-02**|**Stress and heat flux via automatic differentiation**|Marcel F. Langer et.al.|[2305.01401v1](http://arxiv.org/abs/2305.01401v1)|**[link](https://github.com/sirmarcel/glp)**|
+|**2023-05-02**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v1](http://arxiv.org/abs/2305.01361v1)|null|
+|**2023-05-02**|**Physics-Informed Learning Using Hamiltonian Neural Networks with Output Error Noise Models**|Sarvin Moradi et.al.|[2305.01338v1](http://arxiv.org/abs/2305.01338v1)|null|
+|**2023-05-02**|**Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation**|Marius-Constantin Dinu et.al.|[2305.01281v1](http://arxiv.org/abs/2305.01281v1)|**[link](https://github.com/xpitfire/iwa)**|
+|**2023-05-02**|**DABS: Data-Agnostic Backdoor attack at the Server in Federated Learning**|Wenqiang Sun et.al.|[2305.01267v1](http://arxiv.org/abs/2305.01267v1)|null|
+|**2023-05-02**|**Impact of astrophysical effects on the dark matter mass constraint with 21cm intensity mapping**|Koya Murakami et.al.|[2305.01256v1](http://arxiv.org/abs/2305.01256v1)|null|
+|**2023-05-02**|**Convergence and error analysis of PINNs**|Nathan Doumèche et.al.|[2305.01240v1](http://arxiv.org/abs/2305.01240v1)|null|
+|**2023-05-02**|**CNS-Net: Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario**|Jingcai Guo et.al.|[2305.01236v1](http://arxiv.org/abs/2305.01236v1)|null|
+|**2023-05-02**|**Recent Applications of Dynamical Mean-Field Methods**|Leticia F. Cugliandolo et.al.|[2305.01229v1](http://arxiv.org/abs/2305.01229v1)|null|
+|**2023-05-02**|**Structure Aware Incremental Learning with Personalized Imitation Weights for Recommender Systems**|Yuening Wang et.al.|[2305.01204v1](http://arxiv.org/abs/2305.01204v1)|null|
+|**2023-05-02**|**Estimating Input Coefficients for Regional Input-Output Tables Using Deep Learning with Mixup**|Shogo Fukui et.al.|[2305.01201v1](http://arxiv.org/abs/2305.01201v1)|null|
+|**2023-05-02**|**Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles**|Yuanzheng Ma et.al.|[2305.01165v1](http://arxiv.org/abs/2305.01165v1)|**[link](https://github.com/yuanzhengthu/handDrawnPAAImages)**|
+|**2023-05-02**|**Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective**|Yuxin Dong et.al.|[2305.01143v1](http://arxiv.org/abs/2305.01143v1)|**[link](https://github.com/gamepiaynmo/kre)**|
+|**2023-05-02**|**PGrad: Learning Principal Gradients For Domain Generalization**|Zhe Wang et.al.|[2305.01134v1](http://arxiv.org/abs/2305.01134v1)|**[link](https://github.com/qdata/pgrad)**|
+|**2023-05-02**|**Analysis of different temporal graph neural network configurations on dynamic graphs**|Rishu Verma et.al.|[2305.01128v1](http://arxiv.org/abs/2305.01128v1)|null|
+|**2023-05-01**|**Learning Controllable Adaptive Simulation for Multi-resolution Physics**|Tailin Wu et.al.|[2305.01122v1](http://arxiv.org/abs/2305.01122v1)|**[link](https://github.com/snap-stanford/lamp)**|
+|**2023-05-01**|**LSTM-based Preceding Vehicle Behaviour Prediction during Aggressive Lane Change for ACC Application**|Rajmeet Singh et.al.|[2305.01095v1](http://arxiv.org/abs/2305.01095v1)|null|
+|**2023-05-01**|**Neural-Shadow Quantum State Tomography**|Victor Wei et.al.|[2305.01078v1](http://arxiv.org/abs/2305.01078v1)|null|
+|**2023-05-01**|**A novel neural-network architecture for continuous gravitational waves**|Prasanna M. Joshi et.al.|[2305.01057v1](http://arxiv.org/abs/2305.01057v1)|null|
+|**2023-05-01**|**Random neural networks for rough volatility**|Antoine Jacquier et.al.|[2305.01035v1](http://arxiv.org/abs/2305.01035v1)|null|
+|**2023-05-01**|**The Expressivity of Classical and Quantum Neural Networks on Entanglement Entropy**|Chih-Hung Wu et.al.|[2305.00997v1](http://arxiv.org/abs/2305.00997v1)|null|
+|**2023-05-01**|**Towards a Phenomenological Understanding of Neural Networks: Data**|Samuel Tovey et.al.|[2305.00995v1](http://arxiv.org/abs/2305.00995v1)|null|
+|**2023-05-01**|**BCS-like disorder-driven instabilities and ultraviolet effects in nodal-line semimetals**|Siyu Zhu et.al.|[2305.00990v1](http://arxiv.org/abs/2305.00990v1)|null|
+|**2023-05-01**|**A novel algorithm can generate data to train machine learning models in conditions of extreme scarcity of real world data**|Olivier Niel et.al.|[2305.00987v1](http://arxiv.org/abs/2305.00987v1)|null|
 |**2023-05-01**|**Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty**|Aliaksandr Hubin et.al.|[2305.00934v1](http://arxiv.org/abs/2305.00934v1)|**[link](https://github.com/aliaksah/variational-inference-for-bayesian-neural-networks-under-model-and-parameter-uncertainty)**|
 |**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884v1](http://arxiv.org/abs/2305.00884v1)|null|
 |**2023-05-02**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v2](http://arxiv.org/abs/2305.00851v2)|null|
