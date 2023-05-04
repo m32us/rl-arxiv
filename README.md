@@ -1,4 +1,4 @@
-## Updated on 2023.05.03
+## Updated on 2023.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2023-05-02**|**An Adaptive Behaviour-Based Strategy for SARs interacting with Older Adults with MCI during a Serious Game Scenario**|Eleonora Zedda et.al.|[2305.01492v1](http://arxiv.org/abs/2305.01492v1)|null|
 |**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
 |**2023-05-02**|**Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management**|Jinming Xu et.al.|[2305.01461v1](http://arxiv.org/abs/2305.01461v1)|null|
-|**2023-05-02**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381v1](http://arxiv.org/abs/2305.01381v1)|null|
+|**2023-05-03**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381v2](http://arxiv.org/abs/2305.01381v2)|**[link](https://github.com/shaodaqian/rl-from-ltl)**|
 |**2023-05-02**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v1](http://arxiv.org/abs/2305.01361v1)|null|
 |**2023-05-02**|**Validation of massively-parallel adaptive testing using dynamic control matching**|Schaun Wheeler et.al.|[2305.01334v1](http://arxiv.org/abs/2305.01334v1)|null|
 |**2023-05-02**|**An Autonomous Non-monolithic Agent with Multi-mode Exploration based on Options Framework**|JaeYoon Kim et.al.|[2305.01322v1](http://arxiv.org/abs/2305.01322v1)|null|
@@ -1432,7 +1432,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1623,7 +1623,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Optimization
 
@@ -1637,7 +1637,7 @@
 |**2023-05-02**|**Accelerating Neural Self-Improvement via Bootstrapping**|Kazuki Irie et.al.|[2305.01547v1](http://arxiv.org/abs/2305.01547v1)|**[link](https://github.com/idsia/modern-srwm)**|
 |**2023-05-02**|**Discovering the Effectiveness of Pre-Training in a Large-scale Car-sharing Platform**|Kyung Ho Park et.al.|[2305.01506v1](http://arxiv.org/abs/2305.01506v1)|null|
 |**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
-|**2023-05-02**|**Efficient estimation of quantum state k-designs with randomized measurements**|Lorenzo Versini et.al.|[2305.01465v1](http://arxiv.org/abs/2305.01465v1)|null|
+|**2023-05-03**|**Efficient estimation of quantum state k-designs with randomized measurements**|Lorenzo Versini et.al.|[2305.01465v2](http://arxiv.org/abs/2305.01465v2)|null|
 |**2023-05-02**|**Memory of recurrent networks: Do we compute it right?**|Giovanni Ballarin et.al.|[2305.01457v1](http://arxiv.org/abs/2305.01457v1)|**[link](https://github.com/learning-of-dynamic-processes/memorycapacity)**|
 |**2023-05-02**|**Stress and heat flux via automatic differentiation**|Marcel F. Langer et.al.|[2305.01401v1](http://arxiv.org/abs/2305.01401v1)|**[link](https://github.com/sirmarcel/glp)**|
 |**2023-05-02**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v1](http://arxiv.org/abs/2305.01361v1)|null|
@@ -3975,7 +3975,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -4051,5 +4051,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
