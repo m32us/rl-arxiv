@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Iranian License Plate Recognition Using a Reliable Deep Learning Approach**|Soheila Hatami et.al.|[2305.02292v1](http://arxiv.org/abs/2305.02292v1)|null|
+|**2023-05-03**|**Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems**|Stefan Kramer et.al.|[2305.02251v1](http://arxiv.org/abs/2305.02251v1)|null|
+|**2023-05-03**|**Continual Reasoning: Non-Monotonic Reasoning in Neurosymbolic AI using Continual Learning**|Sofoklis Kyriakopoulos et.al.|[2305.02171v1](http://arxiv.org/abs/2305.02171v1)|null|
+|**2023-05-03**|**System Neural Diversity: Measuring Behavioral Heterogeneity in Multi-Agent Learning**|Matteo Bettini et.al.|[2305.02128v1](http://arxiv.org/abs/2305.02128v1)|null|
+|**2023-05-03**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture**|Turgay Pamuklu et.al.|[2305.02112v1](http://arxiv.org/abs/2305.02112v1)|null|
+|**2023-05-03**|**Human Machine Co-adaption Interface via Cooperation Markov Decision Process System**|Kairui Guo et.al.|[2305.02058v1](http://arxiv.org/abs/2305.02058v1)|null|
+|**2023-05-03**|**Map-based Experience Replay: A Memory-Efficient Solution to Catastrophic Forgetting in Reinforcement Learning**|Muhammad Burhan Hafez et.al.|[2305.02054v1](http://arxiv.org/abs/2305.02054v1)|null|
+|**2023-05-03**|**Gym-preCICE: Reinforcement Learning Environments for Active Flow Control**|Mosayeb Shams et.al.|[2305.02033v1](http://arxiv.org/abs/2305.02033v1)|null|
+|**2023-05-03**|**Enhancing Efficiency of Quadrupedal Locomotion over Challenging Terrains with Extensible Feet**|Lokesh Kumar et.al.|[2305.01998v1](http://arxiv.org/abs/2305.01998v1)|null|
+|**2023-05-03**|**Illicit item detection in X-ray images for security applications**|Georgios Batsis et.al.|[2305.01936v1](http://arxiv.org/abs/2305.01936v1)|null|
+|**2023-05-03**|**Morphological Classification of Galaxies Using SpinalNet**|Dim Shaiakhmetov et.al.|[2305.01873v1](http://arxiv.org/abs/2305.01873v1)|null|
+|**2023-05-02**|**Hamming Similarity and Graph Laplacians for Class Partitioning and Adversarial Image Detection**|Huma Jamil et.al.|[2305.01808v1](http://arxiv.org/abs/2305.01808v1)|null|
+|**2023-05-02**|**Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare**|Shengpu Tang et.al.|[2305.01738v1](http://arxiv.org/abs/2305.01738v1)|**[link](https://github.com/mld3/offlinerl_factoredactions)**|
 |**2023-05-02**|**More Than an Arm: Using a Manipulator as a Tail for Enhanced Stability in Legged Locomotion**|Huang Huang et.al.|[2305.01648v1](http://arxiv.org/abs/2305.01648v1)|null|
 |**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626v1](http://arxiv.org/abs/2305.01626v1)|null|
 |**2023-05-02**|**Mitigating Approximate Memorization in Language Models via Dissimilarity Learned Policy**|Aly M. Kassem et.al.|[2305.01550v1](http://arxiv.org/abs/2305.01550v1)|null|
@@ -1430,6 +1443,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**A $4/3$ Approximation for $2$ -Vertex-Connectivity**|Miguel Bosch-Calvo et.al.|[2305.02240v1](http://arxiv.org/abs/2305.02240v1)|null|
+|**2023-05-03**|**Algorithmic Theory of Qubit Routing**|Takehiro Ito et.al.|[2305.02059v1](http://arxiv.org/abs/2305.02059v1)|null|
+|**2023-05-03**|**Approximate Evaluation of Quantitative Second Order Queries**|Jan Dreier et.al.|[2305.02056v1](http://arxiv.org/abs/2305.02056v1)|null|
+|**2023-05-03**|**Approximating Long Cycle Above Dirac's Guarantee**|Fedor F. Fomin et.al.|[2305.02011v1](http://arxiv.org/abs/2305.02011v1)|null|
+|**2023-05-03**|**Experimental Design for Any $p$ -Norm**|Lap Chi Lau et.al.|[2305.01942v1](http://arxiv.org/abs/2305.01942v1)|null|
+|**2023-05-03**|**Tensor Network Message Passing**|Yijia Wang et.al.|[2305.01874v1](http://arxiv.org/abs/2305.01874v1)|null|
+|**2023-05-02**|**Data valuation: The partial ordinal Shapley value for machine learning**|Jie Liu et.al.|[2305.01660v1](http://arxiv.org/abs/2305.01660v1)|**[link](https://github.com/peizhengwang/partialordinalshapley)**|
 |**2023-05-02**|**Randomized algorithms for fully online multiprocessor scheduling with testing**|Mingyang Gong et.al.|[2305.01605v1](http://arxiv.org/abs/2305.01605v1)|null|
 |**2023-05-02**|**FPT Approximations for Capacitated/Fair Clustering with Outliers**|Rajni Dabas et.al.|[2305.01471v1](http://arxiv.org/abs/2305.01471v1)|null|
 |**2023-05-01**|**Hardware implementation of digital memcomputing on small-size FPGAs**|Dyk Chung Nguyen et.al.|[2305.01061v1](http://arxiv.org/abs/2305.01061v1)|null|
@@ -1619,6 +1639,54 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Dynamic Sparse Training with Structured Sparsity**|Mike Lasby et.al.|[2305.02299v1](http://arxiv.org/abs/2305.02299v1)|**[link](https://github.com/calgaryml/condensed-sparsity)**|
+|**2023-05-03**|**Iranian License Plate Recognition Using a Reliable Deep Learning Approach**|Soheila Hatami et.al.|[2305.02292v1](http://arxiv.org/abs/2305.02292v1)|null|
+|**2023-05-03**|**Learngene: Inheriting Condensed Knowledge from the Ancestry Model to Descendant Models**|Qiufeng Wang et.al.|[2305.02279v1](http://arxiv.org/abs/2305.02279v1)|null|
+|**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259v1](http://arxiv.org/abs/2305.02259v1)|null|
+|**2023-05-03**|**Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems**|Stefan Kramer et.al.|[2305.02251v1](http://arxiv.org/abs/2305.02251v1)|null|
+|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
+|**2023-05-03**|**High-sensitivity extreme-ultraviolet transient absorption spectroscopy enabled by machine learning**|Tobias Heinrich et.al.|[2305.02236v1](http://arxiv.org/abs/2305.02236v1)|null|
+|**2023-05-03**|**Data Privacy with Homomorphic Encryption in Neural Networks Training and Inference**|Ivone Amorim et.al.|[2305.02225v1](http://arxiv.org/abs/2305.02225v1)|null|
+|**2023-05-03**|**DocLangID: Improving Few-Shot Training to Identify the Language of Historical Documents**|Furkan Simsek et.al.|[2305.02208v1](http://arxiv.org/abs/2305.02208v1)|**[link](https://github.com/caesarea38/doclangid)**|
+|**2023-05-03**|**Inverse Global Illumination using a Neural Radiometric Prior**|Saeed Hadadan et.al.|[2305.02192v1](http://arxiv.org/abs/2305.02192v1)|null|
+|**2023-05-03**|**Rethinking Graph Lottery Tickets: Graph Sparsity Matters**|Bo Hui et.al.|[2305.02190v1](http://arxiv.org/abs/2305.02190v1)|null|
+|**2023-05-03**|**Quantitative three-dimensional local order analysis of nanomaterials through electron diffraction**|Ella Mara Schmidt et.al.|[2305.02180v1](http://arxiv.org/abs/2305.02180v1)|null|
+|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v1](http://arxiv.org/abs/2305.02177v1)|null|
+|**2023-05-03**|**Continual Reasoning: Non-Monotonic Reasoning in Neurosymbolic AI using Continual Learning**|Sofoklis Kyriakopoulos et.al.|[2305.02171v1](http://arxiv.org/abs/2305.02171v1)|null|
+|**2023-05-03**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture**|Turgay Pamuklu et.al.|[2305.02112v1](http://arxiv.org/abs/2305.02112v1)|null|
+|**2023-05-03**|**Single Image Deraining via Feature-based Deep Convolutional Neural Network**|Chaobing Zheng et.al.|[2305.02100v1](http://arxiv.org/abs/2305.02100v1)|null|
+|**2023-05-03**|**Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization**|Yufei Guo et.al.|[2305.02099v1](http://arxiv.org/abs/2305.02099v1)|null|
+|**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
+|**2023-05-03**|**Rethinking the Encoding of Satellite Image Time Series**|Xin Cai et.al.|[2305.02086v1](http://arxiv.org/abs/2305.02086v1)|null|
+|**2023-05-03**|**A survey of modularized backstepping control design approaches to nonlinear ODE systems**|Zhengru Ren et.al.|[2305.02066v1](http://arxiv.org/abs/2305.02066v1)|null|
+|**2023-05-03**|**Improved Static Hand Gesture Classification on Deep Convolutional Neural Networks using Novel Sterile Training Technique**|Josiah Smith et.al.|[2305.02039v1](http://arxiv.org/abs/2305.02039v1)|null|
+|**2023-05-03**|**Neural Network Training and Non-Differentiable Objective Functions**|Yash Patel et.al.|[2305.02024v1](http://arxiv.org/abs/2305.02024v1)|null|
+|**2023-05-03**|**Towards Deep Learning-Based Quantum Algorithms for Solving Nonlinear Partial Differential Equations**|Lukas Mouton et.al.|[2305.02019v1](http://arxiv.org/abs/2305.02019v1)|null|
+|**2023-05-03**|**Multi-Valued Quantum Neurons**|M. W. AlMasri et.al.|[2305.02018v1](http://arxiv.org/abs/2305.02018v1)|null|
+|**2023-05-03**|**Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution**|Josiah Smith et.al.|[2305.02017v1](http://arxiv.org/abs/2305.02017v1)|null|
+|**2023-05-03**|**An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface**|Josiah W. Smith et.al.|[2305.01995v1](http://arxiv.org/abs/2305.01995v1)|null|
+|**2023-05-03**|**"Glitch in the Matrix!": A Large Scale Benchmark for Content Driven Audio-Visual Forgery Detection and Localization**|Zhixi Cai et.al.|[2305.01979v1](http://arxiv.org/abs/2305.01979v1)|**[link](https://github.com/ControlNet/LAV-DF)**|
+|**2023-05-03**|**DPSeq: A Novel and Efficient Digital Pathology Classifier for Predicting Cancer Biomarkers using Sequencer Architecture**|Min Cen et.al.|[2305.01968v1](http://arxiv.org/abs/2305.01968v1)|null|
+|**2023-05-03**|**Illicit item detection in X-ray images for security applications**|Georgios Batsis et.al.|[2305.01936v1](http://arxiv.org/abs/2305.01936v1)|null|
+|**2023-05-03**|**An Exploration of Conditioning Methods in Graph Neural Networks**|Yeskendir Koishekenov et.al.|[2305.01933v1](http://arxiv.org/abs/2305.01933v1)|**[link](https://github.com/yeskendirk/conditioning-gnns)**|
+|**2023-05-03**|**Specification-Driven Neural Network Reduction for Scalable Formal Verification**|Tobias Ladner et.al.|[2305.01932v1](http://arxiv.org/abs/2305.01932v1)|null|
+|**2023-05-03**|**Tensor Network Message Passing**|Yijia Wang et.al.|[2305.01874v1](http://arxiv.org/abs/2305.01874v1)|null|
+|**2023-05-03**|**Morphological Classification of Galaxies Using SpinalNet**|Dim Shaiakhmetov et.al.|[2305.01873v1](http://arxiv.org/abs/2305.01873v1)|null|
+|**2023-05-03**|**Convolutional neural network-based single-shot speckle tracking for x-ray phase-contrast imaging**|Serena Qinyun Z. Shi et.al.|[2305.01871v1](http://arxiv.org/abs/2305.01871v1)|null|
+|**2023-05-03**|**Pre-train and Search: Efficient Embedding Table Sharding with Pre-trained Neural Cost Models**|Daochen Zha et.al.|[2305.01868v1](http://arxiv.org/abs/2305.01868v1)|**[link](https://github.com/daochenzha/neuroshard)**|
+|**2023-05-03**|**$Σ$ Resonances from a Neural Network-based Partial Wave Analysis on $K^-p$ Scattering**|Jun Shi et.al.|[2305.01852v1](http://arxiv.org/abs/2305.01852v1)|null|
+|**2023-05-03**|**Photo-Voltaic Panel Power Production Estimation with an Artificial Neural Network using Environmental and Electrical Measurements**|Antony Morales-Cervantes et.al.|[2305.01848v1](http://arxiv.org/abs/2305.01848v1)|null|
+|**2023-05-03**|**Bio-Inspired Simple Neural Network for Low-Light Image Restoration: A Minimalist Approach**|Junjie Ye et.al.|[2305.01844v1](http://arxiv.org/abs/2305.01844v1)|null|
+|**2023-05-02**|**Hamming Similarity and Graph Laplacians for Class Partitioning and Adversarial Image Detection**|Huma Jamil et.al.|[2305.01808v1](http://arxiv.org/abs/2305.01808v1)|null|
+|**2023-05-02**|**Transferablility of coVariance Neural Networks and Application to Interpretable Brain Age Prediction using Anatomical Features**|Saurabh Sihag et.al.|[2305.01807v1](http://arxiv.org/abs/2305.01807v1)|null|
+|**2023-05-02**|**MISNN: Multiple Imputation via Semi-parametric Neural Networks**|Zhiqi Bu et.al.|[2305.01794v1](http://arxiv.org/abs/2305.01794v1)|null|
+|**2023-05-02**|**Representation Learning via Manifold Flattening and Reconstruction**|Michael Psenka et.al.|[2305.01777v1](http://arxiv.org/abs/2305.01777v1)|null|
+|**2023-05-02**|**Cheap and Deterministic Inference for Deep State-Space Models of Interacting Dynamical Systems**|Andreas Look et.al.|[2305.01773v1](http://arxiv.org/abs/2305.01773v1)|null|
+|**2023-05-02**|**Single-model uncertainty quantification in neural network potentials does not consistently outperform model ensembles**|Aik Rui Tan et.al.|[2305.01754v1](http://arxiv.org/abs/2305.01754v1)|null|
+|**2023-05-02**|**Photonic Advantage of Optical Encoders**|Luocheng Huang et.al.|[2305.01743v1](http://arxiv.org/abs/2305.01743v1)|null|
+|**2023-05-02**|**Learning Disentangled Semantic Spaces of Explanations via Invertible Neural Networks**|Yingji Zhang et.al.|[2305.01713v1](http://arxiv.org/abs/2305.01713v1)|null|
+|**2023-05-02**|**DeepAqua: Self-Supervised Semantic Segmentation of Wetlands from SAR Images using Knowledge Distillation**|Francisco J. Peña et.al.|[2305.01698v1](http://arxiv.org/abs/2305.01698v1)|null|
+|**2023-05-02**|**Quantum Fourier Iterative Amplitude Estimation**|Jorge J. Martínez de Lejarza et.al.|[2305.01686v1](http://arxiv.org/abs/2305.01686v1)|null|
 |**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
 |**2023-05-02**|**Deep Learning for Joint Acoustic Echo and Acoustic Howling Suppression in Hybrid Meetings**|Hao Zhang et.al.|[2305.01637v1](http://arxiv.org/abs/2305.01637v1)|null|
 |**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626v1](http://arxiv.org/abs/2305.01626v1)|null|
