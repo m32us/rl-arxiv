@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -57,7 +57,7 @@ layout: default
 |**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
 |**2023-05-02**|**Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management**|Jinming Xu et.al.|[2305.01461v1](http://arxiv.org/abs/2305.01461v1)|null|
 |**2023-05-03**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381v2](http://arxiv.org/abs/2305.01381v2)|**[link](https://github.com/shaodaqian/rl-from-ltl)**|
-|**2023-05-02**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v1](http://arxiv.org/abs/2305.01361v1)|null|
+|**2023-05-05**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v2](http://arxiv.org/abs/2305.01361v2)|null|
 |**2023-05-02**|**Validation of massively-parallel adaptive testing using dynamic control matching**|Schaun Wheeler et.al.|[2305.01334v1](http://arxiv.org/abs/2305.01334v1)|null|
 |**2023-05-04**|**An Autonomous Non-monolithic Agent with Multi-mode Exploration based on Options Framework**|JaeYoon Kim et.al.|[2305.01322v2](http://arxiv.org/abs/2305.01322v2)|**[link](https://github.com/jangikim2/an-autonomous-non-monolithic-agent-with-multi-mode-exploration-based-on-options-framework)**|
 |**2023-05-02**|**An Improved Yaw Control Algorithm for Wind Turbines via Reinforcement Learning**|Alban Puech et.al.|[2305.01299v1](http://arxiv.org/abs/2305.01299v1)|**[link](https://github.com/albanpuech/rl-yaw-control-algorithm-for-wind-turbines)**|
@@ -1692,7 +1692,7 @@ layout: default
 |**2023-05-04**|**Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression**|Hao Zhang et.al.|[2305.02583v1](http://arxiv.org/abs/2305.02583v1)|null|
 |**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567v1](http://arxiv.org/abs/2305.02567v1)|null|
 |**2023-05-04**|**Madvex: Instrumentation-based Adversarial Attacks on Machine Learning Malware Detection**|Nils Loose et.al.|[2305.02559v1](http://arxiv.org/abs/2305.02559v1)|null|
-|**2023-05-04**|**Cuttlefish: Low-rank Model Training without All The Tuning**|Hongyi Wang et.al.|[2305.02538v1](http://arxiv.org/abs/2305.02538v1)|**[link](https://github.com/hwang595/cuttlefish)**|
+|**2023-05-05**|**Cuttlefish: Low-Rank Model Training without All the Tuning**|Hongyi Wang et.al.|[2305.02538v2](http://arxiv.org/abs/2305.02538v2)|**[link](https://github.com/hwang595/cuttlefish)**|
 |**2023-05-04**|**BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs**|Jou-An Chen et.al.|[2305.02522v1](http://arxiv.org/abs/2305.02522v1)|null|
 |**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510v1](http://arxiv.org/abs/2305.02510v1)|null|
 |**2023-05-04**|**Stimulative Training++: Go Beyond The Performance Limits of Residual Networks**|Peng Ye et.al.|[2305.02507v1](http://arxiv.org/abs/2305.02507v1)|null|
