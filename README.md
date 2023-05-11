@@ -1,4 +1,4 @@
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2023-05-09**|**SMAClite: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Adam Michalski et.al.|[2305.05566v1](http://arxiv.org/abs/2305.05566v1)|**[link](https://github.com/uoe-agents/smaclite)**|
 |**2023-05-09**|**Optimal Energy System Scheduling Using A Constraint-Aware Reinforcement Learning Algorithm**|Hou Shengren et.al.|[2305.05484v1](http://arxiv.org/abs/2305.05484v1)|**[link](https://github.com/ShengrenHou/Energy-management-MIP-Deep-Reinforcement-Learning)**|
 |**2023-05-09**|**High-throughput Cotton Phenotyping Big Data Pipeline Lambda Architecture Computer Vision Deep Neural Networks**|Amanda Issac et.al.|[2305.05423v1](http://arxiv.org/abs/2305.05423v1)|null|
-|**2023-05-09**|**Safe Deep RL for Intraoperative Planning of Pedicle Screw Placement**|Yunke Ao et.al.|[2305.05354v1](http://arxiv.org/abs/2305.05354v1)|null|
+|**2023-05-10**|**Safe Deep RL for Intraoperative Planning of Pedicle Screw Placement**|Yunke Ao et.al.|[2305.05354v2](http://arxiv.org/abs/2305.05354v2)|null|
 |**2023-05-09**|**Towards the Characterization of Representations Learned via Capsule-based Network Architectures**|Saja AL-Tawalbeh et.al.|[2305.05349v1](http://arxiv.org/abs/2305.05349v1)|null|
 |**2023-05-09**|**Rotation Synchronization via Deep Matrix Factorization**|Gk Tejus et.al.|[2305.05268v1](http://arxiv.org/abs/2305.05268v1)|**[link](https://github.com/gktejus/DMF-Synch)**|
 |**2023-05-09**|**Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection**|Jiajun Fan et.al.|[2305.05239v1](http://arxiv.org/abs/2305.05239v1)|null|
@@ -63,7 +63,7 @@
 |**2023-05-06**|**Replicating Complex Dialogue Policy of Humans via Offline Imitation Learning with Supervised Regularization**|Zhoujian Sun et.al.|[2305.03987v1](http://arxiv.org/abs/2305.03987v1)|null|
 |**2023-05-06**|**Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation**|Wenxuan Zhou et.al.|[2305.03942v1](http://arxiv.org/abs/2305.03942v1)|null|
 |**2023-05-06**|**Approximation by non-symmetric networks for cross-domain learning**|Hrushikesh Mhaskar et.al.|[2305.03890v1](http://arxiv.org/abs/2305.03890v1)|null|
-|**2023-05-05**|**Knowledge Transfer from Teachers to Learners in Growing-Batch Reinforcement Learning**|Patrick Emedom-Nnamdi et.al.|[2305.03870v1](http://arxiv.org/abs/2305.03870v1)|null|
+|**2023-05-09**|**Knowledge Transfer from Teachers to Learners in Growing-Batch Reinforcement Learning**|Patrick Emedom-Nnamdi et.al.|[2305.03870v2](http://arxiv.org/abs/2305.03870v2)|null|
 |**2023-05-04**|**Stackelberg Games for Learning Emergent Behaviors During Competitive Autocurricula**|Boling Yang et.al.|[2305.03735v1](http://arxiv.org/abs/2305.03735v1)|null|
 |**2023-05-05**|**Mining bias-target Alignment from Voronoi Cells**|Rémi Nahon et.al.|[2305.03691v1](http://arxiv.org/abs/2305.03691v1)|**[link](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells)**|
 |**2023-05-05**|**Reducing the Drag of a Bluff Body by Deep Reinforcement Learning**|Enrico Ballini et.al.|[2305.03647v1](http://arxiv.org/abs/2305.03647v1)|null|
@@ -1543,7 +1543,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1749,7 +1749,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
 
 ## Optimization
 
@@ -1757,7 +1757,7 @@
 |---|---|---|---|---|
 |**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651v1](http://arxiv.org/abs/2305.05651v1)|null|
 |**2023-05-09**|**A duality framework for generalization analysis of random feature models and two-layer neural networks**|Hongrui Chen et.al.|[2305.05642v1](http://arxiv.org/abs/2305.05642v1)|null|
-|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v1](http://arxiv.org/abs/2305.05640v1)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|**[link](https://github.com/ibm/hspo-ontology)**|
 |**2023-05-09**|**Metric Space Magnitude and Generalisation in Neural Networks**|Rayna Andreeva et.al.|[2305.05611v1](http://arxiv.org/abs/2305.05611v1)|null|
 |**2023-05-09**|**Pooling techniques in hybrid quantum-classical convolutional neural networks**|Maureen Monnet et.al.|[2305.05603v1](http://arxiv.org/abs/2305.05603v1)|null|
 |**2023-05-09**|**Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists**|R. Fioresi et.al.|[2305.05601v1](http://arxiv.org/abs/2305.05601v1)|null|
@@ -1800,7 +1800,7 @@
 |**2023-05-09**|**Sparse sensor reconstruction of vortex-impinged airfoil wake with machine learning**|Yonghong Zhong et.al.|[2305.05147v1](http://arxiv.org/abs/2305.05147v1)|null|
 |**2023-05-09**|**Localisation of Mammographic masses by Greedy Backtracking of Activations in the Stacked Auto-Encoders**|Shamna Pootheri et.al.|[2305.05136v1](http://arxiv.org/abs/2305.05136v1)|null|
 |**2023-05-09**|**Comparing Foundation Models using Data Kernels**|Brandon Duderstadt et.al.|[2305.05126v1](http://arxiv.org/abs/2305.05126v1)|null|
-|**2023-05-09**|**Wood-sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v1](http://arxiv.org/abs/2305.05103v1)|null|
+|**2023-05-10**|**Wooden Sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v2](http://arxiv.org/abs/2305.05103v2)|null|
 |**2023-05-08**|**Functional Equivalence and Path Connectivity of Reducible Hyperbolic Tangent Networks**|Matthew Farrugia-Roberts et.al.|[2305.05089v1](http://arxiv.org/abs/2305.05089v1)|null|
 |**2023-05-08**|**Thermal Conductivity of Water at Extreme Conditions**|Cunzhi Zhang et.al.|[2305.05047v1](http://arxiv.org/abs/2305.05047v1)|null|
 |**2023-05-08**|**Introduction to Engineering Mathematics and Analysis: Modeling Physical Systems Using the Language of Mathematics**|Brian D Wood et.al.|[2305.05036v1](http://arxiv.org/abs/2305.05036v1)|null|
@@ -4342,7 +4342,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -4419,5 +4419,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
 
