@@ -1787,7 +1787,7 @@ layout: default
 |**2023-05-11**|**Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting**|Joshua Smailes et.al.|[2305.06947v1](http://arxiv.org/abs/2305.06947v1)|null|
 |**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
 |**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
-|**2023-05-11**|**Stochastic Variance-Reduced Majorization-Minimization Algorithms**|Duy-Nhat Phan et.al.|[2305.06848v1](http://arxiv.org/abs/2305.06848v1)|null|
+|**2023-05-11**|**Stochastic Variance-Reduced Majorization-Minimization Algorithms**|Duy-Nhat Phan et.al.|[2305.06848v1](http://arxiv.org/abs/2305.06848v1)|**[link](https://github.com/nhatpd/svrmm)**|
 |**2023-05-11**|**Emotion Recognition for Challenged People Facial Appearance in Social using Neural Network**|P. Deivendran et.al.|[2305.06842v1](http://arxiv.org/abs/2305.06842v1)|null|
 |**2023-05-11**|**A Generic Approach to Integrating Time into Spatial-Temporal Forecasting via Conditional Neural Fields**|Minh-Thanh Bui et.al.|[2305.06827v1](http://arxiv.org/abs/2305.06827v1)|null|
 |**2023-05-11**|**Genesis of chimera patterns through self-induced stochastic resonance**|Taniya Khatun et.al.|[2305.06824v1](http://arxiv.org/abs/2305.06824v1)|null|
