@@ -1,4 +1,4 @@
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-11**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972v1](http://arxiv.org/abs/2305.06972v1)|null|
+|**2023-05-12**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972v2](http://arxiv.org/abs/2305.06972v2)|null|
 |**2023-05-10**|**An Option-Dependent Analysis of Regret Minimization Algorithms in Finite-Horizon Semi-Markov Decision Processes**|Gianluca Drappo et.al.|[2305.06936v1](http://arxiv.org/abs/2305.06936v1)|null|
 |**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
 |**2023-05-11**|**Policy Gradient Algorithms Implicitly Optimize by Continuation**|Adrien Bolland et.al.|[2305.06851v1](http://arxiv.org/abs/2305.06851v1)|null|
@@ -24,7 +24,7 @@
 |**2023-05-11**|**State Constrained Stochastic Optimal Control for Continuous and Hybrid Dynamical Systems Using DFBSDE**|Bolun Dai et.al.|[2305.06499v1](http://arxiv.org/abs/2305.06499v1)|null|
 |**2023-05-10**|**Treasure What You Have: Exploiting Similarity in Deep Neural Networks for Efficient Video Processing**|Hadjer Benmeziane et.al.|[2305.06492v1](http://arxiv.org/abs/2305.06492v1)|null|
 |**2023-05-10**|**SlicerTMS: Interactive Real-time Visualization of Transcranial Magnetic Stimulation using Augmented Reality and Deep Learning**|Loraine Franke et.al.|[2305.06459v1](http://arxiv.org/abs/2305.06459v1)|**[link](https://github.com/lorifranke/SlicerTMS)**|
-|**2023-05-10**|**Multi-agent Reinforcement Learning: Asynchronous Communication and Linear Function Approximation**|Yifei Min et.al.|[2305.06446v1](http://arxiv.org/abs/2305.06446v1)|null|
+|**2023-05-12**|**Cooperative Multi-Agent Reinforcement Learning: Asynchronous Communication and Linear Function Approximation**|Yifei Min et.al.|[2305.06446v2](http://arxiv.org/abs/2305.06446v2)|null|
 |**2023-05-10**|**HoneyIoT: Adaptive High-Interaction Honeypot for IoT Devices Through Reinforcement Learning**|Chongqi Guan et.al.|[2305.06430v1](http://arxiv.org/abs/2305.06430v1)|null|
 |**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398v1](http://arxiv.org/abs/2305.06398v1)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
 |**2023-05-10**|**Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning**|Vincent Paul Su et.al.|[2305.06378v1](http://arxiv.org/abs/2305.06378v1)|null|
@@ -34,7 +34,7 @@
 |**2023-05-10**|**Learning Optimal "Pigovian Tax" in Sequential Social Dilemmas**|Yun Hua et.al.|[2305.06227v1](http://arxiv.org/abs/2305.06227v1)|null|
 |**2023-05-10**|**Sequence-Agnostic Multi-Object Navigation**|Nandiraju Gireesh et.al.|[2305.06178v1](http://arxiv.org/abs/2305.06178v1)|null|
 |**2023-05-09**|**Fine-tuning Language Models with Generative Adversarial Feedback**|Zhang Ze Yu et.al.|[2305.06176v1](http://arxiv.org/abs/2305.06176v1)|null|
-|**2023-05-10**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v1](http://arxiv.org/abs/2305.06141v1)|null|
+|**2023-05-12**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v2](http://arxiv.org/abs/2305.06141v2)|null|
 |**2023-05-10**|**A proof of convergence of inverse reinforcement learning for multi-objective optimization**|Akira Kitaoka et.al.|[2305.06137v1](http://arxiv.org/abs/2305.06137v1)|null|
 |**2023-05-10**|**DNN Verification, Reachability, and the Exponential Function Problem**|Omri Isac et.al.|[2305.06064v1](http://arxiv.org/abs/2305.06064v1)|null|
 |**2023-05-10**|**Post-training Model Quantization Using GANs for Synthetic Data Generation**|Athanasios Masouris et.al.|[2305.06052v1](http://arxiv.org/abs/2305.06052v1)|**[link](https://github.com/thanosm97/gsoc2022-openvino)**|
@@ -42,7 +42,7 @@
 |**2023-05-10**|**Fast Teammate Adaptation in the Presence of Sudden Policy Change**|Ziqian Zhang et.al.|[2305.05911v1](http://arxiv.org/abs/2305.05911v1)|null|
 |**2023-05-10**|**Robust multi-agent coordination via evolutionary generation of auxiliary adversarial attackers**|Lei Yuan et.al.|[2305.05909v1](http://arxiv.org/abs/2305.05909v1)|**[link](https://github.com/zzq-bot/romance)**|
 |**2023-05-10**|**Mixture of personality improved Spiking actor network for efficient multi-agent cooperation**|Xiyun Li et.al.|[2305.05898v1](http://arxiv.org/abs/2305.05898v1)|null|
-|**2023-05-10**|**Diffusion-based Signal Refiner for Speech Enhancement**|Masato Hirano et.al.|[2305.05857v1](http://arxiv.org/abs/2305.05857v1)|null|
+|**2023-05-12**|**Diffusion-based Signal Refiner for Speech Separation**|Masato Hirano et.al.|[2305.05857v2](http://arxiv.org/abs/2305.05857v2)|null|
 |**2023-05-10**|**MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural Networks**|Seah Kim et.al.|[2305.05843v1](http://arxiv.org/abs/2305.05843v1)|**[link](https://github.com/ucb-bar/moca)**|
 |**2023-05-09**|**Assessment of Reinforcement Learning Algorithms for Nuclear Power Plant Fuel Optimization**|Paul Seurin et.al.|[2305.05812v1](http://arxiv.org/abs/2305.05812v1)|null|
 |**2023-05-09**|**Reducing the Cost of Cycle-Time Tuning for Real-World Policy Optimization**|Homayoon Farrahi et.al.|[2305.05760v1](http://arxiv.org/abs/2305.05760v1)|**[link](https://github.com/homayoonfarrahi/cycle-time-study)**|
@@ -1577,7 +1577,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1592,7 +1592,7 @@
 |**2023-05-05**|**Alignment between Initial State and Mixer Improves QAOA Performance for Constrained Portfolio Optimization**|Zichang He et.al.|[2305.03857v1](http://arxiv.org/abs/2305.03857v1)|null|
 |**2023-05-05**|**Near-Optimal LOS and Orientation Aware Intelligent Reflecting Surface Placement**|Ehsan Tohidi et.al.|[2305.03451v1](http://arxiv.org/abs/2305.03451v1)|null|
 |**2023-05-05**|**Tighter Approximation for the Uniform Cost-Distance Steiner Tree Problem**|Josefine Foos et.al.|[2305.03381v1](http://arxiv.org/abs/2305.03381v1)|null|
-|**2023-05-04**|**Near-Optimal Compact Routing and Decomposition Schemes for Planar Graphs**|Jinfeng Dou et.al.|[2305.02854v1](http://arxiv.org/abs/2305.02854v1)|null|
+|**2023-05-12**|**Distributed Construction of Near-Optimal Compact Routing Schemes for Planar Graphs**|Jinfeng Dou et.al.|[2305.02854v2](http://arxiv.org/abs/2305.02854v2)|null|
 |**2023-05-03**|**A $4/3$ Approximation for $2$ -Vertex-Connectivity**|Miguel Bosch-Calvo et.al.|[2305.02240v1](http://arxiv.org/abs/2305.02240v1)|null|
 |**2023-05-03**|**Algorithmic Theory of Qubit Routing**|Takehiro Ito et.al.|[2305.02059v1](http://arxiv.org/abs/2305.02059v1)|null|
 |**2023-05-03**|**Approximate Evaluation of Quantitative Second Order Queries**|Jan Dreier et.al.|[2305.02056v1](http://arxiv.org/abs/2305.02056v1)|null|
@@ -1785,7 +1785,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
 
 ## Optimization
 
@@ -1829,7 +1829,7 @@
 |**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v1](http://arxiv.org/abs/2305.06477v1)|null|
 |**2023-05-10**|**SlicerTMS: Interactive Real-time Visualization of Transcranial Magnetic Stimulation using Augmented Reality and Deep Learning**|Loraine Franke et.al.|[2305.06459v1](http://arxiv.org/abs/2305.06459v1)|**[link](https://github.com/lorifranke/SlicerTMS)**|
 |**2023-05-10**|**Dynamic Graph Representation Learning for Depression Screening with Transformer**|Ai-Te Kuo et.al.|[2305.06447v1](http://arxiv.org/abs/2305.06447v1)|null|
-|**2023-05-10**|**Phase transitions in the mini-batch size for sparse and dense neural networks**|Raffaele Marino et.al.|[2305.06435v1](http://arxiv.org/abs/2305.06435v1)|null|
+|**2023-05-12**|**Phase transitions in the mini-batch size for sparse and dense neural networks**|Raffaele Marino et.al.|[2305.06435v2](http://arxiv.org/abs/2305.06435v2)|null|
 |**2023-05-10**|**A Generalizable Physics-informed Learning Framework for Risk Probability Estimation**|Zhuoyuan Wang et.al.|[2305.06432v1](http://arxiv.org/abs/2305.06432v1)|**[link](https://github.com/jacobwang925/pipe-l4dc)**|
 |**2023-05-10**|**Mispronunciation Detection of Basic Quranic Recitation Rules using Deep Learning**|Ahmad Al Harere et.al.|[2305.06429v1](http://arxiv.org/abs/2305.06429v1)|null|
 |**2023-05-10**|**Accelerating Batch Active Learning Using Continual Learning Techniques**|Arnav Das et.al.|[2305.06408v1](http://arxiv.org/abs/2305.06408v1)|null|
@@ -4469,7 +4469,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -4546,5 +4546,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
 
