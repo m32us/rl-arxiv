@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -33,11 +33,11 @@ layout: default
 |**2023-05-10**|**An Option-Dependent Analysis of Regret Minimization Algorithms in Finite-Horizon Semi-Markov Decision Processes**|Gianluca Drappo et.al.|[2305.06936v1](http://arxiv.org/abs/2305.06936v1)|null|
 |**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
 |**2023-05-11**|**Policy Gradient Algorithms Implicitly Optimize by Continuation**|Adrien Bolland et.al.|[2305.06851v1](http://arxiv.org/abs/2305.06851v1)|null|
-|**2023-05-11**|**Towards Theoretical Understanding of Data-Driven Policy Refinement**|Ali Baheri et.al.|[2305.06796v1](http://arxiv.org/abs/2305.06796v1)|null|
-|**2023-05-11**|**On practical robust reinforcement learning: adjacent uncertainty set and double-agent algorithm**|Ukjo Hwang et.al.|[2305.06657v1](http://arxiv.org/abs/2305.06657v1)|null|
+|**2023-05-15**|**Towards Theoretical Understanding of Data-Driven Policy Refinement**|Ali Baheri et.al.|[2305.06796v2](http://arxiv.org/abs/2305.06796v2)|null|
+|**2023-05-14**|**On Practical Robust Reinforcement Learning: Practical Uncertainty Set and Double-Agent Algorithm**|Ukjo Hwang et.al.|[2305.06657v2](http://arxiv.org/abs/2305.06657v2)|null|
 |**2023-05-11**|**State Constrained Stochastic Optimal Control for Continuous and Hybrid Dynamical Systems Using DFBSDE**|Bolun Dai et.al.|[2305.06499v1](http://arxiv.org/abs/2305.06499v1)|null|
 |**2023-05-10**|**Treasure What You Have: Exploiting Similarity in Deep Neural Networks for Efficient Video Processing**|Hadjer Benmeziane et.al.|[2305.06492v1](http://arxiv.org/abs/2305.06492v1)|null|
-|**2023-05-10**|**SlicerTMS: Interactive Real-time Visualization of Transcranial Magnetic Stimulation using Augmented Reality and Deep Learning**|Loraine Franke et.al.|[2305.06459v1](http://arxiv.org/abs/2305.06459v1)|**[link](https://github.com/lorifranke/SlicerTMS)**|
+|**2023-05-12**|**SlicerTMS: Interactive Real-time Visualization of Transcranial Magnetic Stimulation using Augmented Reality and Deep Learning**|Loraine Franke et.al.|[2305.06459v2](http://arxiv.org/abs/2305.06459v2)|**[link](https://github.com/lorifranke/SlicerTMS)**|
 |**2023-05-12**|**Cooperative Multi-Agent Reinforcement Learning: Asynchronous Communication and Linear Function Approximation**|Yifei Min et.al.|[2305.06446v2](http://arxiv.org/abs/2305.06446v2)|null|
 |**2023-05-10**|**HoneyIoT: Adaptive High-Interaction Honeypot for IoT Devices Through Reinforcement Learning**|Chongqi Guan et.al.|[2305.06430v1](http://arxiv.org/abs/2305.06430v1)|null|
 |**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398v1](http://arxiv.org/abs/2305.06398v1)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
@@ -1608,7 +1608,7 @@ layout: default
 |**2023-05-05**|**Tighter Approximation for the Uniform Cost-Distance Steiner Tree Problem**|Josefine Foos et.al.|[2305.03381v1](http://arxiv.org/abs/2305.03381v1)|null|
 |**2023-05-12**|**Distributed Construction of Near-Optimal Compact Routing Schemes for Planar Graphs**|Jinfeng Dou et.al.|[2305.02854v2](http://arxiv.org/abs/2305.02854v2)|null|
 |**2023-05-03**|**A $4/3$ Approximation for $2$ -Vertex-Connectivity**|Miguel Bosch-Calvo et.al.|[2305.02240v1](http://arxiv.org/abs/2305.02240v1)|null|
-|**2023-05-03**|**Algorithmic Theory of Qubit Routing**|Takehiro Ito et.al.|[2305.02059v1](http://arxiv.org/abs/2305.02059v1)|null|
+|**2023-05-14**|**Algorithmic Theory of Qubit Routing**|Takehiro Ito et.al.|[2305.02059v2](http://arxiv.org/abs/2305.02059v2)|null|
 |**2023-05-03**|**Approximate Evaluation of Quantitative Second Order Queries**|Jan Dreier et.al.|[2305.02056v1](http://arxiv.org/abs/2305.02056v1)|null|
 |**2023-05-03**|**Approximating Long Cycle Above Dirac's Guarantee**|Fedor F. Fomin et.al.|[2305.02011v1](http://arxiv.org/abs/2305.02011v1)|null|
 |**2023-05-03**|**Experimental Design for Any $p$ -Norm**|Lap Chi Lau et.al.|[2305.01942v1](http://arxiv.org/abs/2305.01942v1)|null|
@@ -1806,7 +1806,7 @@ layout: default
 |**2023-05-12**|**Efficient Neural Network based Classification and Outlier Detection for Image Moderation using Compressed Sensing and Group Testing**|Sabyasachi Ghosh et.al.|[2305.07639v1](http://arxiv.org/abs/2305.07639v1)|null|
 |**2023-05-12**|**Design, Development, and Evaluation of an Interactive Personalized Social Robot to Monitor and Coach Post-Stroke Rehabilitation Exercises**|Min Hun Lee et.al.|[2305.07632v1](http://arxiv.org/abs/2305.07632v1)|null|
 |**2023-05-12**|**Agile gesture recognition for capacitive sensing devices: adapting on-the-job**|Ying Liu et.al.|[2305.07624v1](http://arxiv.org/abs/2305.07624v1)|null|
-|**2023-05-12**|**Fisher Information Embedding for Node and Graph Learning**|Dexiong Chen et.al.|[2305.07580v1](http://arxiv.org/abs/2305.07580v1)|null|
+|**2023-05-12**|**Fisher Information Embedding for Node and Graph Learning**|Dexiong Chen et.al.|[2305.07580v1](http://arxiv.org/abs/2305.07580v1)|**[link](https://github.com/BorgwardtLab/fisher_information_embedding)**|
 |**2023-05-12**|**Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts**|Huy Nguyen et.al.|[2305.07572v1](http://arxiv.org/abs/2305.07572v1)|null|
 |**2023-05-12**|**Reply to: Deep reinforced learning heuristic tested on spin-glass ground states: The larger picture**|Changjun Fan et.al.|[2305.07562v1](http://arxiv.org/abs/2305.07562v1)|null|
 |**2023-05-12**|**Joint MR sequence optimization beats pure neural network approaches for spin-echo MRI super-resolution**|Hoai Nam Dang et.al.|[2305.07524v1](http://arxiv.org/abs/2305.07524v1)|null|
