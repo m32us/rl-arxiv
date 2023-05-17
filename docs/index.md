@@ -9,6 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|null|
+|**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655v1](http://arxiv.org/abs/2305.09655v1)|**[link](https://github.com/s4nyam/ramario)**|
+|**2023-05-16**|**torchosr -- a PyTorch extension package for Open Set Recognition models evaluation in Python**|Joanna Komorniczak et.al.|[2305.09646v1](http://arxiv.org/abs/2305.09646v1)|null|
+|**2023-05-16**|**Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives**|Damien Busatto-Gaston et.al.|[2305.09634v1](http://arxiv.org/abs/2305.09634v1)|null|
+|**2023-05-16**|**Addressing computational challenges in physical system simulations with machine learning**|Sabber Ahamed et.al.|[2305.09627v1](http://arxiv.org/abs/2305.09627v1)|null|
+|**2023-05-16**|**Deep Reinforcement Learning to Maximize Arterial Usage during Extreme Congestion**|Ashutosh Dutta et.al.|[2305.09600v1](http://arxiv.org/abs/2305.09600v1)|null|
+|**2023-05-16**|**Boosting Event Extraction with Denoised Structure-to-Text Augmentation**|bo wang et.al.|[2305.09598v1](http://arxiv.org/abs/2305.09598v1)|null|
+|**2023-05-16**|**Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection**|Amin Sarihi et.al.|[2305.09592v1](http://arxiv.org/abs/2305.09592v1)|null|
+|**2023-05-16**|**An Empirical Study on Google Research Football Multi-agent Scenarios**|Yan Song et.al.|[2305.09458v1](http://arxiv.org/abs/2305.09458v1)|**[link](https://github.com/shanghai-digital-brain-laboratory/db-football)**|
+|**2023-05-16**|**Numerical solution of Poisson partial differential equations in high dimension using deep neural networks**|Mathias Dus et.al.|[2305.09408v1](http://arxiv.org/abs/2305.09408v1)|null|
+|**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
+|**2023-05-16**|**One-Shot Online Testing of Deep Neural Networks Based on Distribution Shift Detection**|Soyed Tuhin Ahmed et.al.|[2305.09348v1](http://arxiv.org/abs/2305.09348v1)|null|
+|**2023-05-16**|**OmniSafe: An Infrastructure for Accelerating Safe Reinforcement Learning Research**|Jiaming Ji et.al.|[2305.09304v1](http://arxiv.org/abs/2305.09304v1)|**[link](https://github.com/pku-alignment/omnisafe)**|
+|**2023-05-16**|**Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement**|Arian Bakhtiarnia et.al.|[2305.09271v1](http://arxiv.org/abs/2305.09271v1)|null|
+|**2023-05-16**|**Privacy-Preserving Ensemble Infused Enhanced Deep Neural Network Framework for Edge Cloud Convergence**|Veronika Stephanie et.al.|[2305.09224v1](http://arxiv.org/abs/2305.09224v1)|null|
+|**2023-05-16**|**Deep Ensembling for Perceptual Image Quality Assessment**|Nisar Ahmed et.al.|[2305.09141v1](http://arxiv.org/abs/2305.09141v1)|null|
+|**2023-05-16**|**Graph Reinforcement Learning for Network Control via Bi-Level Optimization**|Daniele Gammelli et.al.|[2305.09129v1](http://arxiv.org/abs/2305.09129v1)|**[link](https://github.com/danielegammelli/graph-rl-for-network-optimization)**|
+|**2023-05-15**|**What Matters in Reinforcement Learning for Tractography**|Antoine Théberge et.al.|[2305.09041v1](http://arxiv.org/abs/2305.09041v1)|**[link](https://github.com/scil-vital/tracktolearn)**|
 |**2023-05-15**|**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**|Afra Feyza Akyürek et.al.|[2305.08844v1](http://arxiv.org/abs/2305.08844v1)|**[link](https://github.com/feyzaakyurek/rl4f)**|
 |**2023-05-15**|**A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes**|Han Zhong et.al.|[2305.08841v1](http://arxiv.org/abs/2305.08841v1)|null|
 |**2023-05-15**|**Dragon-Alpha&cu32: A Java-based Tensor Computing Framework With its High-Performance CUDA Library**|Zhiyi Zhang et.al.|[2305.08819v1](http://arxiv.org/abs/2305.08819v1)|null|
@@ -1628,6 +1646,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**Graph Reinforcement Learning for Network Control via Bi-Level Optimization**|Daniele Gammelli et.al.|[2305.09129v1](http://arxiv.org/abs/2305.09129v1)|**[link](https://github.com/danielegammelli/graph-rl-for-network-optimization)**|
+|**2023-05-15**|**Influential Billboard Slot Selection using Spatial Clustering and Pruned Submodularity Graph**|Dildar Ali et.al.|[2305.08949v1](http://arxiv.org/abs/2305.08949v1)|null|
 |**2023-05-03**|**Quantum-Based Combinatorial Optimization for Structural Health Monitoring Applications**|Gabriel San Martin Silva et.al.|[2305.08738v1](http://arxiv.org/abs/2305.08738v1)|null|
 |**2023-05-15**|**Size-stochastic Knapsack Online Contention Resolution Schemes**|Toru Yoshinaga et.al.|[2305.08622v1](http://arxiv.org/abs/2305.08622v1)|null|
 |**2023-05-15**|**A Dynamical Systems Perspective on Discrete Optimization**|Tong Guanchun et.al.|[2305.08536v1](http://arxiv.org/abs/2305.08536v1)|null|
@@ -1843,6 +1863,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655v1](http://arxiv.org/abs/2305.09655v1)|**[link](https://github.com/s4nyam/ramario)**|
+|**2023-05-16**|**torchosr -- a PyTorch extension package for Open Set Recognition models evaluation in Python**|Joanna Komorniczak et.al.|[2305.09646v1](http://arxiv.org/abs/2305.09646v1)|null|
+|**2023-05-16**|**Conditional variational autoencoder with Gaussian process regression recognition for parametric models**|Xuehan Zhang et.al.|[2305.09625v1](http://arxiv.org/abs/2305.09625v1)|null|
+|**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605v1](http://arxiv.org/abs/2305.09605v1)|null|
+|**2023-05-16**|**HiNoVa: A Novel Open-Set Detection Method for Automating RF Device Authentication**|Luke Puppo et.al.|[2305.09594v1](http://arxiv.org/abs/2305.09594v1)|null|
+|**2023-05-16**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585v1](http://arxiv.org/abs/2305.09585v1)|null|
+|**2023-05-16**|**Deep Fourier Residual method for solving time-harmonic Maxwell's equations**|Jamie M. Taylor et.al.|[2305.09578v1](http://arxiv.org/abs/2305.09578v1)|null|
+|**2023-05-16**|**Demonstration of Sub-micron UCN Position Resolution using Room-temperature CMOS Sensor**|S. Lin et.al.|[2305.09562v1](http://arxiv.org/abs/2305.09562v1)|null|
+|**2023-05-16**|**AIomics: exploring more of the proteome using mass spectral libraries extended by AI**|Lewis Y. Geer et.al.|[2305.09513v1](http://arxiv.org/abs/2305.09513v1)|null|
+|**2023-05-16**|**Content-Adaptive Downsampling in Convolutional Neural Networks**|Robin Hesse et.al.|[2305.09504v1](http://arxiv.org/abs/2305.09504v1)|**[link](https://github.com/visinf/cad)**|
+|**2023-05-16**|**Hardware Realization of Nonlinear Activation Functions for NN-based Optical Equalizers**|Sasipim Srivallapanondh et.al.|[2305.09495v1](http://arxiv.org/abs/2305.09495v1)|null|
+|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v1](http://arxiv.org/abs/2305.09447v1)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**When is an SHM problem a Multi-Task-Learning problem?**|Sarah Bee et.al.|[2305.09425v1](http://arxiv.org/abs/2305.09425v1)|null|
+|**2023-05-16**|**Unwrapping All ReLU Networks**|Mattia Jacopo Villani et.al.|[2305.09424v1](http://arxiv.org/abs/2305.09424v1)|null|
+|**2023-05-16**|**Optimizing over trained GNNs via symmetry breaking**|Shiqiang Zhang et.al.|[2305.09420v1](http://arxiv.org/abs/2305.09420v1)|null|
+|**2023-05-16**|**Numerical solution of Poisson partial differential equations in high dimension using deep neural networks**|Mathias Dus et.al.|[2305.09408v1](http://arxiv.org/abs/2305.09408v1)|null|
+|**2023-05-16**|**EXPRESSNET: An Explainable Residual Slim Network for Fingerprint Presentation Attack Detection**|Anuj Rai et.al.|[2305.09397v1](http://arxiv.org/abs/2305.09397v1)|null|
+|**2023-05-16**|**Multi-task convolutional neural network for image aesthetic assessment**|Derya Soydaner et.al.|[2305.09373v1](http://arxiv.org/abs/2305.09373v1)|null|
+|**2023-05-16**|**Emergent structural correlations in dense liquids**|Ilian Pihlajamaa et.al.|[2305.09357v1](http://arxiv.org/abs/2305.09357v1)|null|
+|**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
+|**2023-05-16**|**One-Shot Online Testing of Deep Neural Networks Based on Distribution Shift Detection**|Soyed Tuhin Ahmed et.al.|[2305.09348v1](http://arxiv.org/abs/2305.09348v1)|null|
+|**2023-05-16**|**Self-Consistent Study of the Superconducting Gap in the Strontium-doped Lanthanum Cuprate**|Pedro Contreras et.al.|[2305.09332v1](http://arxiv.org/abs/2305.09332v1)|null|
+|**2023-05-16**|**PhysNODE: Fusion of data and expert knowledge for modeling dynamical systems**|Leon Lettermann et.al.|[2305.09325v1](http://arxiv.org/abs/2305.09325v1)|null|
+|**2023-05-16**|**Fully First-Principles Surface Spectroscopy with Machine Learning**|Yair Litman et.al.|[2305.09321v1](http://arxiv.org/abs/2305.09321v1)|null|
+|**2023-05-16**|**Enhancing Keyphrase Extraction from Long Scientific Documents using Graph Embeddings**|Roberto Martínez-Cruz et.al.|[2305.09316v1](http://arxiv.org/abs/2305.09316v1)|null|
+|**2023-05-16**|**Noise robust neural network architecture**|Xiong Yunuo et.al.|[2305.09276v1](http://arxiv.org/abs/2305.09276v1)|null|
+|**2023-05-16**|**Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement**|Arian Bakhtiarnia et.al.|[2305.09271v1](http://arxiv.org/abs/2305.09271v1)|null|
+|**2023-05-16**|**Privacy-Preserving Ensemble Infused Enhanced Deep Neural Network Framework for Edge Cloud Convergence**|Veronika Stephanie et.al.|[2305.09224v1](http://arxiv.org/abs/2305.09224v1)|null|
+|**2023-05-16**|**CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images**|Momina Liaqat Ali et.al.|[2305.09211v1](http://arxiv.org/abs/2305.09211v1)|null|
+|**2023-05-16**|**Machine learning enhanced real-time aerodynamic forces prediction based on sparse pressure sensor inputs**|Junming Duan et.al.|[2305.09199v1](http://arxiv.org/abs/2305.09199v1)|null|
+|**2023-05-16**|**Lightweight Self-Knowledge Distillation with Multi-source Information Fusion**|Xucong Wang et.al.|[2305.09183v1](http://arxiv.org/abs/2305.09183v1)|**[link](https://github.com/xucong-parsifal/lightskd)**|
+|**2023-05-16**|**Ortho-ODE: Enhancing Robustness and of Neural ODEs against Adversarial Attacks**|Vishal Purohit et.al.|[2305.09179v1](http://arxiv.org/abs/2305.09179v1)|null|
+|**2023-05-16**|**Empirical Analysis of the Inductive Bias of Recurrent Neural Networks by Discrete Fourier Transform of Output Sequences**|Taiga Ishii et.al.|[2305.09178v1](http://arxiv.org/abs/2305.09178v1)|null|
+|**2023-05-16**|**Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels**|Tong Wu et.al.|[2305.09165v1](http://arxiv.org/abs/2305.09165v1)|null|
+|**2023-05-16**|**Deep ReLU Networks Have Surprisingly Simple Polytopes**|Feng-Lei Fan et.al.|[2305.09145v1](http://arxiv.org/abs/2305.09145v1)|null|
+|**2023-05-16**|**Retentive or Forgetful? Diving into the Knowledge Memorizing Mechanism of Language Models**|Boxi Cao et.al.|[2305.09144v1](http://arxiv.org/abs/2305.09144v1)|null|
+|**2023-05-16**|**Deep Ensembling for Perceptual Image Quality Assessment**|Nisar Ahmed et.al.|[2305.09141v1](http://arxiv.org/abs/2305.09141v1)|null|
+|**2023-05-16**|**Seismic Coherent Noise Removal with Residual Network and Synthetic Seismic Simples**|Xiao Ma et.al.|[2305.09136v1](http://arxiv.org/abs/2305.09136v1)|null|
+|**2023-05-16**|**Transfer Causal Learning: Causal Effect Estimation with Knowledge Transfer**|Song Wei et.al.|[2305.09126v1](http://arxiv.org/abs/2305.09126v1)|null|
+|**2023-05-16**|**A deep learning method for multi-material diffusion problems based on physics-informed neural networks**|Yanzhong Yao et.al.|[2305.09125v1](http://arxiv.org/abs/2305.09125v1)|null|
+|**2023-05-16**|**Automatic learning algorithm selection for classification via convolutional neural networks**|Sebastian Maldonado et.al.|[2305.09101v1](http://arxiv.org/abs/2305.09101v1)|null|
+|**2023-05-16**|**ProtoVAE: Prototypical Networks for Unsupervised Disentanglement**|Vaishnavi Patil et.al.|[2305.09092v1](http://arxiv.org/abs/2305.09092v1)|null|
+|**2023-05-16**|**The Hessian perspective into the Nature of Convolutional Neural Networks**|Sidak Pal Singh et.al.|[2305.09088v1](http://arxiv.org/abs/2305.09088v1)|null|
+|**2023-05-15**|**Learning Linear Embeddings for Non-Linear Network Dynamics with Koopman Message Passing**|King Fai Yeh et.al.|[2305.09060v1](http://arxiv.org/abs/2305.09060v1)|null|
+|**2023-05-15**|**Physics-informed Convolutional Recurrent Surrogate Model for Reservoir Simulation with Well Controls**|Jungang Chen et.al.|[2305.09056v1](http://arxiv.org/abs/2305.09056v1)|null|
+|**2023-05-15**|**Adaptive Federated Pruning in Hierarchical Wireless Networks**|Xiaonan Liu et.al.|[2305.09042v1](http://arxiv.org/abs/2305.09042v1)|null|
+|**2023-05-15**|**SKI to go Faster: Accelerating Toeplitz Neural Networks via Asymmetric Kernels**|Alexander Moreno et.al.|[2305.09028v1](http://arxiv.org/abs/2305.09028v1)|null|
+|**2023-05-15**|**Is infrared-collinear safe information all you need for jet classification?**|Dimitrios Athanasakos et.al.|[2305.08979v1](http://arxiv.org/abs/2305.08979v1)|null|
+|**2023-05-15**|**Autoencoder-based Anomaly Detection in Streaming Data with Incremental Learning and Concept Drift Adaptation**|Jin Li et.al.|[2305.08977v1](http://arxiv.org/abs/2305.08977v1)|null|
+|**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
 |**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
 |**2023-05-15**|**Deep Learning combined with singular value decomposition to reconstruct databases in fluid dynamics**|Paula Díaz et.al.|[2305.08832v1](http://arxiv.org/abs/2305.08832v1)|null|
 |**2023-05-15**|**Neural-network quantum states for ultra-cold Fermi gases**|Jane Kim et.al.|[2305.08831v1](http://arxiv.org/abs/2305.08831v1)|null|
