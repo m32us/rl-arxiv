@@ -1,4 +1,4 @@
-## Updated on 2023.05.19
+## Updated on 2023.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2023-05-18**|**Re-thinking Data Availablity Attacks Against Deep Neural Networks**|Bin Fang et.al.|[2305.10691v1](http://arxiv.org/abs/2305.10691v1)|null|
 |**2023-05-18**|**Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Learning**|Yinglun Xu et.al.|[2305.10681v1](http://arxiv.org/abs/2305.10681v1)|null|
 |**2023-05-18**|**Content-based Unrestricted Adversarial Attack**|Zhaoyu Chen et.al.|[2305.10665v1](http://arxiv.org/abs/2305.10665v1)|null|
-|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|null|
+|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-18**|**STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**|Nathan Beck et.al.|[2305.10643v1](http://arxiv.org/abs/2305.10643v1)|**[link](https://github.com/nab170130/new_streamline)**|
 |**2023-05-18**|**Learning Restoration is Not Enough: Transfering Identical Mapping for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2305.10640v1](http://arxiv.org/abs/2305.10640v1)|null|
 |**2023-05-18**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v1](http://arxiv.org/abs/2305.10625v1)|null|
@@ -1710,7 +1710,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1932,7 +1932,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 ## Optimization
 
@@ -1951,7 +1951,7 @@
 |**2023-05-18**|**High-dimensional Asymptotics of Denoising Autoencoders**|Hugo Cui et.al.|[2305.11041v1](http://arxiv.org/abs/2305.11041v1)|**[link](https://github.com/spoc-group/dae)**|
 |**2023-05-18**|**Deep Metric Tensor Regularized Policy Gradient**|Gang Chen et.al.|[2305.11017v1](http://arxiv.org/abs/2305.11017v1)|null|
 |**2023-05-18**|**Mode Connectivity in Auction Design**|Christoph Hertrich et.al.|[2305.11005v1](http://arxiv.org/abs/2305.11005v1)|null|
-|**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|null|
+|**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-18**|**Learning Activation Functions for Sparse Neural Networks**|Mohammad Loni et.al.|[2305.10964v1](http://arxiv.org/abs/2305.10964v1)|null|
 |**2023-05-18**|**A Bioinspired Synthetic Nervous System Controller for Pick-and-Place Manipulation**|Yanjun Li et.al.|[2305.10954v1](http://arxiv.org/abs/2305.10954v1)|null|
 |**2023-05-18**|**Actor-Critic Methods using Physics-Informed Neural Networks: Control of a 1D PDE Model for Fluid-Cooled Battery Packs**|Amartya Mukherjee et.al.|[2305.10952v1](http://arxiv.org/abs/2305.10952v1)|null|
@@ -1984,7 +1984,7 @@
 |**2023-05-18**|**Content-based Unrestricted Adversarial Attack**|Zhaoyu Chen et.al.|[2305.10665v1](http://arxiv.org/abs/2305.10665v1)|null|
 |**2023-05-18**|**Posterior Inference on Infinitely Wide Bayesian Neural Networks under Weights with Unbounded Variance**|Jorge Loría et.al.|[2305.10664v1](http://arxiv.org/abs/2305.10664v1)|**[link](https://github.com/loriaj/alphastablennet)**|
 |**2023-05-18**|**Accelerated MR Fingerprinting with Low-Rank and Generative Subspace Modeling**|Hengfa Lu et.al.|[2305.10651v1](http://arxiv.org/abs/2305.10651v1)|null|
-|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|null|
+|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-18**|**STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**|Nathan Beck et.al.|[2305.10643v1](http://arxiv.org/abs/2305.10643v1)|**[link](https://github.com/nab170130/new_streamline)**|
 |**2023-05-18**|**Learning Restoration is Not Enough: Transfering Identical Mapping for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2305.10640v1](http://arxiv.org/abs/2305.10640v1)|null|
 |**2023-05-18**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v1](http://arxiv.org/abs/2305.10625v1)|null|
@@ -4855,7 +4855,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -4932,5 +4932,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 

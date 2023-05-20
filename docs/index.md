@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.19
+## Updated on 2023.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -35,7 +35,7 @@ layout: default
 |**2023-05-18**|**Re-thinking Data Availablity Attacks Against Deep Neural Networks**|Bin Fang et.al.|[2305.10691v1](http://arxiv.org/abs/2305.10691v1)|null|
 |**2023-05-18**|**Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Learning**|Yinglun Xu et.al.|[2305.10681v1](http://arxiv.org/abs/2305.10681v1)|null|
 |**2023-05-18**|**Content-based Unrestricted Adversarial Attack**|Zhaoyu Chen et.al.|[2305.10665v1](http://arxiv.org/abs/2305.10665v1)|null|
-|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|null|
+|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-18**|**STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**|Nathan Beck et.al.|[2305.10643v1](http://arxiv.org/abs/2305.10643v1)|**[link](https://github.com/nab170130/new_streamline)**|
 |**2023-05-18**|**Learning Restoration is Not Enough: Transfering Identical Mapping for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2305.10640v1](http://arxiv.org/abs/2305.10640v1)|null|
 |**2023-05-18**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v1](http://arxiv.org/abs/2305.10625v1)|null|
@@ -1941,7 +1941,7 @@ layout: default
 |**2023-05-18**|**High-dimensional Asymptotics of Denoising Autoencoders**|Hugo Cui et.al.|[2305.11041v1](http://arxiv.org/abs/2305.11041v1)|**[link](https://github.com/spoc-group/dae)**|
 |**2023-05-18**|**Deep Metric Tensor Regularized Policy Gradient**|Gang Chen et.al.|[2305.11017v1](http://arxiv.org/abs/2305.11017v1)|null|
 |**2023-05-18**|**Mode Connectivity in Auction Design**|Christoph Hertrich et.al.|[2305.11005v1](http://arxiv.org/abs/2305.11005v1)|null|
-|**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|null|
+|**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-18**|**Learning Activation Functions for Sparse Neural Networks**|Mohammad Loni et.al.|[2305.10964v1](http://arxiv.org/abs/2305.10964v1)|null|
 |**2023-05-18**|**A Bioinspired Synthetic Nervous System Controller for Pick-and-Place Manipulation**|Yanjun Li et.al.|[2305.10954v1](http://arxiv.org/abs/2305.10954v1)|null|
 |**2023-05-18**|**Actor-Critic Methods using Physics-Informed Neural Networks: Control of a 1D PDE Model for Fluid-Cooled Battery Packs**|Amartya Mukherjee et.al.|[2305.10952v1](http://arxiv.org/abs/2305.10952v1)|null|
@@ -1974,7 +1974,7 @@ layout: default
 |**2023-05-18**|**Content-based Unrestricted Adversarial Attack**|Zhaoyu Chen et.al.|[2305.10665v1](http://arxiv.org/abs/2305.10665v1)|null|
 |**2023-05-18**|**Posterior Inference on Infinitely Wide Bayesian Neural Networks under Weights with Unbounded Variance**|Jorge Loría et.al.|[2305.10664v1](http://arxiv.org/abs/2305.10664v1)|**[link](https://github.com/loriaj/alphastablennet)**|
 |**2023-05-18**|**Accelerated MR Fingerprinting with Low-Rank and Generative Subspace Modeling**|Hengfa Lu et.al.|[2305.10651v1](http://arxiv.org/abs/2305.10651v1)|null|
-|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|null|
+|**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-18**|**STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**|Nathan Beck et.al.|[2305.10643v1](http://arxiv.org/abs/2305.10643v1)|**[link](https://github.com/nab170130/new_streamline)**|
 |**2023-05-18**|**Learning Restoration is Not Enough: Transfering Identical Mapping for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2305.10640v1](http://arxiv.org/abs/2305.10640v1)|null|
 |**2023-05-18**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v1](http://arxiv.org/abs/2305.10625v1)|null|
