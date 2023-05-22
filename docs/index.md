@@ -9,6 +9,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|null|
+|**2023-05-19**|**Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment**|Mengke Li et.al.|[2305.11733v1](http://arxiv.org/abs/2305.11733v1)|**[link](https://github.com/keke921/gclloss)**|
+|**2023-05-19**|**Persian Typographical Error Type Detection using Many-to-Many Deep Neural Networks on Algorithmically-Generated Misspellings**|Mohammad Dehghani et.al.|[2305.11731v1](http://arxiv.org/abs/2305.11731v1)|null|
+|**2023-05-19**|**A Generic Performance Model for Deep Learning in a Distributed Environment**|Tulasi Kavarakuntla et.al.|[2305.11665v1](http://arxiv.org/abs/2305.11665v1)|null|
+|**2023-05-19**|**Diving into the Inter-Consistency of Large Language Models: An Insightful Analysis through Debate**|Kai Xiong et.al.|[2305.11595v1](http://arxiv.org/abs/2305.11595v1)|null|
+|**2023-05-19**|**Vision-based DRL Autonomous Driving Agent with Sim2Real Transfer**|Dianzhao Li et.al.|[2305.11589v1](http://arxiv.org/abs/2305.11589v1)|null|
+|**2023-05-19**|**The Deep Promotion Time Cure Model**|Victor Medina-Olivares et.al.|[2305.11575v1](http://arxiv.org/abs/2305.11575v1)|null|
+|**2023-05-19**|**Pitfalls in Experiments with DNN4SE: An Analysis of the State of the Practice**|Sira Vegas et.al.|[2305.11556v1](http://arxiv.org/abs/2305.11556v1)|null|
+|**2023-05-19**|**Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling**|Fanyu Wang et.al.|[2305.11543v1](http://arxiv.org/abs/2305.11543v1)|null|
+|**2023-05-19**|**Learning Diverse Risk Preferences in Population-based Self-play**|Yuhua Jiang et.al.|[2305.11476v1](http://arxiv.org/abs/2305.11476v1)|**[link](https://github.com/jackory/rpbt)**|
+|**2023-05-19**|**Optimization of Tensor Network Codes with Reinforcement Learning**|Caroline Mauron et.al.|[2305.11470v1](http://arxiv.org/abs/2305.11470v1)|null|
+|**2023-05-19**|**Counterfactual Fairness Filter for Fair-Delay Multi-Robot Navigation**|Hikaru Asano et.al.|[2305.11465v1](http://arxiv.org/abs/2305.11465v1)|null|
+|**2023-05-19**|**Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models**|Wanqiao Xu et.al.|[2305.11455v1](http://arxiv.org/abs/2305.11455v1)|null|
+|**2023-05-19**|**Phonetic and Prosody-aware Self-supervised Learning Approach for Non-native Fluency Scoring**|Kaiqi Fu et.al.|[2305.11438v1](http://arxiv.org/abs/2305.11438v1)|null|
+|**2023-05-19**|**Remembering What Is Important: A Factorised Multi-Head Retrieval and Auxiliary Memory Stabilisation Scheme for Human Motion Prediction**|Tharindu Fernando et.al.|[2305.11394v1](http://arxiv.org/abs/2305.11394v1)|null|
+|**2023-05-19**|**Smart Pressure e-Mat for Human Sleeping Posture and Dynamic Activity Recognition**|Liangqi Yuan et.al.|[2305.11367v1](http://arxiv.org/abs/2305.11367v1)|null|
+|**2023-05-19**|**Understanding the World to Solve Social Dilemmas Using Multi-Agent Reinforcement Learning**|Manuel Rios et.al.|[2305.11358v1](http://arxiv.org/abs/2305.11358v1)|null|
+|**2023-05-18**|**Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models**|Wenhao Ding et.al.|[2305.11340v1](http://arxiv.org/abs/2305.11340v1)|null|
+|**2023-05-18**|**Bayesian Risk-Averse Q-Learning with Streaming Observations**|Yuhao Wang et.al.|[2305.11300v1](http://arxiv.org/abs/2305.11300v1)|null|
+|**2023-05-18**|**Massively Scalable Inverse Reinforcement Learning in Google Maps**|Matt Barnes et.al.|[2305.11290v1](http://arxiv.org/abs/2305.11290v1)|null|
+|**2023-05-18**|**Riemannian Multiclass Logistics Regression for SPD Neural Networks**|Ziheng Chen et.al.|[2305.11288v1](http://arxiv.org/abs/2305.11288v1)|null|
+|**2023-05-18**|**On the Statistical Efficiency of Mean Field Reinforcement Learning with General Function Approximation**|Jiawei Huang et.al.|[2305.11283v1](http://arxiv.org/abs/2305.11283v1)|null|
+|**2023-05-18**|**Constrained Environment Optimization for Prioritized Multi-Agent Navigation**|Zhan Gao et.al.|[2305.11260v1](http://arxiv.org/abs/2305.11260v1)|null|
+|**2023-05-18**|**DRL meets DSA Networks: Convergence Analysis and Its Application to System Design**|Ramin Safavinejad et.al.|[2305.11237v1](http://arxiv.org/abs/2305.11237v1)|null|
+|**2023-05-18**|**LIMA: Less Is More for Alignment**|Chunting Zhou et.al.|[2305.11206v1](http://arxiv.org/abs/2305.11206v1)|null|
 |**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137v1](http://arxiv.org/abs/2305.11137v1)|null|
 |**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v2](http://arxiv.org/abs/2305.11120v2)|null|
 |**2023-05-18**|**From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning**|Eugene R. Rush et.al.|[2305.11107v1](http://arxiv.org/abs/2305.11107v1)|null|
@@ -1708,6 +1733,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**DClEVerNet: Deep Combinatorial Learning for Efficient EV Charging Scheduling in Large-scale Networked Facilities**|Bushra Alshehhi et.al.|[2305.11195v1](http://arxiv.org/abs/2305.11195v1)|null|
 |**2023-05-18**|**Submodularity Gaps for Selected Network Design and Matching Problems**|Martin Böhm et.al.|[2305.10935v1](http://arxiv.org/abs/2305.10935v1)|null|
 |**2023-05-17**|**Linear Query Approximation Algorithms for Non-monotone Submodular Maximization under Knapsack Constraint**|Canh V. Pham et.al.|[2305.10292v1](http://arxiv.org/abs/2305.10292v1)|null|
 |**2023-05-17**|**New semidefinite relaxations for a class of complex quadratic programming problems**|Yingzhe Xu et.al.|[2305.09934v1](http://arxiv.org/abs/2305.09934v1)|null|
@@ -1928,6 +1954,46 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning**|Helen Qu et.al.|[2305.11869v1](http://arxiv.org/abs/2305.11869v1)|null|
+|**2023-05-19**|**Recent progress in the JARVIS infrastructure for next-generation data-driven materials design**|Daniel Wines et.al.|[2305.11842v1](http://arxiv.org/abs/2305.11842v1)|null|
+|**2023-05-19**|**Complexity of Neural Network Training and ETR: Extensions with Effectively Continuous Functions**|Teemu Hankala et.al.|[2305.11833v1](http://arxiv.org/abs/2305.11833v1)|null|
+|**2023-05-19**|**Summarizing Strategy Card Game AI Competition**|Jakub Kowalski et.al.|[2305.11814v1](http://arxiv.org/abs/2305.11814v1)|null|
+|**2023-05-19**|**PANNA 2.0: Efficient neural network interatomic potentials and new architectures**|Franco Pellegrini et.al.|[2305.11805v1](http://arxiv.org/abs/2305.11805v1)|null|
+|**2023-05-19**|**Transfer operators on graphs: Spectral clustering and beyond**|Stefan Klus et.al.|[2305.11766v1](http://arxiv.org/abs/2305.11766v1)|null|
+|**2023-05-19**|**Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment**|Mengke Li et.al.|[2305.11733v1](http://arxiv.org/abs/2305.11733v1)|**[link](https://github.com/keke921/gclloss)**|
+|**2023-05-19**|**Persian Typographical Error Type Detection using Many-to-Many Deep Neural Networks on Algorithmically-Generated Misspellings**|Mohammad Dehghani et.al.|[2305.11731v1](http://arxiv.org/abs/2305.11731v1)|null|
+|**2023-05-19**|**Direction Specific Ambisonics Source Separation with End-To-End Deep Learning**|Francesc Lluís et.al.|[2305.11727v1](http://arxiv.org/abs/2305.11727v1)|null|
+|**2023-05-19**|**Learning Knots Beyond Topological Invariants**|Joseph Lahoud Sleiman et.al.|[2305.11722v1](http://arxiv.org/abs/2305.11722v1)|null|
+|**2023-05-19**|**A Generic Performance Model for Deep Learning in a Distributed Environment**|Tulasi Kavarakuntla et.al.|[2305.11665v1](http://arxiv.org/abs/2305.11665v1)|null|
+|**2023-05-19**|**Algorithmic failure as a humanities methodology: machine learning's mispredictions identify rich cases for qualitative analysis**|Jill Walker Rettberg et.al.|[2305.11663v1](http://arxiv.org/abs/2305.11663v1)|null|
+|**2023-05-19**|**Designing architectured ceramics for transient thermal applications using finite element and deep learning**|Elham Kiyani et.al.|[2305.11632v1](http://arxiv.org/abs/2305.11632v1)|null|
+|**2023-05-19**|**Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment**|Baorui Ma et.al.|[2305.11601v1](http://arxiv.org/abs/2305.11601v1)|**[link](https://github.com/mabaorui/towardsbettergradient)**|
+|**2023-05-19**|**The Deep Promotion Time Cure Model**|Victor Medina-Olivares et.al.|[2305.11575v1](http://arxiv.org/abs/2305.11575v1)|null|
+|**2023-05-19**|**BAT: Boundary aware transducer for memory-efficient and low-latency ASR**|Keyu An et.al.|[2305.11571v1](http://arxiv.org/abs/2305.11571v1)|**[link](https://github.com/alibaba-damo-academy/FunASR)**|
+|**2023-05-19**|**StereoVAE: A lightweight stereo matching system through embedded GPUs**|Qiong Chang et.al.|[2305.11566v1](http://arxiv.org/abs/2305.11566v1)|null|
+|**2023-05-19**|**Pitfalls in Experiments with DNN4SE: An Analysis of the State of the Practice**|Sira Vegas et.al.|[2305.11556v1](http://arxiv.org/abs/2305.11556v1)|null|
+|**2023-05-19**|**Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling**|Fanyu Wang et.al.|[2305.11543v1](http://arxiv.org/abs/2305.11543v1)|null|
+|**2023-05-19**|**Dive into the Power of Neuronal Heterogeneity**|Guobin Shen et.al.|[2305.11484v1](http://arxiv.org/abs/2305.11484v1)|null|
+|**2023-05-19**|**Generative Sliced MMD Flows with Riesz Kernels**|Johannes Hertrich et.al.|[2305.11463v1](http://arxiv.org/abs/2305.11463v1)|null|
+|**2023-05-19**|**EDGES and JWST with 21cm global signal emulator**|Shintaro Yoshiura et.al.|[2305.11441v1](http://arxiv.org/abs/2305.11441v1)|null|
+|**2023-05-19**|**Phonetic and Prosody-aware Self-supervised Learning Approach for Non-native Fluency Scoring**|Kaiqi Fu et.al.|[2305.11438v1](http://arxiv.org/abs/2305.11438v1)|null|
+|**2023-05-19**|**DarkAI: I. Mapping the large-scale density field of dark matter using AI**|Zitong Wang et.al.|[2305.11431v1](http://arxiv.org/abs/2305.11431v1)|null|
+|**2023-05-19**|**Complexity of Feed-Forward Neural Networks from the Perspective of Functional Equivalence**|Guohao Shen et.al.|[2305.11417v1](http://arxiv.org/abs/2305.11417v1)|null|
+|**2023-05-19**|**LATTE: Label-efficient Incident Phenotyping from Longitudinal Electronic Health Records**|Jun Wen et.al.|[2305.11407v1](http://arxiv.org/abs/2305.11407v1)|**[link](https://github.com/celehs/latte)**|
+|**2023-05-19**|**Remembering What Is Important: A Factorised Multi-Head Retrieval and Auxiliary Memory Stabilisation Scheme for Human Motion Prediction**|Tharindu Fernando et.al.|[2305.11394v1](http://arxiv.org/abs/2305.11394v1)|null|
+|**2023-05-19**|**Emergence of long-range magnetic order from spin-glass state by tuning electron density in a stoichiometric Ga-based quasicrystal approximant**|Farid Labib et.al.|[2305.11393v1](http://arxiv.org/abs/2305.11393v1)|null|
+|**2023-05-19**|**A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation**|Xiaowei Huang et.al.|[2305.11391v1](http://arxiv.org/abs/2305.11391v1)|null|
+|**2023-05-19**|**Domain Generalization Deep Graph Transformation**|Shiyu Wang et.al.|[2305.11389v1](http://arxiv.org/abs/2305.11389v1)|null|
+|**2023-05-19**|**GraphFC: Customs Fraud Detection with Label Scarcity**|Karandeep Singh et.al.|[2305.11377v1](http://arxiv.org/abs/2305.11377v1)|**[link](https://github.com/k-s-b/gnn_wco)**|
+|**2023-05-19**|**Characterizing tradeoffs between teaching via language and demonstrations in multi-agent systems**|Dhara Yu et.al.|[2305.11374v1](http://arxiv.org/abs/2305.11374v1)|null|
+|**2023-05-19**|**Smart Pressure e-Mat for Human Sleeping Posture and Dynamic Activity Recognition**|Liangqi Yuan et.al.|[2305.11367v1](http://arxiv.org/abs/2305.11367v1)|null|
+|**2023-05-19**|**Meta-learning for heterogeneous treatment effect estimation with closed-form solvers**|Tomoharu Iwata et.al.|[2305.11353v1](http://arxiv.org/abs/2305.11353v1)|null|
+|**2023-05-18**|**SpikeCP: Delay-Adaptive Reliable Spiking Neural Networks via Conformal Prediction**|Jiechen Chen et.al.|[2305.11322v1](http://arxiv.org/abs/2305.11322v1)|null|
+|**2023-05-18**|**Improving Toponym Resolution with Better Candidate Generation, Transformer-based Reranking, and Two-Stage Resolution**|Zeyu Zhang et.al.|[2305.11315v1](http://arxiv.org/abs/2305.11315v1)|**[link](https://github.com/clulab/geonorm)**|
+|**2023-05-18**|**Riemannian Multiclass Logistics Regression for SPD Neural Networks**|Ziheng Chen et.al.|[2305.11288v1](http://arxiv.org/abs/2305.11288v1)|null|
+|**2023-05-18**|**Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture**|Galen Pogoncheff et.al.|[2305.11275v1](http://arxiv.org/abs/2305.11275v1)|null|
+|**2023-05-18**|**Energy dissipation in high speed impact on granular media**|Manish Kumar Mandal et.al.|[2305.11269v1](http://arxiv.org/abs/2305.11269v1)|null|
+|**2023-05-18**|**Brain-inspired learning in artificial neural networks: a review**|Samuel Schmidgall et.al.|[2305.11252v1](http://arxiv.org/abs/2305.11252v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**Clifford Group Equivariant Neural Networks**|David Ruhe et.al.|[2305.11141v1](http://arxiv.org/abs/2305.11141v1)|null|
 |**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137v1](http://arxiv.org/abs/2305.11137v1)|null|
