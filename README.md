@@ -1,4 +1,4 @@
-## Updated on 2023.05.21
+## Updated on 2023.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137v1](http://arxiv.org/abs/2305.11137v1)|null|
-|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v1](http://arxiv.org/abs/2305.11120v1)|null|
+|**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v2](http://arxiv.org/abs/2305.11120v2)|null|
 |**2023-05-18**|**From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning**|Eugene R. Rush et.al.|[2305.11107v1](http://arxiv.org/abs/2305.11107v1)|null|
 |**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081v1](http://arxiv.org/abs/2305.11081v1)|**[link](https://github.com/hn-rs/csa)**|
 |**2023-05-18**|**Preparation of cavity Fock state superpositions by reinforcement learning exploiting measurement back-action**|Arthur Perret et.al.|[2305.11047v1](http://arxiv.org/abs/2305.11047v1)|null|
@@ -44,7 +44,7 @@
 |**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-18**|**STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**|Nathan Beck et.al.|[2305.10643v1](http://arxiv.org/abs/2305.10643v1)|**[link](https://github.com/nab170130/new_streamline)**|
 |**2023-05-18**|**Learning Restoration is Not Enough: Transfering Identical Mapping for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2305.10640v1](http://arxiv.org/abs/2305.10640v1)|null|
-|**2023-05-18**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v1](http://arxiv.org/abs/2305.10625v1)|null|
+|**2023-05-19**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v2](http://arxiv.org/abs/2305.10625v2)|null|
 |**2023-05-17**|**Integrated Conflict Management for UAM with Strategic Demand Capacity Balancing and Learning-based Tactical Deconfliction**|Shulu Chen et.al.|[2305.10556v1](http://arxiv.org/abs/2305.10556v1)|null|
 |**2023-05-17**|**Sparsity-depth Tradeoff in Infinitely Wide Deep Neural Networks**|Chanwoo Chun et.al.|[2305.10550v1](http://arxiv.org/abs/2305.10550v1)|null|
 |**2023-05-17**|**Discovering Individual Rewards in Collective Behavior through Inverse Multi-Agent Reinforcement Learning**|Daniel Waelchli et.al.|[2305.10548v1](http://arxiv.org/abs/2305.10548v1)|null|
@@ -1710,7 +1710,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1736,7 +1736,7 @@
 |**2023-05-09**|**An Improved Approximation Algorithm for the Minimum 2-Vertex-Connected Spanning Subgraph Problem**|Ali Çivril et.al.|[2305.05398v1](http://arxiv.org/abs/2305.05398v1)|null|
 |**2023-05-08**|**Quantum Alternating Operator Ansatz (QAOA) beyond low depth with gradually changing unitaries**|Vladimir Kremenetski et.al.|[2305.04455v1](http://arxiv.org/abs/2305.04455v1)|null|
 |**2023-05-06**|**Minimum-Membership Geometric Set Cover, Revisited**|Sayan Bandyapadhyay et.al.|[2305.03985v1](http://arxiv.org/abs/2305.03985v1)|null|
-|**2023-05-05**|**Alignment between Initial State and Mixer Improves QAOA Performance for Constrained Portfolio Optimization**|Zichang He et.al.|[2305.03857v1](http://arxiv.org/abs/2305.03857v1)|null|
+|**2023-05-19**|**Alignment between Initial State and Mixer Improves QAOA Performance for Constrained Portfolio Optimization**|Zichang He et.al.|[2305.03857v2](http://arxiv.org/abs/2305.03857v2)|null|
 |**2023-05-05**|**Near-Optimal LOS and Orientation Aware Intelligent Reflecting Surface Placement**|Ehsan Tohidi et.al.|[2305.03451v1](http://arxiv.org/abs/2305.03451v1)|null|
 |**2023-05-05**|**Tighter Approximation for the Uniform Cost-Distance Steiner Tree Problem**|Josefine Foos et.al.|[2305.03381v1](http://arxiv.org/abs/2305.03381v1)|null|
 |**2023-05-12**|**Distributed Construction of Near-Optimal Compact Routing Schemes for Planar Graphs**|Jinfeng Dou et.al.|[2305.02854v2](http://arxiv.org/abs/2305.02854v2)|null|
@@ -1932,7 +1932,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
 
 ## Optimization
 
@@ -1943,7 +1943,7 @@
 |**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137v1](http://arxiv.org/abs/2305.11137v1)|null|
 |**2023-05-18**|**Attacks on Online Learners: a Teacher-Student Analysis**|Riccardo Giuseppe Margiotta et.al.|[2305.11132v1](http://arxiv.org/abs/2305.11132v1)|**[link](https://github.com/riccardogm/optimalcontrolattacks)**|
 |**2023-05-18**|**Skin Lesion Diagnosis Using Convolutional Neural Networks**|Daniel Alonso Villanueva Nunez et.al.|[2305.11125v1](http://arxiv.org/abs/2305.11125v1)|null|
-|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v1](http://arxiv.org/abs/2305.11120v1)|null|
+|**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v2](http://arxiv.org/abs/2305.11120v2)|null|
 |**2023-05-18**|**PPDONet: Deep Operator Networks for Fast Prediction of Steady-State Solutions in Disk-Planet Systems**|Shunyuan Mao et.al.|[2305.11111v1](http://arxiv.org/abs/2305.11111v1)|**[link](https://github.com/smao-astro/ppdonet)**|
 |**2023-05-18**|**From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning**|Eugene R. Rush et.al.|[2305.11107v1](http://arxiv.org/abs/2305.11107v1)|null|
 |**2023-05-18**|**Neuromorphic Bayesian Optimization in Lava**|Shay Snyder et.al.|[2305.11060v1](http://arxiv.org/abs/2305.11060v1)|null|
@@ -1961,7 +1961,7 @@
 |**2023-05-18**|**RobustFair: Adversarial Evaluation through Fairness Confusion Directed Gradient Search**|Xuran Li et.al.|[2305.10906v1](http://arxiv.org/abs/2305.10906v1)|null|
 |**2023-05-18**|**Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb $^{-1}$ of $pp$ collisions at $\sqrt{s} =$ 13 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2305.10894v1](http://arxiv.org/abs/2305.10894v1)|null|
 |**2023-05-18**|**FLIGHT Mode On: A Feather-Light Network for Low-Light Image Enhancement**|Mustafa Ozcan et.al.|[2305.10889v1](http://arxiv.org/abs/2305.10889v1)|null|
-|**2023-05-18**|**Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness**|Zeyuan Tan et.al.|[2305.10863v1](http://arxiv.org/abs/2305.10863v1)|null|
+|**2023-05-18**|**Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness**|Zeyuan Tan et.al.|[2305.10863v1](http://arxiv.org/abs/2305.10863v1)|**[link](https://github.com/quiver-team/torch-quiver)**|
 |**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862v1](http://arxiv.org/abs/2305.10862v1)|null|
 |**2023-05-18**|**Latent Space Planning for Multi-Object Manipulation with Environment-Aware Relational Classifiers**|Yixuan Huang et.al.|[2305.10857v1](http://arxiv.org/abs/2305.10857v1)|null|
 |**2023-05-18**|**Towards an Accurate and Secure Detector against Adversarial Perturbations**|Chao Wang et.al.|[2305.10856v1](http://arxiv.org/abs/2305.10856v1)|null|
@@ -1987,7 +1987,7 @@
 |**2023-05-18**|**Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2305.10648v1](http://arxiv.org/abs/2305.10648v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-18**|**STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**|Nathan Beck et.al.|[2305.10643v1](http://arxiv.org/abs/2305.10643v1)|**[link](https://github.com/nab170130/new_streamline)**|
 |**2023-05-18**|**Learning Restoration is Not Enough: Transfering Identical Mapping for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2305.10640v1](http://arxiv.org/abs/2305.10640v1)|null|
-|**2023-05-18**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v1](http://arxiv.org/abs/2305.10625v1)|null|
+|**2023-05-19**|**Measuring and Mitigating Local Instability in Deep Neural Networks**|Arghya Datta et.al.|[2305.10625v2](http://arxiv.org/abs/2305.10625v2)|null|
 |**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406v1](http://arxiv.org/abs/2305.10406v1)|null|
 |**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
 |**2023-05-17**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v1](http://arxiv.org/abs/2305.10391v1)|null|
@@ -4855,7 +4855,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -4932,5 +4932,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
 
