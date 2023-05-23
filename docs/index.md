@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -13,9 +13,9 @@ layout: default
 |**2023-05-19**|**Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment**|Mengke Li et.al.|[2305.11733v1](http://arxiv.org/abs/2305.11733v1)|**[link](https://github.com/keke921/gclloss)**|
 |**2023-05-19**|**Persian Typographical Error Type Detection using Many-to-Many Deep Neural Networks on Algorithmically-Generated Misspellings**|Mohammad Dehghani et.al.|[2305.11731v1](http://arxiv.org/abs/2305.11731v1)|null|
 |**2023-05-19**|**A Generic Performance Model for Deep Learning in a Distributed Environment**|Tulasi Kavarakuntla et.al.|[2305.11665v1](http://arxiv.org/abs/2305.11665v1)|null|
-|**2023-05-19**|**Diving into the Inter-Consistency of Large Language Models: An Insightful Analysis through Debate**|Kai Xiong et.al.|[2305.11595v1](http://arxiv.org/abs/2305.11595v1)|null|
-|**2023-05-19**|**Vision-based DRL Autonomous Driving Agent with Sim2Real Transfer**|Dianzhao Li et.al.|[2305.11589v1](http://arxiv.org/abs/2305.11589v1)|null|
-|**2023-05-19**|**The Deep Promotion Time Cure Model**|Victor Medina-Olivares et.al.|[2305.11575v1](http://arxiv.org/abs/2305.11575v1)|null|
+|**2023-05-22**|**Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate**|Kai Xiong et.al.|[2305.11595v2](http://arxiv.org/abs/2305.11595v2)|null|
+|**2023-05-19**|**Vision-based DRL Autonomous Driving Agent with Sim2Real Transfer**|Dianzhao Li et.al.|[2305.11589v1](http://arxiv.org/abs/2305.11589v1)|**[link](https://github.com/dailyl/sim2real_autonomous_vehicle)**|
+|**2023-05-19**|**The Deep Promotion Time Cure Model**|Victor Medina-Olivares et.al.|[2305.11575v1](http://arxiv.org/abs/2305.11575v1)|**[link](https://github.com/vhmedina/deepcure)**|
 |**2023-05-19**|**Pitfalls in Experiments with DNN4SE: An Analysis of the State of the Practice**|Sira Vegas et.al.|[2305.11556v1](http://arxiv.org/abs/2305.11556v1)|null|
 |**2023-05-19**|**Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling**|Fanyu Wang et.al.|[2305.11543v1](http://arxiv.org/abs/2305.11543v1)|null|
 |**2023-05-19**|**Learning Diverse Risk Preferences in Population-based Self-play**|Yuhua Jiang et.al.|[2305.11476v1](http://arxiv.org/abs/2305.11476v1)|**[link](https://github.com/jackory/rpbt)**|
@@ -44,7 +44,7 @@ layout: default
 |**2023-05-18**|**Deep Metric Tensor Regularized Policy Gradient**|Gang Chen et.al.|[2305.11017v1](http://arxiv.org/abs/2305.11017v1)|null|
 |**2023-05-18**|**Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks**|Saptarshi Nath et.al.|[2305.10997v1](http://arxiv.org/abs/2305.10997v1)|**[link](https://github.com/dmiu-shell/deeprl-shell)**|
 |**2023-05-18**|**Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control**|AJ Miller et.al.|[2305.10989v1](http://arxiv.org/abs/2305.10989v1)|null|
-|**2023-05-18**|**Client Selection for Federated Policy Optimization with Environment Heterogeneity**|Zhijie Xie et.al.|[2305.10978v1](http://arxiv.org/abs/2305.10978v1)|null|
+|**2023-05-21**|**Client Selection for Federated Policy Optimization with Environment Heterogeneity**|Zhijie Xie et.al.|[2305.10978v2](http://arxiv.org/abs/2305.10978v2)|null|
 |**2023-05-18**|**Deep Reinforcement Learning-Based Control for Stomach Coverage Scanning of Wireless Capsule Endoscopy**|Yameng Zhang et.al.|[2305.10955v1](http://arxiv.org/abs/2305.10955v1)|null|
 |**2023-05-18**|**Lyapunov-Driven Deep Reinforcement Learning for Edge Inference Empowered by Reconfigurable Intelligent Surfaces**|Kyriakos Stylianopoulos et.al.|[2305.10931v1](http://arxiv.org/abs/2305.10931v1)|null|
 |**2023-05-18**|**RobustFair: Adversarial Evaluation through Fairness Confusion Directed Gradient Search**|Xuran Li et.al.|[2305.10906v1](http://arxiv.org/abs/2305.10906v1)|null|
@@ -1968,7 +1968,7 @@ layout: default
 |**2023-05-19**|**Algorithmic failure as a humanities methodology: machine learning's mispredictions identify rich cases for qualitative analysis**|Jill Walker Rettberg et.al.|[2305.11663v1](http://arxiv.org/abs/2305.11663v1)|null|
 |**2023-05-19**|**Designing architectured ceramics for transient thermal applications using finite element and deep learning**|Elham Kiyani et.al.|[2305.11632v1](http://arxiv.org/abs/2305.11632v1)|null|
 |**2023-05-19**|**Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment**|Baorui Ma et.al.|[2305.11601v1](http://arxiv.org/abs/2305.11601v1)|**[link](https://github.com/mabaorui/towardsbettergradient)**|
-|**2023-05-19**|**The Deep Promotion Time Cure Model**|Victor Medina-Olivares et.al.|[2305.11575v1](http://arxiv.org/abs/2305.11575v1)|null|
+|**2023-05-19**|**The Deep Promotion Time Cure Model**|Victor Medina-Olivares et.al.|[2305.11575v1](http://arxiv.org/abs/2305.11575v1)|**[link](https://github.com/vhmedina/deepcure)**|
 |**2023-05-19**|**BAT: Boundary aware transducer for memory-efficient and low-latency ASR**|Keyu An et.al.|[2305.11571v1](http://arxiv.org/abs/2305.11571v1)|**[link](https://github.com/alibaba-damo-academy/FunASR)**|
 |**2023-05-19**|**StereoVAE: A lightweight stereo matching system through embedded GPUs**|Qiong Chang et.al.|[2305.11566v1](http://arxiv.org/abs/2305.11566v1)|null|
 |**2023-05-19**|**Pitfalls in Experiments with DNN4SE: An Analysis of the State of the Practice**|Sira Vegas et.al.|[2305.11556v1](http://arxiv.org/abs/2305.11556v1)|null|
