@@ -1,4 +1,4 @@
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,8 +36,8 @@
 |**2023-05-23**|**Leveraging Uncertainty Quantification for Picking Robust First Break Times**|Hongtao Wang et.al.|[2305.13799v1](http://arxiv.org/abs/2305.13799v1)|null|
 |**2023-05-23**|**Proximal Policy Gradient Arborescence for Quality Diversity Reinforcement Learning**|Sumeet Batra et.al.|[2305.13795v1](http://arxiv.org/abs/2305.13795v1)|null|
 |**2023-05-23**|**Deep Reinforcement Learning-based Multi-objective Path Planning on the Off-road Terrain Environment for Ground Vehicles**|Guoming Huang et.al.|[2305.13783v1](http://arxiv.org/abs/2305.13783v1)|null|
-|**2023-05-23**|**VisorGPT: Learning Visual Prior via Generative Pre-Training**|Jinheng Xie et.al.|[2305.13777v1](http://arxiv.org/abs/2305.13777v1)|**[link](https://github.com/sierkinhane/visorgpt)**|
-|**2023-05-23**|**Optimizing Long-term Value for Auction-Based Recommender Systems via On-Policy Reinforcement Learning**|Ruiyang Xu et.al.|[2305.13747v1](http://arxiv.org/abs/2305.13747v1)|null|
+|**2023-05-24**|**VisorGPT: Learning Visual Prior via Generative Pre-Training**|Jinheng Xie et.al.|[2305.13777v2](http://arxiv.org/abs/2305.13777v2)|**[link](https://github.com/sierkinhane/visorgpt)**|
+|**2023-05-24**|**Optimizing Long-term Value for Auction-Based Recommender Systems via On-Policy Reinforcement Learning**|Ruiyang Xu et.al.|[2305.13747v2](http://arxiv.org/abs/2305.13747v2)|null|
 |**2023-05-23**|**L-SA: Learning Under-Explored Targets in Multi-Target Reinforcement Learning**|Kibeom Kim et.al.|[2305.13741v1](http://arxiv.org/abs/2305.13741v1)|null|
 |**2023-05-23**|**Aligning Large Language Models through Synthetic Feedback**|Sungdong Kim et.al.|[2305.13735v1](http://arxiv.org/abs/2305.13735v1)|null|
 |**2023-05-23**|**Semantic-aware Transmission Scheduling: a Monotonicity-driven Deep Reinforcement Learning Approach**|Jiazheng Chen et.al.|[2305.13706v1](http://arxiv.org/abs/2305.13706v1)|null|
@@ -48,9 +48,9 @@
 |**2023-05-23**|**A Single Multi-Task Deep Neural Network with a Multi-Scale Feature Aggregation Mechanism for Manipulation Relationship Reasoning in Robotic Grasping**|Mingshuai Dong et.al.|[2305.13591v1](http://arxiv.org/abs/2305.13591v1)|null|
 |**2023-05-23**|**M-EMBER: Tackling Long-Horizon Mobile Manipulation via Factorized Domain Transfer**|Bohan Wu et.al.|[2305.13567v1](http://arxiv.org/abs/2305.13567v1)|null|
 |**2023-05-22**|**Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach**|Linwei Sang et.al.|[2305.13538v1](http://arxiv.org/abs/2305.13538v1)|null|
-|**2023-05-22**|**Regularization Through Simultaneous Learning: A Case Study for Hop Classification**|Pedro Henrique Nascimento Castro et.al.|[2305.13447v1](http://arxiv.org/abs/2305.13447v1)|null|
-|**2023-05-22**|**Towards Efficient Multi-Agent Learning Systems**|Kailash Gogineni et.al.|[2305.13411v1](http://arxiv.org/abs/2305.13411v1)|null|
-|**2023-05-22**|**Multiclass classification for multidimensional functional data through deep neural networks**|Shuoyang Wang et.al.|[2305.13349v1](http://arxiv.org/abs/2305.13349v1)|null|
+|**2023-05-24**|**Regularization Through Simultaneous Learning: A Case Study for Hop Classification**|Pedro Henrique Nascimento Castro et.al.|[2305.13447v2](http://arxiv.org/abs/2305.13447v2)|null|
+|**2023-05-24**|**Towards Efficient Multi-Agent Learning Systems**|Kailash Gogineni et.al.|[2305.13411v2](http://arxiv.org/abs/2305.13411v2)|null|
+|**2023-05-24**|**Multiclass classification for multidimensional functional data through deep neural networks**|Shuoyang Wang et.al.|[2305.13349v2](http://arxiv.org/abs/2305.13349v2)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|null|
 |**2023-05-22**|**Distributionally Robust Optimization Efficiently Solves Offline Reinforcement Learning**|Yue Wang et.al.|[2305.13289v1](http://arxiv.org/abs/2305.13289v1)|null|
 |**2023-05-22**|**Target-Aware Generative Augmentations for Single-Shot Adaptation**|Kowshik Thopalli et.al.|[2305.13284v1](http://arxiv.org/abs/2305.13284v1)|**[link](https://github.com/rakshith-2905/sista)**|
@@ -1821,7 +1821,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -2053,7 +2053,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
 
 ## Optimization
 
@@ -2090,7 +2090,7 @@
 |**2023-05-23**|**Detecting automatically the layout of clinical documents to enhance the performances of downstream natural language processing**|Christel Gérardin et.al.|[2305.13817v1](http://arxiv.org/abs/2305.13817v1)|null|
 |**2023-05-23**|**Towards Zero-shot Relation Extraction in Web Mining: A Multimodal Approach with Relative XML Path**|Zilong Wang et.al.|[2305.13805v1](http://arxiv.org/abs/2305.13805v1)|null|
 |**2023-05-23**|**Leveraging Uncertainty Quantification for Picking Robust First Break Times**|Hongtao Wang et.al.|[2305.13799v1](http://arxiv.org/abs/2305.13799v1)|null|
-|**2023-05-23**|**VisorGPT: Learning Visual Prior via Generative Pre-Training**|Jinheng Xie et.al.|[2305.13777v1](http://arxiv.org/abs/2305.13777v1)|**[link](https://github.com/sierkinhane/visorgpt)**|
+|**2023-05-24**|**VisorGPT: Learning Visual Prior via Generative Pre-Training**|Jinheng Xie et.al.|[2305.13777v2](http://arxiv.org/abs/2305.13777v2)|**[link](https://github.com/sierkinhane/visorgpt)**|
 |**2023-05-23**|**Phase ordering in the near-critical regime of the Alzheimer's and normal brain**|Anirudh Palutla et.al.|[2305.13762v1](http://arxiv.org/abs/2305.13762v1)|null|
 |**2023-05-23**|**ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings**|Yuki Saito et.al.|[2305.13724v1](http://arxiv.org/abs/2305.13724v1)|null|
 |**2023-05-23**|**FlowChroma -- A Deep Recurrent Neural Network for Video Colorization**|Thejan Wijesinghe et.al.|[2305.13704v1](http://arxiv.org/abs/2305.13704v1)|null|
@@ -5116,7 +5116,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -5193,5 +5193,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
 
