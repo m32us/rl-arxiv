@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -15,7 +15,7 @@ layout: default
 |**2023-05-24**|**Replicable Reinforcement Learning**|Eric Eaton et.al.|[2305.15284v1](http://arxiv.org/abs/2305.15284v1)|null|
 |**2023-05-24**|**Successor-Predecessor Intrinsic Exploration**|Changmin Yu et.al.|[2305.15277v1](http://arxiv.org/abs/2305.15277v1)|null|
 |**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266v1](http://arxiv.org/abs/2305.15266v1)|null|
-|**2023-05-24**|**Collaborative World Models: An Online-Offline Transfer RL Approach**|Qi Wang et.al.|[2305.15260v1](http://arxiv.org/abs/2305.15260v1)|null|
+|**2023-05-25**|**Collaborative World Models: An Online-Offline Transfer RL Approach**|Qi Wang et.al.|[2305.15260v2](http://arxiv.org/abs/2305.15260v2)|null|
 |**2023-05-24**|**Deep Ritz Method with Adaptive Quadrature for Linear Elasticity**|Min Liu et.al.|[2305.15257v1](http://arxiv.org/abs/2305.15257v1)|null|
 |**2023-05-24**|**Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees**|Sharan Vaswani et.al.|[2305.15249v1](http://arxiv.org/abs/2305.15249v1)|null|
 |**2023-05-24**|**A Mini Review on the utilization of Reinforcement Learning with OPC UA**|Simon Schindler et.al.|[2305.15113v1](http://arxiv.org/abs/2305.15113v1)|null|
@@ -25,7 +25,7 @@ layout: default
 |**2023-05-24**|**Generative AI for Bayesian Computation**|Nicholas G. Polson et.al.|[2305.14972v1](http://arxiv.org/abs/2305.14972v1)|null|
 |**2023-05-24**|**Reconstructive Neuron Pruning for Backdoor Defense**|Yige Li et.al.|[2305.14876v1](http://arxiv.org/abs/2305.14876v1)|**[link](https://github.com/bboylyg/rnp)**|
 |**2023-05-24**|**Sharpness-Aware Data Poisoning Attack**|Pengfei He et.al.|[2305.14851v1](http://arxiv.org/abs/2305.14851v1)|null|
-|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|null|
+|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|**[link](https://github.com/dreamflake/cfm)**|
 |**2023-05-24**|**Provable Offline Reinforcement Learning with Human Feedback**|Wenhao Zhan et.al.|[2305.14816v1](http://arxiv.org/abs/2305.14816v1)|null|
 |**2023-05-24**|**Sample-Efficient Learning for a Surrogate Model of Three-Phase Distribution System**|Hoang Tien Nguyen et.al.|[2305.14799v1](http://arxiv.org/abs/2305.14799v1)|null|
 |**2023-05-24**|**Polarimetric Imaging for Perception**|Michael Baltaxe et.al.|[2305.14787v1](http://arxiv.org/abs/2305.14787v1)|null|
@@ -2108,7 +2108,7 @@ layout: default
 |**2023-05-24**|**Statistical post-processing of visibility ensemble forecasts**|Sándor Baran et.al.|[2305.15325v1](http://arxiv.org/abs/2305.15325v1)|null|
 |**2023-05-24**|**Transport phenomena of TiCoSb: Defects induced modification in structure and density of states**|S. Mahakal et.al.|[2305.15303v1](http://arxiv.org/abs/2305.15303v1)|null|
 |**2023-05-24**|**The Crucial Role of Normalization in Sharpness-Aware Minimization**|Yan Dai et.al.|[2305.15287v1](http://arxiv.org/abs/2305.15287v1)|null|
-|**2023-05-24**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v1](http://arxiv.org/abs/2305.15270v1)|null|
+|**2023-05-25**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v2](http://arxiv.org/abs/2305.15270v2)|null|
 |**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266v1](http://arxiv.org/abs/2305.15266v1)|null|
 |**2023-05-24**|**Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model**|Zirui Liu et.al.|[2305.15265v1](http://arxiv.org/abs/2305.15265v1)|null|
 |**2023-05-24**|**Deep Ritz Method with Adaptive Quadrature for Linear Elasticity**|Min Liu et.al.|[2305.15257v1](http://arxiv.org/abs/2305.15257v1)|null|
@@ -2126,22 +2126,22 @@ layout: default
 |**2023-05-24**|**Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**|Gen Luo et.al.|[2305.15023v1](http://arxiv.org/abs/2305.15023v1)|null|
 |**2023-05-24**|**Scale Matters: Attribution Meets the Wavelet Domain to Explain Model Sensitivity to Image Corruptions**|Gabriel Kasmi et.al.|[2305.14979v1](http://arxiv.org/abs/2305.14979v1)|null|
 |**2023-05-24**|**Generative AI for Bayesian Computation**|Nicholas G. Polson et.al.|[2305.14972v1](http://arxiv.org/abs/2305.14972v1)|null|
-|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v1](http://arxiv.org/abs/2305.14968v1)|null|
+|**2023-05-25**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v2](http://arxiv.org/abs/2305.14968v2)|null|
 |**2023-05-24**|**Music Representing Corpus Virtual: An Open Sourced Library for Explorative Music Generation, Sound Design, and Instrument Creation with Artificial Intelligence and Machine Learning**|Christopher Johann Clarke et.al.|[2305.14948v1](http://arxiv.org/abs/2305.14948v1)|null|
 |**2023-05-24**|**Scalable wavelength-multiplexing photonic reservoir computing**|Rui-Qian Li et.al.|[2305.14927v1](http://arxiv.org/abs/2305.14927v1)|null|
 |**2023-05-24**|**Reconstructive Neuron Pruning for Backdoor Defense**|Yige Li et.al.|[2305.14876v1](http://arxiv.org/abs/2305.14876v1)|**[link](https://github.com/bboylyg/rnp)**|
 |**2023-05-24**|**Interactive Neural Resonators**|Rodrigo Diaz et.al.|[2305.14867v1](http://arxiv.org/abs/2305.14867v1)|null|
-|**2023-05-24**|**Utility-Probability Duality of Neural Networks**|Huang Bojun et.al.|[2305.14859v1](http://arxiv.org/abs/2305.14859v1)|null|
+|**2023-05-25**|**Utility-Probability Duality of Neural Networks**|Huang Bojun et.al.|[2305.14859v2](http://arxiv.org/abs/2305.14859v2)|null|
 |**2023-05-24**|**SWAMP: Sparse Weight Averaging with Multiple Particles for Iterative Magnitude Pruning**|Moonseok Choi et.al.|[2305.14852v1](http://arxiv.org/abs/2305.14852v1)|null|
 |**2023-05-24**|**Sharpness-Aware Data Poisoning Attack**|Pengfei He et.al.|[2305.14851v1](http://arxiv.org/abs/2305.14851v1)|null|
-|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|null|
+|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|**[link](https://github.com/dreamflake/cfm)**|
 |**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829v1](http://arxiv.org/abs/2305.14829v1)|null|
 |**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
 |**2023-05-24**|**Directed Message Passing Based on Attention for Prediction of Molecular Properties**|Chen Gong et.al.|[2305.14819v1](http://arxiv.org/abs/2305.14819v1)|null|
 |**2023-05-24**|**What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814v1](http://arxiv.org/abs/2305.14814v1)|null|
 |**2023-05-24**|**Sample-Efficient Learning for a Surrogate Model of Three-Phase Distribution System**|Hoang Tien Nguyen et.al.|[2305.14799v1](http://arxiv.org/abs/2305.14799v1)|null|
 |**2023-05-24**|**Polarimetric Imaging for Perception**|Michael Baltaxe et.al.|[2305.14787v1](http://arxiv.org/abs/2305.14787v1)|null|
-|**2023-05-24**|**P-vectors: A Parallel-Coupled TDNN/Transformer Network for Speaker Verification**|Xiyuan wang et.al.|[2305.14778v1](http://arxiv.org/abs/2305.14778v1)|null|
+|**2023-05-25**|**P-vectors: A Parallel-Coupled TDNN/Transformer Network for Speaker Verification**|Xiyuan Wang et.al.|[2305.14778v2](http://arxiv.org/abs/2305.14778v2)|null|
 |**2023-05-24**|**Dual Path Transformer with Partition Attention**|Zhengkai Jiang et.al.|[2305.14768v1](http://arxiv.org/abs/2305.14768v1)|null|
 |**2023-05-24**|**Masked Bayesian Neural Networks : Theoretical Guarantee and its Posterior Inference**|Insung Kong et.al.|[2305.14765v1](http://arxiv.org/abs/2305.14765v1)|null|
 |**2023-05-24**|**Detection of Non-uniformity in Parameters for Magnetic Domain Pattern Generation by Machine Learning**|Naoya Mamada et.al.|[2305.14764v1](http://arxiv.org/abs/2305.14764v1)|null|
