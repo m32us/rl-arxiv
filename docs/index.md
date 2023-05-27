@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.26
+## Updated on 2023.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -34,7 +34,7 @@ layout: default
 |**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596v1](http://arxiv.org/abs/2305.15596v1)|null|
 |**2023-05-24**|**Deep Reinforcement Learning with Plasticity Injection**|Evgenii Nikishin et.al.|[2305.15555v1](http://arxiv.org/abs/2305.15555v1)|null|
 |**2023-05-24**|**Regret-Optimal Model-Free Reinforcement Learning for Discounted MDPs with Short Burn-In Time**|Xiang Ji et.al.|[2305.15546v1](http://arxiv.org/abs/2305.15546v1)|null|
-|**2023-05-24**|**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**|Yuan Yang et.al.|[2305.15541v1](http://arxiv.org/abs/2305.15541v1)|null|
+|**2023-05-24**|**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**|Yuan Yang et.al.|[2305.15541v1](http://arxiv.org/abs/2305.15541v1)|**[link](https://github.com/gblackout/logicllama)**|
 |**2023-05-24**|**Improving selective classification performance of deep neural networks through post-hoc logit normalization and temperature scaling**|Luís Felipe P. Cattelan et.al.|[2305.15508v1](http://arxiv.org/abs/2305.15508v1)|null|
 |**2023-05-24**|**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**|Yue Wu et.al.|[2305.15486v1](http://arxiv.org/abs/2305.15486v1)|null|
 |**2023-05-24**|**Deep Learning-enabled MCMC for Probabilistic State Estimation in District Heating Grids**|Andreas Bott et.al.|[2305.15445v1](http://arxiv.org/abs/2305.15445v1)|**[link](https://github.com/eins-tuda/dnn_mcmc4dh)**|
