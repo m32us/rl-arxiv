@@ -1,4 +1,4 @@
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2023-05-27**|**Modeling Adversarial Attack on Pre-trained Language Models as Sequential Decision Making**|Xuanjie Fang et.al.|[2305.17440v1](http://arxiv.org/abs/2305.17440v1)|null|
 |**2023-05-27**|**Source Free Domain Adaptation of a DNN for SSVEP-based Brain-Computer Interfaces**|Osman Berke Guney et.al.|[2305.17403v1](http://arxiv.org/abs/2305.17403v1)|null|
 |**2023-05-27**|**Query-Policy Misalignment in Preference-Based Reinforcement Learning**|Xiao Hu et.al.|[2305.17400v1](http://arxiv.org/abs/2305.17400v1)|null|
-|**2023-05-27**|**No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**|Tiancheng Jin et.al.|[2305.17380v1](http://arxiv.org/abs/2305.17380v1)|null|
+|**2023-05-30**|**No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**|Tiancheng Jin et.al.|[2305.17380v2](http://arxiv.org/abs/2305.17380v2)|null|
 |**2023-05-27**|**Attention Schema in Neural Agents**|Dianbo Liu et.al.|[2305.17375v1](http://arxiv.org/abs/2305.17375v1)|null|
 |**2023-05-27**|**Reinforcement Learning With Reward Machines in Stochastic Games**|Jueming Hu et.al.|[2305.17372v1](http://arxiv.org/abs/2305.17372v1)|null|
 |**2023-05-27**|**Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?**|Yihe Zhou et.al.|[2305.17352v1](http://arxiv.org/abs/2305.17352v1)|**[link](https://github.com/zyh1999/cadp)**|
@@ -56,10 +56,10 @@
 |**2023-05-26**|**Self-Supervised Reinforcement Learning that Transfers using Random Features**|Boyuan Chen et.al.|[2305.17250v1](http://arxiv.org/abs/2305.17250v1)|null|
 |**2023-05-26**|**NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios**|Jaromír Janisch et.al.|[2305.17246v1](http://arxiv.org/abs/2305.17246v1)|**[link](https://github.com/jaromiru/nasimemu)**|
 |**2023-05-26**|**Rotational Optimizers: Simple & Robust DNN Training**|Atli Kosson et.al.|[2305.17212v1](http://arxiv.org/abs/2305.17212v1)|null|
-|**2023-05-26**|**Ghost Noise for Regularizing Deep Neural Networks**|Atli Kosson et.al.|[2305.17205v1](http://arxiv.org/abs/2305.17205v1)|null|
+|**2023-05-26**|**Ghost Noise for Regularizing Deep Neural Networks**|Atli Kosson et.al.|[2305.17205v1](http://arxiv.org/abs/2305.17205v1)|**[link](https://github.com/epfml/ghost-noise)**|
 |**2023-05-26**|**A Model-Based Solution to the Offline Multi-Agent Reinforcement Learning Coordination Problem**|Paul Barde et.al.|[2305.17198v1](http://arxiv.org/abs/2305.17198v1)|null|
 |**2023-05-26**|**Manifold Regularization for Memory-Efficient Training of Deep Neural Networks**|Shadi Sartipi et.al.|[2305.17119v1](http://arxiv.org/abs/2305.17119v1)|null|
-|**2023-05-26**|**Policy Synthesis and Reinforcement Learning for Discounted LTL**|Rajeev Alur et.al.|[2305.17115v1](http://arxiv.org/abs/2305.17115v1)|null|
+|**2023-05-29**|**Policy Synthesis and Reinforcement Learning for Discounted LTL**|Rajeev Alur et.al.|[2305.17115v2](http://arxiv.org/abs/2305.17115v2)|null|
 |**2023-05-26**|**IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality**|Bingjie Tang et.al.|[2305.17110v1](http://arxiv.org/abs/2305.17110v1)|null|
 |**2023-05-26**|**Reinforcement Learning with Simple Sequence Priors**|Tankred Saanum et.al.|[2305.17109v1](http://arxiv.org/abs/2305.17109v1)|null|
 |**2023-05-26**|**Communication-Efficient Reinforcement Learning in Swarm Robotic Networks for Maze Exploration**|Ehsan Latif et.al.|[2305.17087v1](http://arxiv.org/abs/2305.17087v1)|**[link](https://github.com/herolab-uga/mazecommrl)**|
@@ -1980,7 +1980,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -1994,7 +1994,7 @@
 |**2023-05-26**|**Clustering Method for Time-Series Images Using Quantum-Inspired Computing Technology**|Tomoki Inoue et.al.|[2305.16656v1](http://arxiv.org/abs/2305.16656v1)|null|
 |**2023-05-25**|**Approaching Collateral Optimization for NISQ and Quantum-Inspired Computing**|Megan Giron et.al.|[2305.16395v1](http://arxiv.org/abs/2305.16395v1)|null|
 |**2023-05-28**|**Fast Online Node Labeling for Very Large Graphs**|Baojian Zhou et.al.|[2305.16257v2](http://arxiv.org/abs/2305.16257v2)|**[link](https://github.com/baojian/FastONL)**|
-|**2023-05-25**|**Efficient Approximation Algorithms for Spanning Centrality**|Shiqi Zhang et.al.|[2305.16086v1](http://arxiv.org/abs/2305.16086v1)|null|
+|**2023-05-30**|**Efficient Approximation Algorithms for Spanning Centrality**|Shiqi Zhang et.al.|[2305.16086v2](http://arxiv.org/abs/2305.16086v2)|null|
 |**2023-05-24**|**Algorithms for the Bin Packing Problem with Scenarios**|Yulle G. F. Borges et.al.|[2305.15351v1](http://arxiv.org/abs/2305.15351v1)|null|
 |**2023-05-24**|**Multi-Connectivity for Multicast Video Streaming in Cellular Networks (Extended Abstract)**|Sadaf Ul Zuhra et.al.|[2305.15252v1](http://arxiv.org/abs/2305.15252v1)|null|
 |**2023-05-24**|**Parameter Setting in Quantum Approximate Optimization of Weighted Problems**|Shree Hari Sureshbabu et.al.|[2305.15201v1](http://arxiv.org/abs/2305.15201v1)|null|
@@ -2225,7 +2225,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## Optimization
 
@@ -5488,7 +5488,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -5565,5 +5565,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
