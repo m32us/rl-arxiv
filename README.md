@@ -1,4 +1,4 @@
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2023-06-01**|**IQL-TD-MPC: Implicit Q-Learning for Hierarchical Model Predictive Control**|Rohan Chitnis et.al.|[2306.00867v1](http://arxiv.org/abs/2306.00867v1)|null|
 |**2023-06-01**|**Non-stationary Reinforcement Learning under General Function Approximation**|Songtao Feng et.al.|[2306.00861v1](http://arxiv.org/abs/2306.00861v1)|null|
 |**2023-06-01**|**Adversarial learning of neural user simulators for dialogue policy optimisation**|Simon Keizer et.al.|[2306.00858v1](http://arxiv.org/abs/2306.00858v1)|null|
-|**2023-06-01**|**BitE : Accelerating Learned Query Optimization in a Mixed-Workload Environment**|Yuri Kim et.al.|[2306.00845v1](http://arxiv.org/abs/2306.00845v1)|null|
+|**2023-06-02**|**BitE : Accelerating Learned Query Optimization in a Mixed-Workload Environment**|Yuri Kim et.al.|[2306.00845v2](http://arxiv.org/abs/2306.00845v2)|null|
 |**2023-06-01**|**What model does MuZero learn?**|Jinke He et.al.|[2306.00840v1](http://arxiv.org/abs/2306.00840v1)|null|
 |**2023-06-01**|**Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers**|Ruotong Wang et.al.|[2306.00816v1](http://arxiv.org/abs/2306.00816v1)|null|
 |**2023-06-01**|**A Uniform Confidence Phenomenon in Deep Learning and its Implications for Calibration**|Muthu Chidambaram et.al.|[2306.00740v1](http://arxiv.org/abs/2306.00740v1)|null|
@@ -2090,7 +2090,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -2343,7 +2343,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
 
 ## Optimization
 
@@ -2358,7 +2358,7 @@
 |**2023-06-01**|**SpotTarget: Rethinking the Effect of Target Edges for Link Prediction in Graph Neural Networks**|Jing Zhu et.al.|[2306.00899v1](http://arxiv.org/abs/2306.00899v1)|null|
 |**2023-06-01**|**Quantifying Deep Learning Model Uncertainty in Conformal Prediction**|Hamed Karimi et.al.|[2306.00876v1](http://arxiv.org/abs/2306.00876v1)|null|
 |**2023-06-01**|**A general-purpose single-photon-based quantum computing platform**|Nicolas Maring et.al.|[2306.00874v1](http://arxiv.org/abs/2306.00874v1)|**[link](https://github.com/quandela/ascella)**|
-|**2023-06-01**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860v1](http://arxiv.org/abs/2306.00860v1)|null|
+|**2023-06-02**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860v2](http://arxiv.org/abs/2306.00860v2)|null|
 |**2023-06-01**|**Adapting a ConvNeXt model to audio classification on AudioSet**|Thomas Pellegrini et.al.|[2306.00830v1](http://arxiv.org/abs/2306.00830v1)|null|
 |**2023-06-01**|**Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers**|Ruotong Wang et.al.|[2306.00816v1](http://arxiv.org/abs/2306.00816v1)|null|
 |**2023-06-01**|**Deep Operator Learning-based Surrogate Models with Uncertainty Quantification for Optimizing Internal Cooling Channel Rib Profiles**|Izzet Sahin et.al.|[2306.00810v1](http://arxiv.org/abs/2306.00810v1)|null|
@@ -5756,7 +5756,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -5837,5 +5837,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
 

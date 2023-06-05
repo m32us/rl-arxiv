@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -16,7 +16,7 @@ layout: default
 |**2023-06-01**|**IQL-TD-MPC: Implicit Q-Learning for Hierarchical Model Predictive Control**|Rohan Chitnis et.al.|[2306.00867v1](http://arxiv.org/abs/2306.00867v1)|null|
 |**2023-06-01**|**Non-stationary Reinforcement Learning under General Function Approximation**|Songtao Feng et.al.|[2306.00861v1](http://arxiv.org/abs/2306.00861v1)|null|
 |**2023-06-01**|**Adversarial learning of neural user simulators for dialogue policy optimisation**|Simon Keizer et.al.|[2306.00858v1](http://arxiv.org/abs/2306.00858v1)|null|
-|**2023-06-01**|**BitE : Accelerating Learned Query Optimization in a Mixed-Workload Environment**|Yuri Kim et.al.|[2306.00845v1](http://arxiv.org/abs/2306.00845v1)|null|
+|**2023-06-02**|**BitE : Accelerating Learned Query Optimization in a Mixed-Workload Environment**|Yuri Kim et.al.|[2306.00845v2](http://arxiv.org/abs/2306.00845v2)|null|
 |**2023-06-01**|**What model does MuZero learn?**|Jinke He et.al.|[2306.00840v1](http://arxiv.org/abs/2306.00840v1)|null|
 |**2023-06-01**|**Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers**|Ruotong Wang et.al.|[2306.00816v1](http://arxiv.org/abs/2306.00816v1)|null|
 |**2023-06-01**|**A Uniform Confidence Phenomenon in Deep Learning and its Implications for Calibration**|Muthu Chidambaram et.al.|[2306.00740v1](http://arxiv.org/abs/2306.00740v1)|null|
@@ -2348,7 +2348,7 @@ layout: default
 |**2023-06-01**|**SpotTarget: Rethinking the Effect of Target Edges for Link Prediction in Graph Neural Networks**|Jing Zhu et.al.|[2306.00899v1](http://arxiv.org/abs/2306.00899v1)|null|
 |**2023-06-01**|**Quantifying Deep Learning Model Uncertainty in Conformal Prediction**|Hamed Karimi et.al.|[2306.00876v1](http://arxiv.org/abs/2306.00876v1)|null|
 |**2023-06-01**|**A general-purpose single-photon-based quantum computing platform**|Nicolas Maring et.al.|[2306.00874v1](http://arxiv.org/abs/2306.00874v1)|**[link](https://github.com/quandela/ascella)**|
-|**2023-06-01**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860v1](http://arxiv.org/abs/2306.00860v1)|null|
+|**2023-06-02**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860v2](http://arxiv.org/abs/2306.00860v2)|null|
 |**2023-06-01**|**Adapting a ConvNeXt model to audio classification on AudioSet**|Thomas Pellegrini et.al.|[2306.00830v1](http://arxiv.org/abs/2306.00830v1)|null|
 |**2023-06-01**|**Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers**|Ruotong Wang et.al.|[2306.00816v1](http://arxiv.org/abs/2306.00816v1)|null|
 |**2023-06-01**|**Deep Operator Learning-based Surrogate Models with Uncertainty Quantification for Optimizing Internal Cooling Channel Rib Profiles**|Izzet Sahin et.al.|[2306.00810v1](http://arxiv.org/abs/2306.00810v1)|null|
