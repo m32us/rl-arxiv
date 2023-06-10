@@ -2252,7 +2252,7 @@ layout: default
 |**2023-06-07**|**Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications**|Paul Pu Liang et.al.|[2306.04539v1](http://arxiv.org/abs/2306.04539v1)|**[link](https://github.com/pliang279/pid)**|
 |**2023-06-07**|**Formulation of the Electric Vehicle Charging and Routing Problem for a Hybrid Quantum-Classical Search Space Reduction Heuristic**|M. Garcia de Andoin et.al.|[2306.04414v1](http://arxiv.org/abs/2306.04414v1)|null|
 |**2023-06-07**|**Policy-Based Self-Competition for Planning Problems**|Jonathan Pirnay et.al.|[2306.04403v1](http://arxiv.org/abs/2306.04403v1)|**[link](https://github.com/grimmlab/policy-based-self-competition)**|
-|**2023-06-07**|**Dynamic Programming on a Quantum Annealer: Solving the RBC Model**|Jesús Fernández-Villaverde et.al.|[2306.04285v1](http://arxiv.org/abs/2306.04285v1)|null|
+|**2023-06-07**|**Dynamic Programming on a Quantum Annealer: Solving the RBC Model**|Jesús Fernández-Villaverde et.al.|[2306.04285v1](http://arxiv.org/abs/2306.04285v1)|**[link](https://github.com/ijh85/quantum-dynamic-programming)**|
 |**2023-06-06**|**Tensor network algorithm for simulating experimental Gaussian boson sampling**|Changhun Oh et.al.|[2306.03709v1](http://arxiv.org/abs/2306.03709v1)|null|
 |**2023-06-06**|**Efficient Centrality Maximization with Rademacher Averages**|Leonardo Pellegrina et.al.|[2306.03651v1](http://arxiv.org/abs/2306.03651v1)|**[link](https://github.com/leonardopellegrina/centra)**|
 |**2023-06-06**|**From coordinate subspaces over finite fields to ideal multipartite uniform clutters**|Ahmad Abdi et.al.|[2306.03613v1](http://arxiv.org/abs/2306.03613v1)|null|
@@ -2552,7 +2552,7 @@ layout: default
 |**2023-06-08**|**Octree-based hierarchical sampling optimization for the volumetric super-resolution of scientific data**|Xinjie Wang et.al.|[2306.05133v1](http://arxiv.org/abs/2306.05133v1)|null|
 |**2023-06-08**|**Hybrid Graph: A Unified Graph Representation with Datasets and Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
 |**2023-06-08**|**Re-aligning Shadow Models can Improve White-box Membership Inference Attacks**|Ana-Maria Cretu et.al.|[2306.05093v1](http://arxiv.org/abs/2306.05093v1)|null|
-|**2023-06-08**|**The ART of Conversation: Measuring Phonetic Convergence and Deliberate Imitation in L2-Speech with a Siamese RNN**|Zheng Yuan et.al.|[2306.05088v1](http://arxiv.org/abs/2306.05088v1)|null|
+|**2023-06-08**|**The ART of Conversation: Measuring Phonetic Convergence and Deliberate Imitation in L2-Speech with a Siamese RNN**|Zheng Yuan et.al.|[2306.05088v1](http://arxiv.org/abs/2306.05088v1)|**[link](https://github.com/byronthecoder/S-RNN-4-ART)**|
 |**2023-06-08**|**Beyond Gaia DR3: tracing the [α/M]-[M/H] bimodality from the inner to the outer Milky Way disc with Gaia RVS and Convolutional Neural-Networks**|G. Guiglion et.al.|[2306.05086v1](http://arxiv.org/abs/2306.05086v1)|null|
 |**2023-06-08**|**Precision-aware Latency and Energy Balancing on Multi-Accelerator Platforms for DNN Inference**|Matteo Risso et.al.|[2306.05060v1](http://arxiv.org/abs/2306.05060v1)|null|
 |**2023-06-08**|**Introducing Reducing-Width-QNNs, an AI-inspired Ansatz design pattern**|Jonas Stein et.al.|[2306.05047v1](http://arxiv.org/abs/2306.05047v1)|null|
