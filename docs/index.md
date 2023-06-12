@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.11
+## Updated on 2023.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -34,7 +34,7 @@ layout: default
 |**2023-06-08**|**A Cover Time Study of a non-Markovian Algorithm**|Guanhua Fang et.al.|[2306.04902v1](http://arxiv.org/abs/2306.04902v1)|null|
 |**2023-06-08**|**Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning**|Jifeng Hu et.al.|[2306.04875v1](http://arxiv.org/abs/2306.04875v1)|null|
 |**2023-06-08**|**Learned spatial data partitioning**|Keizo Hori et.al.|[2306.04846v1](http://arxiv.org/abs/2306.04846v1)|**[link](https://github.com/onizukalab/spatial-data-partitioning-using-drl)**|
-|**2023-06-07**|**Correlative Information Maximization: A Biologically Plausible Approach to Supervised Deep Neural Networks without Weight Symmetry**|Bariscan Bozkurt et.al.|[2306.04810v1](http://arxiv.org/abs/2306.04810v1)|null|
+|**2023-06-09**|**Correlative Information Maximization: A Biologically Plausible Approach to Supervised Deep Neural Networks without Weight Symmetry**|Bariscan Bozkurt et.al.|[2306.04810v2](http://arxiv.org/abs/2306.04810v2)|**[link](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)**|
 |**2023-06-07**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781v1](http://arxiv.org/abs/2306.04781v1)|null|
 |**2023-06-07**|**Computational Modeling of Deep Multiresolution-Fractal Texture and Its Application to Abnormal Brain Tissue Segmentation**|A. Temtam et.al.|[2306.04754v1](http://arxiv.org/abs/2306.04754v1)|null|
 |**2023-06-07**|**Neural Symbolic Regression using Control Variables**|Xieting Chu et.al.|[2306.04718v1](http://arxiv.org/abs/2306.04718v1)|null|

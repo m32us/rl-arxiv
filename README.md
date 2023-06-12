@@ -1,4 +1,4 @@
-## Updated on 2023.06.11
+## Updated on 2023.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -40,7 +40,7 @@
 |**2023-06-08**|**A Cover Time Study of a non-Markovian Algorithm**|Guanhua Fang et.al.|[2306.04902v1](http://arxiv.org/abs/2306.04902v1)|null|
 |**2023-06-08**|**Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning**|Jifeng Hu et.al.|[2306.04875v1](http://arxiv.org/abs/2306.04875v1)|null|
 |**2023-06-08**|**Learned spatial data partitioning**|Keizo Hori et.al.|[2306.04846v1](http://arxiv.org/abs/2306.04846v1)|**[link](https://github.com/onizukalab/spatial-data-partitioning-using-drl)**|
-|**2023-06-07**|**Correlative Information Maximization: A Biologically Plausible Approach to Supervised Deep Neural Networks without Weight Symmetry**|Bariscan Bozkurt et.al.|[2306.04810v1](http://arxiv.org/abs/2306.04810v1)|null|
+|**2023-06-09**|**Correlative Information Maximization: A Biologically Plausible Approach to Supervised Deep Neural Networks without Weight Symmetry**|Bariscan Bozkurt et.al.|[2306.04810v2](http://arxiv.org/abs/2306.04810v2)|**[link](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)**|
 |**2023-06-07**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781v1](http://arxiv.org/abs/2306.04781v1)|null|
 |**2023-06-07**|**Computational Modeling of Deep Multiresolution-Fractal Texture and Its Application to Abnormal Brain Tissue Segmentation**|A. Temtam et.al.|[2306.04754v1](http://arxiv.org/abs/2306.04754v1)|null|
 |**2023-06-07**|**Neural Symbolic Regression using Control Variables**|Xieting Chu et.al.|[2306.04718v1](http://arxiv.org/abs/2306.04718v1)|null|
@@ -2248,7 +2248,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -2529,7 +2529,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
 
 ## Optimization
 
@@ -6192,7 +6192,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -6274,5 +6274,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
 
