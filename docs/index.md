@@ -9,11 +9,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control**|Longtao Zheng et.al.|[2306.07863v1](http://arxiv.org/abs/2306.07863v1)|**[link](https://github.com/ltzheng/synapse)**|
+|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
+|**2023-06-13**|**A Primal-Dual-Critic Algorithm for Offline Constrained Reinforcement Learning**|Kihyuk Hong et.al.|[2306.07818v1](http://arxiv.org/abs/2306.07818v1)|null|
+|**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
+|**2023-06-13**|**Provably Learning Nash Policies in Constrained Markov Potential Games**|Pragnya Alatur et.al.|[2306.07749v1](http://arxiv.org/abs/2306.07749v1)|null|
+|**2023-06-13**|**Kernelized Reinforcement Learning with Order Optimal Regret Bounds**|Sattar Vakili et.al.|[2306.07745v1](http://arxiv.org/abs/2306.07745v1)|null|
+|**2023-06-13**|**Stepsize Learning for Policy Gradient Methods in Contextual Markov Decision Processes**|Luca Sabbioni et.al.|[2306.07741v1](http://arxiv.org/abs/2306.07741v1)|null|
+|**2023-06-13**|**Multi-Robot Motion Planning: A Learning-Based Artificial Potential Field Solution**|Dengyu Zhang et.al.|[2306.07647v1](http://arxiv.org/abs/2306.07647v1)|null|
+|**2023-06-13**|**Intrusion Detection: A Deep Learning Approach**|Ishaan Shivhare et.al.|[2306.07601v1](http://arxiv.org/abs/2306.07601v1)|null|
+|**2023-06-13**|**DenseLight: Efficient Control for Large-scale Traffic Signals with Dense Feedback**|Junfan Lin et.al.|[2306.07553v1](http://arxiv.org/abs/2306.07553v1)|**[link](https://github.com/junfanlin/denselight)**|
+|**2023-06-13**|**Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second**|Vincent-Pierre Berges et.al.|[2306.07552v1](http://arxiv.org/abs/2306.07552v1)|**[link](https://github.com/facebookresearch/galactic)**|
+|**2023-06-13**|**A Versatile Multi-Agent Reinforcement Learning Benchmark for Inventory Management**|Xianliang Yang et.al.|[2306.07542v1](http://arxiv.org/abs/2306.07542v1)|**[link](https://github.com/victoryxl/replenishmentenv)**|
+|**2023-06-13**|**A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning**|Siyuan Guo et.al.|[2306.07541v1](http://arxiv.org/abs/2306.07541v1)|null|
+|**2023-06-13**|**Unified Off-Policy Learning to Rank: a Reinforcement Learning Perspective**|Zeyu Zhang et.al.|[2306.07528v1](http://arxiv.org/abs/2306.07528v1)|null|
+|**2023-06-13**|**Using Collision Momentum in Deep Reinforcement Learning Based Adversarial Pedestrian Modeling**|Dianwei Chen et.al.|[2306.07525v1](http://arxiv.org/abs/2306.07525v1)|null|
+|**2023-06-12**|**A Black-box Approach for Non-stationary Multi-agent Reinforcement Learning**|Haozhe Jiang et.al.|[2306.07465v1](http://arxiv.org/abs/2306.07465v1)|null|
+|**2023-06-12**|**Adaptive interventions for both accuracy and time in AI-assisted human decision making**|Siddharth Swaroop et.al.|[2306.07458v1](http://arxiv.org/abs/2306.07458v1)|null|
+|**2023-06-12**|**DeepTransition: Viability Leads to the Emergence of Gait Transitions in Learning Anticipatory Quadrupedal Locomotion Skills**|Milad Shafiee et.al.|[2306.07419v1](http://arxiv.org/abs/2306.07419v1)|null|
+|**2023-06-12**|**Robust Reinforcement Learning through Efficient Adversarial Herding**|Juncheng Dong et.al.|[2306.07408v1](http://arxiv.org/abs/2306.07408v1)|null|
+|**2023-06-12**|**Adversarial Attacks on the Interpretation of Neuron Activation Maximization**|Geraldin Nanfack et.al.|[2306.07397v1](http://arxiv.org/abs/2306.07397v1)|null|
+|**2023-06-12**|**Composing Efficient, Robust Tests for Policy Selection**|Dustin Morrill et.al.|[2306.07372v1](http://arxiv.org/abs/2306.07372v1)|null|
+|**2023-06-12**|**Self-Supervised Hyperspectral Inpainting with the Optimisation inspired Deep Neural Network Prior**|Shuo Li et.al.|[2306.07308v1](http://arxiv.org/abs/2306.07308v1)|null|
+|**2023-06-12**|**Online Prototype Alignment for Few-shot Policy Transfer**|Qi Yi et.al.|[2306.07307v1](http://arxiv.org/abs/2306.07307v1)|**[link](https://github.com/albertcity/opa)**|
+|**2023-06-11**|**A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**|Saidul Islam et.al.|[2306.07303v1](http://arxiv.org/abs/2306.07303v1)|null|
 |**2023-06-12**|**Backpressure control with predicted imminent saturation flow rate for urban networks**|Dianchao Lin et.al.|[2306.07263v1](http://arxiv.org/abs/2306.07263v1)|null|
 |**2023-06-12**|**Efficient Quantization-aware Training with Adaptive Coreset Selection**|Xijie Huang et.al.|[2306.07215v1](http://arxiv.org/abs/2306.07215v1)|**[link](https://github.com/huangowen/qat-acs)**|
 |**2023-06-12**|**Maximising Coefficiency of Human-Robot Handovers through Reinforcement Learning**|Marta Lagomarsino et.al.|[2306.07205v1](http://arxiv.org/abs/2306.07205v1)|null|
 |**2023-06-12**|**AROID: Improving Adversarial Robustness through Online Instance-wise Data Augmentation**|Lin Li et.al.|[2306.07197v1](http://arxiv.org/abs/2306.07197v1)|null|
-|**2023-06-12**|**Frequency-Based Vulnerability Analysis of Deep Learning Models against Image Corruptions**|Harshitha Machiraju et.al.|[2306.07178v1](http://arxiv.org/abs/2306.07178v1)|null|
+|**2023-06-12**|**Frequency-Based Vulnerability Analysis of Deep Learning Models against Image Corruptions**|Harshitha Machiraju et.al.|[2306.07178v1](http://arxiv.org/abs/2306.07178v1)|**[link](https://github.com/code-assasin/mufiacode)**|
 |**2023-06-12**|**Evolving Testing Scenario Generation Method and Intelligence Evaluation Framework for Automated Vehicles**|Yining Ma et.al.|[2306.07142v1](http://arxiv.org/abs/2306.07142v1)|null|
 |**2023-06-12**|**On the Amplification of Linguistic Bias through Unintentional Self-reinforcement Learning by Generative Language Models -- A Perspective**|Minhyeok Lee et.al.|[2306.07135v1](http://arxiv.org/abs/2306.07135v1)|null|
 |**2023-06-12**|**Diverse Projection Ensembles for Distributional Reinforcement Learning**|Moritz A. Zanger et.al.|[2306.07124v1](http://arxiv.org/abs/2306.07124v1)|null|
@@ -2613,6 +2637,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845v1](http://arxiv.org/abs/2306.07845v1)|null|
+|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
+|**2023-06-13**|**Finite Gaussian Neurons: Defending against adversarial attacks by making neural networks say "I don't know"**|Felix Grezes et.al.|[2306.07796v1](http://arxiv.org/abs/2306.07796v1)|**[link](https://github.com/grezesf/fgn---research)**|
+|**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
+|**2023-06-13**|**The effect of screening on the relaxation dynamics in the Coulomb glass**|Preeti Bhandari et.al.|[2306.07771v1](http://arxiv.org/abs/2306.07771v1)|null|
+|**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
+|**2023-06-13**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
+|**2023-06-13**|**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**|Valentin Bieri et.al.|[2306.07730v1](http://arxiv.org/abs/2306.07730v1)|null|
+|**2023-06-13**|**Amplitude-assisted tagging of longitudinally polarised bosons using wide neural networks**|Michele Grossi et.al.|[2306.07726v1](http://arxiv.org/abs/2306.07726v1)|null|
+|**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v1](http://arxiv.org/abs/2306.07712v1)|null|
+|**2023-06-13**|**Variational Positive-incentive Noise: How Noise Benefits Models**|Hongyuan Zhang et.al.|[2306.07651v1](http://arxiv.org/abs/2306.07651v1)|null|
+|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v1](http://arxiv.org/abs/2306.07618v1)|null|
+|**2023-06-13**|**Ionic logic with highly asymmetric nanofluidic memristive switches**|Theo Emmerich et.al.|[2306.07617v1](http://arxiv.org/abs/2306.07617v1)|null|
+|**2023-06-13**|**Volcano transition in populations of phase oscillators with random nonreciprocal interactions**|Diego Pazó et.al.|[2306.07609v1](http://arxiv.org/abs/2306.07609v1)|null|
+|**2023-06-13**|**Intrusion Detection: A Deep Learning Approach**|Ishaan Shivhare et.al.|[2306.07601v1](http://arxiv.org/abs/2306.07601v1)|null|
+|**2023-06-13**|**I See Dead People: Gray-Box Adversarial Attack on Image-To-Text Models**|Raz Lapid et.al.|[2306.07591v1](http://arxiv.org/abs/2306.07591v1)|null|
+|**2023-06-13**|**Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second**|Vincent-Pierre Berges et.al.|[2306.07552v1](http://arxiv.org/abs/2306.07552v1)|**[link](https://github.com/facebookresearch/galactic)**|
+|**2023-06-13**|**3D molecule generation by denoising voxel grids**|Pedro O. Pinheiro et.al.|[2306.07473v1](http://arxiv.org/abs/2306.07473v1)|null|
+|**2023-06-13**|**Von Mises Mixture Distributions for Molecular Conformation Generation**|Kirk Swanson et.al.|[2306.07472v1](http://arxiv.org/abs/2306.07472v1)|**[link](https://github.com/thejonaslab/vonmises-icml-2023)**|
+|**2023-06-13**|**Reviving Shift Equivariance in Vision Transformers**|Peijian Ding et.al.|[2306.07470v1](http://arxiv.org/abs/2306.07470v1)|null|
+|**2023-06-12**|**Getting the Most from Eye-Tracking: User-Interaction Based Reading Region Estimation Dataset and Models**|Ruoyan Kong et.al.|[2306.07455v1](http://arxiv.org/abs/2306.07455v1)|**[link](https://github.com/ruoyankong/reading_region_prediction_dataset)**|
+|**2023-06-12**|**Least-Squares Neural Network (LSNN) Method For Linear Advection-Reaction Equation: Non-constant Jumps**|Zhiqiang Cai et.al.|[2306.07445v1](http://arxiv.org/abs/2306.07445v1)|null|
+|**2023-06-12**|**Neural Embeddings for Web Testing**|Andrea Stocco et.al.|[2306.07400v1](http://arxiv.org/abs/2306.07400v1)|null|
+|**2023-06-12**|**Adversarial Attacks on the Interpretation of Neuron Activation Maximization**|Geraldin Nanfack et.al.|[2306.07397v1](http://arxiv.org/abs/2306.07397v1)|null|
+|**2023-06-12**|**Supervised Deep Learning for Content-Aware Image Retargeting with Fourier Convolutions**|MohammadHossein Givkashi et.al.|[2306.07383v1](http://arxiv.org/abs/2306.07383v1)|null|
+|**2023-06-12**|**Intelligent Multi-channel Meta-imagers for Accelerating Machine Vision**|Hanyu Zheng et.al.|[2306.07365v1](http://arxiv.org/abs/2306.07365v1)|null|
+|**2023-06-12**|**Conformal invariance and multifractality at Anderson transitions in arbitrary dimensions**|Jaychandran Padayasi et.al.|[2306.07340v1](http://arxiv.org/abs/2306.07340v1)|null|
+|**2023-06-12**|**Exact Solution for the Transverse Field Sherrington-Kirkpatrick Spin Glass Model with Continuous-Time Quantum Monte Carlo Method**|Annamária Kiss et.al.|[2306.07337v1](http://arxiv.org/abs/2306.07337v1)|null|
+|**2023-06-12**|**Splitting and Parallelizing of Quantum Convolutional Neural Networks for Learning Translationally Symmetric Data**|Koki Chinzei et.al.|[2306.07331v1](http://arxiv.org/abs/2306.07331v1)|null|
+|**2023-06-12**|**Self-Supervised Hyperspectral Inpainting with the Optimisation inspired Deep Neural Network Prior**|Shuo Li et.al.|[2306.07308v1](http://arxiv.org/abs/2306.07308v1)|null|
 |**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
 |**2023-06-12**|**Backpressure control with predicted imminent saturation flow rate for urban networks**|Dianchao Lin et.al.|[2306.07263v1](http://arxiv.org/abs/2306.07263v1)|null|
 |**2023-06-12**|**Reliable machine learning potentials based on artificial neural network for graphene**|Akash Singh et.al.|[2306.07246v1](http://arxiv.org/abs/2306.07246v1)|null|
@@ -2622,7 +2676,7 @@ layout: default
 |**2023-06-12**|**AROID: Improving Adversarial Robustness through Online Instance-wise Data Augmentation**|Lin Li et.al.|[2306.07197v1](http://arxiv.org/abs/2306.07197v1)|null|
 |**2023-06-12**|**Neural Intersection Function**|Shin Fujieda et.al.|[2306.07191v1](http://arxiv.org/abs/2306.07191v1)|null|
 |**2023-06-12**|**Benchmarking Neural Network Training Algorithms**|George E. Dahl et.al.|[2306.07179v1](http://arxiv.org/abs/2306.07179v1)|**[link](https://github.com/mlcommons/algorithmic-efficiency)**|
-|**2023-06-12**|**Frequency-Based Vulnerability Analysis of Deep Learning Models against Image Corruptions**|Harshitha Machiraju et.al.|[2306.07178v1](http://arxiv.org/abs/2306.07178v1)|null|
+|**2023-06-12**|**Frequency-Based Vulnerability Analysis of Deep Learning Models against Image Corruptions**|Harshitha Machiraju et.al.|[2306.07178v1](http://arxiv.org/abs/2306.07178v1)|**[link](https://github.com/code-assasin/mufiacode)**|
 |**2023-06-12**|**Isolating the enhanced memory of a glassy system**|Travis R. Jalowiec et.al.|[2306.07177v1](http://arxiv.org/abs/2306.07177v1)|null|
 |**2023-06-12**|**Explainable AI and Machine Learning Towards Human Gait Deterioration Analysis**|Abdullah Alharthi et.al.|[2306.07165v1](http://arxiv.org/abs/2306.07165v1)|null|
 |**2023-06-12**|**Riemannian Laplace approximations for Bayesian neural networks**|Federico Bergamin et.al.|[2306.07158v1](http://arxiv.org/abs/2306.07158v1)|null|
@@ -6371,6 +6425,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Range Limited Coverage Control using Air-Ground Multi-Robot Teams**|Max Rudolph et.al.|[2306.07385v1](http://arxiv.org/abs/2306.07385v1)|null|
 |**2023-06-05**|**A new finite element method for elliptic optimal control problems with pointwise state constraints in energy spaces**|Wei Gong et.al.|[2306.03246v1](http://arxiv.org/abs/2306.03246v1)|null|
 |**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235v1](http://arxiv.org/abs/2305.19235v1)|null|
 |**2023-06-05**|**Centralised rehearsal of decentralised cooperation: Multi-agent reinforcement learning for the scalable coordination of residential energy flexibility**|Flora Charbonnier et.al.|[2305.18875v2](http://arxiv.org/abs/2305.18875v2)|null|
