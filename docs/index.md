@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -31,7 +31,7 @@ layout: default
 |**2023-06-11**|**Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications**|Jiangwei Wang et.al.|[2306.06808v1](http://arxiv.org/abs/2306.06808v1)|null|
 |**2023-06-11**|**Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization**|Thomas Fel et.al.|[2306.06805v1](http://arxiv.org/abs/2306.06805v1)|null|
 |**2023-06-11**|**On the Efficacy of 3D Point Cloud Reinforcement Learning**|Zhan Ling et.al.|[2306.06799v1](http://arxiv.org/abs/2306.06799v1)|**[link](https://github.com/lz1oceani/pointcloud_rl)**|
-|**2023-06-11**|**Improving the Validitity of Decision Trees as Explanations**|Jiri Nemecek et.al.|[2306.06777v1](http://arxiv.org/abs/2306.06777v1)|null|
+|**2023-06-13**|**Improving the Validity of Decision Trees as Explanations**|Jiri Nemecek et.al.|[2306.06777v2](http://arxiv.org/abs/2306.06777v2)|null|
 |**2023-06-11**|**Generalizable Wireless Navigation through Physics-Informed Reinforcement Learning in Wireless Digital Twin**|Mingsheng Yin et.al.|[2306.06766v1](http://arxiv.org/abs/2306.06766v1)|null|
 |**2023-06-11**|**Estimating the Uncertainty in Emotion Attributes using Deep Evidential Regression**|Wen Wu et.al.|[2306.06760v1](http://arxiv.org/abs/2306.06760v1)|**[link](https://github.com/w-wu/deer)**|
 |**2023-06-11**|**Reinforcement Learning in Robotic Motion Planning by Combined Experience-based Planning and Self-Imitation Learning**|Sha Luo et.al.|[2306.06754v1](http://arxiv.org/abs/2306.06754v1)|null|
@@ -2357,7 +2357,7 @@ layout: default
 |**2023-06-04**|**Efficient Approximation Algorithms for Scheduling Coflows with Total Weighted Completion Time in Identical Parallel Networks**|Chi-Yeh Chen et.al.|[2306.02293v1](http://arxiv.org/abs/2306.02293v1)|null|
 |**2023-06-03**|**Enhancing Quantum Annealing in Digital-Analog Quantum Computing**|Tadashi Kadowaki et.al.|[2306.02059v1](http://arxiv.org/abs/2306.02059v1)|null|
 |**2023-06-02**|**Fast $(1+\varepsilon)$ -Approximation Algorithms for Binary Matrix Factorization**|Ameya Velingker et.al.|[2306.01869v1](http://arxiv.org/abs/2306.01869v1)|null|
-|**2023-06-02**|**A survey of approximation algorithms for capacitated vehicle routing problems**|Yongyu Chen et.al.|[2306.01826v1](http://arxiv.org/abs/2306.01826v1)|null|
+|**2023-06-13**|**A survey of approximation algorithms for capacitated vehicle routing problems**|Yongyu Chen et.al.|[2306.01826v2](http://arxiv.org/abs/2306.01826v2)|null|
 |**2023-06-02**|**FPIM: Field-Programmable Ising Machines for Solving SAT**|Thomas Jagielski et.al.|[2306.01569v1](http://arxiv.org/abs/2306.01569v1)|null|
 |**2023-06-02**|**Socially Aware Coalition Formation with Bounded Coalition Size**|Chaya Levinger et.al.|[2306.01378v1](http://arxiv.org/abs/2306.01378v1)|null|
 |**2023-06-02**|**The Maximum Matrix Contraction Problem**|Dimitri Watel et.al.|[2306.01349v1](http://arxiv.org/abs/2306.01349v1)|null|
@@ -2632,7 +2632,7 @@ layout: default
 |**2023-06-12**|**Coupled Attention Networks for Multivariate Time Series Anomaly Detection**|Feng Xia et.al.|[2306.07114v1](http://arxiv.org/abs/2306.07114v1)|**[link](https://github.com/ML4ITS/mtad-gat-pytorch)**|
 |**2023-06-12**|**Unveiling the Hessian's Connection to the Decision Boundary**|Mahalakshmi Sabanayagam et.al.|[2306.07104v1](http://arxiv.org/abs/2306.07104v1)|**[link](https://github.com/shmoo137/hessian-and-decision-boundary)**|
 |**2023-06-12**|**Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**|Ziqiao Weng et.al.|[2306.07089v1](http://arxiv.org/abs/2306.07089v1)|null|
-|**2023-06-12**|**Using a neural network approach to accelerate disequilibrium chemistry calculations in exoplanet atmospheres**|Julius L. A. M. Hendrix et.al.|[2306.07074v1](http://arxiv.org/abs/2306.07074v1)|null|
+|**2023-06-12**|**Using a neural network approach to accelerate disequilibrium chemistry calculations in exoplanet atmospheres**|Julius L. A. M. Hendrix et.al.|[2306.07074v1](http://arxiv.org/abs/2306.07074v1)|**[link](https://github.com/juliushendrix/mrp)**|
 |**2023-06-12**|**Locally adaptive cellular automata for goal-oriented self-organization**|Sina Khajehabdollahi et.al.|[2306.07067v1](http://arxiv.org/abs/2306.07067v1)|null|
 |**2023-06-12**|**Resource Efficient Neural Networks Using Hessian Based Pruning**|Jack Chong et.al.|[2306.07030v1](http://arxiv.org/abs/2306.07030v1)|null|
 |**2023-06-12**|**Theoretical model for the extreme positive magnetoresistance**|George Kastrinakis et.al.|[2306.07020v1](http://arxiv.org/abs/2306.07020v1)|null|
@@ -2661,8 +2661,8 @@ layout: default
 |**2023-06-11**|**On the Efficacy of 3D Point Cloud Reinforcement Learning**|Zhan Ling et.al.|[2306.06799v1](http://arxiv.org/abs/2306.06799v1)|**[link](https://github.com/lz1oceani/pointcloud_rl)**|
 |**2023-06-11**|**Kepler: Robust Learning for Faster Parametric Query Optimization**|Lyric Doshi et.al.|[2306.06798v1](http://arxiv.org/abs/2306.06798v1)|null|
 |**2023-06-11**|**A Neural Network Implementation for Free Energy Principle**|Jingwei Liu et.al.|[2306.06792v1](http://arxiv.org/abs/2306.06792v1)|null|
-|**2023-06-11**|**Graph Mixup with Soft Alignments**|Hongyi Ling et.al.|[2306.06788v1](http://arxiv.org/abs/2306.06788v1)|null|
-|**2023-06-11**|**Improving the Validitity of Decision Trees as Explanations**|Jiri Nemecek et.al.|[2306.06777v1](http://arxiv.org/abs/2306.06777v1)|null|
+|**2023-06-11**|**Graph Mixup with Soft Alignments**|Hongyi Ling et.al.|[2306.06788v1](http://arxiv.org/abs/2306.06788v1)|**[link](https://github.com/divelab/DIG)**|
+|**2023-06-13**|**Improving the Validity of Decision Trees as Explanations**|Jiri Nemecek et.al.|[2306.06777v2](http://arxiv.org/abs/2306.06777v2)|null|
 |**2023-06-09**|**Error Feedback Can Accurately Compress Preconditioners**|Ionut-Vlad Modoranu et.al.|[2306.06098v1](http://arxiv.org/abs/2306.06098v1)|**[link](https://github.com/ist-daslab/efcp)**|
 |**2023-06-09**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v1](http://arxiv.org/abs/2306.06041v1)|**[link](https://github.com/dadacheng/dygr)**|
 |**2023-06-09**|**Reconstructing Human Expressiveness in Piano Performances with a Transformer Network**|Jingjing Tang et.al.|[2306.06040v1](http://arxiv.org/abs/2306.06040v1)|null|
