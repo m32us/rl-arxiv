@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-13**|**Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control**|Longtao Zheng et.al.|[2306.07863v1](http://arxiv.org/abs/2306.07863v1)|**[link](https://github.com/ltzheng/synapse)**|
-|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
+|**2023-06-15**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v2](http://arxiv.org/abs/2306.07835v2)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
 |**2023-06-13**|**A Primal-Dual-Critic Algorithm for Offline Constrained Reinforcement Learning**|Kihyuk Hong et.al.|[2306.07818v1](http://arxiv.org/abs/2306.07818v1)|null|
 |**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
 |**2023-06-13**|**Provably Learning Nash Policies in Constrained Markov Potential Games**|Pragnya Alatur et.al.|[2306.07749v1](http://arxiv.org/abs/2306.07749v1)|null|
@@ -26,11 +26,11 @@ layout: default
 |**2023-06-13**|**Using Collision Momentum in Deep Reinforcement Learning Based Adversarial Pedestrian Modeling**|Dianwei Chen et.al.|[2306.07525v1](http://arxiv.org/abs/2306.07525v1)|null|
 |**2023-06-12**|**A Black-box Approach for Non-stationary Multi-agent Reinforcement Learning**|Haozhe Jiang et.al.|[2306.07465v1](http://arxiv.org/abs/2306.07465v1)|null|
 |**2023-06-12**|**Adaptive interventions for both accuracy and time in AI-assisted human decision making**|Siddharth Swaroop et.al.|[2306.07458v1](http://arxiv.org/abs/2306.07458v1)|null|
-|**2023-06-12**|**DeepTransition: Viability Leads to the Emergence of Gait Transitions in Learning Anticipatory Quadrupedal Locomotion Skills**|Milad Shafiee et.al.|[2306.07419v1](http://arxiv.org/abs/2306.07419v1)|null|
+|**2023-06-14**|**DeepTransition: Viability Leads to the Emergence of Gait Transitions in Learning Anticipatory Quadrupedal Locomotion Skills**|Milad Shafiee et.al.|[2306.07419v2](http://arxiv.org/abs/2306.07419v2)|null|
 |**2023-06-12**|**Robust Reinforcement Learning through Efficient Adversarial Herding**|Juncheng Dong et.al.|[2306.07408v1](http://arxiv.org/abs/2306.07408v1)|null|
 |**2023-06-12**|**Adversarial Attacks on the Interpretation of Neuron Activation Maximization**|Geraldin Nanfack et.al.|[2306.07397v1](http://arxiv.org/abs/2306.07397v1)|null|
 |**2023-06-12**|**Composing Efficient, Robust Tests for Policy Selection**|Dustin Morrill et.al.|[2306.07372v1](http://arxiv.org/abs/2306.07372v1)|null|
-|**2023-06-12**|**Self-Supervised Hyperspectral Inpainting with the Optimisation inspired Deep Neural Network Prior**|Shuo Li et.al.|[2306.07308v1](http://arxiv.org/abs/2306.07308v1)|null|
+|**2023-06-14**|**Self-Supervised Hyperspectral Inpainting with the Optimisation inspired Deep Neural Network Prior**|Shuo Li et.al.|[2306.07308v2](http://arxiv.org/abs/2306.07308v2)|null|
 |**2023-06-12**|**Online Prototype Alignment for Few-shot Policy Transfer**|Qi Yi et.al.|[2306.07307v1](http://arxiv.org/abs/2306.07307v1)|**[link](https://github.com/albertcity/opa)**|
 |**2023-06-11**|**A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**|Saidul Islam et.al.|[2306.07303v1](http://arxiv.org/abs/2306.07303v1)|null|
 |**2023-06-12**|**Backpressure control with predicted imminent saturation flow rate for urban networks**|Dianchao Lin et.al.|[2306.07263v1](http://arxiv.org/abs/2306.07263v1)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2023-06-12**|**Diverse Projection Ensembles for Distributional Reinforcement Learning**|Moritz A. Zanger et.al.|[2306.07124v1](http://arxiv.org/abs/2306.07124v1)|null|
 |**2023-06-12**|**Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning**|Haozhe Wang et.al.|[2306.07106v1](http://arxiv.org/abs/2306.07106v1)|**[link](https://github.com/haozhejasper/mirocl)**|
 |**2023-06-12**|**Combining Reinforcement Learning and Barrier Functions for Adaptive Risk Management in Portfolio Optimization**|Zhenglong Li et.al.|[2306.07013v1](http://arxiv.org/abs/2306.07013v1)|null|
-|**2023-06-12**|**High-speed Autonomous Racing using Trajectory-aided Deep Reinforcement Learning**|Benjamin David Evans et.al.|[2306.07003v1](http://arxiv.org/abs/2306.07003v1)|null|
+|**2023-06-12**|**High-speed Autonomous Racing using Trajectory-aided Deep Reinforcement Learning**|Benjamin David Evans et.al.|[2306.07003v1](http://arxiv.org/abs/2306.07003v1)|**[link](https://github.com/bdevan5/trajectoryaidedlearning)**|
 |**2023-06-12**|**Cancellation-Free Regret Bounds for Lagrangian Approaches in Constrained Markov Decision Processes**|Adrian Müller et.al.|[2306.07001v1](http://arxiv.org/abs/2306.07001v1)|null|
 |**2023-06-12**|**Feature Fusion from Head to Tail: an Extreme Augmenting Strategy for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2306.06963v1](http://arxiv.org/abs/2306.06963v1)|null|
 |**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955v1](http://arxiv.org/abs/2306.06955v1)|null|
@@ -2354,10 +2354,10 @@ layout: default
 |**2023-06-11**|**Hybrid Optimization Method Using Simulated-Annealing-Based Ising Machine and Quantum Annealer**|Shuta Kikuchi et.al.|[2306.06589v1](http://arxiv.org/abs/2306.06589v1)|null|
 |**2023-06-11**|**Bayesian Calibrated Click-Through Auction**|Junjie Chen et.al.|[2306.06554v1](http://arxiv.org/abs/2306.06554v1)|null|
 |**2023-06-10**|**D2Match: Leveraging Deep Learning and Degeneracy for Subgraph Matching**|Xuanzhou Liu et.al.|[2306.06380v1](http://arxiv.org/abs/2306.06380v1)|**[link](https://github.com/xuanzhouliu/d2match-icml23)**|
-|**2023-06-09**|**TreeDQN: Learning to minimize Branch-and-Bound tree**|Dmitry Sorokin et.al.|[2306.05905v1](http://arxiv.org/abs/2306.05905v1)|null|
+|**2023-06-09**|**TreeDQN: Learning to minimize Branch-and-Bound tree**|Dmitry Sorokin et.al.|[2306.05905v1](http://arxiv.org/abs/2306.05905v1)|**[link](https://github.com/dmitrysorokin/treedqn)**|
 |**2023-06-09**|**An End-to-End Reinforcement Learning Approach for Job-Shop Scheduling Problems Based on Constraint Programming**|Pierre Tassel et.al.|[2306.05747v1](http://arxiv.org/abs/2306.05747v1)|**[link](https://github.com/ingambe/End2End-Job-Shop-Scheduling-CP)**|
 |**2023-06-09**|**Functional Central Limit Theorem for Two Timescale Stochastic Approximation**|Fathima Zarin Faizal et.al.|[2306.05723v1](http://arxiv.org/abs/2306.05723v1)|null|
-|**2023-06-08**|**An Improved Algorithm for Finding Maximum Outerplanar Subgraphs**|Gruia Calinescu et.al.|[2306.05588v1](http://arxiv.org/abs/2306.05588v1)|null|
+|**2023-06-14**|**An Improved Algorithm for Finding Maximum Outerplanar Subgraphs**|Gruia Calinescu et.al.|[2306.05588v2](http://arxiv.org/abs/2306.05588v2)|null|
 |**2023-06-08**|**Minimizing Energy Consumption in MU-MIMO via Antenna Muting by Neural Networks with Asymmetric Loss**|Nuwanthika Rajapaksha et.al.|[2306.05162v1](http://arxiv.org/abs/2306.05162v1)|null|
 |**2023-06-08**|**Faster Approximation Algorithms for Parameterized Graph Clustering and Edge Labeling**|Vedangi Bengali et.al.|[2306.04884v1](http://arxiv.org/abs/2306.04884v1)|**[link](https://github.com/vedangi/fastlamcc)**|
 |**2023-06-07**|**Deep Learning for Population-Dependent Controls in Mean Field Control Problems**|Gokce Dayanikli et.al.|[2306.04788v1](http://arxiv.org/abs/2306.04788v1)|null|
@@ -2638,17 +2638,17 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845v1](http://arxiv.org/abs/2306.07845v1)|null|
-|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
+|**2023-06-15**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v2](http://arxiv.org/abs/2306.07835v2)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
 |**2023-06-13**|**Finite Gaussian Neurons: Defending against adversarial attacks by making neural networks say "I don't know"**|Felix Grezes et.al.|[2306.07796v1](http://arxiv.org/abs/2306.07796v1)|**[link](https://github.com/grezesf/fgn---research)**|
 |**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
 |**2023-06-13**|**The effect of screening on the relaxation dynamics in the Coulomb glass**|Preeti Bhandari et.al.|[2306.07771v1](http://arxiv.org/abs/2306.07771v1)|null|
 |**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
 |**2023-06-13**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
-|**2023-06-13**|**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**|Valentin Bieri et.al.|[2306.07730v1](http://arxiv.org/abs/2306.07730v1)|null|
+|**2023-06-14**|**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**|Valentin Bieri et.al.|[2306.07730v2](http://arxiv.org/abs/2306.07730v2)|null|
 |**2023-06-13**|**Amplitude-assisted tagging of longitudinally polarised bosons using wide neural networks**|Michele Grossi et.al.|[2306.07726v1](http://arxiv.org/abs/2306.07726v1)|null|
 |**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v1](http://arxiv.org/abs/2306.07712v1)|null|
 |**2023-06-13**|**Variational Positive-incentive Noise: How Noise Benefits Models**|Hongyuan Zhang et.al.|[2306.07651v1](http://arxiv.org/abs/2306.07651v1)|null|
-|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v1](http://arxiv.org/abs/2306.07618v1)|null|
+|**2023-06-15**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v2](http://arxiv.org/abs/2306.07618v2)|null|
 |**2023-06-13**|**Ionic logic with highly asymmetric nanofluidic memristive switches**|Theo Emmerich et.al.|[2306.07617v1](http://arxiv.org/abs/2306.07617v1)|null|
 |**2023-06-13**|**Volcano transition in populations of phase oscillators with random nonreciprocal interactions**|Diego Pazó et.al.|[2306.07609v1](http://arxiv.org/abs/2306.07609v1)|null|
 |**2023-06-13**|**Intrusion Detection: A Deep Learning Approach**|Ishaan Shivhare et.al.|[2306.07601v1](http://arxiv.org/abs/2306.07601v1)|null|
@@ -2659,14 +2659,14 @@ layout: default
 |**2023-06-13**|**Reviving Shift Equivariance in Vision Transformers**|Peijian Ding et.al.|[2306.07470v1](http://arxiv.org/abs/2306.07470v1)|null|
 |**2023-06-12**|**Getting the Most from Eye-Tracking: User-Interaction Based Reading Region Estimation Dataset and Models**|Ruoyan Kong et.al.|[2306.07455v1](http://arxiv.org/abs/2306.07455v1)|**[link](https://github.com/ruoyankong/reading_region_prediction_dataset)**|
 |**2023-06-12**|**Least-Squares Neural Network (LSNN) Method For Linear Advection-Reaction Equation: Non-constant Jumps**|Zhiqiang Cai et.al.|[2306.07445v1](http://arxiv.org/abs/2306.07445v1)|null|
-|**2023-06-12**|**Neural Embeddings for Web Testing**|Andrea Stocco et.al.|[2306.07400v1](http://arxiv.org/abs/2306.07400v1)|null|
+|**2023-06-12**|**Neural Embeddings for Web Testing**|Andrea Stocco et.al.|[2306.07400v1](http://arxiv.org/abs/2306.07400v1)|**[link](https://github.com/tsigalko18/webembed-replication-package)**|
 |**2023-06-12**|**Adversarial Attacks on the Interpretation of Neuron Activation Maximization**|Geraldin Nanfack et.al.|[2306.07397v1](http://arxiv.org/abs/2306.07397v1)|null|
 |**2023-06-12**|**Supervised Deep Learning for Content-Aware Image Retargeting with Fourier Convolutions**|MohammadHossein Givkashi et.al.|[2306.07383v1](http://arxiv.org/abs/2306.07383v1)|null|
 |**2023-06-12**|**Intelligent Multi-channel Meta-imagers for Accelerating Machine Vision**|Hanyu Zheng et.al.|[2306.07365v1](http://arxiv.org/abs/2306.07365v1)|null|
-|**2023-06-12**|**Conformal invariance and multifractality at Anderson transitions in arbitrary dimensions**|Jaychandran Padayasi et.al.|[2306.07340v1](http://arxiv.org/abs/2306.07340v1)|null|
+|**2023-06-12**|**Conformal invariance and multifractality at Anderson transitions in arbitrary dimensions**|Jaychandran Padayasi et.al.|[2306.07340v1](http://arxiv.org/abs/2306.07340v1)|**[link](https://github.com/jaychandran-padayasi/coulomb-gas-expansion)**|
 |**2023-06-12**|**Exact Solution for the Transverse Field Sherrington-Kirkpatrick Spin Glass Model with Continuous-Time Quantum Monte Carlo Method**|Annamária Kiss et.al.|[2306.07337v1](http://arxiv.org/abs/2306.07337v1)|null|
 |**2023-06-12**|**Splitting and Parallelizing of Quantum Convolutional Neural Networks for Learning Translationally Symmetric Data**|Koki Chinzei et.al.|[2306.07331v1](http://arxiv.org/abs/2306.07331v1)|null|
-|**2023-06-12**|**Self-Supervised Hyperspectral Inpainting with the Optimisation inspired Deep Neural Network Prior**|Shuo Li et.al.|[2306.07308v1](http://arxiv.org/abs/2306.07308v1)|null|
+|**2023-06-14**|**Self-Supervised Hyperspectral Inpainting with the Optimisation inspired Deep Neural Network Prior**|Shuo Li et.al.|[2306.07308v2](http://arxiv.org/abs/2306.07308v2)|null|
 |**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
 |**2023-06-12**|**Backpressure control with predicted imminent saturation flow rate for urban networks**|Dianchao Lin et.al.|[2306.07263v1](http://arxiv.org/abs/2306.07263v1)|null|
 |**2023-06-12**|**Reliable machine learning potentials based on artificial neural network for graphene**|Akash Singh et.al.|[2306.07246v1](http://arxiv.org/abs/2306.07246v1)|null|
