@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -18,7 +18,7 @@ layout: default
 |**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925v1](http://arxiv.org/abs/2306.09925v1)|null|
 |**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884v1](http://arxiv.org/abs/2306.09884v1)|**[link](https://github.com/instadeepai/jumanji)**|
 |**2023-06-16**|**Actor-Critic Model Predictive Control**|Angel Romero et.al.|[2306.09852v1](http://arxiv.org/abs/2306.09852v1)|null|
-|**2023-06-16**|**Wasserstein distributional robustness of neural networks**|Xingjian Bai et.al.|[2306.09844v1](http://arxiv.org/abs/2306.09844v1)|null|
+|**2023-06-16**|**Wasserstein distributional robustness of neural networks**|Xingjian Bai et.al.|[2306.09844v1](http://arxiv.org/abs/2306.09844v1)|**[link](https://github.com/janobloj/w-dro-adversarial-methods)**|
 |**2023-06-16**|**Super-Resolution Radar Imaging with Sparse Arrays Using a Deep Neural Network Trained with Enhanced Virtual Data**|Christian Schuessler et.al.|[2306.09839v1](http://arxiv.org/abs/2306.09839v1)|**[link](https://github.com/christianschuessler/sparse-array-radar-imaging)**|
 |**2023-06-16**|**Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition**|Ashish Jha et.al.|[2306.09822v1](http://arxiv.org/abs/2306.09822v1)|**[link](https://github.com/ashishjv1/LW-ALM)**|
 |**2023-06-16**|**Sample-Efficient On-Policy Imitation Learning from Observations**|João A. Cândido Ramos et.al.|[2306.09805v1](http://arxiv.org/abs/2306.09805v1)|null|
@@ -2433,7 +2433,7 @@ layout: default
 |**2023-06-16**|**Efficient Coflow Scheduling in Hybrid-Switched Data Center Networks**|Xin Wang et.al.|[2306.09713v1](http://arxiv.org/abs/2306.09713v1)|null|
 |**2023-06-15**|**A Review on Quantum Approximate Optimization Algorithm and its Variants**|Kostas Blekos et.al.|[2306.09198v1](http://arxiv.org/abs/2306.09198v1)|null|
 |**2023-06-15**|**Algorithmic Cluster Expansions for Quantum Problems**|Ryan L. Mann et.al.|[2306.08974v1](http://arxiv.org/abs/2306.08974v1)|null|
-|**2023-06-14**|**Parallel Algorithms for Hierarchical Nucleus Decomposition**|Jessica Shi et.al.|[2306.08623v1](http://arxiv.org/abs/2306.08623v1)|null|
+|**2023-06-14**|**Parallel Algorithms for Hierarchical Nucleus Decomposition**|Jessica Shi et.al.|[2306.08623v1](http://arxiv.org/abs/2306.08623v1)|**[link](https://github.com/jeshi96/arb-nucleus-hierarchy)**|
 |**2023-06-14**|**Recoverable Robust Optimization with Commitment**|Felix Hommelsheim et.al.|[2306.08546v1](http://arxiv.org/abs/2306.08546v1)|null|
 |**2023-06-12**|**General Transformation for Consistent Online Approximation Algorithms**|Jing Dong et.al.|[2306.07163v1](http://arxiv.org/abs/2306.07163v1)|null|
 |**2023-06-12**|**More efficient parameter initialization strategy in QAOA for Maxcut**|Xiao-Hui Ni et.al.|[2306.06986v1](http://arxiv.org/abs/2306.06986v1)|null|
@@ -2455,7 +2455,7 @@ layout: default
 |**2023-06-06**|**Tensor network algorithm for simulating experimental Gaussian boson sampling**|Changhun Oh et.al.|[2306.03709v1](http://arxiv.org/abs/2306.03709v1)|null|
 |**2023-06-06**|**Efficient Centrality Maximization with Rademacher Averages**|Leonardo Pellegrina et.al.|[2306.03651v1](http://arxiv.org/abs/2306.03651v1)|**[link](https://github.com/leonardopellegrina/centra)**|
 |**2023-06-06**|**From coordinate subspaces over finite fields to ideal multipartite uniform clutters**|Ahmad Abdi et.al.|[2306.03613v1](http://arxiv.org/abs/2306.03613v1)|null|
-|**2023-06-06**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v1](http://arxiv.org/abs/2306.03571v1)|null|
+|**2023-06-16**|**Minimizing Hitting Time between Disparate Groups with Shortcut Edges**|Florian Adriaens et.al.|[2306.03571v2](http://arxiv.org/abs/2306.03571v2)|null|
 |**2023-06-06**|**Learning-Based Heuristic for Combinatorial Optimization of the Minimum Dominating Set Problem using Graph Convolutional Networks**|Abihith Kothapalli et.al.|[2306.03434v1](http://arxiv.org/abs/2306.03434v1)|**[link](https://github.com/abi-kothapalli/minimumdominatingsets)**|
 |**2023-06-05**|**High-Round QAOA for MAX $k$ -SAT on Trapped Ion NISQ Devices**|Elijah Pelofske et.al.|[2306.03238v1](http://arxiv.org/abs/2306.03238v1)|null|
 |**2023-06-05**|**Explicit feedback synthesis driven by quasi-interpolation for nonlinear robust model predictive control**|Siddhartha Ganguly et.al.|[2306.03027v1](http://arxiv.org/abs/2306.03027v1)|null|
@@ -2726,7 +2726,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**SLACK: Stable Learning of Augmentations with Cold-start and KL regularization**|Juliette Marrie et.al.|[2306.09998v1](http://arxiv.org/abs/2306.09998v1)|null|
-|**2023-06-16**|**Transforming Observations of Ocean Temperature with a Deep Convolutional Residual Regressive Neural Network**|Albert Larson et.al.|[2306.09987v1](http://arxiv.org/abs/2306.09987v1)|null|
+|**2023-06-16**|**Transforming Observations of Ocean Temperature with a Deep Convolutional Residual Regressive Neural Network**|Albert Larson et.al.|[2306.09987v1](http://arxiv.org/abs/2306.09987v1)|**[link](https://github.com/albertlarson/f2f_sst)**|
 |**2023-06-16**|**Variational quantum algorithms for machine learning: theory and applications**|Stefano Mangini et.al.|[2306.09984v1](http://arxiv.org/abs/2306.09984v1)|null|
 |**2023-06-16**|**Enhancing Fault Resilience of QNNs by Selective Neuron Splitting**|Mohammad Hasan Ahmadilivani et.al.|[2306.09973v1](http://arxiv.org/abs/2306.09973v1)|null|
 |**2023-06-16**|**Knowledge Distillation for Efficient Audio-Visual Video Captioning**|Özkan Çaylı et.al.|[2306.09947v1](http://arxiv.org/abs/2306.09947v1)|null|
@@ -2734,14 +2734,14 @@ layout: default
 |**2023-06-16**|**Sparq: A Custom RISC-V Vector Processor for Efficient Sub-Byte Quantized Inference**|Théo Dupuis et.al.|[2306.09905v1](http://arxiv.org/abs/2306.09905v1)|null|
 |**2023-06-16**|**Density and current statistics in boundary-driven monitored fermionic chains**|Xhek Turkeshi et.al.|[2306.09893v1](http://arxiv.org/abs/2306.09893v1)|null|
 |**2023-06-16**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882v1](http://arxiv.org/abs/2306.09882v1)|**[link](https://github.com/sttdanonymous/sttd)**|
-|**2023-06-16**|**Development of the Topological Trigger for LHCb Run 3**|Nicole Schulte et.al.|[2306.09873v1](http://arxiv.org/abs/2306.09873v1)|null|
+|**2023-06-20**|**Development of the Topological Trigger for LHCb Run 3**|Nicole Schulte et.al.|[2306.09873v2](http://arxiv.org/abs/2306.09873v2)|null|
 |**2023-06-16**|**Advanced discretization techniques for hyperelastic physics-augmented neural networks**|Marlon Franke et.al.|[2306.09866v1](http://arxiv.org/abs/2306.09866v1)|null|
 |**2023-06-16**|**Transferability of Winning Lottery Tickets in Neural Network Differential Equation Solvers**|Edward Prideaux-Ghee et.al.|[2306.09863v1](http://arxiv.org/abs/2306.09863v1)|null|
-|**2023-06-16**|**Wasserstein distributional robustness of neural networks**|Xingjian Bai et.al.|[2306.09844v1](http://arxiv.org/abs/2306.09844v1)|null|
+|**2023-06-16**|**Wasserstein distributional robustness of neural networks**|Xingjian Bai et.al.|[2306.09844v1](http://arxiv.org/abs/2306.09844v1)|**[link](https://github.com/janobloj/w-dro-adversarial-methods)**|
 |**2023-06-16**|**Super-Resolution Radar Imaging with Sparse Arrays Using a Deep Neural Network Trained with Enhanced Virtual Data**|Christian Schuessler et.al.|[2306.09839v1](http://arxiv.org/abs/2306.09839v1)|**[link](https://github.com/christianschuessler/sparse-array-radar-imaging)**|
 |**2023-06-16**|**Building Blocks for a Complex-Valued Transformer Architecture**|Florian Eilers et.al.|[2306.09827v1](http://arxiv.org/abs/2306.09827v1)|null|
 |**2023-06-16**|**Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition**|Ashish Jha et.al.|[2306.09822v1](http://arxiv.org/abs/2306.09822v1)|**[link](https://github.com/ashishjv1/LW-ALM)**|
-|**2023-06-16**|**GPINN: Physics-informed Neural Network with Graph Embedding**|Yuyang Miao et.al.|[2306.09792v1](http://arxiv.org/abs/2306.09792v1)|null|
+|**2023-06-16**|**GPINN: Physics-informed Neural Network with Graph Embedding**|Yuyang Miao et.al.|[2306.09792v1](http://arxiv.org/abs/2306.09792v1)|**[link](https://github.com/hl4220/physics-informed-neural-network-with-graph-embedding)**|
 |**2023-06-16**|**Simulation Example of a Black Noise**|Takafumi Amaba et.al.|[2306.09771v1](http://arxiv.org/abs/2306.09771v1)|null|
 |**2023-06-16**|**Spontaneous noise of birefringence in rare-earth doped glasses**|V. O. Kozlov et.al.|[2306.09761v1](http://arxiv.org/abs/2306.09761v1)|null|
 |**2023-06-16**|**Fast $b$ -tagging at the high-level trigger of the ATLAS experiment in LHC Run 3**|ATLAS Collaboration et.al.|[2306.09738v1](http://arxiv.org/abs/2306.09738v1)|null|
@@ -2749,11 +2749,11 @@ layout: default
 |**2023-06-16**|**Label-noise-tolerant medical image classification via self-attention and self-supervised learning**|Hongyang Jiang et.al.|[2306.09718v1](http://arxiv.org/abs/2306.09718v1)|null|
 |**2023-06-16**|**Representation and decomposition of functions in DAG-DNNs and structural network pruning**|Wen-Liang Hwang et.al.|[2306.09707v1](http://arxiv.org/abs/2306.09707v1)|null|
 |**2023-06-16**|**Echocardiography Segmentation Using Neural ODE-based Diffeomorphic Registration Field**|Phi Nguyen Van et.al.|[2306.09687v1](http://arxiv.org/abs/2306.09687v1)|null|
-|**2023-06-16**|**Collapsed Inference for Bayesian Deep Learning**|Zhe Zeng et.al.|[2306.09686v1](http://arxiv.org/abs/2306.09686v1)|null|
+|**2023-06-16**|**Collapsed Inference for Bayesian Deep Learning**|Zhe Zeng et.al.|[2306.09686v1](http://arxiv.org/abs/2306.09686v1)|**[link](https://github.com/ucla-starai/ciber)**|
 |**2023-06-16**|**Learning CO $_2$ plume migration in faulted reservoirs with Graph Neural Networks**|Xin Ju et.al.|[2306.09648v1](http://arxiv.org/abs/2306.09648v1)|null|
 |**2023-06-16**|**Vacant Holes for Unsupervised Detection of the Outliers in Compact Latent Representation**|Misha Glazunov et.al.|[2306.09646v1](http://arxiv.org/abs/2306.09646v1)|null|
-|**2023-06-16**|**From Hypergraph Energy Functions to Hypergraph Neural Networks**|Yuxin Wang et.al.|[2306.09623v1](http://arxiv.org/abs/2306.09623v1)|**[link](https://github.com/yxzwang/phenomnn)**|
-|**2023-06-16**|**Empirical Physics Informed Neural Networks (Emp-PINNs) for Magnetopause Tracking**|Po-Han Hou et.al.|[2306.09621v1](http://arxiv.org/abs/2306.09621v1)|null|
+|**2023-06-19**|**From Hypergraph Energy Functions to Hypergraph Neural Networks**|Yuxin Wang et.al.|[2306.09623v2](http://arxiv.org/abs/2306.09623v2)|**[link](https://github.com/yxzwang/phenomnn)**|
+|**2023-06-19**|**Regression-based Physics Informed Neural Networks (Reg-PINNs) for Magnetopause Tracking**|Po-Han Hou et.al.|[2306.09621v2](http://arxiv.org/abs/2306.09621v2)|null|
 |**2023-06-16**|**GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification**|Wen-Zhi Li et.al.|[2306.09612v1](http://arxiv.org/abs/2306.09612v1)|**[link](https://github.com/wenzhilics/graphsha)**|
 |**2023-06-15**|**Retrospective: EIE: Efficient Inference Engine on Sparse and Compressed Neural Network**|Song Han et.al.|[2306.09552v1](http://arxiv.org/abs/2306.09552v1)|null|
 |**2023-06-15**|**Cross-Modal Video to Body-joints Augmentation for Rehabilitation Exercise Quality Assessment**|Ali Abedi et.al.|[2306.09546v1](http://arxiv.org/abs/2306.09546v1)|null|
