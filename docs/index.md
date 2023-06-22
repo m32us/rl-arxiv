@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -39,12 +39,12 @@ layout: default
 |**2023-06-20**|**Eight challenges in developing theory of intelligence**|Haiping Huang et.al.|[2306.11232v1](http://arxiv.org/abs/2306.11232v1)|null|
 |**2023-06-20**|**Autonomous Driving with Deep Reinforcement Learning in CARLA Simulation**|Jumman Hossain et.al.|[2306.11217v1](http://arxiv.org/abs/2306.11217v1)|null|
 |**2023-06-20**|**The Unintended Consequences of Discount Regularization: Improving Regularization in Certainty Equivalence Reinforcement Learning**|Sarah Rathnam et.al.|[2306.11208v1](http://arxiv.org/abs/2306.11208v1)|null|
-|**2023-06-19**|**Sim-to-real transfer of active suspension control using deep reinforcement learning**|Viktor Wiberg et.al.|[2306.11171v1](http://arxiv.org/abs/2306.11171v1)|null|
+|**2023-06-21**|**Sim-to-real transfer of active suspension control using deep reinforcement learning**|Viktor Wiberg et.al.|[2306.11171v2](http://arxiv.org/abs/2306.11171v2)|null|
 |**2023-06-19**|**Few-shot Learning for Inference in Medical Imaging with Subspace Feature Representations**|Jiahui Liu et.al.|[2306.11152v1](http://arxiv.org/abs/2306.11152v1)|null|
 |**2023-06-19**|**CAMMARL: Conformal Action Modeling in Multi Agent Reinforcement Learning**|Nikunj Gupta et.al.|[2306.11128v1](http://arxiv.org/abs/2306.11128v1)|**[link](https://github.com/nikunj-gupta/conformal-agent-modelling)**|
-|**2023-06-19**|**Enhancing quantum variational state diagonalization using reinforcement learning techniques**|Akash Kundu et.al.|[2306.11086v1](http://arxiv.org/abs/2306.11086v1)|null|
+|**2023-06-19**|**Enhancing quantum variational state diagonalization using reinforcement learning techniques**|Akash Kundu et.al.|[2306.11086v1](http://arxiv.org/abs/2306.11086v1)|**[link](https://github.com/iitis/RL_for_VQSD_ansatz_optimization)**|
 |**2023-06-19**|**Adversarial Training Should Be Cast as a Non-Zero-Sum Game**|Alexander Robey et.al.|[2306.11035v1](http://arxiv.org/abs/2306.11035v1)|null|
-|**2023-06-19**|**Learning-based sound speed reconstruction and aberration correction in linear-array photoacoustic/ultrasound imaging**|Mengjie Shi et.al.|[2306.11034v1](http://arxiv.org/abs/2306.11034v1)|null|
+|**2023-06-19**|**Learning-based sound speed reconstruction and aberration correction in linear-array photoacoustic/ultrasound imaging**|Mengjie Shi et.al.|[2306.11034v1](http://arxiv.org/abs/2306.11034v1)|**[link](https://github.com/mengjieshi/learning-based-sos-correction-us-pa)**|
 |**2023-06-19**|**LARG, Language-based Automatic Reward and Goal Generation**|Julien Perez et.al.|[2306.10985v1](http://arxiv.org/abs/2306.10985v1)|null|
 |**2023-06-19**|**Static and Dynamic Jamming Games Over Wireless Channels With Mobile Strategic Players**|Giovanni Perin et.al.|[2306.10956v1](http://arxiv.org/abs/2306.10956v1)|null|
 |**2023-06-19**|**Benchmarking Robustness of Deep Reinforcement Learning approaches to Online Portfolio Management**|Marc Velay et.al.|[2306.10950v1](http://arxiv.org/abs/2306.10950v1)|null|
@@ -2812,10 +2812,10 @@ layout: default
 |**2023-06-20**|**Computing large deviation prefactors of stochastic dynamical systems based on machine learning**|Yang Li et.al.|[2306.11418v1](http://arxiv.org/abs/2306.11418v1)|null|
 |**2023-06-20**|**Hierarchical GNNs for Large Graph Generation**|Alex O. Davies et.al.|[2306.11412v1](http://arxiv.org/abs/2306.11412v1)|null|
 |**2023-06-20**|**Pipeline for recording datasets and running neural networks on the Bela embedded hardware platform**|Teresa Pelinski et.al.|[2306.11389v1](http://arxiv.org/abs/2306.11389v1)|null|
-|**2023-06-20**|**Top-down machine learning of coarse-grained protein force-fields**|Cales Navarro et.al.|[2306.11375v1](http://arxiv.org/abs/2306.11375v1)|null|
+|**2023-06-21**|**Top-down machine learning of coarse-grained protein force-fields**|Carles Navarro et.al.|[2306.11375v2](http://arxiv.org/abs/2306.11375v2)|**[link](https://github.com/compsciencelab/torchmd-exp)**|
 |**2023-06-20**|**Demonstration of Machine Learning-assisted real-time noise regression in gravitational wave detectors**|Muhammed Saleem et.al.|[2306.11366v1](http://arxiv.org/abs/2306.11366v1)|null|
 |**2023-06-20**|**A Versatility-Performance Balanced Hardware Architecture for Scene Text Detection**|Yao Xin et.al.|[2306.11351v1](http://arxiv.org/abs/2306.11351v1)|null|
-|**2023-06-20**|**MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian**|Willy Fitra Hendria et.al.|[2306.11341v1](http://arxiv.org/abs/2306.11341v1)|null|
+|**2023-06-20**|**MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian**|Willy Fitra Hendria et.al.|[2306.11341v1](http://arxiv.org/abs/2306.11341v1)|**[link](https://github.com/willyfh/msvd-indonesian)**|
 |**2023-06-20**|**FDInet: Protecting against DNN Model Extraction via Feature Distortion Index**|Hongwei Yao et.al.|[2306.11338v1](http://arxiv.org/abs/2306.11338v1)|null|
 |**2023-06-20**|**Cooperative Multi-Agent Learning for Navigation via Structured State Abstraction**|Mohamed K. Abdelaziz et.al.|[2306.11336v1](http://arxiv.org/abs/2306.11336v1)|null|
 |**2023-06-20**|**Low Latency Edge Classification GNN for Particle Trajectory Tracking on FPGAs**|Shi-Yu Huang et.al.|[2306.11330v1](http://arxiv.org/abs/2306.11330v1)|null|
