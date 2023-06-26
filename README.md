@@ -1,4 +1,4 @@
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2023-06-22**|**Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination**|I Made Aswin Nahrendra et.al.|[2306.12712v1](http://arxiv.org/abs/2306.12712v1)|null|
 |**2023-06-22**|**Slimmable Encoders for Flexible Split DNNs in Bandwidth and Resource Constrained IoT Systems**|Juliano S. Assine et.al.|[2306.12691v1](http://arxiv.org/abs/2306.12691v1)|null|
 |**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|
-|**2023-06-22**|**RobustNeuralNetworks.jl: a Package for Machine Learning and Data-Driven Control with Certified Robustness**|Nicholas H. Barbara et.al.|[2306.12612v1](http://arxiv.org/abs/2306.12612v1)|null|
+|**2023-06-22**|**RobustNeuralNetworks.jl: a Package for Machine Learning and Data-Driven Control with Certified Robustness**|Nicholas H. Barbara et.al.|[2306.12612v1](http://arxiv.org/abs/2306.12612v1)|**[link](https://github.com/acfr/RobustNeuralNetworks.jl)**|
 |**2023-06-21**|**State-wise Constrained Policy Optimization**|Weiye Zhao et.al.|[2306.12594v1](http://arxiv.org/abs/2306.12594v1)|**[link](https://github.com/intelligent-control-lab/statewise_constrained_policy_optimization)**|
 |**2023-06-21**|**Finite-time Lyapunov exponents of deep neural networks**|L. Storm et.al.|[2306.12548v1](http://arxiv.org/abs/2306.12548v1)|null|
 |**2023-06-21**|**Density Uncertainty Layers for Reliable Uncertainty Estimation**|Yookoon Park et.al.|[2306.12497v1](http://arxiv.org/abs/2306.12497v1)|null|
@@ -54,7 +54,7 @@
 |**2023-06-20**|**Efficient Dynamics Modeling in Interactive Environments with Koopman Theory**|Arnab Kumar Mondal et.al.|[2306.11941v1](http://arxiv.org/abs/2306.11941v1)|null|
 |**2023-06-20**|**No Wrong Turns: The Simple Geometry Of Neural Networks Optimization Paths**|Charles Guille-Escuret et.al.|[2306.11922v1](http://arxiv.org/abs/2306.11922v1)|**[link](https://github.com/hiroki11x/losslandscapegeometry)**|
 |**2023-06-20**|**Deep Fusion: Efficient Network Training via Pre-trained Initializations**|Hanna Mazzawi et.al.|[2306.11903v1](http://arxiv.org/abs/2306.11903v1)|null|
-|**2023-06-20**|**Reinforcement Learning-based Virtual Fixtures for Teleoperation of Hydraulic Construction Machine**|Hyung Joo Lee et.al.|[2306.11897v1](http://arxiv.org/abs/2306.11897v1)|null|
+|**2023-06-23**|**Reinforcement Learning-based Virtual Fixtures for Teleoperation of Hydraulic Construction Machine**|Hyung Joo Lee et.al.|[2306.11897v2](http://arxiv.org/abs/2306.11897v2)|null|
 |**2023-06-20**|**SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling**|Jesse Zhang et.al.|[2306.11886v1](http://arxiv.org/abs/2306.11886v1)|null|
 |**2023-06-20**|**Reward Shaping via Diffusion Process in Reinforcement Learning**|Peeyush Kumar et.al.|[2306.11885v1](http://arxiv.org/abs/2306.11885v1)|null|
 |**2023-06-20**|**Personalized Federated Learning with Feature Alignment and Classifier Collaboration**|Jian Xu et.al.|[2306.11867v1](http://arxiv.org/abs/2306.11867v1)|**[link](https://github.com/jianxu95/fedpac)**|
@@ -2529,7 +2529,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -2833,7 +2833,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## Optimization
 
@@ -2877,7 +2877,7 @@
 |**2023-06-22**|**Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification**|Cassidy K. Buhler et.al.|[2306.12639v1](http://arxiv.org/abs/2306.12639v1)|**[link](https://github.com/cassiebuhler/pods)**|
 |**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|null|
 |**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|
-|**2023-06-22**|**RobustNeuralNetworks.jl: a Package for Machine Learning and Data-Driven Control with Certified Robustness**|Nicholas H. Barbara et.al.|[2306.12612v1](http://arxiv.org/abs/2306.12612v1)|null|
+|**2023-06-22**|**RobustNeuralNetworks.jl: a Package for Machine Learning and Data-Driven Control with Certified Robustness**|Nicholas H. Barbara et.al.|[2306.12612v1](http://arxiv.org/abs/2306.12612v1)|**[link](https://github.com/acfr/RobustNeuralNetworks.jl)**|
 |**2023-06-21**|**State-wise Constrained Policy Optimization**|Weiye Zhao et.al.|[2306.12594v1](http://arxiv.org/abs/2306.12594v1)|**[link](https://github.com/intelligent-control-lab/statewise_constrained_policy_optimization)**|
 |**2023-06-21**|**Entanglement Transition and Replica Wormhole in the Dissipative Sachdev-Ye-Kitaev Model**|Hanteng Wang et.al.|[2306.12571v1](http://arxiv.org/abs/2306.12571v1)|**[link](https://github.com/cl91/reapers)**|
 |**2023-06-21**|**Finite-time Lyapunov exponents of deep neural networks**|L. Storm et.al.|[2306.12548v1](http://arxiv.org/abs/2306.12548v1)|null|
@@ -6861,7 +6861,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -6944,5 +6944,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
