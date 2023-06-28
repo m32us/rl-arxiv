@@ -9,6 +9,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v1](http://arxiv.org/abs/2306.15634v1)|**[link](https://github.com/deezer/aads_french)**|
+|**2023-06-27**|**Coupling parameter and particle dynamics for adaptive sampling in Neural Galerkin schemes**|Yuxiao Wen et.al.|[2306.15630v1](http://arxiv.org/abs/2306.15630v1)|null|
+|**2023-06-27**|**Machine-learning based noise characterization and correction on neutral atoms NISQ devices**|Ettore Canonici et.al.|[2306.15628v1](http://arxiv.org/abs/2306.15628v1)|null|
+|**2023-06-27**|**Value-aware Importance Weighting for Off-policy Reinforcement Learning**|Kristopher De Asis et.al.|[2306.15625v1](http://arxiv.org/abs/2306.15625v1)|null|
+|**2023-06-27**|**Learning Nonautonomous Systems via Dynamic Mode Decomposition**|Hannah Lu et.al.|[2306.15618v1](http://arxiv.org/abs/2306.15618v1)|null|
+|**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|null|
+|**2023-06-27**|**Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical Environments**|Raffaele Galliera et.al.|[2306.15591v1](http://arxiv.org/abs/2306.15591v1)|null|
+|**2023-06-27**|**Optimizing Credit Limit Adjustments Under Adversarial Goals Using Reinforcement Learning**|Sherly Alfonso-Sánchez et.al.|[2306.15585v1](http://arxiv.org/abs/2306.15585v1)|null|
+|**2023-06-27**|**Automated Static Warning Identification via Path-based Semantic Representation**|Yuwei Zhang et.al.|[2306.15568v1](http://arxiv.org/abs/2306.15568v1)|null|
+|**2023-06-27**|**RansomAI: AI-powered Ransomware for Stealthy Encryption**|Jan von der Assen et.al.|[2306.15559v1](http://arxiv.org/abs/2306.15559v1)|null|
+|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512v1](http://arxiv.org/abs/2306.15512v1)|null|
+|**2023-06-27**|**Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning**|Jinyi Liu et.al.|[2306.15503v1](http://arxiv.org/abs/2306.15503v1)|null|
+|**2023-06-27**|**Robust Proxy: Improving Adversarial Robustness by Robust Proxy Learning**|Hong Joo Lee et.al.|[2306.15457v1](http://arxiv.org/abs/2306.15457v1)|null|
+|**2023-06-27**|**Advancing Adversarial Training by Injecting Booster Signal**|Hong Joo Lee et.al.|[2306.15451v1](http://arxiv.org/abs/2306.15451v1)|null|
+|**2023-06-27**|**Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations**|Shi Jin et.al.|[2306.15381v1](http://arxiv.org/abs/2306.15381v1)|null|
+|**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
+|**2023-06-27**|**Homological Neural Networks: A Sparse Architecture for Multivariate Complexity**|Yuanrong Wang et.al.|[2306.15337v1](http://arxiv.org/abs/2306.15337v1)|null|
+|**2023-06-27**|**FAIRER: Fairness as Decision Rationale Alignment**|Tianlin Li et.al.|[2306.15299v1](http://arxiv.org/abs/2306.15299v1)|null|
+|**2023-06-27**|**Automatic Truss Design with Reinforcement Learning**|Weihua Du et.al.|[2306.15182v1](http://arxiv.org/abs/2306.15182v1)|**[link](https://github.com/stiglidu/autotruss)**|
+|**2023-06-27**|**Wasserstein Generative Regression**|Shanshan Song et.al.|[2306.15163v1](http://arxiv.org/abs/2306.15163v1)|null|
+|**2023-06-26**|**Improvise, Adapt, Overcome: Dynamic Resiliency Against Unknown Attack Vectors in Microgrid Cybersecurity Games**|Suman Rath et.al.|[2306.15106v1](http://arxiv.org/abs/2306.15106v1)|null|
+|**2023-06-26**|**Beyond dynamic programming**|Abhinav Muraleedharan et.al.|[2306.15029v1](http://arxiv.org/abs/2306.15029v1)|**[link](https://github.com/abhinav-muraleedharan/beyond_dynamic_programming)**|
+|**2023-06-26**|**Scaling and Resizing Symmetry in Feedforward Networks**|Carlos Cardona et.al.|[2306.15015v1](http://arxiv.org/abs/2306.15015v1)|null|
 |**2023-06-27**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v2](http://arxiv.org/abs/2306.14898v2)|null|
 |**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
 |**2023-06-26**|**Learning to Modulate pre-trained Models in RL**|Thomas Schmied et.al.|[2306.14884v1](http://arxiv.org/abs/2306.14884v1)|**[link](https://github.com/ml-jku/l2m)**|
@@ -2591,6 +2614,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Optimally Repurposing Existing Algorithms to Obtain Exponential-Time Approximations**|Barış Can Esmer et.al.|[2306.15331v1](http://arxiv.org/abs/2306.15331v1)|null|
+|**2023-06-27**|**Automatic Truss Design with Reinforcement Learning**|Weihua Du et.al.|[2306.15182v1](http://arxiv.org/abs/2306.15182v1)|**[link](https://github.com/stiglidu/autotruss)**|
+|**2023-06-27**|**Revisiting Tropical Polynomial Division: Theory, Algorithms and Application to Neural Networks**|Ioannis Kordonis et.al.|[2306.15157v1](http://arxiv.org/abs/2306.15157v1)|null|
+|**2023-06-26**|**Approximating Median Points in a Convex Polygon**|Reyhaneh Mohammadi et.al.|[2306.15097v1](http://arxiv.org/abs/2306.15097v1)|null|
 |**2023-06-26**|**Data-Driven Chance-Constrained Multiple-Choice Knapsack Problem: Model, Algorithms, and Applications**|Xuanfeng Li et.al.|[2306.14690v1](http://arxiv.org/abs/2306.14690v1)|**[link](https://github.com/eddylxf23/ddccmckp)**|
 |**2023-06-26**|**Superior Performance of Phase Binarized Oscillators (PBOs) Compared to Quantum Approximation Optimization Algorithm (QAOA) for Ising Computing (Max-Cut Problem)**|Sanyam Singhal et.al.|[2306.14528v1](http://arxiv.org/abs/2306.14528v1)|null|
 |**2023-06-27**|**Approximation algorithms for $k$ -submodular maximization subject to a knapsack constraint**|Hao Xiao et.al.|[2306.14520v2](http://arxiv.org/abs/2306.14520v2)|null|
@@ -2900,6 +2927,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Likelihood-free neural Bayes estimators for censored peaks-over-threshold models**|Jordan Richards et.al.|[2306.15642v1](http://arxiv.org/abs/2306.15642v1)|null|
+|**2023-06-27**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v1](http://arxiv.org/abs/2306.15634v1)|**[link](https://github.com/deezer/aads_french)**|
+|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|null|
+|**2023-06-27**|**Coupling parameter and particle dynamics for adaptive sampling in Neural Galerkin schemes**|Yuxiao Wen et.al.|[2306.15630v1](http://arxiv.org/abs/2306.15630v1)|null|
+|**2023-06-27**|**Learning Nonautonomous Systems via Dynamic Mode Decomposition**|Hannah Lu et.al.|[2306.15618v1](http://arxiv.org/abs/2306.15618v1)|null|
+|**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|null|
+|**2023-06-27**|**Recurrent Neural Network-coupled SPAD TCSPC System for Real-time Fluorescence Lifetime Imaging**|Yang Lin et.al.|[2306.15599v1](http://arxiv.org/abs/2306.15599v1)|null|
+|**2023-06-27**|**DrNLA: Extending Verification to Non-linear Programs through Dual Re-writing**|Yuandong Cyrus Liu et.al.|[2306.15584v1](http://arxiv.org/abs/2306.15584v1)|null|
+|**2023-06-27**|**Automated Static Warning Identification via Path-based Semantic Representation**|Yuwei Zhang et.al.|[2306.15568v1](http://arxiv.org/abs/2306.15568v1)|null|
+|**2023-06-27**|**Fast and Automatic 3D Modeling of Antenna Structure Using CNN-LSTM Network for Efficient Data Generation**|Zhaohui Wei et.al.|[2306.15530v1](http://arxiv.org/abs/2306.15530v1)|null|
+|**2023-06-27**|**Higher-order Graph Attention Network for Stock Selection with Joint Analysis**|Yang Qiao et.al.|[2306.15526v1](http://arxiv.org/abs/2306.15526v1)|null|
+|**2023-06-27**|**PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment**|Hongwu Peng et.al.|[2306.15513v1](http://arxiv.org/abs/2306.15513v1)|null|
+|**2023-06-27**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v1](http://arxiv.org/abs/2306.15489v1)|null|
+|**2023-06-27**|**Robust Proxy: Improving Adversarial Robustness by Robust Proxy Learning**|Hong Joo Lee et.al.|[2306.15457v1](http://arxiv.org/abs/2306.15457v1)|null|
+|**2023-06-27**|**Advancing Adversarial Training by Injecting Booster Signal**|Hong Joo Lee et.al.|[2306.15451v1](http://arxiv.org/abs/2306.15451v1)|null|
+|**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
+|**2023-06-27**|**Magnetic proximity in a coupled Ferromagnet-Spin glass system**|Fateme Izadi et.al.|[2306.15426v1](http://arxiv.org/abs/2306.15426v1)|null|
+|**2023-06-27**|**Verifying Safety of Neural Networks from Topological Perspectives**|Zhen Liang et.al.|[2306.15403v1](http://arxiv.org/abs/2306.15403v1)|null|
+|**2023-06-27**|**Classification of the \emph{Fermi}-LAT Blazar Candidates of Uncertain type using eXtreme Gradient Boosting**|A. Tolamatti et.al.|[2306.15393v1](http://arxiv.org/abs/2306.15393v1)|null|
+|**2023-06-27**|**DCP-NAS: Discrepant Child-Parent Neural Architecture Search for 1-bit CNNs**|Yanjing Li et.al.|[2306.15390v1](http://arxiv.org/abs/2306.15390v1)|null|
+|**2023-06-27**|**Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations**|Shi Jin et.al.|[2306.15381v1](http://arxiv.org/abs/2306.15381v1)|null|
+|**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350v1](http://arxiv.org/abs/2306.15350v1)|**[link](https://github.com/tio-ikim/cellvit)**|
+|**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
+|**2023-06-27**|**A Toolbox for Fast Interval Arithmetic in numpy with an Application to Formal Verification of Neural Network Controlled Systems**|Akash Harapanahalli et.al.|[2306.15340v1](http://arxiv.org/abs/2306.15340v1)|null|
+|**2023-06-27**|**Homological Neural Networks: A Sparse Architecture for Multivariate Complexity**|Yuanrong Wang et.al.|[2306.15337v1](http://arxiv.org/abs/2306.15337v1)|null|
+|**2023-06-27**|**FAIRER: Fairness as Decision Rationale Alignment**|Tianlin Li et.al.|[2306.15299v1](http://arxiv.org/abs/2306.15299v1)|null|
+|**2023-06-27**|**SAR ATR under Limited Training Data Via MobileNetV3**|Chenwei Wang et.al.|[2306.15287v1](http://arxiv.org/abs/2306.15287v1)|null|
+|**2023-06-27**|**Qubit dephasing by spectrally diffusing quantum two-level systems**|Shlomi Matityahu et.al.|[2306.15264v1](http://arxiv.org/abs/2306.15264v1)|null|
+|**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244v1](http://arxiv.org/abs/2306.15244v1)|null|
+|**2023-06-27**|**SPDER: Semiperiodic Damping-Enabled Object Representation**|Kathan Shah et.al.|[2306.15242v1](http://arxiv.org/abs/2306.15242v1)|null|
+|**2023-06-27**|**Cross Spectral Image Reconstruction Using a Deep Guided Neural Network**|Frank Sippel et.al.|[2306.15237v1](http://arxiv.org/abs/2306.15237v1)|null|
+|**2023-06-27**|**[Re] Double Sampling Randomized Smoothing**|Aryan Gupta et.al.|[2306.15221v1](http://arxiv.org/abs/2306.15221v1)|**[link](https://github.com/dsgiitr/re_dsrs)**|
+|**2023-06-27**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220v1](http://arxiv.org/abs/2306.15220v1)|null|
+|**2023-06-27**|**One-class systems seamlessly fit in the forward-forward algorithm**|Michael Hopwood et.al.|[2306.15188v1](http://arxiv.org/abs/2306.15188v1)|**[link](https://github.com/michaelhopwood/forwardforwardoneclass)**|
+|**2023-06-27**|**Wasserstein Generative Regression**|Shanshan Song et.al.|[2306.15163v1](http://arxiv.org/abs/2306.15163v1)|null|
+|**2023-06-27**|**Evaluation of machine learning architectures on the quantification of epistemic and aleatoric uncertainties in complex dynamical systems**|Stephen Guth et.al.|[2306.15159v1](http://arxiv.org/abs/2306.15159v1)|null|
+|**2023-06-27**|**Revisiting Tropical Polynomial Division: Theory, Algorithms and Application to Neural Networks**|Ioannis Kordonis et.al.|[2306.15157v1](http://arxiv.org/abs/2306.15157v1)|null|
+|**2023-06-27**|**Input-sensitive dense-sparse primitive compositions for GNN acceleration**|Damitha Lenadora et.al.|[2306.15155v1](http://arxiv.org/abs/2306.15155v1)|null|
+|**2023-06-27**|**Towards quantization Conway Game of Life**|Krzysztof Pomorski et.al.|[2306.15151v1](http://arxiv.org/abs/2306.15151v1)|null|
+|**2023-06-26**|**Automated Identication of Atrial Fibrillation from Single-lead ECGs Using Multi-branching ResNet**|Jianxin Xie et.al.|[2306.15096v1](http://arxiv.org/abs/2306.15096v1)|null|
+|**2023-06-26**|**C3S Micro-architectural Enhancement: Spike Encoder Block and Relaxing Gamma Clock (Asynchronous)**|Alok Anand et.al.|[2306.15093v1](http://arxiv.org/abs/2306.15093v1)|null|
+|**2023-06-26**|**Optimized Vectorizing of Building Structures with Swap: High-Efficiency Convolutional Channel-Swap Hybridization Strategy**|Moule Lin et.al.|[2306.15035v1](http://arxiv.org/abs/2306.15035v1)|null|
+|**2023-06-26**|**Asymmetry of social interactions and its role in link predictability: the case of coauthorship networks**|Kamil P. Orzechowski et.al.|[2306.15022v1](http://arxiv.org/abs/2306.15022v1)|null|
+|**2023-06-26**|**Scaling and Resizing Symmetry in Feedforward Networks**|Carlos Cardona et.al.|[2306.15015v1](http://arxiv.org/abs/2306.15015v1)|null|
+|**2023-06-26**|**One-step replica symmetry breaking in the language of tensor networks**|Nicola Pancotti et.al.|[2306.15004v1](http://arxiv.org/abs/2306.15004v1)|null|
+|**2023-06-26**|**Topological triple phase transition in non-Hermitian quasicrystals with complex asymmetric hopping**|Shaina Gandhi et.al.|[2306.14987v1](http://arxiv.org/abs/2306.14987v1)|null|
+|**2023-06-26**|**The Underlying Scaling Laws and Universal Statistical Structure of Complex Datasets**|Noam Levi et.al.|[2306.14975v1](http://arxiv.org/abs/2306.14975v1)|null|
+|**2023-06-26**|**Quantum interference of pseudospin-1 fermions**|Adesh Singh et.al.|[2306.14967v1](http://arxiv.org/abs/2306.14967v1)|null|
+|**2023-06-26**|**Renormalization Group Analysis of the Anderson Model on Random Regular Graphs**|Carlo Vanoni et.al.|[2306.14965v1](http://arxiv.org/abs/2306.14965v1)|null|
+|**2023-06-26**|**Backpropagation scaling in parameterised quantum circuits**|Joseph Bowles et.al.|[2306.14962v1](http://arxiv.org/abs/2306.14962v1)|null|
 |**2023-06-26**|**Mapping out phase diagrams with generative classifiers**|Julian Arnold et.al.|[2306.14894v1](http://arxiv.org/abs/2306.14894v1)|null|
 |**2023-06-26**|**Leveraging Task Structures for Improved Identifiability in Neural Network Representations**|Wenlin Chen et.al.|[2306.14861v1](http://arxiv.org/abs/2306.14861v1)|null|
 |**2023-06-26**|**Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories**|Zixuan Zhang et.al.|[2306.14859v1](http://arxiv.org/abs/2306.14859v1)|null|
