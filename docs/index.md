@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-27**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v1](http://arxiv.org/abs/2306.15634v1)|**[link](https://github.com/deezer/aads_french)**|
+|**2023-06-28**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v2](http://arxiv.org/abs/2306.15634v2)|**[link](https://github.com/deezer/aads_french)**|
 |**2023-06-27**|**Coupling parameter and particle dynamics for adaptive sampling in Neural Galerkin schemes**|Yuxiao Wen et.al.|[2306.15630v1](http://arxiv.org/abs/2306.15630v1)|null|
 |**2023-06-27**|**Machine-learning based noise characterization and correction on neutral atoms NISQ devices**|Ettore Canonici et.al.|[2306.15628v1](http://arxiv.org/abs/2306.15628v1)|null|
 |**2023-06-27**|**Value-aware Importance Weighting for Off-policy Reinforcement Learning**|Kristopher De Asis et.al.|[2306.15625v1](http://arxiv.org/abs/2306.15625v1)|null|
@@ -38,7 +38,7 @@ layout: default
 |**2023-06-26**|**Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories**|Zixuan Zhang et.al.|[2306.14859v1](http://arxiv.org/abs/2306.14859v1)|null|
 |**2023-06-26**|**On Imitation in Mean-field Games**|Giorgia Ramponi et.al.|[2306.14799v1](http://arxiv.org/abs/2306.14799v1)|null|
 |**2023-06-26**|**ChiPFormer: Transferable Chip Placement via Offline Decision Transformer**|Yao Lai et.al.|[2306.14744v1](http://arxiv.org/abs/2306.14744v1)|null|
-|**2023-06-26**|**Can An Old Fashioned Feature Extraction and A Light-weight Model Improve Vulnerability Type Identification Performance?**|Hieu Dinh Vo et.al.|[2306.14726v1](http://arxiv.org/abs/2306.14726v1)|null|
+|**2023-06-26**|**Can An Old Fashioned Feature Extraction and A Light-weight Model Improve Vulnerability Type Identification Performance?**|Hieu Dinh Vo et.al.|[2306.14726v1](http://arxiv.org/abs/2306.14726v1)|**[link](https://github.com/sonnguyenvnu/vit-project)**|
 |**2023-06-26**|**Augmenting Control over Exploration Space in Molecular Dynamics Simulators to Streamline De Novo Analysis through Generative Control Policies**|Paloma Gonzalez-Rojas et.al.|[2306.14705v1](http://arxiv.org/abs/2306.14705v1)|null|
 |**2023-06-26**|**Multi-Agent Deep Reinforcement Learning for Dynamic Avatar Migration in AIoT-enabled Vehicular Metaverses with Trajectory Prediction**|Junlong Chen et.al.|[2306.14683v1](http://arxiv.org/abs/2306.14683v1)|null|
 |**2023-06-26**|**Estimating player completion rate in mobile puzzle games using reinforcement learning**|Jeppe Theiss Kristensen et.al.|[2306.14626v1](http://arxiv.org/abs/2306.14626v1)|null|
@@ -2928,8 +2928,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-27**|**Likelihood-free neural Bayes estimators for censored peaks-over-threshold models**|Jordan Richards et.al.|[2306.15642v1](http://arxiv.org/abs/2306.15642v1)|null|
-|**2023-06-27**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v1](http://arxiv.org/abs/2306.15634v1)|**[link](https://github.com/deezer/aads_french)**|
-|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|null|
+|**2023-06-28**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v2](http://arxiv.org/abs/2306.15634v2)|**[link](https://github.com/deezer/aads_french)**|
+|**2023-06-28**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v2](http://arxiv.org/abs/2306.15632v2)|null|
 |**2023-06-27**|**Coupling parameter and particle dynamics for adaptive sampling in Neural Galerkin schemes**|Yuxiao Wen et.al.|[2306.15630v1](http://arxiv.org/abs/2306.15630v1)|null|
 |**2023-06-27**|**Learning Nonautonomous Systems via Dynamic Mode Decomposition**|Hannah Lu et.al.|[2306.15618v1](http://arxiv.org/abs/2306.15618v1)|null|
 |**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|null|
@@ -2939,12 +2939,12 @@ layout: default
 |**2023-06-27**|**Fast and Automatic 3D Modeling of Antenna Structure Using CNN-LSTM Network for Efficient Data Generation**|Zhaohui Wei et.al.|[2306.15530v1](http://arxiv.org/abs/2306.15530v1)|null|
 |**2023-06-27**|**Higher-order Graph Attention Network for Stock Selection with Joint Analysis**|Yang Qiao et.al.|[2306.15526v1](http://arxiv.org/abs/2306.15526v1)|null|
 |**2023-06-27**|**PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment**|Hongwu Peng et.al.|[2306.15513v1](http://arxiv.org/abs/2306.15513v1)|null|
-|**2023-06-27**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v1](http://arxiv.org/abs/2306.15489v1)|null|
+|**2023-06-28**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v2](http://arxiv.org/abs/2306.15489v2)|null|
 |**2023-06-27**|**Robust Proxy: Improving Adversarial Robustness by Robust Proxy Learning**|Hong Joo Lee et.al.|[2306.15457v1](http://arxiv.org/abs/2306.15457v1)|null|
 |**2023-06-27**|**Advancing Adversarial Training by Injecting Booster Signal**|Hong Joo Lee et.al.|[2306.15451v1](http://arxiv.org/abs/2306.15451v1)|null|
 |**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
 |**2023-06-27**|**Magnetic proximity in a coupled Ferromagnet-Spin glass system**|Fateme Izadi et.al.|[2306.15426v1](http://arxiv.org/abs/2306.15426v1)|null|
-|**2023-06-27**|**Verifying Safety of Neural Networks from Topological Perspectives**|Zhen Liang et.al.|[2306.15403v1](http://arxiv.org/abs/2306.15403v1)|null|
+|**2023-06-27**|**Verifying Safety of Neural Networks from Topological Perspectives**|Zhen Liang et.al.|[2306.15403v1](http://arxiv.org/abs/2306.15403v1)|**[link](https://github.com/laode2022/boundarynn)**|
 |**2023-06-27**|**Classification of the \emph{Fermi}-LAT Blazar Candidates of Uncertain type using eXtreme Gradient Boosting**|A. Tolamatti et.al.|[2306.15393v1](http://arxiv.org/abs/2306.15393v1)|null|
 |**2023-06-27**|**DCP-NAS: Discrepant Child-Parent Neural Architecture Search for 1-bit CNNs**|Yanjing Li et.al.|[2306.15390v1](http://arxiv.org/abs/2306.15390v1)|null|
 |**2023-06-27**|**Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations**|Shi Jin et.al.|[2306.15381v1](http://arxiv.org/abs/2306.15381v1)|null|
@@ -2976,7 +2976,7 @@ layout: default
 |**2023-06-26**|**The Underlying Scaling Laws and Universal Statistical Structure of Complex Datasets**|Noam Levi et.al.|[2306.14975v1](http://arxiv.org/abs/2306.14975v1)|null|
 |**2023-06-26**|**Quantum interference of pseudospin-1 fermions**|Adesh Singh et.al.|[2306.14967v1](http://arxiv.org/abs/2306.14967v1)|null|
 |**2023-06-26**|**Renormalization Group Analysis of the Anderson Model on Random Regular Graphs**|Carlo Vanoni et.al.|[2306.14965v1](http://arxiv.org/abs/2306.14965v1)|null|
-|**2023-06-26**|**Backpropagation scaling in parameterised quantum circuits**|Joseph Bowles et.al.|[2306.14962v1](http://arxiv.org/abs/2306.14962v1)|null|
+|**2023-06-26**|**Backpropagation scaling in parameterised quantum circuits**|Joseph Bowles et.al.|[2306.14962v1](http://arxiv.org/abs/2306.14962v1)|**[link](https://github.com/XanaduAI/backprop_scaling_pqcs)**|
 |**2023-06-26**|**Mapping out phase diagrams with generative classifiers**|Julian Arnold et.al.|[2306.14894v1](http://arxiv.org/abs/2306.14894v1)|null|
 |**2023-06-26**|**Leveraging Task Structures for Improved Identifiability in Neural Network Representations**|Wenlin Chen et.al.|[2306.14861v1](http://arxiv.org/abs/2306.14861v1)|null|
 |**2023-06-26**|**Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories**|Zixuan Zhang et.al.|[2306.14859v1](http://arxiv.org/abs/2306.14859v1)|null|
