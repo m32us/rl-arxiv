@@ -15,6 +15,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833v1](http://arxiv.org/abs/2306.17833v1)|null|
+|**2023-06-30**|**Comparing Reinforcement Learning and Human Learning using the Game of Hidden Rules**|Eric Pulick et.al.|[2306.17766v1](http://arxiv.org/abs/2306.17766v1)|null|
+|**2023-06-30**|**TD Convergence: An Optimization Perspective**|Kavosh Asadi et.al.|[2306.17750v1](http://arxiv.org/abs/2306.17750v1)|null|
+|**2023-06-30**|**Why Deep Models Often cannot Beat Non-deep Counterparts on Molecular Property Prediction?**|Jun Xia et.al.|[2306.17702v1](http://arxiv.org/abs/2306.17702v1)|null|
+|**2023-06-30**|**Design of Induction Machines using Reinforcement Learning**|Yasmin SarcheshmehPour et.al.|[2306.17626v1](http://arxiv.org/abs/2306.17626v1)|null|
+|**2023-06-30**|**Navigation of micro-robot swarms for targeted delivery using reinforcement learning**|Akshatha Jagadish et.al.|[2306.17598v1](http://arxiv.org/abs/2306.17598v1)|null|
+|**2023-06-30**|**Variational principle to regularize machine-learned density functionals: the non-interacting kinetic-energy functional**|P. del Mazo-Sevillano et.al.|[2306.17587v1](http://arxiv.org/abs/2306.17587v1)|null|
+|**2023-06-30**|**Systematic Investigation of Sparse Perturbed Sharpness-Aware Minimization Optimizer**|Peng Mi et.al.|[2306.17504v1](http://arxiv.org/abs/2306.17504v1)|null|
+|**2023-06-30**|**Preference Ranking Optimization for Human Alignment**|Feifan Song et.al.|[2306.17492v1](http://arxiv.org/abs/2306.17492v1)|null|
+|**2023-06-30**|**Detection-segmentation convolutional neural network for autonomous vehicle perception**|Maciej Baczmanski et.al.|[2306.17485v1](http://arxiv.org/abs/2306.17485v1)|null|
+|**2023-06-30**|**Landmark Guided Active Exploration with Stable Low-level Policy Learning**|Fei Cui et.al.|[2306.17484v1](http://arxiv.org/abs/2306.17484v1)|null|
+|**2023-06-30**|**Human-like Decision-making at Unsignalized Intersection using Social Value Orientation**|Yan Tong et.al.|[2306.17456v1](http://arxiv.org/abs/2306.17456v1)|null|
+|**2023-06-30**|**Designing strong baselines for ternary neural network quantization through support and mass equalization**|Edouard Yvinec et.al.|[2306.17442v1](http://arxiv.org/abs/2306.17442v1)|null|
+|**2023-06-30**|**Efficient Backdoor Removal Through Natural Gradient Fine-tuning**|Nazmul Karim et.al.|[2306.17441v1](http://arxiv.org/abs/2306.17441v1)|null|
+|**2023-06-30**|**Decentralized Motor Skill Learning for Complex Robotic Systems**|Yanjiang Guo et.al.|[2306.17411v1](http://arxiv.org/abs/2306.17411v1)|null|
+|**2023-06-30**|**$λ$ -AC: Learning latent decision-aware models for reinforcement learning in continuous state-spaces**|Claas A Voelcker et.al.|[2306.17366v1](http://arxiv.org/abs/2306.17366v1)|null|
+|**2023-06-29**|**Training-Free Neural Matte Extraction for Visual Effects**|Sharif Elcott et.al.|[2306.17321v1](http://arxiv.org/abs/2306.17321v1)|null|
+|**2023-06-29**|**Probabilistic Constraint for Safety-Critical Reinforcement Learning**|Weiqin Chen et.al.|[2306.17279v1](http://arxiv.org/abs/2306.17279v1)|null|
+|**2023-06-29**|**A Fast Fourier Convolutional Deep Neural Network For Accurate and Explainable Discrimination Of Wheat Yellow Rust And Nitrogen Deficiency From Sentinel-2 Time-Series Data**|Yue Shi et.al.|[2306.17207v1](http://arxiv.org/abs/2306.17207v1)|null|
+|**2023-06-29**|**Learning Environment Models with Continuous Stochastic Dynamics**|Martin Tappler et.al.|[2306.17204v1](http://arxiv.org/abs/2306.17204v1)|null|
+|**2023-06-29**|**An end-to-end framework for gene expression classification by integrating a background knowledge graph: application to cancer prognosis prediction**|Kazuma Inoue et.al.|[2306.17202v1](http://arxiv.org/abs/2306.17202v1)|null|
 |**2023-06-29**|**Identifying Important Sensory Feedback for Learning Locomotion Skills**|Wanming Yu et.al.|[2306.17101v1](http://arxiv.org/abs/2306.17101v1)|null|
 |**2023-06-29**|**RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**|Federico Berto et.al.|[2306.17100v1](http://arxiv.org/abs/2306.17100v1)|**[link](https://github.com/kaist-silab/rl4co)**|
 |**2023-06-29**|**Gesture Recognition with mmWave Wi-Fi Access Points: Lessons Learned**|Nabeel Nisar Bhat et.al.|[2306.17062v1](http://arxiv.org/abs/2306.17062v1)|null|
@@ -29,7 +50,7 @@
 |**2023-06-29**|**NeuralFuse: Learning to Improve the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes**|Hao-Lun Sun et.al.|[2306.16869v1](http://arxiv.org/abs/2306.16869v1)|**[link](https://github.com/ibm/neuralfuse)**|
 |**2023-06-29**|**ArrayBot: Reinforcement Learning for Generalizable Distributed Manipulation through Touch**|Zhengrong Xue et.al.|[2306.16857v1](http://arxiv.org/abs/2306.16857v1)|null|
 |**2023-06-29**|**Macro Placement by Wire-Mask-Guided Black-Box Optimization**|Yunqi Shi et.al.|[2306.16844v1](http://arxiv.org/abs/2306.16844v1)|**[link](https://github.com/neurips23-wiremask/wiremask-bbo)**|
-|**2023-06-29**|**Sampling weights of deep neural networks**|Erik Lien Bolager et.al.|[2306.16830v1](http://arxiv.org/abs/2306.16830v1)|**[link](https://gitlab.com/felix.dietrich/swimnetworks)**|
+|**2023-06-29**|**Sampling weights of deep neural networks**|Erik Lien Bolager et.al.|[2306.16830v1](http://arxiv.org/abs/2306.16830v1)|**[link](https://gitlab.com/felix.dietrich/swimnetworks-paper)**|
 |**2023-06-29**|**Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis**|Alexander Meulemans et.al.|[2306.16803v1](http://arxiv.org/abs/2306.16803v1)|**[link](https://github.com/seijin-kobayashi/cocoa)**|
 |**2023-06-29**|**Reinforcement Learning in Ultracold Atom Experiments**|Malte Reinschmidt et.al.|[2306.16764v1](http://arxiv.org/abs/2306.16764v1)|null|
 |**2023-06-29**|**Eigensubspace of Temporal-Difference Dynamics and How It Improves Value Approximation in Reinforcement Learning**|Qiang He et.al.|[2306.16750v1](http://arxiv.org/abs/2306.16750v1)|null|
@@ -2673,6 +2694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
 |**2023-06-29**|**RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**|Federico Berto et.al.|[2306.17100v1](http://arxiv.org/abs/2306.17100v1)|**[link](https://github.com/kaist-silab/rl4co)**|
 |**2023-06-29**|**Optimal mixers restricted to subspaces and the stabilizer formalism**|Franz G. Fuchs et.al.|[2306.17083v1](http://arxiv.org/abs/2306.17083v1)|null|
 |**2023-06-29**|**5-Approximation for $\mathcal{H}$-Treewidth Essentially as Fast as $\mathcal{H}$ -Deletion Parameterized by Solution Size**|Bart M. P. Jansen et.al.|[2306.17065v1](http://arxiv.org/abs/2306.17065v1)|null|
@@ -2995,6 +3017,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848v1](http://arxiv.org/abs/2306.17848v1)|null|
+|**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846v1](http://arxiv.org/abs/2306.17846v1)|null|
+|**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844v1](http://arxiv.org/abs/2306.17844v1)|null|
+|**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805v1](http://arxiv.org/abs/2306.17805v1)|null|
+|**2023-06-30**|**Improved NL2SQL based on Multi-layer Expert Network**|Chenduo Hao et.al.|[2306.17727v1](http://arxiv.org/abs/2306.17727v1)|null|
+|**2023-06-30**|**Why Deep Models Often cannot Beat Non-deep Counterparts on Molecular Property Prediction?**|Jun Xia et.al.|[2306.17702v1](http://arxiv.org/abs/2306.17702v1)|null|
+|**2023-06-30**|**Beyond Neural-on-Neural Approaches to Speaker Gender Protection**|Loes van Bemmel et.al.|[2306.17700v1](http://arxiv.org/abs/2306.17700v1)|null|
+|**2023-06-30**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670v1](http://arxiv.org/abs/2306.17670v1)|null|
+|**2023-06-30**|**Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies**|Alena Kopaničáková et.al.|[2306.17648v1](http://arxiv.org/abs/2306.17648v1)|null|
+|**2023-06-30**|**Feature Representation Learning for NL2SQL Generation Based on Coupling and Decoupling**|Chenduo Hao et.al.|[2306.17646v1](http://arxiv.org/abs/2306.17646v1)|null|
+|**2023-06-30**|**Point-based Value Iteration for Neuro-Symbolic POMDPs**|Rui Yan et.al.|[2306.17639v1](http://arxiv.org/abs/2306.17639v1)|null|
+|**2023-06-30**|**Enhancing Feature Extraction for Indoor Fingerprint Localization Using Diversified Data**|Jiyu Jiao et.al.|[2306.17634v1](http://arxiv.org/abs/2306.17634v1)|null|
+|**2023-06-30**|**Impact of Noise on Calibration and Generalisation of Neural Networks**|Martin Ferianc et.al.|[2306.17630v1](http://arxiv.org/abs/2306.17630v1)|null|
+|**2023-06-30**|**Design of Induction Machines using Reinforcement Learning**|Yasmin SarcheshmehPour et.al.|[2306.17626v1](http://arxiv.org/abs/2306.17626v1)|null|
+|**2023-06-30**|**Scalable method for Bayesian experimental design without integrating over posterior distribution**|Vinh Hoang et.al.|[2306.17615v1](http://arxiv.org/abs/2306.17615v1)|null|
+|**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597v1](http://arxiv.org/abs/2306.17597v1)|null|
+|**2023-06-30**|**Variational principle to regularize machine-learned density functionals: the non-interacting kinetic-energy functional**|P. del Mazo-Sevillano et.al.|[2306.17587v1](http://arxiv.org/abs/2306.17587v1)|null|
+|**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536v1](http://arxiv.org/abs/2306.17536v1)|null|
+|**2023-06-30**|**MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems**|Markus J. Buehler et.al.|[2306.17525v1](http://arxiv.org/abs/2306.17525v1)|null|
+|**2023-06-30**|**Systematic Investigation of Sparse Perturbed Sharpness-Aware Minimization Optimizer**|Peng Mi et.al.|[2306.17504v1](http://arxiv.org/abs/2306.17504v1)|null|
+|**2023-06-30**|**Efficient uniform approximation using Random Vector Functional Link networks**|Palina Salanevich et.al.|[2306.17501v1](http://arxiv.org/abs/2306.17501v1)|null|
+|**2023-06-30**|**Multigrid-Augmented Deep Learning for the Helmholtz Equation: Better Scalability with Compact Implicit Layers**|Bar Lerer et.al.|[2306.17486v1](http://arxiv.org/abs/2306.17486v1)|null|
+|**2023-06-30**|**Detection-segmentation convolutional neural network for autonomous vehicle perception**|Maciej Baczmanski et.al.|[2306.17485v1](http://arxiv.org/abs/2306.17485v1)|null|
+|**2023-06-30**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482v1](http://arxiv.org/abs/2306.17482v1)|null|
+|**2023-06-30**|**Designing strong baselines for ternary neural network quantization through support and mass equalization**|Edouard Yvinec et.al.|[2306.17442v1](http://arxiv.org/abs/2306.17442v1)|null|
+|**2023-06-30**|**Efficient Backdoor Removal Through Natural Gradient Fine-tuning**|Nazmul Karim et.al.|[2306.17441v1](http://arxiv.org/abs/2306.17441v1)|null|
+|**2023-06-30**|**ReLU Neural Networks, Polyhedral Decompositions, and Persistent Homolog**|Yajing Liu et.al.|[2306.17418v1](http://arxiv.org/abs/2306.17418v1)|null|
+|**2023-06-30**|**Decentralized Motor Skill Learning for Complex Robotic Systems**|Yanjiang Guo et.al.|[2306.17411v1](http://arxiv.org/abs/2306.17411v1)|null|
+|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v1](http://arxiv.org/abs/2306.17408v1)|null|
+|**2023-06-30**|**Physics-informed invertible neural network for the Koopman operator learning**|Yuhuang Meng et.al.|[2306.17396v1](http://arxiv.org/abs/2306.17396v1)|null|
+|**2023-06-30**|**Scaling of Defect-Induced Low-Energy Majorana Excitations in the Kitaev Magnet $α$-RuCl$_3$**|K. Imamura et.al.|[2306.17380v1](http://arxiv.org/abs/2306.17380v1)|null|
+|**2023-06-29**|**Designing Stable Neural Networks using Convex Analysis and ODEs**|Ferdia Sherry et.al.|[2306.17332v1](http://arxiv.org/abs/2306.17332v1)|null|
+|**2023-06-29**|**Scaling Model Checking for DNN Analysis via State-Space Reduction and Input Segmentation (Extended Version)**|Mahum Naseer et.al.|[2306.17323v1](http://arxiv.org/abs/2306.17323v1)|null|
+|**2023-06-29**|**Training-Free Neural Matte Extraction for Visual Effects**|Sharif Elcott et.al.|[2306.17321v1](http://arxiv.org/abs/2306.17321v1)|null|
+|**2023-06-29**|**Why Shallow Networks Struggle with Approximating and Learning High Frequency: A Numerical Study**|Shijun Zhang et.al.|[2306.17301v1](http://arxiv.org/abs/2306.17301v1)|null|
+|**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
+|**2023-06-29**|**Prediction of COVID-19 Patients' Emergency Room Revisit using Multi-Source Transfer Learning**|Yuelyu Ji et.al.|[2306.17257v1](http://arxiv.org/abs/2306.17257v1)|null|
+|**2023-06-29**|**Quantum data learning for quantum simulations in high-energy physics**|Lento Nagano et.al.|[2306.17214v1](http://arxiv.org/abs/2306.17214v1)|null|
+|**2023-06-29**|**A Fast Fourier Convolutional Deep Neural Network For Accurate and Explainable Discrimination Of Wheat Yellow Rust And Nitrogen Deficiency From Sentinel-2 Time-Series Data**|Yue Shi et.al.|[2306.17207v1](http://arxiv.org/abs/2306.17207v1)|null|
 |**2023-06-29**|**ManimML: Communicating Machine Learning Architectures with Animation**|Alec Helbling et.al.|[2306.17108v1](http://arxiv.org/abs/2306.17108v1)|**[link](https://github.com/helblazer811/manimml)**|
 |**2023-06-29**|**Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations**|Yongyi Yang et.al.|[2306.17105v1](http://arxiv.org/abs/2306.17105v1)|null|
 |**2023-06-29**|**Deep Ensemble for Rotorcraft Attitude Prediction**|Hikmat Khan et.al.|[2306.17104v1](http://arxiv.org/abs/2306.17104v1)|null|
