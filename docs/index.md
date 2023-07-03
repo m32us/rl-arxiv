@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -3024,7 +3024,7 @@ layout: default
 |**2023-06-29**|**Understanding Pathologies of Deep Heteroskedastic Regression**|Eliot Wong-Toi et.al.|[2306.16717v1](http://arxiv.org/abs/2306.16717v1)|null|
 |**2023-06-29**|**NNQS-Transformer: an Efficient and Scalable Neural Network Quantum States Approach for Ab initio Quantum Chemistry**|Yangjun Wu et.al.|[2306.16705v1](http://arxiv.org/abs/2306.16705v1)|null|
 |**2023-06-29**|**TrojanNet: Detecting Trojans in Quantum Circuits using Machine Learning**|Subrata Das et.al.|[2306.16701v1](http://arxiv.org/abs/2306.16701v1)|null|
-|**2023-06-29**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v1](http://arxiv.org/abs/2306.16700v1)|null|
+|**2023-06-30**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v2](http://arxiv.org/abs/2306.16700v2)|null|
 |**2023-06-29**|**Rapid-INR: Storage Efficient CPU-free DNN Training Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2306.16699v1](http://arxiv.org/abs/2306.16699v1)|null|
 |**2023-06-29**|**Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features**|Mingli Zhu et.al.|[2306.16697v1](http://arxiv.org/abs/2306.16697v1)|null|
 |**2023-06-29**|**Decomposing spiking neural networks with Graphical Neural Activity Threads**|Bradley H. Theilman et.al.|[2306.16684v1](http://arxiv.org/abs/2306.16684v1)|null|
@@ -7251,7 +7251,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-24**|**Distributed online optimization for heterogeneous linear multi-agent systems with coupled constraints**|Yang Yu et.al.|[2306.14037v1](http://arxiv.org/abs/2306.14037v1)|null|
-|**2023-06-22**|**Communication-Free Distributed Charging Control for Electric Vehicle Group**|Heyang Yu et.al.|[2306.13154v1](http://arxiv.org/abs/2306.13154v1)|null|
+|**2023-06-30**|**Communication-Free Distributed Charging Control for Electric Vehicle Group**|Heyang Yu et.al.|[2306.13154v2](http://arxiv.org/abs/2306.13154v2)|null|
 |**2023-06-12**|**Range Limited Coverage Control using Air-Ground Multi-Robot Teams**|Max Rudolph et.al.|[2306.07385v1](http://arxiv.org/abs/2306.07385v1)|null|
 |**2023-06-05**|**A new finite element method for elliptic optimal control problems with pointwise state constraints in energy spaces**|Wei Gong et.al.|[2306.03246v1](http://arxiv.org/abs/2306.03246v1)|null|
 |**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235v1](http://arxiv.org/abs/2305.19235v1)|null|
