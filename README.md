@@ -1,4 +1,4 @@
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2688,7 +2688,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3011,7 +3011,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
 ## Optimization
 
@@ -3045,11 +3045,11 @@
 |**2023-06-30**|**Efficient Backdoor Removal Through Natural Gradient Fine-tuning**|Nazmul Karim et.al.|[2306.17441v1](http://arxiv.org/abs/2306.17441v1)|null|
 |**2023-06-30**|**ReLU Neural Networks, Polyhedral Decompositions, and Persistent Homolog**|Yajing Liu et.al.|[2306.17418v1](http://arxiv.org/abs/2306.17418v1)|null|
 |**2023-06-30**|**Decentralized Motor Skill Learning for Complex Robotic Systems**|Yanjiang Guo et.al.|[2306.17411v1](http://arxiv.org/abs/2306.17411v1)|null|
-|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v1](http://arxiv.org/abs/2306.17408v1)|null|
+|**2023-07-03**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v2](http://arxiv.org/abs/2306.17408v2)|null|
 |**2023-06-30**|**Physics-informed invertible neural network for the Koopman operator learning**|Yuhuang Meng et.al.|[2306.17396v1](http://arxiv.org/abs/2306.17396v1)|null|
 |**2023-06-30**|**Scaling of Defect-Induced Low-Energy Majorana Excitations in the Kitaev Magnet $α$-RuCl$_3$**|K. Imamura et.al.|[2306.17380v1](http://arxiv.org/abs/2306.17380v1)|null|
 |**2023-06-29**|**Designing Stable Neural Networks using Convex Analysis and ODEs**|Ferdia Sherry et.al.|[2306.17332v1](http://arxiv.org/abs/2306.17332v1)|null|
-|**2023-06-29**|**Scaling Model Checking for DNN Analysis via State-Space Reduction and Input Segmentation (Extended Version)**|Mahum Naseer et.al.|[2306.17323v1](http://arxiv.org/abs/2306.17323v1)|null|
+|**2023-07-03**|**Scaling Model Checking for DNN Analysis via State-Space Reduction and Input Segmentation (Extended Version)**|Mahum Naseer et.al.|[2306.17323v2](http://arxiv.org/abs/2306.17323v2)|null|
 |**2023-06-29**|**Training-Free Neural Matte Extraction for Visual Effects**|Sharif Elcott et.al.|[2306.17321v1](http://arxiv.org/abs/2306.17321v1)|null|
 |**2023-06-29**|**Why Shallow Networks Struggle with Approximating and Learning High Frequency: A Numerical Study**|Shijun Zhang et.al.|[2306.17301v1](http://arxiv.org/abs/2306.17301v1)|null|
 |**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
@@ -7317,13 +7317,13 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-24**|**Distributed online optimization for heterogeneous linear multi-agent systems with coupled constraints**|Yang Yu et.al.|[2306.14037v1](http://arxiv.org/abs/2306.14037v1)|null|
+|**2023-07-02**|**Distributed online optimization for heterogeneous linear multi-agent systems with coupled constraints**|Yang Yu et.al.|[2306.14037v2](http://arxiv.org/abs/2306.14037v2)|null|
 |**2023-06-30**|**Communication-Free Distributed Charging Control for Electric Vehicle Group**|Heyang Yu et.al.|[2306.13154v2](http://arxiv.org/abs/2306.13154v2)|null|
 |**2023-06-12**|**Range Limited Coverage Control using Air-Ground Multi-Robot Teams**|Max Rudolph et.al.|[2306.07385v1](http://arxiv.org/abs/2306.07385v1)|null|
 |**2023-06-05**|**A new finite element method for elliptic optimal control problems with pointwise state constraints in energy spaces**|Wei Gong et.al.|[2306.03246v1](http://arxiv.org/abs/2306.03246v1)|null|
@@ -7402,5 +7402,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
