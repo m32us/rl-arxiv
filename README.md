@@ -1,4 +1,4 @@
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2023-07-05**|**Generative Job Recommendations with Large Language Model**|Zhi Zheng et.al.|[2307.02157v1](http://arxiv.org/abs/2307.02157v1)|null|
 |**2023-07-05**|**How Deep Neural Networks Learn Compositional Data: The Random Hierarchy Model**|Leonardo Petrini et.al.|[2307.02129v1](http://arxiv.org/abs/2307.02129v1)|**[link](https://github.com/pcsl-epfl/hierarchy-learning)**|
 |**2023-07-05**|**DARE: Towards Robust Text Explanations in Biomedical and Healthcare Applications**|Adam Ivankay et.al.|[2307.02094v1](http://arxiv.org/abs/2307.02094v1)|**[link](https://github.com/ibm/domain-adaptive-attribution-robustness)**|
-|**2023-07-05**|**A Comparison of Machine Learning Methods for Data with High-Cardinality Categorical Variables**|Fabio Sigrist et.al.|[2307.02071v1](http://arxiv.org/abs/2307.02071v1)|null|
+|**2023-07-05**|**A Comparison of Machine Learning Methods for Data with High-Cardinality Categorical Variables**|Fabio Sigrist et.al.|[2307.02071v1](http://arxiv.org/abs/2307.02071v1)|**[link](https://github.com/fabsig/compare_ml_highcardinality_categorical_variables)**|
 |**2023-07-05**|**Facing off World Model Backbones: RNNs, Transformers, and S4**|Fei Deng et.al.|[2307.02064v1](http://arxiv.org/abs/2307.02064v1)|null|
 |**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049v1](http://arxiv.org/abs/2307.02049v1)|null|
 |**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046v1](http://arxiv.org/abs/2307.02046v1)|null|
@@ -43,13 +43,13 @@
 |**2023-07-04**|**Causal Reinforcement Learning: A Survey**|Zhihong Deng et.al.|[2307.01452v1](http://arxiv.org/abs/2307.01452v1)|null|
 |**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
 |**2023-07-03**|**Learning Generic Solutions for Multiphase Transport in Porous Media via the Flux Functions Operator**|Waleed Diab et.al.|[2307.01354v1](http://arxiv.org/abs/2307.01354v1)|null|
-|**2023-07-03**|**Towards Safe Autonomous Driving Policies using a Neuro-Symbolic Deep Reinforcement Learning Approach**|Iman Sharifi et.al.|[2307.01316v1](http://arxiv.org/abs/2307.01316v1)|null|
+|**2023-07-03**|**Towards Safe Autonomous Driving Policies using a Neuro-Symbolic Deep Reinforcement Learning Approach**|Iman Sharifi et.al.|[2307.01316v1](http://arxiv.org/abs/2307.01316v1)|**[link](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)**|
 |**2023-07-03**|**Self-Tuning PID Control via a Hybrid Actor-Critic-Based Neural Structure for Quadcopter Control**|Iman Sharifi et.al.|[2307.01312v1](http://arxiv.org/abs/2307.01312v1)|null|
 |**2023-07-03**|**Theory of Mind as Intrinsic Motivation for Multi-Agent Reinforcement Learning**|Ini Oguntola et.al.|[2307.01158v1](http://arxiv.org/abs/2307.01158v1)|null|
 |**2023-07-03**|**A 3 TOPS/W RISC-V Parallel Cluster for Inference of Fine-Grain Mixed-Precision Quantized Neural Networks**|Alessandro Nadalini et.al.|[2307.01056v1](http://arxiv.org/abs/2307.01056v1)|null|
 |**2023-07-03**|**Neural Chronos ODE: Unveiling Temporal Patterns and Forecasting Future and Past Trends in Time Series Data**|C. Coelho et.al.|[2307.01023v1](http://arxiv.org/abs/2307.01023v1)|null|
 |**2023-07-03**|**CGAM: Click-Guided Attention Module for Interactive Pathology Image Segmentation via Backpropagating Refinement**|Seonghui Min et.al.|[2307.01015v1](http://arxiv.org/abs/2307.01015v1)|null|
-|**2023-07-03**|**Environmental effects on emergent strategy in micro-scale multi-agent reinforcement learning**|Samuel Tovey et.al.|[2307.00994v1](http://arxiv.org/abs/2307.00994v1)|null|
+|**2023-07-03**|**Environmental effects on emergent strategy in micro-scale multi-agent reinforcement learning**|Samuel Tovey et.al.|[2307.00994v1](http://arxiv.org/abs/2307.00994v1)|**[link](https://github.com/swarmrl/swarmrl)**|
 |**2023-07-03**|**MoVie: Visual Model-Based Policy Adaptation for View Generalization**|Sizhe Yang et.al.|[2307.00972v1](http://arxiv.org/abs/2307.00972v1)|null|
 |**2023-07-03**|**OpenClinicalAI: An Open and Dynamic Model for Alzheimer's Disease Diagnosis**|Yunyou Huang et.al.|[2307.00965v1](http://arxiv.org/abs/2307.00965v1)|null|
 |**2023-07-03**|**A hybrid finite element/neural network solver and its application to the Poisson problem**|Uladzislau Kapustsin et.al.|[2307.00947v1](http://arxiv.org/abs/2307.00947v1)|null|
@@ -63,7 +63,7 @@
 |**2023-07-02**|**Is Risk-Sensitive Reinforcement Learning Properly Resolved?**|Ruiwen Zhou et.al.|[2307.00547v1](http://arxiv.org/abs/2307.00547v1)|null|
 |**2023-07-02**|**Collaborative Policy Learning for Dynamic Scheduling Tasks in Cloud-Edge-Terminal IoT Networks Using Federated Reinforcement Learning**|Do-Yup Kim et.al.|[2307.00541v1](http://arxiv.org/abs/2307.00541v1)|null|
 |**2023-07-02**|**Shared Growth of Graph Neural Networks via Free-direction Knowledge Distillation**|Kaituo Feng et.al.|[2307.00534v1](http://arxiv.org/abs/2307.00534v1)|null|
-|**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513v1](http://arxiv.org/abs/2307.00513v1)|null|
+|**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513v1](http://arxiv.org/abs/2307.00513v1)|**[link](https://github.com/ciaranbench/spectral-denoising-cyclegan)**|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v1](http://arxiv.org/abs/2307.00500v1)|null|
 |**2023-07-02**|**Query-Efficient Decision-based Black-Box Patch Attack**|Zhaoyu Chen et.al.|[2307.00477v1](http://arxiv.org/abs/2307.00477v1)|null|
 |**2023-07-04**|**Sparsity-aware generalization theory for deep neural networks**|Ramchandran Muthukumar et.al.|[2307.00426v2](http://arxiv.org/abs/2307.00426v2)|null|
@@ -2753,7 +2753,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3084,7 +3084,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
 ## Optimization
 
@@ -3101,13 +3101,13 @@
 |**2023-07-05**|**A Versatile Hub Model For Efficient Information Propagation And Feature Selection**|Zhaoze Wang et.al.|[2307.02398v1](http://arxiv.org/abs/2307.02398v1)|null|
 |**2023-07-05**|**Machine learning at the mesoscale: a computation-dissipation bottleneck**|Alessandro Ingrosso et.al.|[2307.02379v1](http://arxiv.org/abs/2307.02379v1)|null|
 |**2023-07-05**|**Distance Preserving Machine Learning for Uncertainty Aware Accelerator Capacitance Predictions**|Steven Goldenberg et.al.|[2307.02367v1](http://arxiv.org/abs/2307.02367v1)|null|
-|**2023-07-05**|**Error Approximation and Bias Correction in Dynamic Problems using a Recurrent Neural Network/Finite Element Hybrid Model**|Moritz von Tresckow et.al.|[2307.02349v1](http://arxiv.org/abs/2307.02349v1)|null|
-|**2023-07-05**|**FAM: Relative Flatness Aware Minimization**|Linara Adilova et.al.|[2307.02337v1](http://arxiv.org/abs/2307.02337v1)|null|
+|**2023-07-06**|**Error Approximation and Bias Correction in Dynamic Problems using a Recurrent Neural Network/Finite Element Hybrid Model**|Moritz von Tresckow et.al.|[2307.02349v2](http://arxiv.org/abs/2307.02349v2)|null|
+|**2023-07-05**|**FAM: Relative Flatness Aware Minimization**|Linara Adilova et.al.|[2307.02337v1](http://arxiv.org/abs/2307.02337v1)|**[link](https://github.com/kampmichael/RelativeFlatnessAndGeneralization)**|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327v1](http://arxiv.org/abs/2307.02327v1)|null|
 |**2023-07-05**|**Deep Contract Design via Discontinuous Piecewise Affine Neural Networks**|Tonghan Wang et.al.|[2307.02318v1](http://arxiv.org/abs/2307.02318v1)|null|
 |**2023-07-05**|**Absorbing Phase Transitions in Artificial Deep Neural Networks**|Keiichi Tamai et.al.|[2307.02284v1](http://arxiv.org/abs/2307.02284v1)|null|
 |**2023-07-05**|**From NeurODEs to AutoencODEs: a mean-field control framework for width-varying Neural Networks**|Cristina Cipriani et.al.|[2307.02279v1](http://arxiv.org/abs/2307.02279v1)|null|
-|**2023-07-05**|**Dynamical Isometry based Rigorous Fair Neural Architecture Search**|Jianxiang Luo et.al.|[2307.02263v1](http://arxiv.org/abs/2307.02263v1)|null|
+|**2023-07-06**|**Dynamical Isometry based Rigorous Fair Neural Architecture Search**|Jianxiang Luo et.al.|[2307.02263v2](http://arxiv.org/abs/2307.02263v2)|null|
 |**2023-07-05**|**Multivariate Time Series Classification: A Deep Learning Approach**|Mohamed Abouelnaga et.al.|[2307.02253v1](http://arxiv.org/abs/2307.02253v1)|null|
 |**2023-07-05**|**Source Identification: A Self-Supervision Task for Dense Prediction**|Shuai Chen et.al.|[2307.02238v1](http://arxiv.org/abs/2307.02238v1)|null|
 |**2023-07-05**|**Knowledge-Guided Additive Modeling For Supervised Regression**|Yann Claes et.al.|[2307.02229v1](http://arxiv.org/abs/2307.02229v1)|**[link](https://github.com/yannclaes/kg-regression)**|
@@ -3124,7 +3124,7 @@
 |**2023-07-05**|**MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets**|Siyi Du et.al.|[2307.02100v1](http://arxiv.org/abs/2307.02100v1)|**[link](https://github.com/siyi-wind/mdvit)**|
 |**2023-07-05**|**DARE: Towards Robust Text Explanations in Biomedical and Healthcare Applications**|Adam Ivankay et.al.|[2307.02094v1](http://arxiv.org/abs/2307.02094v1)|**[link](https://github.com/ibm/domain-adaptive-attribution-robustness)**|
 |**2023-07-05**|**Graph Contrastive Topic Model**|Zheheng Luo et.al.|[2307.02078v1](http://arxiv.org/abs/2307.02078v1)|**[link](https://github.com/zhehengluok/gctm)**|
-|**2023-07-05**|**A Comparison of Machine Learning Methods for Data with High-Cardinality Categorical Variables**|Fabio Sigrist et.al.|[2307.02071v1](http://arxiv.org/abs/2307.02071v1)|null|
+|**2023-07-05**|**A Comparison of Machine Learning Methods for Data with High-Cardinality Categorical Variables**|Fabio Sigrist et.al.|[2307.02071v1](http://arxiv.org/abs/2307.02071v1)|**[link](https://github.com/fabsig/compare_ml_highcardinality_categorical_variables)**|
 |**2023-07-05**|**Facing off World Model Backbones: RNNs, Transformers, and S4**|Fei Deng et.al.|[2307.02064v1](http://arxiv.org/abs/2307.02064v1)|null|
 |**2023-07-05**|**Adversarial Attacks on Image Classification Models: FGSM and Patch Attacks and their Impact**|Jaydip Sen et.al.|[2307.02055v1](http://arxiv.org/abs/2307.02055v1)|null|
 |**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049v1](http://arxiv.org/abs/2307.02049v1)|null|
@@ -7490,7 +7490,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7575,5 +7575,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
