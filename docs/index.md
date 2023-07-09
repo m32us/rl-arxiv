@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.08
+## Updated on 2023.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -3120,7 +3120,7 @@ layout: default
 |**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
 |**2023-07-06**|**Generalizing Backpropagation for Gradient-Based Interpretability**|Kevin Du et.al.|[2307.03056v1](http://arxiv.org/abs/2307.03056v1)|**[link](https://github.com/kdu4108/brunoflow)**|
 |**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039v1](http://arxiv.org/abs/2307.03039v1)|null|
-|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008v1](http://arxiv.org/abs/2307.03008v1)|null|
+|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008v1](http://arxiv.org/abs/2307.03008v1)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
 |**2023-07-06**|**Molecular Simulation for Atmospheric Reaction Exploration and Discovery: Non-Equilibrium Dynamics, Roaming and Glycolaldehyde Formation Following Photo-Induced Decomposition of syn-Acetaldehyde Oxide**|Meenu Upadhyay et.al.|[2307.02994v1](http://arxiv.org/abs/2307.02994v1)|null|
 |**2023-07-06**|**Lecture Notes: Introduction to random unitary circuits and the measurement-induced entanglement phase transition**|Brian Skinner et.al.|[2307.02986v1](http://arxiv.org/abs/2307.02986v1)|null|
 |**2023-07-06**|**Pruning vs Quantization: Which is Better?**|Andrey Kuzmin et.al.|[2307.02973v1](http://arxiv.org/abs/2307.02973v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.07.08
+## Updated on 2023.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2783,7 +2783,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3115,7 +3115,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
 
 ## Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
 |**2023-07-06**|**Generalizing Backpropagation for Gradient-Based Interpretability**|Kevin Du et.al.|[2307.03056v1](http://arxiv.org/abs/2307.03056v1)|**[link](https://github.com/kdu4108/brunoflow)**|
 |**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039v1](http://arxiv.org/abs/2307.03039v1)|null|
-|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008v1](http://arxiv.org/abs/2307.03008v1)|null|
+|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008v1](http://arxiv.org/abs/2307.03008v1)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
 |**2023-07-06**|**Molecular Simulation for Atmospheric Reaction Exploration and Discovery: Non-Equilibrium Dynamics, Roaming and Glycolaldehyde Formation Following Photo-Induced Decomposition of syn-Acetaldehyde Oxide**|Meenu Upadhyay et.al.|[2307.02994v1](http://arxiv.org/abs/2307.02994v1)|null|
 |**2023-07-06**|**Lecture Notes: Introduction to random unitary circuits and the measurement-induced entanglement phase transition**|Brian Skinner et.al.|[2307.02986v1](http://arxiv.org/abs/2307.02986v1)|null|
 |**2023-07-06**|**Pruning vs Quantization: Which is Better?**|Andrey Kuzmin et.al.|[2307.02973v1](http://arxiv.org/abs/2307.02973v1)|null|
@@ -7559,7 +7559,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7644,5 +7644,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
 
