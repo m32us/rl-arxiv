@@ -1,4 +1,4 @@
-## Updated on 2023.07.09
+## Updated on 2023.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2783,13 +2783,13 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-06**|**Approximation Algorithms for Directed Weighted Spanners**|Elena Grigorescu et.al.|[2307.02774v1](http://arxiv.org/abs/2307.02774v1)|null|
+|**2023-07-07**|**Approximation Algorithms for Directed Weighted Spanners**|Elena Grigorescu et.al.|[2307.02774v2](http://arxiv.org/abs/2307.02774v2)|null|
 |**2023-07-05**|**An Approximation Algorithm for the Exact Matching Problem in Bipartite Graphs**|Anita Dürr et.al.|[2307.02205v1](http://arxiv.org/abs/2307.02205v1)|null|
 |**2023-07-04**|**Improved approximation algorithms for some capacitated $k$ edge connectivity problems**|Zeev Nutov et.al.|[2307.01650v1](http://arxiv.org/abs/2307.01650v1)|null|
 |**2023-07-04**|**Accelerated stochastic approximation with state-dependent noise**|Sasila Ilandarideva et.al.|[2307.01497v1](http://arxiv.org/abs/2307.01497v1)|null|
@@ -2802,7 +2802,7 @@
 |**2023-06-29**|**RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**|Federico Berto et.al.|[2306.17100v1](http://arxiv.org/abs/2306.17100v1)|**[link](https://github.com/kaist-silab/rl4co)**|
 |**2023-06-29**|**Optimal mixers restricted to subspaces and the stabilizer formalism**|Franz G. Fuchs et.al.|[2306.17083v1](http://arxiv.org/abs/2306.17083v1)|null|
 |**2023-06-29**|**5-Approximation for $\mathcal{H}$-Treewidth Essentially as Fast as $\mathcal{H}$ -Deletion Parameterized by Solution Size**|Bart M. P. Jansen et.al.|[2306.17065v1](http://arxiv.org/abs/2306.17065v1)|null|
-|**2023-06-29**|**A Formal Perspective on Byte-Pair Encoding**|Vilém Zouhar et.al.|[2306.16837v1](http://arxiv.org/abs/2306.16837v1)|null|
+|**2023-06-29**|**A Formal Perspective on Byte-Pair Encoding**|Vilém Zouhar et.al.|[2306.16837v1](http://arxiv.org/abs/2306.16837v1)|**[link](https://github.com/zouharvi/formal-bpe)**|
 |**2023-06-28**|**Diversity Maximized Scheduling in RoadSide Units for Traffic Monitoring Applications**|Ahmad Sarlak et.al.|[2306.16481v1](http://arxiv.org/abs/2306.16481v1)|null|
 |**2023-06-28**|**A Review on Optimality Investigation Strategies for the Balanced Assignment Problem**|Anurag Dutta et.al.|[2306.16287v1](http://arxiv.org/abs/2306.16287v1)|null|
 |**2023-06-28**|**Lightning Creation Games**|Zeta Avarikioti et.al.|[2306.16006v1](http://arxiv.org/abs/2306.16006v1)|null|
@@ -2816,7 +2816,7 @@
 |**2023-06-25**|**Object Detection based on the Collection of Geometric Evidence**|Hui Wei et.al.|[2306.14120v1](http://arxiv.org/abs/2306.14120v1)|null|
 |**2023-06-24**|**Approximation Algorithm for Unrooted Prize-Collecting Forest with Multiple Components and Its Application on Prize-Collecting Sweep Coverage**|Wei Liang et.al.|[2306.13996v1](http://arxiv.org/abs/2306.13996v1)|null|
 |**2023-06-23**|**Computation of 2D Stokes flows via lightning and AAA rational approximation**|Yidan Xue et.al.|[2306.13545v1](http://arxiv.org/abs/2306.13545v1)|null|
-|**2023-06-22**|**Quantum speedup for combinatorial optimization with flat energy landscapes**|Madelyn Cain et.al.|[2306.13123v1](http://arxiv.org/abs/2306.13123v1)|null|
+|**2023-07-07**|**Quantum speedup for combinatorial optimization with flat energy landscapes**|Madelyn Cain et.al.|[2306.13123v2](http://arxiv.org/abs/2306.13123v2)|null|
 |**2023-06-22**|**Improved Solutions for Multidimensional Approximate Agreement via Centroid Computation**|Melanie Cambus et.al.|[2306.12741v1](http://arxiv.org/abs/2306.12741v1)|null|
 |**2023-06-20**|**Aquila: QuEra's 256-qubit neutral-atom quantum computer**|Jonathan Wurtz et.al.|[2306.11727v1](http://arxiv.org/abs/2306.11727v1)|null|
 |**2023-06-19**|**Performance and Reliability Analysis for Practical Byzantine Fault Tolerance with Repairable Voting Nodes**|Yan-Xia Chang et.al.|[2306.10960v1](http://arxiv.org/abs/2306.10960v1)|null|
@@ -3115,7 +3115,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
 
 ## Optimization
 
@@ -7559,7 +7559,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7644,5 +7644,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
 
