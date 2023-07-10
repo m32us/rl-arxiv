@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**SAR: Generalization of Physiological Agility and Dexterity via Synergistic Action Representation**|Cameron Berg et.al.|[2307.03716v1](http://arxiv.org/abs/2307.03716v1)|null|
+|**2023-07-07**|**GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting**|Sitan Yang et.al.|[2307.03595v1](http://arxiv.org/abs/2307.03595v1)|null|
+|**2023-07-07**|**VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis**|Paula Feldman et.al.|[2307.03592v1](http://arxiv.org/abs/2307.03592v1)|null|
+|**2023-07-07**|**BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits**|Nicklas Werge et.al.|[2307.03587v1](http://arxiv.org/abs/2307.03587v1)|null|
+|**2023-07-07**|**Tranfer Learning of Semantic Segmentation Methods for Identifying Buried Archaeological Structures on LiDAR Data**|Paolo Soleni et.al.|[2307.03512v1](http://arxiv.org/abs/2307.03512v1)|null|
+|**2023-07-07**|**Learning Theory of Distribution Regression with Neural Networks**|Zhongjie Shi et.al.|[2307.03487v1](http://arxiv.org/abs/2307.03487v1)|null|
+|**2023-07-07**|**Discovering Hierarchical Achievements in Reinforcement Learning via Contrastive Learning**|Seungyong Moon et.al.|[2307.03486v1](http://arxiv.org/abs/2307.03486v1)|null|
+|**2023-07-07**|**Towards Deep Network Steganography: From Networks to Networks**|Guobiao Li et.al.|[2307.03444v1](http://arxiv.org/abs/2307.03444v1)|null|
+|**2023-07-07**|**Anableps: Adapting Bitrate for Real-Time Communication Using VBR-encoded Video**|Zicheng Zhang et.al.|[2307.03436v1](http://arxiv.org/abs/2307.03436v1)|null|
+|**2023-07-07**|**Goal-Conditioned Predictive Coding as an Implicit Planner for Offline Reinforcement Learning**|Zilai Zeng et.al.|[2307.03406v1](http://arxiv.org/abs/2307.03406v1)|null|
+|**2023-07-07**|**Stability and Generalization of Stochastic Compositional Gradient Descent Algorithms**|Ming Yang et.al.|[2307.03357v1](http://arxiv.org/abs/2307.03357v1)|null|
+|**2023-07-06**|**OmniBoost: Boosting Throughput of Heterogeneous Embedded Devices under Multi-DNN Workload**|Andreas Karatzas et.al.|[2307.03290v1](http://arxiv.org/abs/2307.03290v1)|null|
 |**2023-07-06**|**TGRL: An Algorithm for Teacher Guided Reinforcement Learning**|Idan Shenfeld et.al.|[2307.03186v1](http://arxiv.org/abs/2307.03186v1)|null|
 |**2023-07-06**|**Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance**|Yuchen Fang et.al.|[2307.03119v1](http://arxiv.org/abs/2307.03119v1)|null|
 |**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
@@ -2789,6 +2801,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Improved Algorithms for White-Box Adversarial Streams**|Ying Feng et.al.|[2307.03529v1](http://arxiv.org/abs/2307.03529v1)|null|
+|**2023-07-07**|**Differential Privacy for Clustering Under Continual Observation**|Max Dupré la Tour et.al.|[2307.03430v1](http://arxiv.org/abs/2307.03430v1)|null|
+|**2023-07-07**|**Variational quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2307.03334v1](http://arxiv.org/abs/2307.03334v1)|null|
 |**2023-07-07**|**Approximation Algorithms for Directed Weighted Spanners**|Elena Grigorescu et.al.|[2307.02774v2](http://arxiv.org/abs/2307.02774v2)|null|
 |**2023-07-05**|**An Approximation Algorithm for the Exact Matching Problem in Bipartite Graphs**|Anita Dürr et.al.|[2307.02205v1](http://arxiv.org/abs/2307.02205v1)|null|
 |**2023-07-04**|**Improved approximation algorithms for some capacitated $k$ edge connectivity problems**|Zeev Nutov et.al.|[2307.01650v1](http://arxiv.org/abs/2307.01650v1)|null|
@@ -3121,6 +3136,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Error-tolerant quantum convolutional neural networks for symmetry-protected topological phases**|Petr Zapletal et.al.|[2307.03711v1](http://arxiv.org/abs/2307.03711v1)|null|
+|**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704v1](http://arxiv.org/abs/2307.03704v1)|null|
+|**2023-07-07**|**Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation**|Dianye Huang et.al.|[2307.03698v1](http://arxiv.org/abs/2307.03698v1)|null|
+|**2023-07-07**|**Fast reconstruction of programmable integrated interferometers**|B. I. Bantysh et.al.|[2307.03635v1](http://arxiv.org/abs/2307.03635v1)|null|
+|**2023-07-07**|**DE-TGN: Uncertainty-Aware Human Motion Forecasting using Deep Ensembles**|Kareem A. Eltouny et.al.|[2307.03610v1](http://arxiv.org/abs/2307.03610v1)|null|
+|**2023-07-07**|**GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting**|Sitan Yang et.al.|[2307.03595v1](http://arxiv.org/abs/2307.03595v1)|null|
+|**2023-07-07**|**VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis**|Paula Feldman et.al.|[2307.03592v1](http://arxiv.org/abs/2307.03592v1)|null|
+|**2023-07-07**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544v1](http://arxiv.org/abs/2307.03544v1)|null|
+|**2023-07-07**|**Tranfer Learning of Semantic Segmentation Methods for Identifying Buried Archaeological Structures on LiDAR Data**|Paolo Soleni et.al.|[2307.03512v1](http://arxiv.org/abs/2307.03512v1)|null|
+|**2023-07-07**|**Learning Theory of Distribution Regression with Neural Networks**|Zhongjie Shi et.al.|[2307.03487v1](http://arxiv.org/abs/2307.03487v1)|null|
+|**2023-07-07**|**Freezing of Gait Prediction From Accelerometer Data Using a Simple 1D-Convolutional Neural Network -- 8th Place Solution for Kaggle's Parkinson's Freezing of Gait Prediction Competition**|Jan Brederecke et.al.|[2307.03475v1](http://arxiv.org/abs/2307.03475v1)|null|
+|**2023-07-07**|**Parametrised polyconvex hyperelasticity with physics-augmented neural networks**|Dominik K. Klein et.al.|[2307.03463v1](http://arxiv.org/abs/2307.03463v1)|null|
+|**2023-07-07**|**A Deep Active Contour Model for Delineating Glacier Calving Fronts**|Konrad Heidler et.al.|[2307.03461v1](http://arxiv.org/abs/2307.03461v1)|null|
+|**2023-07-07**|**A model local interpretation routine for deep learning based radio galaxy classification**|Hongming Tang et.al.|[2307.03453v1](http://arxiv.org/abs/2307.03453v1)|null|
+|**2023-07-07**|**Towards Deep Network Steganography: From Networks to Networks**|Guobiao Li et.al.|[2307.03444v1](http://arxiv.org/abs/2307.03444v1)|null|
+|**2023-07-07**|**RNN Based Channel Estimation in Doubly Selective Environments**|Abdul Karim Gizzini et.al.|[2307.03438v1](http://arxiv.org/abs/2307.03438v1)|null|
+|**2023-07-07**|**Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs**|Tiehua Zhang et.al.|[2307.03411v1](http://arxiv.org/abs/2307.03411v1)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
+|**2023-07-07**|**Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs**|Zhikai Chen et.al.|[2307.03393v1](http://arxiv.org/abs/2307.03393v1)|null|
+|**2023-07-07**|**Distilled Pruning: Using Synthetic Data to Win the Lottery**|Luke McDermott et.al.|[2307.03364v1](http://arxiv.org/abs/2307.03364v1)|null|
+|**2023-07-06**|**Convergence of the momentum method for semi-algebraic functions with locally Lipschitz gradients**|Cédric Josz et.al.|[2307.03331v1](http://arxiv.org/abs/2307.03331v1)|null|
+|**2023-07-06**|**Finding the Dynamics of an Integrable Quantum Many-Body System via Machine Learning**|Victor Wei et.al.|[2307.03310v1](http://arxiv.org/abs/2307.03310v1)|null|
+|**2023-07-06**|**A Vulnerability of Attribution Methods Using Pre-Softmax Scores**|Miguel Lerma et.al.|[2307.03305v1](http://arxiv.org/abs/2307.03305v1)|null|
+|**2023-07-06**|**Equivariant Spherical CNN for Data Efficient and High-Performance Medical Image Processing**|Amirreza Hashemi et.al.|[2307.03298v1](http://arxiv.org/abs/2307.03298v1)|null|
+|**2023-07-06**|**Gammatonegram Representation for End-to-End Dysarthric Speech Processing Tasks: Speech Recognition, Speaker Identification, and Intelligibility Assessment**|Aref Farhadipour et.al.|[2307.03296v1](http://arxiv.org/abs/2307.03296v1)|null|
+|**2023-07-06**|**OmniBoost: Boosting Throughput of Heterogeneous Embedded Devices under Multi-DNN Workload**|Andreas Karatzas et.al.|[2307.03290v1](http://arxiv.org/abs/2307.03290v1)|null|
+|**2023-07-06**|**A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks**|Dibyajyoti Nayak et.al.|[2307.03289v1](http://arxiv.org/abs/2307.03289v1)|null|
+|**2023-07-06**|**Physics-Infused Machine Learning Based Prediction of VTOL Aerodynamics with Sparse Datasets**|Manaswin Oddiraju et.al.|[2307.03286v1](http://arxiv.org/abs/2307.03286v1)|null|
+|**2023-07-06**|**Neural network decoder for near-term surface-code experiments**|Boris M. Varbanov et.al.|[2307.03280v1](http://arxiv.org/abs/2307.03280v1)|null|
+|**2023-07-06**|**A Hybrid Quantum-Classical Generative Adversarial Network for Near-Term Quantum Processors**|Albha O'Dwyer Boyle et.al.|[2307.03269v1](http://arxiv.org/abs/2307.03269v1)|null|
+|**2023-07-06**|**Neural Network Field Theories: Non-Gaussianity, Actions, and Locality**|Mehmet Demirtas et.al.|[2307.03223v1](http://arxiv.org/abs/2307.03223v1)|null|
 |**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176v1](http://arxiv.org/abs/2307.03176v1)|**[link](https://github.com/benruben87/Learning-Curves-for-Heterogeneous-Feature-Subsampled-Ridge-Ensembles)**|
 |**2023-07-06**|**Push Past Green: Learning to Look Behind Plant Foliage by Moving It**|Xiaoyu Zhang et.al.|[2307.03175v1](http://arxiv.org/abs/2307.03175v1)|null|
 |**2023-07-06**|**Benchmarking Test-Time Adaptation against Distribution Shifts in Image Classification**|Yongcan Yu et.al.|[2307.03133v1](http://arxiv.org/abs/2307.03133v1)|**[link](https://github.com/yuyongcan/benchmark-tta)**|
