@@ -1,4 +1,4 @@
-## Updated on 2023.09.04
+## Updated on 2023.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1938,7 +1938,7 @@
 |**2023-03-31**|**Data-enabled Policy Optimization for the Linear Quadratic Regulator**|Feiran Zhao et.al.|[2303.17958v1](http://arxiv.org/abs/2303.17958v1)|null|
 |**2023-03-31**|**DARKSIDE: A Heterogeneous RISC-V Compute Cluster for Extreme-Edge On-Chip DNN Inference and Training**|Angelo Garofalo et.al.|[2303.17954v1](http://arxiv.org/abs/2303.17954v1)|null|
 |**2023-03-31**|**CoSMo: a Framework for Implementing Conditioned Process Simulation Models**|Rafael S. Oyamada et.al.|[2303.17879v1](http://arxiv.org/abs/2303.17879v1)|**[link](https://github.com/raseidi/cosmo)**|
-|**2023-03-31**|**Fused Depthwise Tiling for Memory Optimization in TinyML Deep Neural Network Inference**|Rafael Stahl et.al.|[2303.17878v1](http://arxiv.org/abs/2303.17878v1)|null|
+|**2023-03-31**|**Fused Depthwise Tiling for Memory Optimization in TinyML Deep Neural Network Inference**|Rafael Stahl et.al.|[2303.17878v1](http://arxiv.org/abs/2303.17878v1)|**[link](https://github.com/tum-ei-eda/moiopt)**|
 |**2023-03-31**|**An Efficient Off-Policy Reinforcement Learning Algorithm for the Continuous-Time LQR Problem**|Victor G. Lopez et.al.|[2303.17819v1](http://arxiv.org/abs/2303.17819v1)|null|
 |**2023-03-30**|**Q-learning Based System for Path Planning with UAV Swarms in Obstacle Environments**|Alejandro Puente-Castro et.al.|[2303.17655v1](http://arxiv.org/abs/2303.17655v1)|**[link](https://github.com/themvs/uav_swarms_rl_fixed_obstacles_maps)**|
 |**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651v1](http://arxiv.org/abs/2303.17651v1)|**[link](https://github.com/madaan/self-refine)**|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Optimization
 
@@ -3874,7 +3874,7 @@
 |**2023-06-12**|**Locally adaptive cellular automata for goal-oriented self-organization**|Sina Khajehabdollahi et.al.|[2306.07067v1](http://arxiv.org/abs/2306.07067v1)|null|
 |**2023-06-12**|**Resource Efficient Neural Networks Using Hessian Based Pruning**|Jack Chong et.al.|[2306.07030v1](http://arxiv.org/abs/2306.07030v1)|null|
 |**2023-06-12**|**Theoretical model for the extreme positive magnetoresistance**|George Kastrinakis et.al.|[2306.07020v1](http://arxiv.org/abs/2306.07020v1)|null|
-|**2023-06-12**|**Dynamic Causal Graph Convolutional Network for Traffic Prediction**|Junpeng Lin et.al.|[2306.07019v1](http://arxiv.org/abs/2306.07019v1)|null|
+|**2023-06-12**|**Dynamic Causal Graph Convolutional Network for Traffic Prediction**|Junpeng Lin et.al.|[2306.07019v1](http://arxiv.org/abs/2306.07019v1)|**[link](https://github.com/MonBG/DCGCN)**|
 |**2023-06-12**|**A language-inspired machine learning approach for solving strongly correlated problems with dynamical mean-field theory**|Zelong Zhao et.al.|[2306.06975v1](http://arxiv.org/abs/2306.06975v1)|**[link](https://github.com/zelong-zhao/scalinn)**|
 |**2023-06-12**|**Can Forward Gradient Match Backpropagation?**|Louis Fournier et.al.|[2306.06968v1](http://arxiv.org/abs/2306.06968v1)|**[link](https://github.com/streethagore/forwardlocalgradient)**|
 |**2023-06-12**|**Feature Fusion from Head to Tail: an Extreme Augmenting Strategy for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2306.06963v1](http://arxiv.org/abs/2306.06963v1)|null|
@@ -4417,7 +4417,7 @@
 |**2023-05-26**|**Fast refacing of MR images with a generative neural network lowers re-identification risk and preserves volumetric consistency**|Nataliia Molchanova et.al.|[2305.16922v1](http://arxiv.org/abs/2305.16922v1)|**[link](https://gitlab.com/acit-lausanne/refacing-cgan)**|
 |**2023-05-29**|**Universal approximation with complex-valued deep narrow neural networks**|Paul Geuchen et.al.|[2305.16910v2](http://arxiv.org/abs/2305.16910v2)|null|
 |**2023-05-26**|**Laplace-Approximated Neural Additive Models: Improving Interpretability with Bayesian Inference**|Kouroche Bouchiat et.al.|[2305.16905v1](http://arxiv.org/abs/2305.16905v1)|null|
-|**2023-05-26**|**Generalizing Adam To Manifolds For Efficiently Training Transformers**|Benedikt Brantner et.al.|[2305.16901v1](http://arxiv.org/abs/2305.16901v1)|null|
+|**2023-05-26**|**Generalizing Adam To Manifolds For Efficiently Training Transformers**|Benedikt Brantner et.al.|[2305.16901v1](http://arxiv.org/abs/2305.16901v1)|**[link](https://github.com/juliagni/geometricmachinelearning.jl)**|
 |**2023-05-26**|**Generalization Guarantees of Gradient Descent for Multi-Layer Neural Networks**|Puyu Wang et.al.|[2305.16891v1](http://arxiv.org/abs/2305.16891v1)|null|
 |**2023-05-26**|**Peeking inside Sparse Neural Networks using Multi-Partite Graph Representations**|Elia Cunegatti et.al.|[2305.16886v1](http://arxiv.org/abs/2305.16886v1)|null|
 |**2023-05-26**|**Neural modeling of magnetic tape recorders**|Otto Mikkonen et.al.|[2305.16862v1](http://arxiv.org/abs/2305.16862v1)|null|
@@ -4930,7 +4930,7 @@
 |**2023-05-11**|**Improving constraints on primordial non-Gaussianity using neural network based reconstruction**|Thomas Flöss et.al.|[2305.07018v1](http://arxiv.org/abs/2305.07018v1)|**[link](https://github.com/tsfloss/DensityFieldTools)**|
 |**2023-05-11**|**Neural Wave Functions for Superfluids**|Wan Tong Lou et.al.|[2305.06989v1](http://arxiv.org/abs/2305.06989v1)|null|
 |**2023-05-11**|**Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks**|Eshaan Nichani et.al.|[2305.06986v1](http://arxiv.org/abs/2305.06986v1)|null|
-|**2023-05-11**|**Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting**|Joshua Smailes et.al.|[2305.06947v1](http://arxiv.org/abs/2305.06947v1)|null|
+|**2023-05-11**|**Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting**|Joshua Smailes et.al.|[2305.06947v1](http://arxiv.org/abs/2305.06947v1)|**[link](https://github.com/ssloxford/SatIQ)**|
 |**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
 |**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
 |**2023-05-11**|**Stochastic Variance-Reduced Majorization-Minimization Algorithms**|Duy-Nhat Phan et.al.|[2305.06848v1](http://arxiv.org/abs/2305.06848v1)|**[link](https://github.com/nhatpd/svrmm)**|
@@ -6285,7 +6285,7 @@
 |**2023-03-31**|**Multiple Instance Ensembling For Paranasal Anomaly Classification In The Maxillary Sinus**|Debayan Bhattacharya et.al.|[2303.17915v1](http://arxiv.org/abs/2303.17915v1)|null|
 |**2023-03-31**|**Single-ended Recovery of Optical fiber Transmission Matrices using Neural Networks**|Yijie Zheng et.al.|[2303.17883v1](http://arxiv.org/abs/2303.17883v1)|null|
 |**2023-03-31**|**CoSMo: a Framework for Implementing Conditioned Process Simulation Models**|Rafael S. Oyamada et.al.|[2303.17879v1](http://arxiv.org/abs/2303.17879v1)|**[link](https://github.com/raseidi/cosmo)**|
-|**2023-03-31**|**Fused Depthwise Tiling for Memory Optimization in TinyML Deep Neural Network Inference**|Rafael Stahl et.al.|[2303.17878v1](http://arxiv.org/abs/2303.17878v1)|null|
+|**2023-03-31**|**Fused Depthwise Tiling for Memory Optimization in TinyML Deep Neural Network Inference**|Rafael Stahl et.al.|[2303.17878v1](http://arxiv.org/abs/2303.17878v1)|**[link](https://github.com/tum-ei-eda/moiopt)**|
 |**2023-03-31**|**Zero-point entropies of spin-jam and spin-glass states in a frustrated magnet**|Chairote Piyakulworawat et.al.|[2303.17871v1](http://arxiv.org/abs/2303.17871v1)|null|
 |**2023-03-31**|**Improved Difference Images for Change Detection Classifiers in SAR Imagery Using Deep Learning**|Janne Alatalo et.al.|[2303.17835v1](http://arxiv.org/abs/2303.17835v1)|**[link](https://github.com/janne-alatalo/sar-change-detection)**|
 |**2023-03-31**|**An interpretable neural network-based non-proportional odds model for ordinal regression with continuous response**|Akifumi Okuno et.al.|[2303.17823v1](http://arxiv.org/abs/2303.17823v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
