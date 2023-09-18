@@ -1,4 +1,4 @@
-## Updated on 2023.09.11
+## Updated on 2023.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1585,7 +1585,7 @@
 |**2023-04-19**|**Learning Representative Trajectories of Dynamical Systems via Domain-Adaptive Imitation**|Edgardo Solano-Carrillo et.al.|[2304.10260v1](http://arxiv.org/abs/2304.10260v1)|**[link](https://github.com/dlr-mi/dati)**|
 |**2023-04-20**|**Robust Deep Reinforcement Learning Scheduling via Weight Anchoring**|Steffen Gracla et.al.|[2304.10176v1](http://arxiv.org/abs/2304.10176v1)|**[link](https://github.com/steffengra/dl_lottery)**|
 |**2023-04-20**|**Deep Reinforcement Learning Using Hybrid Quantum Neural Network**|Hao-Yuan Chen et.al.|[2304.10159v1](http://arxiv.org/abs/2304.10159v1)|null|
-|**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|null|
+|**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|**[link](https://github.com/Trustworthy-AI-Group/DHF)**|
 |**2023-04-20**|**Learning Bottleneck Concepts in Image Classification**|Bowen Wang et.al.|[2304.10131v1](http://arxiv.org/abs/2304.10131v1)|**[link](https://github.com/wbw520/botcl)**|
 |**2023-04-20**|**Mastering Asymmetrical Multiplayer Game with Multi-Agent Asymmetric-Evolution Reinforcement Learning**|Chenglu Sun et.al.|[2304.10124v1](http://arxiv.org/abs/2304.10124v1)|null|
 |**2023-04-20**|**Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors**|Hoang-Giang Cao et.al.|[2304.10108v1](http://arxiv.org/abs/2304.10108v1)|null|
@@ -2240,7 +2240,7 @@
 |**2023-03-15**|**On the Calibration and Uncertainty with Pólya-Gamma Augmentation for Dialog Retrieval Models**|Tong Ye et.al.|[2303.08606v1](http://arxiv.org/abs/2303.08606v1)|null|
 |**2023-03-15**|**Efficient Uncertainty Estimation with Gaussian Process for Reliable Dialog Response Retrieval**|Tong Ye et.al.|[2303.08599v1](http://arxiv.org/abs/2303.08599v1)|null|
 |**2023-03-15**|**A machine learning-based tool for open cluster membership determination in Gaia DR3**|M. G. J. van Groeningen et.al.|[2303.08474v1](http://arxiv.org/abs/2303.08474v1)|**[link](https://github.com/mgjvangroeningen/gaia_oc_amd)**|
-|**2023-03-15**|**MAHTM: A Multi-Agent Framework for Hierarchical Transactive Microgrids**|Nicolas Cuadrado et.al.|[2303.08447v1](http://arxiv.org/abs/2303.08447v1)|null|
+|**2023-03-15**|**MAHTM: A Multi-Agent Framework for Hierarchical Transactive Microgrids**|Nicolas Cuadrado et.al.|[2303.08447v1](http://arxiv.org/abs/2303.08447v1)|**[link](https://github.com/nicosquare/rl-energy-management)**|
 |**2023-03-15**|**Policy Gradient Converges to the Globally Optimal Policy for Nearly Linear-Quadratic Regulators**|Yinbin Han et.al.|[2303.08431v1](http://arxiv.org/abs/2303.08431v1)|null|
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414v1](http://arxiv.org/abs/2303.08414v1)|null|
 |**2023-03-15**|**DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification**|Chengliang Liu et.al.|[2303.08358v1](http://arxiv.org/abs/2303.08358v1)|**[link](https://github.com/justsmart/DICNet)**|
@@ -2415,7 +2415,7 @@
 |**2023-03-07**|**ENTROPY: Environment Transformer and Offline Policy Optimization**|Pengqin Wang et.al.|[2303.03811v1](http://arxiv.org/abs/2303.03811v1)|null|
 |**2023-03-07**|**External Camera-based Mobile Robot Pose Estimation for Collaborative Perception with Smart Edge Sensors**|Simon Bultmann et.al.|[2303.03797v1](http://arxiv.org/abs/2303.03797v1)|null|
 |**2023-03-07**|**Roadmap on Deep Learning for Microscopy**|Giovanni Volpe et.al.|[2303.03793v1](http://arxiv.org/abs/2303.03793v1)|null|
-|**2023-03-07**|**Sample-efficient Real-time Planning with Curiosity Cross-Entropy Method and Contrastive Learning**|Mostafa Kotb et.al.|[2303.03787v1](http://arxiv.org/abs/2303.03787v1)|null|
+|**2023-03-07**|**Sample-efficient Real-time Planning with Curiosity Cross-Entropy Method and Contrastive Learning**|Mostafa Kotb et.al.|[2303.03787v1](http://arxiv.org/abs/2303.03787v1)|**[link](https://github.com/2m-kotb/curiosity-cem)**|
 |**2023-03-07**|**Proactive Multi-Camera Collaboration For 3D Human Pose Estimation**|Hai Ci et.al.|[2303.03767v1](http://arxiv.org/abs/2303.03767v1)|null|
 |**2023-03-07**|**Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles**|Zhiwei Tang et.al.|[2303.03751v1](http://arxiv.org/abs/2303.03751v1)|**[link](https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback)**|
 |**2023-03-07**|**Graph Decision Transformer**|Shengchao Hu et.al.|[2303.03747v1](http://arxiv.org/abs/2303.03747v1)|null|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3118,7 +3118,7 @@
 |**2023-01-24**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
 |**2023-01-23**|**Two-Stage Learning For the Flexible Job Shop Scheduling Problem**|Wenbo Chen et.al.|[2301.09703v1](http://arxiv.org/abs/2301.09703v1)|null|
 |**2023-01-25**|**4-clique network minor embedding for quantum annealers**|Elijah Pelofske et.al.|[2301.08807v2](http://arxiv.org/abs/2301.08807v2)|null|
-|**2023-01-20**|**Self-Averaging of Digital MemComputing Machines**|Daniel Primosch et.al.|[2301.08787v1](http://arxiv.org/abs/2301.08787v1)|null|
+|**2023-01-20**|**Self-Averaging of Digital MemComputing Machines**|Daniel Primosch et.al.|[2301.08787v1](http://arxiv.org/abs/2301.08787v1)|**[link](https://github.com/yuanhangzhang98/memcomputing_3sat_demo)**|
 |**2023-01-19**|**Quantum HyperNetworks: Training Binary Neural Networks in Quantum Superposition**|Juan Carrasquilla et.al.|[2301.08292v1](http://arxiv.org/abs/2301.08292v1)|**[link](https://github.com/carrasqu/binncode)**|
 |**2023-01-18**|**Stability of Oscillator Ising Machines: Not All Solutions Are Created Equal**|Mohammad Khairul Bashar et.al.|[2301.07601v1](http://arxiv.org/abs/2301.07601v1)|null|
 |**2023-01-26**|**Information scrambling and entanglement in quantum approximate optimization algorithm circuits**|Chen Qian et.al.|[2301.07445v2](http://arxiv.org/abs/2301.07445v2)|null|
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Optimization
 
@@ -3911,7 +3911,7 @@
 |**2023-06-09**|**Approximate information state based convergence analysis of recurrent Q-learning**|Erfan Seyedsalehi et.al.|[2306.05991v1](http://arxiv.org/abs/2306.05991v1)|null|
 |**2023-06-09**|**Beyond Detection: Visual Realism Assessment of Deepfakes**|Luka Dragar et.al.|[2306.05985v1](http://arxiv.org/abs/2306.05985v1)|null|
 |**2023-06-09**|**Taxonomy of hybridly polarized Stokes vortex beams**|Gauri Arora et.al.|[2306.05974v1](http://arxiv.org/abs/2306.05974v1)|null|
-|**2023-06-09**|**Language Models Can Learn Exceptions to Syntactic Rules**|Cara Su-Yi Leong et.al.|[2306.05969v1](http://arxiv.org/abs/2306.05969v1)|null|
+|**2023-06-09**|**Language Models Can Learn Exceptions to Syntactic Rules**|Cara Su-Yi Leong et.al.|[2306.05969v1](http://arxiv.org/abs/2306.05969v1)|**[link](https://github.com/craaaa/exceptions)**|
 |**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955v1](http://arxiv.org/abs/2306.05955v1)|**[link](https://github.com/gasmichel/pathnns_expressive)**|
 |**2023-06-09**|**Overcoming Adversarial Attacks for Human-in-the-Loop Applications**|Ryan McCoppin et.al.|[2306.05952v1](http://arxiv.org/abs/2306.05952v1)|null|
 |**2023-06-09**|**Impact of conditional modelling for universal autoregressive quantum states**|Massimo Bortone et.al.|[2306.05917v1](http://arxiv.org/abs/2306.05917v1)|**[link](https://github.com/boothgroup/gpsket)**|
@@ -3998,7 +3998,7 @@
 |**2023-06-08**|**Soft Matrix: Extracting Inherent Length Scales in Sheared Amorphous Solids**|Monoj Adhikari et.al.|[2306.04917v1](http://arxiv.org/abs/2306.04917v1)|null|
 |**2023-06-08**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
 |**2023-06-08**|**An adaptive augmented Lagrangian method for training physics and equality constrained artificial neural networks**|Shamsulhaq Basir et.al.|[2306.04904v1](http://arxiv.org/abs/2306.04904v1)|**[link](https://github.com/hipersimlab/pecann)**|
-|**2023-06-07**|**ModuleFormer: Learning Modular Large Language Models From Uncurated Data**|Yikang Shen et.al.|[2306.04640v1](http://arxiv.org/abs/2306.04640v1)|null|
+|**2023-06-07**|**ModuleFormer: Learning Modular Large Language Models From Uncurated Data**|Yikang Shen et.al.|[2306.04640v1](http://arxiv.org/abs/2306.04640v1)|**[link](https://github.com/ibm/moduleformer)**|
 |**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|**[link](https://github.com/allenbai01/transformers-as-statisticians)**|
 |**2023-06-07**|**Uncovering solutions from data corrupted by systematic errors: A physics-constrained convolutional neural network approach**|Daniel Kelshaw et.al.|[2306.04600v1](http://arxiv.org/abs/2306.04600v1)|null|
 |**2023-06-07**|**Multifractality in spin glasses**|Janus Collaboration et.al.|[2306.04591v1](http://arxiv.org/abs/2306.04591v1)|null|
@@ -4501,7 +4501,7 @@
 |**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395v1](http://arxiv.org/abs/2305.15395v1)|**[link](https://github.com/sanglinwei/se2e_dataset)**|
 |**2023-05-24**|**Behavior quantification as the missing link between fields: Tools for digital psychiatry and their role in the future of neurobiology**|Michaela Ennis et.al.|[2305.15385v1](http://arxiv.org/abs/2305.15385v1)|**[link](https://github.com/ennisthemennis/process_audio_diary)**|
 |**2023-05-24**|**Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages**|Khalid Alnajjar et.al.|[2305.15380v1](http://arxiv.org/abs/2305.15380v1)|null|
-|**2023-05-24**|**ASPER: Answer Set Programming Enhanced Neural Network Models for Joint Entity-Relation Extraction**|Trung Hoang Le et.al.|[2305.15374v1](http://arxiv.org/abs/2305.15374v1)|null|
+|**2023-05-24**|**ASPER: Answer Set Programming Enhanced Neural Network Models for Joint Entity-Relation Extraction**|Trung Hoang Le et.al.|[2305.15374v1](http://arxiv.org/abs/2305.15374v1)|**[link](https://github.com/lehgtrung/ASPER)**|
 |**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372v1](http://arxiv.org/abs/2305.15372v1)|**[link](https://github.com/eminorhan/silicon-menagerie)**|
 |**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|**[link](https://github.com/smrhadou/fed-surf)**|
 |**2023-05-24**|**Deep learning non-local and scalable energy functionals for quantum Ising models**|Emanuele Costa et.al.|[2305.15370v1](http://arxiv.org/abs/2305.15370v1)|null|
@@ -4603,7 +4603,7 @@
 |**2023-05-22**|**MAGDiff: Covariate Data Set Shift Detection via Activation Graphs of Deep Neural Networks**|Felix Hensel et.al.|[2305.13271v1](http://arxiv.org/abs/2305.13271v1)|**[link](https://github.com/hensel-f/magdiff_experiments)**|
 |**2023-05-22**|**Modulation Extraction for LFO-driven Audio Effects**|Christopher Mitcheltree et.al.|[2305.13262v1](http://arxiv.org/abs/2305.13262v1)|**[link](https://github.com/christhetree/mod_extraction)**|
 |**2023-05-22**|**Copy Recurrent Neural Network Structure Network**|Xiaofan Zhou et.al.|[2305.13250v1](http://arxiv.org/abs/2305.13250v1)|null|
-|**2023-05-22**|**Bayesian Numerical Integration with Neural Networks**|Katharina Ott et.al.|[2305.13248v1](http://arxiv.org/abs/2305.13248v1)|null|
+|**2023-05-22**|**Bayesian Numerical Integration with Neural Networks**|Katharina Ott et.al.|[2305.13248v1](http://arxiv.org/abs/2305.13248v1)|**[link](https://github.com/andrewkirby2/ctstar_statistical_model)**|
 |**2023-05-22**|**Adaptive Gradient Prediction for DNN Training**|Vahid Janfaza et.al.|[2305.13236v1](http://arxiv.org/abs/2305.13236v1)|null|
 |**2023-05-22**|**Revisiting Data Augmentation in Model Compression: An Empirical and Comprehensive Study**|Muzhou Yu et.al.|[2305.13232v1](http://arxiv.org/abs/2305.13232v1)|null|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
@@ -4704,7 +4704,7 @@
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-18**|**Learning Activation Functions for Sparse Neural Networks**|Mohammad Loni et.al.|[2305.10964v1](http://arxiv.org/abs/2305.10964v1)|**[link](https://github.com/automl/safs)**|
 |**2023-05-18**|**A Bioinspired Synthetic Nervous System Controller for Pick-and-Place Manipulation**|Yanjun Li et.al.|[2305.10954v1](http://arxiv.org/abs/2305.10954v1)|null|
-|**2023-05-18**|**Actor-Critic Methods using Physics-Informed Neural Networks: Control of a 1D PDE Model for Fluid-Cooled Battery Packs**|Amartya Mukherjee et.al.|[2305.10952v1](http://arxiv.org/abs/2305.10952v1)|null|
+|**2023-05-18**|**Actor-Critic Methods using Physics-Informed Neural Networks: Control of a 1D PDE Model for Fluid-Cooled Battery Packs**|Amartya Mukherjee et.al.|[2305.10952v1](http://arxiv.org/abs/2305.10952v1)|**[link](https://github.com/amartyamukherjee/ppo-packcooling)**|
 |**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947v1](http://arxiv.org/abs/2305.10947v1)|null|
 |**2023-05-18**|**Benchmarking a boson sampler with Hamming nets**|Ilia A. Iakovlev et.al.|[2305.10946v1](http://arxiv.org/abs/2305.10946v1)|null|
 |**2023-05-18**|**The generalized Hierarchical Gaussian Filter**|Lilian Aline Weber et.al.|[2305.10937v1](http://arxiv.org/abs/2305.10937v1)|**[link](https://github.com/ilabcode/pyhgf)**|
@@ -5653,7 +5653,7 @@
 |**2023-04-20**|**Deep Reinforcement Learning Using Hybrid Quantum Neural Network**|Hao-Yuan Chen et.al.|[2304.10159v1](http://arxiv.org/abs/2304.10159v1)|null|
 |**2023-04-20**|**Kernel Learning by quantum annealer**|Yasushi Hasegawa et.al.|[2304.10144v1](http://arxiv.org/abs/2304.10144v1)|null|
 |**2023-04-20**|**Renormalization theory of disordered contact processes with heavy-tailed dispersal**|Róbert Juhász et.al.|[2304.10139v1](http://arxiv.org/abs/2304.10139v1)|null|
-|**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|null|
+|**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|**[link](https://github.com/Trustworthy-AI-Group/DHF)**|
 |**2023-04-20**|**Learning Bottleneck Concepts in Image Classification**|Bowen Wang et.al.|[2304.10131v1](http://arxiv.org/abs/2304.10131v1)|**[link](https://github.com/wbw520/botcl)**|
 |**2023-04-20**|**Learning Sample Difficulty from Pre-trained Models for Reliable Prediction**|Peng Cui et.al.|[2304.10127v1](http://arxiv.org/abs/2304.10127v1)|null|
 |**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126v1](http://arxiv.org/abs/2304.10126v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
