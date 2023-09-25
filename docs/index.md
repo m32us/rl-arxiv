@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.18
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -501,7 +501,7 @@ layout: default
 |**2023-06-11**|**Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization**|Thomas Fel et.al.|[2306.06805v1](http://arxiv.org/abs/2306.06805v1)|**[link](https://github.com/deel-ai/xplique)**|
 |**2023-06-11**|**On the Efficacy of 3D Point Cloud Reinforcement Learning**|Zhan Ling et.al.|[2306.06799v1](http://arxiv.org/abs/2306.06799v1)|**[link](https://github.com/lz1oceani/pointcloud_rl)**|
 |**2023-06-13**|**Improving the Validity of Decision Trees as Explanations**|Jiri Nemecek et.al.|[2306.06777v2](http://arxiv.org/abs/2306.06777v2)|**[link](https://github.com/Epanemu/FCT)**|
-|**2023-06-11**|**Generalizable Wireless Navigation through Physics-Informed Reinforcement Learning in Wireless Digital Twin**|Mingsheng Yin et.al.|[2306.06766v1](http://arxiv.org/abs/2306.06766v1)|null|
+|**2023-06-11**|**Generalizable Wireless Navigation through Physics-Informed Reinforcement Learning in Wireless Digital Twin**|Mingsheng Yin et.al.|[2306.06766v1](http://arxiv.org/abs/2306.06766v1)|**[link](https://github.com/panshark/pirl-win)**|
 |**2023-06-11**|**Estimating the Uncertainty in Emotion Attributes using Deep Evidential Regression**|Wen Wu et.al.|[2306.06760v1](http://arxiv.org/abs/2306.06760v1)|**[link](https://github.com/w-wu/deer)**|
 |**2023-06-11**|**Reinforcement Learning in Robotic Motion Planning by Combined Experience-based Planning and Self-Imitation Learning**|Sha Luo et.al.|[2306.06754v1](http://arxiv.org/abs/2306.06754v1)|null|
 |**2023-06-11**|**An information-Theoretic Approach to Semi-supervised Transfer Learning**|Daniel Jakubovitz et.al.|[2306.06731v1](http://arxiv.org/abs/2306.06731v1)|null|
@@ -1348,7 +1348,7 @@ layout: default
 |**2023-05-04**|**A framework for the emergence and analysis of language in social learning agents**|Tobias J. Wieczorek et.al.|[2305.02632v1](http://arxiv.org/abs/2305.02632v1)|null|
 |**2023-05-04**|**IMAP: Intrinsically Motivated Adversarial Policy**|Xiang Zheng et.al.|[2305.02605v1](http://arxiv.org/abs/2305.02605v1)|null|
 |**2023-05-04**|**Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression**|Hao Zhang et.al.|[2305.02583v1](http://arxiv.org/abs/2305.02583v1)|null|
-|**2023-05-04**|**Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning**|Sen Zhao1 et.al.|[2305.02575v1](http://arxiv.org/abs/2305.02575v1)|null|
+|**2023-05-04**|**Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning**|Sen Zhao1 et.al.|[2305.02575v1](http://arxiv.org/abs/2305.02575v1)|**[link](https://github.com/snnzhao/dahcr)**|
 |**2023-05-04**|**Learning Generalizable Pivoting Skills**|Xiang Zhang et.al.|[2305.02554v1](http://arxiv.org/abs/2305.02554v1)|null|
 |**2023-05-04**|**Large-Eddy Simulation of Flow over Boeing Gaussian Bump Using Multi-Agent Reinforcement Learning Wall Model**|Di Zhou et.al.|[2305.02540v1](http://arxiv.org/abs/2305.02540v1)|null|
 |**2023-05-04**|**Reinforcement Learning with Delayed, Composite, and Partially Anonymous Reward**|Washim Uddin Mondal et.al.|[2305.02527v1](http://arxiv.org/abs/2305.02527v1)|null|
@@ -1424,7 +1424,7 @@ layout: default
 |**2023-04-28**|**Hedonic Prices and Quality Adjusted Price Indices Powered by AI**|Patrick Bajari et.al.|[2305.00044v1](http://arxiv.org/abs/2305.00044v1)|null|
 |**2023-04-28**|**Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach**|Chen Chen et.al.|[2305.00043v1](http://arxiv.org/abs/2305.00043v1)|null|
 |**2023-04-28**|**Evolutionary Multi-Objective Aerodynamic Design Optimization Using CFD Simulation Incorporating Deep Neural Network**|Yukito Tsunoda et.al.|[2304.14973v1](http://arxiv.org/abs/2304.14973v1)|null|
-|**2023-04-27**|**Deep sound-field denoiser: optically-measured sound-field denoising using deep neural network**|Kenji Ishikawa et.al.|[2304.14923v1](http://arxiv.org/abs/2304.14923v1)|null|
+|**2023-04-27**|**Deep sound-field denoiser: optically-measured sound-field denoising using deep neural network**|Kenji Ishikawa et.al.|[2304.14923v1](http://arxiv.org/abs/2304.14923v1)|**[link](https://github.com/nttcslab/deep-sound-field-denoiser)**|
 |**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867v1](http://arxiv.org/abs/2304.14867v1)|**[link](https://github.com/ict-bigdatalab/tara)**|
 |**2023-04-28**|**Cost-Sensitive Self-Training for Optimizing Non-Decomposable Metrics**|Harsh Rangwani et.al.|[2304.14738v1](http://arxiv.org/abs/2304.14738v1)|**[link](https://github.com/val-iisc/costsensitiveselftraining)**|
 |**2023-04-28**|**A Federated Reinforcement Learning Framework for Link Activation in Multi-link Wi-Fi Networks**|Rashid Ali et.al.|[2304.14720v1](http://arxiv.org/abs/2304.14720v1)|null|
@@ -2668,7 +2668,7 @@ layout: default
 |**2023-02-23**|**Targeted Search Control in AlphaZero for Effective Policy Improvement**|Alexandre Trudeau et.al.|[2302.12359v1](http://arxiv.org/abs/2302.12359v1)|**[link](https://github.com/alextrudeau/go_exploit)**|
 |**2023-02-23**|**Phase diagram of training dynamics in deep neural networks: effect of learning rate, depth, and width**|Dayal Singh Kalra et.al.|[2302.12250v1](http://arxiv.org/abs/2302.12250v1)|null|
 |**2023-02-24**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v2](http://arxiv.org/abs/2302.12244v2)|null|
-|**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
+|**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|**[link](https://github.com/lgalke/easy2deeplearn)**|
 |**2023-02-23**|**Concept Learning for Interpretable Multi-Agent Reinforcement Learning**|Renos Zabounidis et.al.|[2302.12232v1](http://arxiv.org/abs/2302.12232v1)|null|
 |**2023-02-23**|**Extensions to Generalized Annotated Logic and an Equivalent Neural Architecture**|Paulo Shakarian et.al.|[2302.12195v1](http://arxiv.org/abs/2302.12195v1)|null|
 |**2023-02-23**|**Inequity aversion reduces travel time in the traffic light control problem**|Mersad Hassanjani et.al.|[2302.12053v1](http://arxiv.org/abs/2302.12053v1)|**[link](https://github.com/mersadhj/iacolight)**|
@@ -2945,7 +2945,7 @@ layout: default
 |**2023-04-28**|**Faster Submodular Maximization for Several Classes of Matroids**|Monika Henzinger et.al.|[2305.00122v1](http://arxiv.org/abs/2305.00122v1)|null|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**An Approximation Algorithm for Two-Edge-Connected Subgraph Problem via Triangle-free Two-Edge-Cover**|Yusuke Kobayashi et.al.|[2304.13228v1](http://arxiv.org/abs/2304.13228v1)|null|
-|**2023-04-25**|**Dynamical process of a bit-width reduced Ising model with simulated annealing**|Shuta Kikuchi et.al.|[2304.12796v1](http://arxiv.org/abs/2304.12796v1)|null|
+|**2023-04-25**|**Dynamical process of a bit-width reduced Ising model with simulated annealing**|Shuta Kikuchi et.al.|[2304.12796v1](http://arxiv.org/abs/2304.12796v1)|**[link](https://github.com/shu-tanaka-group/bit-width-reduced-ising-model)**|
 |**2023-04-25**|**An Approximation Algorithm for Covering Vertices by 4^+-Paths**|Mingyang Gong et.al.|[2304.12779v1](http://arxiv.org/abs/2304.12779v1)|null|
 |**2023-04-24**|**Monotone comparative statics for submodular functions, with an application to aggregated deferred acceptance**|Alfred Galichon et.al.|[2304.12171v1](http://arxiv.org/abs/2304.12171v1)|null|
 |**2023-04-24**|**Towards Top- $K$ Non-Overlapping Sequential Patterns**|Zefeng Chen et.al.|[2304.11947v1](http://arxiv.org/abs/2304.11947v1)|null|
@@ -3003,7 +3003,7 @@ layout: default
 |**2023-03-27**|**Randomized rounding algorithms for large scale unsplittable flow problems**|François Lamothe et.al.|[2303.15550v1](http://arxiv.org/abs/2303.15550v1)|**[link](https://github.com/sureli/randomized_rounding_paper_code)**|
 |**2023-03-27**|**Spatial-photonic Boltzmann machines: low-rank combinatorial optimization and statistical learning by spatial light modulation**|Hiroshi Yamashita et.al.|[2303.14993v1](http://arxiv.org/abs/2303.14993v1)|null|
 |**2023-03-27**|**Error-mitigated Quantum Approximate Optimization via Learning-based Adaptive Optimization**|Lixue Cheng et.al.|[2303.14877v1](http://arxiv.org/abs/2303.14877v1)|**[link](https://github.com/sherrylixuecheng/EMQAOA-DARBO)**|
-|**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|null|
+|**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|**[link](https://github.com/brunompacheco/sat-gnn)**|
 |**2023-03-24**|**Initial state encoding via reverse quantum annealing and h-gain features**|Elijah Pelofske et.al.|[2303.13748v1](http://arxiv.org/abs/2303.13748v1)|null|
 |**2023-03-23**|**Particle track reconstruction with noisy intermediate-scale quantum computers**|Tim Schwägerl et.al.|[2303.13249v1](http://arxiv.org/abs/2303.13249v1)|null|
 |**2023-03-23**|**RLOR: A Flexible Framework of Deep Reinforcement Learning for Operation Research**|Ching Pui Wan et.al.|[2303.13117v1](http://arxiv.org/abs/2303.13117v1)|**[link](https://github.com/cpwan/rlor)**|
@@ -3262,7 +3262,7 @@ layout: default
 |**2023-07-03**|**Critical dynamics of long-range quantum disordered systems**|Weitao Chen et.al.|[2307.00999v1](http://arxiv.org/abs/2307.00999v1)|null|
 |**2023-07-03**|**Effect of the cross-section architecture on the impact resistance of bio-inspired low-porosity structures using neural networks**|Shashank Kushwaha et.al.|[2307.00986v1](http://arxiv.org/abs/2307.00986v1)|null|
 |**2023-07-03**|**Predicting beauty, liking, and aesthetic quality: A comparative analysis of image databases for visual aesthetics research**|Ralf Bartho et.al.|[2307.00984v1](http://arxiv.org/abs/2307.00984v1)|null|
-|**2023-07-03**|**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**|Arnaud Allera et.al.|[2307.00978v1](http://arxiv.org/abs/2307.00978v1)|null|
+|**2023-07-03**|**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**|Arnaud Allera et.al.|[2307.00978v1](http://arxiv.org/abs/2307.00978v1)|**[link](https://github.com/ai-atoms/neighbors-maps)**|
 |**2023-07-03**|**Neural Architecture Transfer 2: A Paradigm for Improving Efficiency in Multi-Objective Neural Architecture Search**|Simone Sarti et.al.|[2307.00960v1](http://arxiv.org/abs/2307.00960v1)|null|
 |**2023-07-03**|**A hybrid finite element/neural network solver and its application to the Poisson problem**|Uladzislau Kapustsin et.al.|[2307.00947v1](http://arxiv.org/abs/2307.00947v1)|null|
 |**2023-07-03**|**Influence of the Anderson transition on thermoelectric energy conversion in disordered electronic systems**|I. Khomchenko et.al.|[2307.00921v1](http://arxiv.org/abs/2307.00921v1)|null|
@@ -6352,7 +6352,7 @@ layout: default
 |**2023-03-30**|**Implicit Visual Bias Mitigation by Posterior Estimate Sharpening of a Bayesian Neural Network**|Rebecca S Stone et.al.|[2303.16564v2](http://arxiv.org/abs/2303.16564v2)|null|
 |**2023-03-29**|**Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case**|Maicol Ciani et.al.|[2303.16554v1](http://arxiv.org/abs/2303.16554v1)|null|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
-|**2023-03-29**|**The Backtracking Dynamical Cavity Method**|Freya Behrens et.al.|[2303.16536v1](http://arxiv.org/abs/2303.16536v1)|null|
+|**2023-03-29**|**The Backtracking Dynamical Cavity Method**|Freya Behrens et.al.|[2303.16536v1](http://arxiv.org/abs/2303.16536v1)|**[link](https://github.com/spoc-group/backtracking-dynamical-cavity)**|
 |**2023-03-29**|**Futures Quantitative Investment with Heterogeneous Continual Graph Neural Network**|Zhizhong Tan et.al.|[2303.16532v1](http://arxiv.org/abs/2303.16532v1)|null|
 |**2023-03-29**|**Importance Sampling for Stochastic Gradient Descent in Deep Neural Networks**|Thibault Lahire et.al.|[2303.16529v1](http://arxiv.org/abs/2303.16529v1)|**[link](https://github.com/thibault-lahire/impsampsgd)**|
 |**2023-03-29**|**Ensemble Learning Model on Artificial Neural Network-Backpropagation (ANN-BP) Architecture for Coal Pillar Stability Classification**|G. Aileen Mendrofa et.al.|[2303.16524v1](http://arxiv.org/abs/2303.16524v1)|null|
@@ -6513,7 +6513,7 @@ layout: default
 |**2023-03-24**|**Generalist: Decoupling Natural and Robust Generalization**|Hongjun Wang et.al.|[2303.13813v1](http://arxiv.org/abs/2303.13813v1)|**[link](https://github.com/pku-ml/generalist)**|
 |**2023-03-24**|**Evidence-aware multi-modal data fusion and its application to total knee replacement prediction**|Xinwen Liu et.al.|[2303.13810v1](http://arxiv.org/abs/2303.13810v1)|null|
 |**2023-03-24**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775v1](http://arxiv.org/abs/2303.13775v1)|null|
-|**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|null|
+|**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|**[link](https://github.com/brunompacheco/sat-gnn)**|
 |**2023-03-27**|**Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation from GNNs to MLPs**|Taiqiang Wu et.al.|[2303.13763v2](http://arxiv.org/abs/2303.13763v2)|null|
 |**2023-03-24**|**Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers**|Cong Wei et.al.|[2303.13755v1](http://arxiv.org/abs/2303.13755v1)|null|
 |**2023-03-24**|**LONGNN: Spectral GNNs with Learnable Orthonormal Basis**|Qian Tao et.al.|[2303.13750v1](http://arxiv.org/abs/2303.13750v1)|**[link](https://github.com/taolbr1993/lon-gnn)**|
@@ -7282,7 +7282,7 @@ layout: default
 |**2023-03-01**|**Inline Citation Classification using Peripheral Context and Time-evolving Augmentation**|Priyanshi Gupta et.al.|[2303.00344v1](http://arxiv.org/abs/2303.00344v1)|null|
 |**2023-03-01**|**A Practical Upper Bound for the Worst-Case Attribution Deviations**|Fan Wang et.al.|[2303.00340v1](http://arxiv.org/abs/2303.00340v1)|null|
 |**2023-03-02**|**CAM++: A Fast and Efficient Network for Speaker Verification Using Context-Aware Masking**|Hui Wang et.al.|[2303.00332v2](http://arxiv.org/abs/2303.00332v2)|**[link](https://github.com/alibaba-damo-academy/3D-Speaker)**|
-|**2023-03-01**|**Mean-Field Approximate Optimization Algorithm**|Aditi Misra-Spieldenner et.al.|[2303.00329v1](http://arxiv.org/abs/2303.00329v1)|null|
+|**2023-03-01**|**Mean-Field Approximate Optimization Algorithm**|Aditi Misra-Spieldenner et.al.|[2303.00329v1](http://arxiv.org/abs/2303.00329v1)|**[link](https://github.com/fzj-pgi-12/mean-field-approximate-optimization-algorithm)**|
 |**2023-03-01**|**Empowering Networks With Scale and Rotation Equivariance Using A Similarity Convolution**|Zikai Sun et.al.|[2303.00326v1](http://arxiv.org/abs/2303.00326v1)|null|
 |**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
 |**2023-03-01**|**Speeding Up EfficientNet: Selecting Update Blocks of Convolutional Neural Networks using Genetic Algorithm in Transfer Learning**|Md. Mehedi Hasana et.al.|[2303.00261v1](http://arxiv.org/abs/2303.00261v1)|null|
@@ -7451,7 +7451,7 @@ layout: default
 |**2023-02-23**|**Machine Learning Microscopic Form of Nematic Order in twisted double-bilayer graphene**|João Augusto Sobral et.al.|[2302.12274v1](http://arxiv.org/abs/2302.12274v1)|null|
 |**2023-02-23**|**Dynamical localization and slow dynamics in quasiperiodically-driven quantum systems**|Vatsana Tiwari et.al.|[2302.12271v1](http://arxiv.org/abs/2302.12271v1)|null|
 |**2023-02-23**|**Phase diagram of training dynamics in deep neural networks: effect of learning rate, depth, and width**|Dayal Singh Kalra et.al.|[2302.12250v1](http://arxiv.org/abs/2302.12250v1)|null|
-|**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
+|**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|**[link](https://github.com/lgalke/easy2deeplearn)**|
 |**2023-02-23**|**Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows**|Owen Dugan et.al.|[2302.12235v1](http://arxiv.org/abs/2302.12235v1)|null|
 |**2023-02-23**|**Concept Learning for Interpretable Multi-Agent Reinforcement Learning**|Renos Zabounidis et.al.|[2302.12232v1](http://arxiv.org/abs/2302.12232v1)|null|
 |**2023-02-23**|**Spacetime picture for entanglement generation in noisy fermion chains**|Tobias Swann et.al.|[2302.12212v1](http://arxiv.org/abs/2302.12212v1)|null|
@@ -7511,7 +7511,7 @@ layout: default
 |**2023-02-22**|**On the Relative Role of East and West Pacific Sea Surface Temperature (SST) Gradients in the Prediction Skill of Central Pacific NINO3.4 SST**|Lekshmi S et.al.|[2302.11357v1](http://arxiv.org/abs/2302.11357v1)|null|
 |**2023-02-22**|**Learning Dynamic Graph Embeddings with Neural Controlled Differential Equations**|Tiexin Qin et.al.|[2302.11354v1](http://arxiv.org/abs/2302.11354v1)|null|
 |**2023-02-22**|**Regularised neural networks mimic human insight**|Anika T. Löwe et.al.|[2302.11351v1](http://arxiv.org/abs/2302.11351v1)|null|
-|**2023-02-22**|**HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|null|
+|**2023-02-22**|**HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|**[link](https://github.com/Ffffffffire/HINormer)**|
 |**2023-02-22**|**PAD: Towards Principled Adversarial Malware Detection Against Evasion Attacks**|Deqiang Li et.al.|[2302.11328v1](http://arxiv.org/abs/2302.11328v1)|**[link](https://github.com/deqangss/pad4amd)**|
 |**2023-02-22**|**Boosting the performance of deep learning: A gradient Boosting approach to training convolutional and deep neural network**|Seyedsaman Emami et.al.|[2302.11327v1](http://arxiv.org/abs/2302.11327v1)|**[link](https://github.com/GAA-UAM/GB-CNN)**|
 |**2023-02-22**|**Video-SwinUNet: Spatio-temporal Deep Learning Framework for VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2302.11325v1](http://arxiv.org/abs/2302.11325v1)|**[link](https://github.com/simonzeng7108/video-swinunet)**|
