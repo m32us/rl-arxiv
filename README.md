@@ -1,4 +1,4 @@
-## Updated on 2023.09.25
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1330,7 +1330,7 @@
 |**2023-05-05**|**A Survey on Offline Model-Based Reinforcement Learning**|Haoyang He et.al.|[2305.03360v1](http://arxiv.org/abs/2305.03360v1)|null|
 |**2023-05-05**|**Biophysical Cybernetics of Directed Evolution and Eco-evolutionary Dynamics**|Bryce Allen Bagley et.al.|[2305.03340v1](http://arxiv.org/abs/2305.03340v1)|null|
 |**2023-05-05**|**Nonparametric model for the equations of state of neutron star from deep neural network**|Wenjie Zhou et.al.|[2305.03323v1](http://arxiv.org/abs/2305.03323v1)|null|
-|**2023-05-05**|**Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices**|Chen Wu et.al.|[2305.03308v1](http://arxiv.org/abs/2305.03308v1)|null|
+|**2023-05-05**|**Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices**|Chen Wu et.al.|[2305.03308v1](http://arxiv.org/abs/2305.03308v1)|**[link](https://github.com/heyonghu/tiny-ppg)**|
 |**2023-05-05**|**Composite Motion Learning with Task Control**|Pei Xu et.al.|[2305.03286v1](http://arxiv.org/abs/2305.03286v1)|**[link](https://github.com/xupei0610/compositemotion)**|
 |**2023-05-05**|**Deep RL at Scale: Sorting Waste in Office Buildings with a Fleet of Mobile Manipulators**|Alexander Herzog et.al.|[2305.03270v1](http://arxiv.org/abs/2305.03270v1)|null|
 |**2023-05-05**|**Next-Generation Seismic Monitoring with Neural Operators**|Hongyu Sun et.al.|[2305.03269v1](http://arxiv.org/abs/2305.03269v1)|null|
@@ -1526,7 +1526,7 @@
 |**2023-04-24**|**Multi-channel Speech Separation Using Spatially Selective Deep Non-linear Filters**|Kristina Tesch et.al.|[2304.12023v1](http://arxiv.org/abs/2304.12023v1)|null|
 |**2023-04-24**|**ITER: Iterative Neural Repair for Multi-Location Patches**|He Ye et.al.|[2304.12015v1](http://arxiv.org/abs/2304.12015v1)|null|
 |**2023-04-24**|**Hierarchical State Abstraction Based on Structural Information Principles**|Xianghua Zeng et.al.|[2304.12000v1](http://arxiv.org/abs/2304.12000v1)|**[link](https://github.com/ringbdstack/sisa)**|
-|**2023-04-24**|**Partitioning and Deployment of Deep Neural Networks on Edge Clusters**|Arjun Parthasarathy et.al.|[2304.11941v1](http://arxiv.org/abs/2304.11941v1)|null|
+|**2023-04-24**|**Partitioning and Deployment of Deep Neural Networks on Edge Clusters**|Arjun Parthasarathy et.al.|[2304.11941v1](http://arxiv.org/abs/2304.11941v1)|**[link](https://github.com/anrgusc/seifer)**|
 |**2023-04-24**|**Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving**|Manuel Schwonberg et.al.|[2304.11928v1](http://arxiv.org/abs/2304.11928v1)|null|
 |**2023-04-24**|**Robust Tickets Can Transfer Better: Drawing More Transferable Subnetworks in Transfer Learning**|Yonggan Fu et.al.|[2304.11834v1](http://arxiv.org/abs/2304.11834v1)|null|
 |**2023-04-23**|**Improving Classification Neural Networks by using Absolute activation function (MNIST/LeNET-5 example)**|Oleg I. Berngardt et.al.|[2304.11758v1](http://arxiv.org/abs/2304.11758v1)|**[link](https://github.com/berng/LeNetImproving)**|
@@ -1760,7 +1760,7 @@
 |**2023-04-11**|**Automaton-Guided Curriculum Generation for Reinforcement Learning Agents**|Yash Shukla et.al.|[2304.05271v1](http://arxiv.org/abs/2304.05271v1)|**[link](https://github.com/tufts-ai-robotics-group/automaton-guided-cl)**|
 |**2023-04-13**|**Diagnosing and Augmenting Feature Representations in Correctional Inverse Reinforcement Learning**|Inês Lourenço et.al.|[2304.05238v2](http://arxiv.org/abs/2304.05238v2)|null|
 |**2023-04-11**|**CGXplain: Rule-Based Deep Neural Network Explanations Using Dual Linear Programs**|Konstantin Hemker et.al.|[2304.05207v1](http://arxiv.org/abs/2304.05207v1)|**[link](https://github.com/konst-int-i/cgx)**|
-|**2023-04-11**|**Automatic Gradient Descent: Deep Learning without Hyperparameters**|Jeremy Bernstein et.al.|[2304.05187v1](http://arxiv.org/abs/2304.05187v1)|null|
+|**2023-04-11**|**Automatic Gradient Descent: Deep Learning without Hyperparameters**|Jeremy Bernstein et.al.|[2304.05187v1](http://arxiv.org/abs/2304.05187v1)|**[link](https://github.com/jxbz/agd)**|
 |**2023-04-11**|**Dexterous In-Hand Manipulation of Slender Cylindrical Objects through Deep Reinforcement Learning with Tactile Sensing**|Wenbin Hu et.al.|[2304.05141v1](http://arxiv.org/abs/2304.05141v1)|null|
 |**2023-04-11**|**Video Event Restoration Based on Keyframes for Video Anomaly Detection**|Zhiwei Yang et.al.|[2304.05112v1](http://arxiv.org/abs/2304.05112v1)|null|
 |**2023-04-11**|**Approaching Test Time Augmentation in the Context of Uncertainty Calibration for Deep Neural Networks**|Pedro Conde et.al.|[2304.05104v1](http://arxiv.org/abs/2304.05104v1)|**[link](https://github.com/pedrormconde/mv-atta)**|
@@ -2438,7 +2438,7 @@
 |**2023-03-06**|**Learning Humanoid Locomotion with Transformers**|Ilija Radosavovic et.al.|[2303.03381v1](http://arxiv.org/abs/2303.03381v1)|null|
 |**2023-03-06**|**MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning**|Mikayel Samvelyan et.al.|[2303.03376v1](http://arxiv.org/abs/2303.03376v1)|null|
 |**2023-03-06**|**Efficient Skill Acquisition for Complex Manipulation Tasks in Obstructed Environments**|Jun Yamada et.al.|[2303.03365v1](http://arxiv.org/abs/2303.03365v1)|null|
-|**2023-03-06**|**Reducing Safety Interventions in Provably Safe Reinforcement Learning**|Jakob Thumm et.al.|[2303.03339v1](http://arxiv.org/abs/2303.03339v1)|null|
+|**2023-03-06**|**Reducing Safety Interventions in Provably Safe Reinforcement Learning**|Jakob Thumm et.al.|[2303.03339v1](http://arxiv.org/abs/2303.03339v1)|**[link](https://github.com/jakobthumm/safety-intervention-reduction)**|
 |**2023-03-06**|**Learning to Backdoor Federated Learning**|Henger Li et.al.|[2303.03320v1](http://arxiv.org/abs/2303.03320v1)|**[link](https://github.com/HengerLi/RLBackdoorFL)**|
 |**2023-03-06**|**Graph Neural Network Autoencoders for Efficient Quantum Circuit Optimisation**|Ioana Moflic et.al.|[2303.03280v1](http://arxiv.org/abs/2303.03280v1)|null|
 |**2023-03-06**|**Safe Reinforcement Learning via Probabilistic Logic Shields**|Wen-Chi Yang et.al.|[2303.03226v1](http://arxiv.org/abs/2303.03226v1)|null|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3128,9 +3128,9 @@
 |**2023-01-13**|**Application of Causal Inference Techniques to the Maximum Weight Independent Set Problem**|Jianfeng Liu et.al.|[2301.05510v1](http://arxiv.org/abs/2301.05510v1)|null|
 |**2023-01-13**|**A Nearly-Linear Time Algorithm for Minimizing Risk of Conflict in Social Networks**|Liwang Zhu et.al.|[2301.05466v1](http://arxiv.org/abs/2301.05466v1)|null|
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
-|**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|null|
+|**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|**[link](https://github.com/ddrakulic/bqnco)**|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
 
 ## Optimization
 
@@ -4326,7 +4326,7 @@
 |**2023-05-30**|**Stochastic Gradient Langevin Dynamics Based on Quantized Optimization**|JInwuk Seok et.al.|[2305.18864v1](http://arxiv.org/abs/2305.18864v1)|null|
 |**2023-05-30**|**A Federated Channel Modeling System using Generative Neural Networks**|Saira Bano et.al.|[2305.18856v1](http://arxiv.org/abs/2305.18856v1)|null|
 |**2023-05-30**|**Data Augmentation Methods of Parameter Identification of a Dynamic Model for Harbor Maneuvers**|Kouki Wakita et.al.|[2305.18851v1](http://arxiv.org/abs/2305.18851v1)|null|
-|**2023-05-30**|**Identification of Novel Diagnostic Neuroimaging Biomarkers for Autism Spectrum Disorder Through Convolutional Neural Network-Based Analysis of Functional, Structural, and Diffusion Tensor Imaging Data Towards Enhanced Autism Diagnosis**|Annie Adhikary et.al.|[2305.18841v1](http://arxiv.org/abs/2305.18841v1)|null|
+|**2023-05-30**|**Identification of Novel Diagnostic Neuroimaging Biomarkers for Autism Spectrum Disorder Through Convolutional Neural Network-Based Analysis of Functional, Structural, and Diffusion Tensor Imaging Data Towards Enhanced Autism Diagnosis**|Annie Adhikary et.al.|[2305.18841v1](http://arxiv.org/abs/2305.18841v1)|**[link](https://github.com/annieadhikary/ASD)**|
 |**2023-05-31**|**Convolutional Monge Mapping Normalization for learning on biosignals**|Théo Gnassounou et.al.|[2305.18831v2](http://arxiv.org/abs/2305.18831v2)|null|
 |**2023-05-30**|**Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator**|Guangzhi Sun et.al.|[2305.18824v1](http://arxiv.org/abs/2305.18824v1)|**[link](https://github.com/briansidp/espnet)**|
 |**2023-05-30**|**Language-independent speaker anonymization using orthogonal Householder neural network**|Xiaoxiao Miao et.al.|[2305.18823v1](http://arxiv.org/abs/2305.18823v1)|**[link](https://github.com/nii-yamagishilab/ssl-sas)**|
@@ -5150,7 +5150,7 @@
 |**2023-05-05**|**Nonparametric model for the equations of state of neutron star from deep neural network**|Wenjie Zhou et.al.|[2305.03323v1](http://arxiv.org/abs/2305.03323v1)|null|
 |**2023-05-05**|**HiPool: Modeling Long Documents Using Graph Neural Networks**|Irene Li et.al.|[2305.03319v1](http://arxiv.org/abs/2305.03319v1)|**[link](https://github.com/irenezihuili/hipool)**|
 |**2023-05-05**|**MPMNet: A Data-Driven MPM Framework for Dynamic Fluid-Solid Interaction**|Jin Li et.al.|[2305.03315v1](http://arxiv.org/abs/2305.03315v1)|null|
-|**2023-05-05**|**Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices**|Chen Wu et.al.|[2305.03308v1](http://arxiv.org/abs/2305.03308v1)|null|
+|**2023-05-05**|**Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices**|Chen Wu et.al.|[2305.03308v1](http://arxiv.org/abs/2305.03308v1)|**[link](https://github.com/heyonghu/tiny-ppg)**|
 |**2023-05-05**|**Semantic Segmentation using Vision Transformers: A survey**|Hans Thisanke et.al.|[2305.03273v1](http://arxiv.org/abs/2305.03273v1)|null|
 |**2023-05-05**|**Next-Generation Seismic Monitoring with Neural Operators**|Hongyu Sun et.al.|[2305.03269v1](http://arxiv.org/abs/2305.03269v1)|null|
 |**2023-05-05**|**Experimental Realization of Convolution Processing in Photonic Synthetic Frequency Dimensions**|Lingling Fan et.al.|[2305.03250v1](http://arxiv.org/abs/2305.03250v1)|null|
@@ -5546,7 +5546,7 @@
 |**2023-04-24**|**Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs**|Yinchuan Li et.al.|[2304.11989v1](http://arxiv.org/abs/2304.11989v1)|null|
 |**2023-04-24**|**Optimal Design of Neural Network Structure for Power System Frequency Security Constraints**|Zhuoxuan Li et.al.|[2304.11963v1](http://arxiv.org/abs/2304.11963v1)|null|
 |**2023-04-24**|**Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network**|Chenlin Zhou et.al.|[2304.11954v1](http://arxiv.org/abs/2304.11954v1)|**[link](https://github.com/zhouchenlin2096/spikingformer)**|
-|**2023-04-24**|**Partitioning and Deployment of Deep Neural Networks on Edge Clusters**|Arjun Parthasarathy et.al.|[2304.11941v1](http://arxiv.org/abs/2304.11941v1)|null|
+|**2023-04-24**|**Partitioning and Deployment of Deep Neural Networks on Edge Clusters**|Arjun Parthasarathy et.al.|[2304.11941v1](http://arxiv.org/abs/2304.11941v1)|**[link](https://github.com/anrgusc/seifer)**|
 |**2023-04-24**|**Label-free timing analysis of modularized nuclear detectors with physics-constrained deep learning**|Pengcheng Ai et.al.|[2304.11930v1](http://arxiv.org/abs/2304.11930v1)|null|
 |**2023-04-24**|**Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving**|Manuel Schwonberg et.al.|[2304.11928v1](http://arxiv.org/abs/2304.11928v1)|null|
 |**2023-04-24**|**Data-driven modelling of brain activity using neural networks, Diffusion Maps, and the Koopman operator**|Ioannis K. Gallos et.al.|[2304.11925v1](http://arxiv.org/abs/2304.11925v1)|null|
@@ -5971,7 +5971,7 @@
 |**2023-04-11**|**CGXplain: Rule-Based Deep Neural Network Explanations Using Dual Linear Programs**|Konstantin Hemker et.al.|[2304.05207v1](http://arxiv.org/abs/2304.05207v1)|**[link](https://github.com/konst-int-i/cgx)**|
 |**2023-04-11**|**TinyReptile: TinyML with Federated Meta-Learning**|Haoyu Ren et.al.|[2304.05201v1](http://arxiv.org/abs/2304.05201v1)|null|
 |**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198v1](http://arxiv.org/abs/2304.05198v1)|null|
-|**2023-04-11**|**Automatic Gradient Descent: Deep Learning without Hyperparameters**|Jeremy Bernstein et.al.|[2304.05187v1](http://arxiv.org/abs/2304.05187v1)|null|
+|**2023-04-11**|**Automatic Gradient Descent: Deep Learning without Hyperparameters**|Jeremy Bernstein et.al.|[2304.05187v1](http://arxiv.org/abs/2304.05187v1)|**[link](https://github.com/jxbz/agd)**|
 |**2023-04-11**|**Neural Network Architectures**|Evelyn Herberg et.al.|[2304.05133v1](http://arxiv.org/abs/2304.05133v1)|null|
 |**2023-04-11**|**Online Spatio-Temporal Learning with Target Projection**|Thomas Ortner et.al.|[2304.05124v1](http://arxiv.org/abs/2304.05124v1)|null|
 |**2023-04-11**|**Evaluation of Differentially Constrained Motion Models for Graph-Based Trajectory Prediction**|Theodor Westny et.al.|[2304.05116v1](http://arxiv.org/abs/2304.05116v1)|**[link](https://github.com/westny/mtp-go)**|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
 
