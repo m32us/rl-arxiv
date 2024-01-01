@@ -1,4 +1,4 @@
-## Updated on 2023.12.25
+## Updated on 2024.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -987,7 +987,7 @@
 |**2023-05-23**|**Sequence Modeling is a Robust Contender for Offline Reinforcement Learning**|Prajjwal Bhargava et.al.|[2305.14550v1](http://arxiv.org/abs/2305.14550v1)|**[link](https://github.com/prajjwal1/rl_paradigm)**|
 |**2023-05-23**|**Bulk-Switching Memristor-based Compute-In-Memory Module for Deep Neural Network Training**|Yuting Wu et.al.|[2305.14547v1](http://arxiv.org/abs/2305.14547v1)|null|
 |**2023-05-23**|**DF2M: An Explainable Deep Bayesian Nonparametric Model for High-Dimensional Functional Time Series**|Yirui Liu et.al.|[2305.14543v1](http://arxiv.org/abs/2305.14543v1)|null|
-|**2023-05-23**|**RetICL: Sequential Retrieval of In-Context Examples with Reinforcement Learning**|Alexander Scarlatos et.al.|[2305.14502v1](http://arxiv.org/abs/2305.14502v1)|null|
+|**2023-05-23**|**RetICL: Sequential Retrieval of In-Context Examples with Reinforcement Learning**|Alexander Scarlatos et.al.|[2305.14502v1](http://arxiv.org/abs/2305.14502v1)|**[link](https://github.com/lupantech/promptpg)**|
 |**2023-05-23**|**Language Model Self-improvement by Reinforcement Learning Contemplation**|Jing-Cheng Pang et.al.|[2305.14483v1](http://arxiv.org/abs/2305.14483v1)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
 |**2023-05-23**|**Query Rewriting for Retrieval-Augmented Large Language Models**|Xinbei Ma et.al.|[2305.14283v1](http://arxiv.org/abs/2305.14283v1)|null|
@@ -1385,7 +1385,7 @@
 |**2023-05-02**|**Discovering the Effectiveness of Pre-Training in a Large-scale Car-sharing Platform**|Kyung Ho Park et.al.|[2305.01506v1](http://arxiv.org/abs/2305.01506v1)|null|
 |**2023-05-02**|**An Adaptive Behaviour-Based Strategy for SARs interacting with Older Adults with MCI during a Serious Game Scenario**|Eleonora Zedda et.al.|[2305.01492v1](http://arxiv.org/abs/2305.01492v1)|null|
 |**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
-|**2023-05-02**|**Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management**|Jinming Xu et.al.|[2305.01461v1](http://arxiv.org/abs/2305.01461v1)|null|
+|**2023-05-02**|**Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management**|Jinming Xu et.al.|[2305.01461v1](http://arxiv.org/abs/2305.01461v1)|**[link](https://github.com/xujinming01/td3aq)**|
 |**2023-05-03**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381v2](http://arxiv.org/abs/2305.01381v2)|**[link](https://github.com/shaodaqian/rl-from-ltl)**|
 |**2023-05-05**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v2](http://arxiv.org/abs/2305.01361v2)|**[link](https://github.com/WJJLL/SVD-SSA)**|
 |**2023-05-02**|**Validation of massively-parallel adaptive testing using dynamic control matching**|Schaun Wheeler et.al.|[2305.01334v1](http://arxiv.org/abs/2305.01334v1)|null|
@@ -1978,7 +1978,7 @@
 |**2023-03-29**|**Importance Sampling for Stochastic Gradient Descent in Deep Neural Networks**|Thibault Lahire et.al.|[2303.16529v1](http://arxiv.org/abs/2303.16529v1)|**[link](https://github.com/thibault-lahire/impsampsgd)**|
 |**2023-03-29**|**Learning Complicated Manipulation Skills via Deterministic Policy with Limited Demonstrations**|Liu Haofeng et.al.|[2303.16469v1](http://arxiv.org/abs/2303.16469v1)|null|
 |**2023-03-29**|**Lipschitzness Effect of a Loss Function on Generalization Performance of Deep Neural Networks Trained by Adam and AdamW Optimizers**|Mohammad Lashkari et.al.|[2303.16464v1](http://arxiv.org/abs/2303.16464v1)|null|
-|**2023-03-29**|**Conductivity Imaging from Internal Measurements with Mixed Least-Squares Deep Neural Networks**|Bangti Jin et.al.|[2303.16454v1](http://arxiv.org/abs/2303.16454v1)|null|
+|**2023-03-29**|**Conductivity Imaging from Internal Measurements with Mixed Least-Squares Deep Neural Networks**|Bangti Jin et.al.|[2303.16454v1](http://arxiv.org/abs/2303.16454v1)|**[link](https://github.com/jlqzprj/mixed-dnn)**|
 |**2023-03-29**|**Learning Excavation of Rigid Objects with Offline Reinforcement Learning**|Shiyu Jin et.al.|[2303.16427v1](http://arxiv.org/abs/2303.16427v1)|null|
 |**2023-03-28**|**Reinforcement learning for optimization of energy trading strategy**|Łukasz Lepak et.al.|[2303.16266v1](http://arxiv.org/abs/2303.16266v1)|null|
 |**2023-03-28**|**BC-IRL: Learning Generalizable Reward Functions from Demonstrations**|Andrew Szot et.al.|[2303.16194v1](http://arxiv.org/abs/2303.16194v1)|null|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|**[link](https://github.com/ddrakulic/bqnco)**|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## Optimization
 
@@ -5722,7 +5722,7 @@
 |**2023-04-18**|**Weak Localisation Driven by Pseudospin-Spin Entanglement**|Frederico Sousa et.al.|[2304.09269v1](http://arxiv.org/abs/2304.09269v1)|null|
 |**2023-04-18**|**Neural networks for geospatial data**|Wentao Zhan et.al.|[2304.09157v1](http://arxiv.org/abs/2304.09157v1)|null|
 |**2023-04-18**|**Multi-User Matching and Resource Allocation in Vision Aided Communications**|Weihua Xu et.al.|[2304.09075v1](http://arxiv.org/abs/2304.09075v1)|null|
-|**2023-04-18**|**Electrical Impedance Tomography with Deep Calderón Method**|Siyu Cen et.al.|[2304.09074v1](http://arxiv.org/abs/2304.09074v1)|null|
+|**2023-04-18**|**Electrical Impedance Tomography with Deep Calderón Method**|Siyu Cen et.al.|[2304.09074v1](http://arxiv.org/abs/2304.09074v1)|**[link](https://github.com/kwancheolshin/deep-calderon-method)**|
 |**2023-04-18**|**M-ENIAC: A machine learning recreation of the first successful numerical weather forecasts**|Rüdiger Brecht et.al.|[2304.09070v1](http://arxiv.org/abs/2304.09070v1)|null|
 |**2023-04-18**|**Robustness and complexity**|Steven A. Frank et.al.|[2304.09069v1](http://arxiv.org/abs/2304.09069v1)|null|
 |**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067v1](http://arxiv.org/abs/2304.09067v1)|null|
@@ -6374,7 +6374,7 @@
 |**2023-03-29**|**Lipschitzness Effect of a Loss Function on Generalization Performance of Deep Neural Networks Trained by Adam and AdamW Optimizers**|Mohammad Lashkari et.al.|[2303.16464v1](http://arxiv.org/abs/2303.16464v1)|null|
 |**2023-03-29**|**GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization**|Stefan Abi-Karam et.al.|[2303.16459v1](http://arxiv.org/abs/2303.16459v1)|**[link](https://github.com/sharc-lab/gnn-builder)**|
 |**2023-03-29**|**When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v1](http://arxiv.org/abs/2303.16458v1)|**[link](https://github.com/caoyxuan/w2pgnn)**|
-|**2023-03-29**|**Conductivity Imaging from Internal Measurements with Mixed Least-Squares Deep Neural Networks**|Bangti Jin et.al.|[2303.16454v1](http://arxiv.org/abs/2303.16454v1)|null|
+|**2023-03-29**|**Conductivity Imaging from Internal Measurements with Mixed Least-Squares Deep Neural Networks**|Bangti Jin et.al.|[2303.16454v1](http://arxiv.org/abs/2303.16454v1)|**[link](https://github.com/jlqzprj/mixed-dnn)**|
 |**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
 |**2023-03-29**|**Weak Localization and Antilocalization in Twisted Bilayer Graphene**|Hongyi Yan et.al.|[2303.16436v1](http://arxiv.org/abs/2303.16436v1)|null|
 |**2023-03-29**|**Domain Adaptive Semantic Segmentation by Optimal Transport**|Yaqian Guo et.al.|[2303.16435v1](http://arxiv.org/abs/2303.16435v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
