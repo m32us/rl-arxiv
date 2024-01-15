@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.08
+## Updated on 2024.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -852,7 +852,7 @@ layout: default
 |**2023-05-27**|**A Comparative Analysis of Portfolio Optimization Using Mean-Variance, Hierarchical Risk Parity, and Reinforcement Learning Approaches on the Indian Stock Market**|Jaydip Sen et.al.|[2305.17523v1](http://arxiv.org/abs/2305.17523v1)|null|
 |**2023-05-27**|**USIM-DAL: Uncertainty-aware Statistical Image Modeling-based Dense Active Learning for Super-resolution**|Vikrant Rangnekar et.al.|[2305.17520v1](http://arxiv.org/abs/2305.17520v1)|null|
 |**2023-05-27**|**A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU**|Farhad Mortezapour Shiri et.al.|[2305.17473v1](http://arxiv.org/abs/2305.17473v1)|null|
-|**2023-05-27**|**Modeling Adversarial Attack on Pre-trained Language Models as Sequential Decision Making**|Xuanjie Fang et.al.|[2305.17440v1](http://arxiv.org/abs/2305.17440v1)|null|
+|**2023-05-27**|**Modeling Adversarial Attack on Pre-trained Language Models as Sequential Decision Making**|Xuanjie Fang et.al.|[2305.17440v1](http://arxiv.org/abs/2305.17440v1)|**[link](https://github.com/fduxuan/sdm-attack)**|
 |**2023-05-27**|**Source Free Domain Adaptation of a DNN for SSVEP-based Brain-Computer Interfaces**|Osman Berke Guney et.al.|[2305.17403v1](http://arxiv.org/abs/2305.17403v1)|**[link](https://github.com/osmanberke/sfda-ssvep-bci)**|
 |**2023-05-27**|**Query-Policy Misalignment in Preference-Based Reinforcement Learning**|Xiao Hu et.al.|[2305.17400v1](http://arxiv.org/abs/2305.17400v1)|null|
 |**2023-05-30**|**No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**|Tiancheng Jin et.al.|[2305.17380v2](http://arxiv.org/abs/2305.17380v2)|null|
@@ -3557,7 +3557,7 @@ layout: default
 |**2023-06-23**|**Depinning free of the elastic approximation**|Alejandro B. Kolton et.al.|[2306.13415v1](http://arxiv.org/abs/2306.13415v1)|null|
 |**2023-06-23**|**Physics-informed neural networks modeling for systems with moving immersed boundaries: application to an unsteady flow past a plunging foil**|Rahul Sundar et.al.|[2306.13395v1](http://arxiv.org/abs/2306.13395v1)|null|
 |**2023-06-26**|**Solving a class of multi-scale elliptic PDEs by means of Fourier-based mixed physics informed neural networks**|Xi'an Li et.al.|[2306.13385v2](http://arxiv.org/abs/2306.13385v2)|**[link](https://github.com/blue-giant/fmpinn)**|
-|**2023-06-23**|**TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support**|Jie Wang et.al.|[2306.13339v1](http://arxiv.org/abs/2306.13339v1)|null|
+|**2023-06-23**|**TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support**|Jie Wang et.al.|[2306.13339v1](http://arxiv.org/abs/2306.13339v1)|**[link](https://github.com/jieerbobo/trustguard)**|
 |**2023-06-23**|**Unsupervised Deformable Ultrasound Image Registration and Its Application for Vessel Segmentation**|FNU Abhimanyu et.al.|[2306.13329v1](http://arxiv.org/abs/2306.13329v1)|null|
 |**2023-06-23**|**Modeling of a Liquid Leaf Target TNSA Experiment using Particle-In-Cell Simulations and Deep Learning**|Benedikt Schmitz et.al.|[2306.13316v1](http://arxiv.org/abs/2306.13316v1)|null|
 |**2023-06-23**|**Meta-Gating Framework for Fast and Continuous Resource Optimization in Dynamic Wireless Environments**|Qiushuo Hou et.al.|[2306.13277v1](http://arxiv.org/abs/2306.13277v1)|null|
@@ -6100,7 +6100,7 @@ layout: default
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932v1](http://arxiv.org/abs/2304.02932v1)|null|
 |**2023-04-06**|**Mask Detection and Classification in Thermal Face Images**|Natalia Kowalczyk et.al.|[2304.02931v1](http://arxiv.org/abs/2304.02931v1)|**[link](https://github.com/natkowalczyk/thermal-mask-classification-and-detection)**|
 |**2023-04-06**|**Computer-aided Diagnosis of Malaria through Transfer Learning using the ResNet50 Backbone**|Sanya Sinha et.al.|[2304.02925v1](http://arxiv.org/abs/2304.02925v1)|null|
-|**2023-04-06**|**Classification of Superstatistical Features in High Dimensions**|Urte Adomaityte et.al.|[2304.02912v1](http://arxiv.org/abs/2304.02912v1)|null|
+|**2023-04-06**|**Classification of Superstatistical Features in High Dimensions**|Urte Adomaityte et.al.|[2304.02912v1](http://arxiv.org/abs/2304.02912v1)|**[link](https://github.com/urteado/super_classification)**|
 |**2023-04-07**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v2](http://arxiv.org/abs/2304.02911v2)|null|
 |**2023-04-06**|**Towards Efficient MCMC Sampling in Bayesian Neural Networks by Exploiting Symmetry**|Jonas Gregor Wiese et.al.|[2304.02902v1](http://arxiv.org/abs/2304.02902v1)|null|
 |**2023-04-06**|**Automatic ICD-10 Code Association: A Challenging Task on French Clinical Texts**|Yakini Tchouka et.al.|[2304.02886v1](http://arxiv.org/abs/2304.02886v1)|null|
@@ -6764,7 +6764,7 @@ layout: default
 |**2023-03-16**|**GDDS: Pulmonary Bronchioles Segmentation with Group Deep Dense Supervision**|Mingyue Zhao et.al.|[2303.09212v1](http://arxiv.org/abs/2303.09212v1)|null|
 |**2023-03-16**|**Reduction of rain-induced errors for wind speed estimation on SAR observations using convolutional neural networks**|Aurélien Colin et.al.|[2303.09200v1](http://arxiv.org/abs/2303.09200v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
-|**2023-03-16**|**Fine-Grained and High-Faithfulness Explanations for Convolutional Neural Networks**|Changqing Qiu et.al.|[2303.09171v1](http://arxiv.org/abs/2303.09171v1)|null|
+|**2023-03-16**|**Fine-Grained and High-Faithfulness Explanations for Convolutional Neural Networks**|Changqing Qiu et.al.|[2303.09171v1](http://arxiv.org/abs/2303.09171v1)|**[link](https://github.com/dongmo-qcq/fg-cam)**|
 |**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170v2](http://arxiv.org/abs/2303.09170v2)|**[link](https://github.com/semchan/NLUT)**|
 |**2023-03-16**|**Quasi-localized modes in crystalline high entropy alloys**|Silvia Bonfanti et.al.|[2303.09161v1](http://arxiv.org/abs/2303.09161v1)|null|
 |**2023-03-16**|**Bayesian Generalization Error in Linear Neural Networks with Concept Bottleneck Structure and Multitask Formulation**|Naoki Hayashi et.al.|[2303.09154v1](http://arxiv.org/abs/2303.09154v1)|null|
@@ -6813,7 +6813,7 @@ layout: default
 |**2023-03-15**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v1](http://arxiv.org/abs/2303.08537v1)|**[link](https://github.com/hkuds/simrec)**|
 |**2023-03-15**|**Combined effects of STDP and homeostatic structural plasticity on coherence resonance**|Marius E. Yamakou et.al.|[2303.08530v1](http://arxiv.org/abs/2303.08530v1)|null|
 |**2023-03-15**|**MRGAN360: Multi-stage Recurrent Generative Adversarial Network for 360 Degree Image Saliency Prediction**|Pan Gao et.al.|[2303.08525v1](http://arxiv.org/abs/2303.08525v1)|null|
-|**2023-03-15**|**The Devil's Advocate: Shattering the Illusion of Unexploitable Data using Diffusion Models**|Hadi M. Dolatabadi et.al.|[2303.08500v1](http://arxiv.org/abs/2303.08500v1)|null|
+|**2023-03-15**|**The Devil's Advocate: Shattering the Illusion of Unexploitable Data using Diffusion Models**|Hadi M. Dolatabadi et.al.|[2303.08500v1](http://arxiv.org/abs/2303.08500v1)|**[link](https://github.com/hmdolatabadi/avatar)**|
 |**2023-03-15**|**Strong Baseline and Bag of Tricks for COVID-19 Detection of CT Scans**|Chih-Chung Hsu et.al.|[2303.08490v1](http://arxiv.org/abs/2303.08490v1)|null|
 |**2023-03-15**|**A machine learning-based tool for open cluster membership determination in Gaia DR3**|M. G. J. van Groeningen et.al.|[2303.08474v1](http://arxiv.org/abs/2303.08474v1)|**[link](https://github.com/mgjvangroeningen/gaia_oc_amd)**|
 |**2023-03-15**|**Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs**|Artem Savkin et.al.|[2303.08473v1](http://arxiv.org/abs/2303.08473v1)|null|
