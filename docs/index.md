@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.19
+## Updated on 2024.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -571,7 +571,7 @@ layout: default
 |**2023-06-08**|**Precision-aware Latency and Energy Balancing on Multi-Accelerator Platforms for DNN Inference**|Matteo Risso et.al.|[2306.05060v1](http://arxiv.org/abs/2306.05060v1)|null|
 |**2023-06-08**|**Active Inference in Hebbian Learning Networks**|Ali Safa et.al.|[2306.05053v1](http://arxiv.org/abs/2306.05053v1)|null|
 |**2023-06-08**|**A Gradient-based Approach for Online Robust Deep Neural Network Training with Noisy Labels**|Yifan Yang et.al.|[2306.05046v1](http://arxiv.org/abs/2306.05046v1)|**[link](https://github.com/anonymoussubmission100/ogrs_neurips)**|
-|**2023-06-08**|**Normalization-Equivariant Neural Networks with Application to Image Denoising**|Sébastien Herbreteau et.al.|[2306.05037v1](http://arxiv.org/abs/2306.05037v1)|null|
+|**2023-06-08**|**Normalization-Equivariant Neural Networks with Application to Image Denoising**|Sébastien Herbreteau et.al.|[2306.05037v1](http://arxiv.org/abs/2306.05037v1)|**[link](https://github.com/sherbret/normalization_equivariant_nn)**|
 |**2023-06-08**|**Non-Intrusive Load Monitoring (NILM) using Deep Neural Networks: A Review**|Mohammad Irani Azad et.al.|[2306.05017v1](http://arxiv.org/abs/2306.05017v1)|null|
 |**2023-06-08**|**Progression Cognition Reinforcement Learning with Prioritized Experience for Multi-Vehicle Pursuit**|Xinhang Li et.al.|[2306.05016v1](http://arxiv.org/abs/2306.05016v1)|**[link](https://github.com/bupt-antlab/pepcrl-mvp)**|
 |**2023-06-08**|**A Melting Pot of Evolution and Learning**|Moshe Sipper et.al.|[2306.04971v1](http://arxiv.org/abs/2306.04971v1)|null|
@@ -603,7 +603,7 @@ layout: default
 |**2023-06-07**|**Nuclear mass predictions based on deep neural network and finite-range droplet model (2012)**|To Chung Yiu et.al.|[2306.04171v1](http://arxiv.org/abs/2306.04171v1)|null|
 |**2023-06-07**|**Fairness-Sensitive Policy-Gradient Reinforcement Learning for Reducing Bias in Robotic Assistance**|Jie Zhu et.al.|[2306.04167v1](http://arxiv.org/abs/2306.04167v1)|null|
 |**2023-06-07**|**Multi-Agent Reinforcement Learning for Cooperative Air Transportation Services in City-Wide Autonomous Urban Air Mobility**|Chanyoung Park et.al.|[2306.04137v1](http://arxiv.org/abs/2306.04137v1)|null|
-|**2023-06-07**|**Physics-informed reinforcement learning for sample-efficient optimization of freeform nanophotonic devices**|Chaejin Park et.al.|[2306.04108v1](http://arxiv.org/abs/2306.04108v1)|null|
+|**2023-06-07**|**Physics-informed reinforcement learning for sample-efficient optimization of freeform nanophotonic devices**|Chaejin Park et.al.|[2306.04108v1](http://arxiv.org/abs/2306.04108v1)|**[link](https://github.com/jlabkaist/physics-informed-metasurface)**|
 |**2023-06-06**|**Active Sparse Conversations for Improved Audio-Visual Embodied Navigation**|Xiulong Liu et.al.|[2306.04047v1](http://arxiv.org/abs/2306.04047v1)|null|
 |**2023-06-06**|**Elephant Flows Detection Using Deep Neural Network, Convolutional Neural Network, Long Short Term Memory and Autoencoder**|Getahun Wassie Geremew et.al.|[2306.03995v1](http://arxiv.org/abs/2306.03995v1)|null|
 |**2023-06-06**|**Agent Performing Autonomous Stock Trading under Good and Bad Situations**|Yunfei Luo et.al.|[2306.03985v1](http://arxiv.org/abs/2306.03985v1)|**[link](https://github.com/yunfeiluo/autonomous-stock-trading)**|
@@ -916,7 +916,7 @@ layout: default
 |**2023-05-25**|**Beyond Reward: Offline Preference-guided Policy Optimization**|Yachen Kang et.al.|[2305.16217v1](http://arxiv.org/abs/2305.16217v1)|**[link](https://github.com/bkkgbkjb/oppo)**|
 |**2023-05-25**|**Koopman Kernel Regression**|Petar Bevanda et.al.|[2305.16215v1](http://arxiv.org/abs/2305.16215v1)|**[link](https://github.com/TUM-ITR/koopcore)**|
 |**2023-05-25**|**C-MCTS: Safe Planning with Monte Carlo Tree Search**|Dinesh Parthasarathy et.al.|[2305.16209v1](http://arxiv.org/abs/2305.16209v1)|**[link](https://github.com/mutschcr/c-mcts)**|
-|**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|null|
+|**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|**[link](https://github.com/algue-rythme/lip-dp)**|
 |**2023-05-25**|**Learning Safety Constraints from Demonstrations with Unknown Rewards**|David Lindner et.al.|[2305.16147v1](http://arxiv.org/abs/2305.16147v1)|null|
 |**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin et.al.|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
 |**2023-05-25**|**FAVAS: Federated AVeraging with ASynchronous clients**|Louis Leconte et.al.|[2305.16099v1](http://arxiv.org/abs/2305.16099v1)|null|
@@ -3971,7 +3971,7 @@ layout: default
 |**2023-06-08**|**Introducing Reducing-Width-QNNs, an AI-inspired Ansatz design pattern**|Jonas Stein et.al.|[2306.05047v1](http://arxiv.org/abs/2306.05047v1)|null|
 |**2023-06-08**|**A Gradient-based Approach for Online Robust Deep Neural Network Training with Noisy Labels**|Yifan Yang et.al.|[2306.05046v1](http://arxiv.org/abs/2306.05046v1)|**[link](https://github.com/anonymoussubmission100/ogrs_neurips)**|
 |**2023-06-08**|**Quantum Surrogate Modeling for Chemical and Pharmaceutical Development**|Jonas Stein et.al.|[2306.05042v1](http://arxiv.org/abs/2306.05042v1)|null|
-|**2023-06-08**|**Normalization-Equivariant Neural Networks with Application to Image Denoising**|Sébastien Herbreteau et.al.|[2306.05037v1](http://arxiv.org/abs/2306.05037v1)|null|
+|**2023-06-08**|**Normalization-Equivariant Neural Networks with Application to Image Denoising**|Sébastien Herbreteau et.al.|[2306.05037v1](http://arxiv.org/abs/2306.05037v1)|**[link](https://github.com/sherbret/normalization_equivariant_nn)**|
 |**2023-06-08**|**Mixed-TD: Efficient Neural Network Accelerator with Layer-Specific Tensor Decomposition**|Zhewen Yu et.al.|[2306.05021v1](http://arxiv.org/abs/2306.05021v1)|**[link](https://github.com/yu-zhewen/mixed-td)**|
 |**2023-06-08**|**Non-Intrusive Load Monitoring (NILM) using Deep Neural Networks: A Review**|Mohammad Irani Azad et.al.|[2306.05017v1](http://arxiv.org/abs/2306.05017v1)|null|
 |**2023-06-08**|**Ambulance Demand Prediction via Convolutional Neural Networks**|Maximiliane Rautenstrauß et.al.|[2306.04994v1](http://arxiv.org/abs/2306.04994v1)|null|
@@ -4441,7 +4441,7 @@ layout: default
 |**2023-05-25**|**Making Vision Transformers Truly Shift-Equivariant**|Renan A. Rojas-Gomez et.al.|[2305.16316v1](http://arxiv.org/abs/2305.16316v1)|null|
 |**2023-05-25**|**Sharpness-Aware Minimization Leads to Low-Rank Features**|Maksym Andriushchenko et.al.|[2305.16292v1](http://arxiv.org/abs/2305.16292v1)|**[link](https://github.com/tml-epfl/sam-low-rank-features)**|
 |**2023-05-25**|**Neural Natural Language Processing for Long Texts: A Survey of the State-of-the-Art**|Dimitrios Tsirmpas et.al.|[2305.16259v1](http://arxiv.org/abs/2305.16259v1)|null|
-|**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|null|
+|**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|**[link](https://github.com/algue-rythme/lip-dp)**|
 |**2023-05-25**|**Dropout Drops Double Descent**|Tian-Le Yang et.al.|[2305.16179v1](http://arxiv.org/abs/2305.16179v1)|null|
 |**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174v1](http://arxiv.org/abs/2305.16174v1)|null|
 |**2023-05-26**|**Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration**|Blaise Delattre et.al.|[2305.16173v2](http://arxiv.org/abs/2305.16173v2)|**[link](https://github.com/blaisedelattre/lip4conv)**|
