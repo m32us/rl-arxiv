@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.04
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -294,7 +294,7 @@ layout: default
 |**2023-06-22**|**RobustNeuralNetworks.jl: a Package for Machine Learning and Data-Driven Control with Certified Robustness**|Nicholas H. Barbara et.al.|[2306.12612v1](http://arxiv.org/abs/2306.12612v1)|**[link](https://github.com/acfr/RobustNeuralNetworks.jl)**|
 |**2023-06-21**|**State-wise Constrained Policy Optimization**|Weiye Zhao et.al.|[2306.12594v1](http://arxiv.org/abs/2306.12594v1)|**[link](https://github.com/intelligent-control-lab/statewise_constrained_policy_optimization)**|
 |**2023-06-21**|**Finite-time Lyapunov exponents of deep neural networks**|L. Storm et.al.|[2306.12548v1](http://arxiv.org/abs/2306.12548v1)|null|
-|**2023-06-21**|**Density Uncertainty Layers for Reliable Uncertainty Estimation**|Yookoon Park et.al.|[2306.12497v1](http://arxiv.org/abs/2306.12497v1)|null|
+|**2023-06-21**|**Density Uncertainty Layers for Reliable Uncertainty Estimation**|Yookoon Park et.al.|[2306.12497v1](http://arxiv.org/abs/2306.12497v1)|**[link](https://github.com/yookoon/density_uncertainty_layers)**|
 |**2023-06-21**|**One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments**|Yufei Wang et.al.|[2306.12372v1](http://arxiv.org/abs/2306.12372v1)|null|
 |**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371v1](http://arxiv.org/abs/2306.12371v1)|null|
 |**2023-06-21**|**Introspective Action Advising for Interpretable Transfer Learning**|Joseph Campbell et.al.|[2306.12314v1](http://arxiv.org/abs/2306.12314v1)|null|
@@ -374,7 +374,7 @@ layout: default
 |**2023-06-19**|**Option Dynamic Hedging Using Reinforcement Learning**|Cong Zheng et.al.|[2306.10743v1](http://arxiv.org/abs/2306.10743v1)|null|
 |**2023-06-16**|**Coaching a Teachable Student**|Jimuyang Zhang et.al.|[2306.10014v1](http://arxiv.org/abs/2306.10014v1)|**[link](https://github.com/h2xlab/CaT)**|
 |**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995v1](http://arxiv.org/abs/2306.09995v1)|null|
-|**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980v1](http://arxiv.org/abs/2306.09980v1)|null|
+|**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980v1](http://arxiv.org/abs/2306.09980v1)|**[link](https://github.com/bath-reinforcement-learning-lab/louvain-skills-neurips-2023)**|
 |**2023-06-16**|**Enhancing Fault Resilience of QNNs by Selective Neuron Splitting**|Mohammad Hasan Ahmadilivani et.al.|[2306.09973v1](http://arxiv.org/abs/2306.09973v1)|null|
 |**2023-06-16**|**The Evolution theory of Learning: From Natural Selection to Reinforcement Learning**|Taboubi Ahmed et.al.|[2306.09961v1](http://arxiv.org/abs/2306.09961v1)|null|
 |**2023-06-16**|**Knowledge Distillation for Efficient Audio-Visual Video Captioning**|Özkan Çaylı et.al.|[2306.09947v1](http://arxiv.org/abs/2306.09947v1)|null|
@@ -917,7 +917,7 @@ layout: default
 |**2023-05-25**|**Koopman Kernel Regression**|Petar Bevanda et.al.|[2305.16215v1](http://arxiv.org/abs/2305.16215v1)|**[link](https://github.com/TUM-ITR/koopcore)**|
 |**2023-05-25**|**C-MCTS: Safe Planning with Monte Carlo Tree Search**|Dinesh Parthasarathy et.al.|[2305.16209v1](http://arxiv.org/abs/2305.16209v1)|**[link](https://github.com/mutschcr/c-mcts)**|
 |**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|**[link](https://github.com/algue-rythme/lip-dp)**|
-|**2023-05-25**|**Learning Safety Constraints from Demonstrations with Unknown Rewards**|David Lindner et.al.|[2305.16147v1](http://arxiv.org/abs/2305.16147v1)|null|
+|**2023-05-25**|**Learning Safety Constraints from Demonstrations with Unknown Rewards**|David Lindner et.al.|[2305.16147v1](http://arxiv.org/abs/2305.16147v1)|**[link](https://github.com/lasgroup/cocorl)**|
 |**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin et.al.|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
 |**2023-05-25**|**FAVAS: Federated AVeraging with ASynchronous clients**|Louis Leconte et.al.|[2305.16099v1](http://arxiv.org/abs/2305.16099v1)|null|
 |**2023-05-25**|**Markov Decision Process with an External Temporal Process**|Ranga Shaarad Ayyagari et.al.|[2305.16056v1](http://arxiv.org/abs/2305.16056v1)|null|
@@ -3316,7 +3316,7 @@ layout: default
 |**2023-06-30**|**MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems**|Markus J. Buehler et.al.|[2306.17525v1](http://arxiv.org/abs/2306.17525v1)|null|
 |**2023-06-30**|**Systematic Investigation of Sparse Perturbed Sharpness-Aware Minimization Optimizer**|Peng Mi et.al.|[2306.17504v1](http://arxiv.org/abs/2306.17504v1)|**[link](https://github.com/mi-peng/systematic-investigation-of-sparse-perturbed-sharpness-aware-minimization-optimizer)**|
 |**2023-06-30**|**Efficient uniform approximation using Random Vector Functional Link networks**|Palina Salanevich et.al.|[2306.17501v1](http://arxiv.org/abs/2306.17501v1)|null|
-|**2023-06-30**|**Multigrid-Augmented Deep Learning for the Helmholtz Equation: Better Scalability with Compact Implicit Layers**|Bar Lerer et.al.|[2306.17486v1](http://arxiv.org/abs/2306.17486v1)|null|
+|**2023-06-30**|**Multigrid-Augmented Deep Learning for the Helmholtz Equation: Better Scalability with Compact Implicit Layers**|Bar Lerer et.al.|[2306.17486v1](http://arxiv.org/abs/2306.17486v1)|**[link](https://github.com/bgucompsci/compactimplicithelmholtz)**|
 |**2023-06-30**|**Detection-segmentation convolutional neural network for autonomous vehicle perception**|Maciej Baczmanski et.al.|[2306.17485v1](http://arxiv.org/abs/2306.17485v1)|**[link](https://github.com/vision-agh/mmar_2023)**|
 |**2023-06-30**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482v1](http://arxiv.org/abs/2306.17482v1)|**[link](https://github.com/meakbiyik/graphtester)**|
 |**2023-06-30**|**Designing strong baselines for ternary neural network quantization through support and mass equalization**|Edouard Yvinec et.al.|[2306.17442v1](http://arxiv.org/abs/2306.17442v1)|null|
@@ -3349,7 +3349,7 @@ layout: default
 |**2023-06-29**|**Spectral Batch Normalization: Normalization in the Frequency Domain**|Rinor Cakaj et.al.|[2306.16999v1](http://arxiv.org/abs/2306.16999v1)|null|
 |**2023-06-29**|**Weight Compander: A Simple Weight Reparameterization for Regularization**|Rinor Cakaj et.al.|[2306.16993v1](http://arxiv.org/abs/2306.16993v1)|null|
 |**2023-06-29**|**Defending Black-box Classifiers by Bayesian Boundary Correction**|He Wang et.al.|[2306.16979v1](http://arxiv.org/abs/2306.16979v1)|null|
-|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
+|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|**[link](https://github.com/AhmedBegggaUA/TFM)**|
 |**2023-06-29**|**BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion**|Michael J. Black et.al.|[2306.16940v1](http://arxiv.org/abs/2306.16940v1)|**[link](https://github.com/PerceivingSystems/bedlam_render)**|
 |**2023-06-29**|**Restore Translation Using Equivariant Neural Networks**|Yihan Wang et.al.|[2306.16938v1](http://arxiv.org/abs/2306.16938v1)|null|
 |**2023-06-29**|**A Quantitative Functional Central Limit Theorem for Shallow Neural Networks**|Valentina Cammarota et.al.|[2306.16932v1](http://arxiv.org/abs/2306.16932v1)|null|
@@ -3600,7 +3600,7 @@ layout: default
 |**2023-06-22**|**Accelerated Training via Incrementally Growing Neural Networks using Variance Transfer and Learning Rate Adaptation**|Xin Yuan et.al.|[2306.12700v1](http://arxiv.org/abs/2306.12700v1)|null|
 |**2023-06-22**|**Slimmable Encoders for Flexible Split DNNs in Bandwidth and Resource Constrained IoT Systems**|Juliano S. Assine et.al.|[2306.12691v1](http://arxiv.org/abs/2306.12691v1)|null|
 |**2023-06-22**|**Vec2Vec: A Compact Neural Network Approach for Transforming Text Embeddings with High Fidelity**|Andrew Kean Gao et.al.|[2306.12689v1](http://arxiv.org/abs/2306.12689v1)|null|
-|**2023-06-22**|**Constructing Colloquial Dataset for Persian Sentiment Analysis of Social Microblogs**|Mojtaba Mazoochi et.al.|[2306.12679v1](http://arxiv.org/abs/2306.12679v1)|null|
+|**2023-06-22**|**Constructing Colloquial Dataset for Persian Sentiment Analysis of Social Microblogs**|Mojtaba Mazoochi et.al.|[2306.12679v1](http://arxiv.org/abs/2306.12679v1)|**[link](https://github.com/zekavat-itrc/sentiment-analysis)**|
 |**2023-06-22**|**Memristive Reservoirs Learn to Learn**|Ruomin Zhu et.al.|[2306.12676v1](http://arxiv.org/abs/2306.12676v1)|null|
 |**2023-06-22**|**Identifying and Disentangling Spurious Features in Pretrained Image Representations**|Rafayel Darbinyan et.al.|[2306.12673v1](http://arxiv.org/abs/2306.12673v1)|null|
 |**2023-06-22**|**Accelerating SNN Training with Stochastic Parallelizable Spiking Neurons**|Sidi Yaya Arnaud Yarga et.al.|[2306.12666v1](http://arxiv.org/abs/2306.12666v1)|**[link](https://github.com/necotis/stochastic-parallelizable-spiking-neuron-spsn)**|
@@ -3617,7 +3617,7 @@ layout: default
 |**2023-06-21**|**Finite-time Lyapunov exponents of deep neural networks**|L. Storm et.al.|[2306.12548v1](http://arxiv.org/abs/2306.12548v1)|null|
 |**2023-06-21**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D Matching**|Shuzhe Wang et.al.|[2306.12547v1](http://arxiv.org/abs/2306.12547v1)|null|
 |**2023-06-21**|**Comparative Analysis of Segment Anything Model and U-Net for Breast Tumor Detection in Ultrasound and Mammography Images**|Mohsen Ahmadi et.al.|[2306.12510v1](http://arxiv.org/abs/2306.12510v1)|null|
-|**2023-06-21**|**Density Uncertainty Layers for Reliable Uncertainty Estimation**|Yookoon Park et.al.|[2306.12497v1](http://arxiv.org/abs/2306.12497v1)|null|
+|**2023-06-21**|**Density Uncertainty Layers for Reliable Uncertainty Estimation**|Yookoon Park et.al.|[2306.12497v1](http://arxiv.org/abs/2306.12497v1)|**[link](https://github.com/yookoon/density_uncertainty_layers)**|
 |**2023-06-21**|**Verifying Global Neural Network Specifications using Hyperproperties**|David Boetius et.al.|[2306.12495v1](http://arxiv.org/abs/2306.12495v1)|null|
 |**2023-06-21**|**Quasiperiodicity hinders ergodic Floquet eigenstates**|Miguel Gonçalves et.al.|[2306.12479v1](http://arxiv.org/abs/2306.12479v1)|null|
 |**2023-06-21**|**Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference**|Boyan Li et.al.|[2306.12465v1](http://arxiv.org/abs/2306.12465v1)|null|
@@ -5713,7 +5713,7 @@ layout: default
 |**2023-04-18**|**Neural networks for geospatial data**|Wentao Zhan et.al.|[2304.09157v1](http://arxiv.org/abs/2304.09157v1)|null|
 |**2023-04-18**|**Multi-User Matching and Resource Allocation in Vision Aided Communications**|Weihua Xu et.al.|[2304.09075v1](http://arxiv.org/abs/2304.09075v1)|null|
 |**2023-04-18**|**Electrical Impedance Tomography with Deep Calderón Method**|Siyu Cen et.al.|[2304.09074v1](http://arxiv.org/abs/2304.09074v1)|**[link](https://github.com/kwancheolshin/deep-calderon-method)**|
-|**2023-04-18**|**M-ENIAC: A machine learning recreation of the first successful numerical weather forecasts**|Rüdiger Brecht et.al.|[2304.09070v1](http://arxiv.org/abs/2304.09070v1)|null|
+|**2023-04-18**|**M-ENIAC: A machine learning recreation of the first successful numerical weather forecasts**|Rüdiger Brecht et.al.|[2304.09070v1](http://arxiv.org/abs/2304.09070v1)|**[link](https://github.com/abihlo/meniac)**|
 |**2023-04-18**|**Robustness and complexity**|Steven A. Frank et.al.|[2304.09069v1](http://arxiv.org/abs/2304.09069v1)|null|
 |**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067v1](http://arxiv.org/abs/2304.09067v1)|null|
 |**2023-04-18**|**DeepGEMM: Accelerated Ultra Low-Precision Inference on CPU Architectures using Lookup Tables**|Darshan C. Ganji et.al.|[2304.09049v1](http://arxiv.org/abs/2304.09049v1)|null|
