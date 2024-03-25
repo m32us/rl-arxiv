@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.18
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -934,7 +934,7 @@ layout: default
 |**2023-05-25**|**PROTO: Iterative Policy Regularized Offline-to-Online Reinforcement Learning**|Jianxiong Li et.al.|[2305.15669v1](http://arxiv.org/abs/2305.15669v1)|**[link](https://github.com/Facebear-ljx/PROTO)**|
 |**2023-05-24**|**Matrix Estimation for Offline Reinforcement Learning with Low-Rank Structure**|Xumei Xi et.al.|[2305.15621v1](http://arxiv.org/abs/2305.15621v1)|null|
 |**2023-05-24**|**Control invariant set enhanced safe reinforcement learning: improved sampling efficiency, guaranteed stability and robustness**|Song Bo et.al.|[2305.15602v1](http://arxiv.org/abs/2305.15602v1)|null|
-|**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596v1](http://arxiv.org/abs/2305.15596v1)|null|
+|**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596v1](http://arxiv.org/abs/2305.15596v1)|**[link](https://github.com/sopslab/distributed-multi-agent-rollout)**|
 |**2023-05-24**|**Deep Reinforcement Learning with Plasticity Injection**|Evgenii Nikishin et.al.|[2305.15555v1](http://arxiv.org/abs/2305.15555v1)|null|
 |**2023-05-24**|**Regret-Optimal Model-Free Reinforcement Learning for Discounted MDPs with Short Burn-In Time**|Xiang Ji et.al.|[2305.15546v1](http://arxiv.org/abs/2305.15546v1)|null|
 |**2023-05-24**|**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**|Yuan Yang et.al.|[2305.15541v1](http://arxiv.org/abs/2305.15541v1)|**[link](https://github.com/gblackout/logicllama)**|
@@ -1089,7 +1089,7 @@ layout: default
 |**2023-05-18**|**Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models**|Wenhao Ding et.al.|[2305.11340v1](http://arxiv.org/abs/2305.11340v1)|null|
 |**2023-05-18**|**Bayesian Risk-Averse Q-Learning with Streaming Observations**|Yuhao Wang et.al.|[2305.11300v1](http://arxiv.org/abs/2305.11300v1)|null|
 |**2023-05-18**|**Massively Scalable Inverse Reinforcement Learning in Google Maps**|Matt Barnes et.al.|[2305.11290v1](http://arxiv.org/abs/2305.11290v1)|null|
-|**2023-05-18**|**Riemannian Multiclass Logistics Regression for SPD Neural Networks**|Ziheng Chen et.al.|[2305.11288v1](http://arxiv.org/abs/2305.11288v1)|null|
+|**2023-05-18**|**Riemannian Multiclass Logistics Regression for SPD Neural Networks**|Ziheng Chen et.al.|[2305.11288v1](http://arxiv.org/abs/2305.11288v1)|**[link](https://github.com/gitzh-chen/spdmlr)**|
 |**2023-05-18**|**On the Statistical Efficiency of Mean Field Reinforcement Learning with General Function Approximation**|Jiawei Huang et.al.|[2305.11283v1](http://arxiv.org/abs/2305.11283v1)|null|
 |**2023-05-18**|**Constrained Environment Optimization for Prioritized Multi-Agent Navigation**|Zhan Gao et.al.|[2305.11260v1](http://arxiv.org/abs/2305.11260v1)|null|
 |**2023-05-18**|**DRL meets DSA Networks: Convergence Analysis and Its Application to System Design**|Ramin Safavinejad et.al.|[2305.11237v1](http://arxiv.org/abs/2305.11237v1)|null|
@@ -1163,7 +1163,7 @@ layout: default
 |**2023-05-16**|**Addressing computational challenges in physical system simulations with machine learning**|Sabber Ahamed et.al.|[2305.09627v1](http://arxiv.org/abs/2305.09627v1)|null|
 |**2023-05-16**|**Deep Reinforcement Learning to Maximize Arterial Usage during Extreme Congestion**|Ashutosh Dutta et.al.|[2305.09600v1](http://arxiv.org/abs/2305.09600v1)|null|
 |**2023-05-16**|**Boosting Event Extraction with Denoised Structure-to-Text Augmentation**|bo wang et.al.|[2305.09598v1](http://arxiv.org/abs/2305.09598v1)|null|
-|**2023-05-16**|**Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection**|Amin Sarihi et.al.|[2305.09592v1](http://arxiv.org/abs/2305.09592v1)|null|
+|**2023-05-16**|**Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection**|Amin Sarihi et.al.|[2305.09592v1](http://arxiv.org/abs/2305.09592v1)|**[link](https://github.com/nmsu-pearl/hardware-trojan-insertion-and-detection-with-reinforcement-learning)**|
 |**2023-05-16**|**An Empirical Study on Google Research Football Multi-agent Scenarios**|Yan Song et.al.|[2305.09458v1](http://arxiv.org/abs/2305.09458v1)|**[link](https://github.com/shanghai-digital-brain-laboratory/db-football)**|
 |**2023-05-16**|**Numerical solution of Poisson partial differential equations in high dimension using deep neural networks**|Mathias Dus et.al.|[2305.09408v1](http://arxiv.org/abs/2305.09408v1)|null|
 |**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
@@ -4674,7 +4674,7 @@ layout: default
 |**2023-05-19**|**Meta-learning for heterogeneous treatment effect estimation with closed-form solvers**|Tomoharu Iwata et.al.|[2305.11353v1](http://arxiv.org/abs/2305.11353v1)|null|
 |**2023-05-18**|**SpikeCP: Delay-Adaptive Reliable Spiking Neural Networks via Conformal Prediction**|Jiechen Chen et.al.|[2305.11322v1](http://arxiv.org/abs/2305.11322v1)|null|
 |**2023-05-18**|**Improving Toponym Resolution with Better Candidate Generation, Transformer-based Reranking, and Two-Stage Resolution**|Zeyu Zhang et.al.|[2305.11315v1](http://arxiv.org/abs/2305.11315v1)|**[link](https://github.com/clulab/geonorm)**|
-|**2023-05-18**|**Riemannian Multiclass Logistics Regression for SPD Neural Networks**|Ziheng Chen et.al.|[2305.11288v1](http://arxiv.org/abs/2305.11288v1)|null|
+|**2023-05-18**|**Riemannian Multiclass Logistics Regression for SPD Neural Networks**|Ziheng Chen et.al.|[2305.11288v1](http://arxiv.org/abs/2305.11288v1)|**[link](https://github.com/gitzh-chen/spdmlr)**|
 |**2023-05-18**|**Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture**|Galen Pogoncheff et.al.|[2305.11275v1](http://arxiv.org/abs/2305.11275v1)|null|
 |**2023-05-18**|**Energy dissipation in high speed impact on granular media**|Manish Kumar Mandal et.al.|[2305.11269v1](http://arxiv.org/abs/2305.11269v1)|null|
 |**2023-05-18**|**Brain-inspired learning in artificial neural networks: a review**|Samuel Schmidgall et.al.|[2305.11252v1](http://arxiv.org/abs/2305.11252v1)|null|
@@ -5715,7 +5715,7 @@ layout: default
 |**2023-04-18**|**Electrical Impedance Tomography with Deep Calderón Method**|Siyu Cen et.al.|[2304.09074v1](http://arxiv.org/abs/2304.09074v1)|**[link](https://github.com/kwancheolshin/deep-calderon-method)**|
 |**2023-04-18**|**M-ENIAC: A machine learning recreation of the first successful numerical weather forecasts**|Rüdiger Brecht et.al.|[2304.09070v1](http://arxiv.org/abs/2304.09070v1)|**[link](https://github.com/abihlo/meniac)**|
 |**2023-04-18**|**Robustness and complexity**|Steven A. Frank et.al.|[2304.09069v1](http://arxiv.org/abs/2304.09069v1)|null|
-|**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067v1](http://arxiv.org/abs/2304.09067v1)|null|
+|**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067v1](http://arxiv.org/abs/2304.09067v1)|**[link](https://github.com/cis-ncbj/covid19-stylegan-augmentation)**|
 |**2023-04-18**|**DeepGEMM: Accelerated Ultra Low-Precision Inference on CPU Architectures using Lookup Tables**|Darshan C. Ganji et.al.|[2304.09049v1](http://arxiv.org/abs/2304.09049v1)|null|
 |**2023-04-18**|**Machine Learning Methods for Autonomous Ordinary Differential Equations**|Maxime Bouchereau et.al.|[2304.09036v1](http://arxiv.org/abs/2304.09036v1)|null|
 |**2023-04-19**|**Energy-Efficient Design of STAR-RIS Aided MIMO-NOMA Networks**|Fang Fang et.al.|[2304.08996v2](http://arxiv.org/abs/2304.08996v2)|null|
@@ -7392,7 +7392,7 @@ layout: default
 |**2023-02-27**|**Automatic detection of boosted Higgs and top quark jets in event image**|SangKwan Choi et.al.|[2302.13460v1](http://arxiv.org/abs/2302.13460v1)|null|
 |**2023-02-27**|**A Self-Supervised Learning-based Approach to Clustering Multivariate Time-Series Data with Missing Values (SLAC-Time): An Application to Traumatic Brain Injury Phenotyping**|Hamid Ghaderi et.al.|[2302.13457v1](http://arxiv.org/abs/2302.13457v1)|null|
 |**2023-02-27**|**Euclidean Contractivity of Neural Networks with Symmetric Weights**|Veronica Centorrino et.al.|[2302.13452v1](http://arxiv.org/abs/2302.13452v1)|null|
-|**2023-02-27**|**Low latency transformers for speech processing**|Jianbo Ma et.al.|[2302.13451v1](http://arxiv.org/abs/2302.13451v1)|null|
+|**2023-02-27**|**Low latency transformers for speech processing**|Jianbo Ma et.al.|[2302.13451v1](http://arxiv.org/abs/2302.13451v1)|**[link](https://github.com/jianboma/low_latency_attention_module)**|
 |**2023-02-26**|**A Survey on Uncertainty Quantification Methods for Deep Neural Networks: An Uncertainty Source Perspective**|Wenchong He et.al.|[2302.13425v1](http://arxiv.org/abs/2302.13425v1)|null|
 |**2023-02-26**|**Training neural networks with structured noise improves classification and generalization**|Marco Benedetti et.al.|[2302.13417v1](http://arxiv.org/abs/2302.13417v1)|null|
 |**2023-02-26**|**GNNDelete: A General Strategy for Unlearning in Graph Neural Networks**|Jiali Cheng et.al.|[2302.13406v1](http://arxiv.org/abs/2302.13406v1)|**[link](https://github.com/mims-harvard/gnndelete)**|
