@@ -1,4 +1,4 @@
-## Updated on 2024.04.01
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2161,7 +2161,7 @@
 |**2023-03-19**|**Active hypothesis testing in unknown environments using recurrent neural networks and model free reinforcement learning**|George Stamatelis et.al.|[2303.10623v1](http://arxiv.org/abs/2303.10623v1)|null|
 |**2023-03-19**|**A model is worth tens of thousands of examples**|Thomas Dagès et.al.|[2303.10608v1](http://arxiv.org/abs/2303.10608v1)|null|
 |**2023-03-19**|**CLIP4MC: An RL-Friendly Vision-Language Model for Minecraft**|Ziluo Ding et.al.|[2303.10571v1](http://arxiv.org/abs/2303.10571v1)|**[link](https://github.com/PKU-RL/CLIP4MC)**|
-|**2023-03-19**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
+|**2023-03-19**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|**[link](https://github.com/yimengmin/UTSP)**|
 |**2023-03-19**|**A Radiomics-Incorporated Deep Ensemble Learning Model for Multi-Parametric MRI-based Glioma Segmentation**|Yang Chen et.al.|[2303.10533v1](http://arxiv.org/abs/2303.10533v1)|null|
 |**2023-03-18**|**Affective Workload Allocation for Multi-human Multi-robot Teams**|Wonse Jo et.al.|[2303.10465v1](http://arxiv.org/abs/2303.10465v1)|null|
 |**2023-03-18**|**Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks**|Vijaya Raghavan T. Ramkumar et.al.|[2303.10455v1](http://arxiv.org/abs/2303.10455v1)|**[link](https://github.com/neurai-lab/lure)**|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|**[link](https://github.com/ddrakulic/bqnco)**|
 
-<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## Optimization
 
@@ -3317,7 +3317,7 @@
 |**2023-06-30**|**Feature Representation Learning for NL2SQL Generation Based on Coupling and Decoupling**|Chenduo Hao et.al.|[2306.17646v1](http://arxiv.org/abs/2306.17646v1)|null|
 |**2023-06-30**|**Point-based Value Iteration for Neuro-Symbolic POMDPs**|Rui Yan et.al.|[2306.17639v1](http://arxiv.org/abs/2306.17639v1)|null|
 |**2023-06-30**|**Enhancing Feature Extraction for Indoor Fingerprint Localization Using Diversified Data**|Jiyu Jiao et.al.|[2306.17634v1](http://arxiv.org/abs/2306.17634v1)|null|
-|**2023-06-30**|**Impact of Noise on Calibration and Generalisation of Neural Networks**|Martin Ferianc et.al.|[2306.17630v1](http://arxiv.org/abs/2306.17630v1)|null|
+|**2023-06-30**|**Impact of Noise on Calibration and Generalisation of Neural Networks**|Martin Ferianc et.al.|[2306.17630v1](http://arxiv.org/abs/2306.17630v1)|**[link](https://github.com/martinferianc/noise)**|
 |**2023-06-30**|**Design of Induction Machines using Reinforcement Learning**|Yasmin SarcheshmehPour et.al.|[2306.17626v1](http://arxiv.org/abs/2306.17626v1)|null|
 |**2023-06-30**|**Scalable method for Bayesian experimental design without integrating over posterior distribution**|Vinh Hoang et.al.|[2306.17615v1](http://arxiv.org/abs/2306.17615v1)|**[link](https://github.com/vinh-tr-hoang/doeviapace)**|
 |**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597v1](http://arxiv.org/abs/2306.17597v1)|null|
@@ -3955,7 +3955,7 @@
 |**2023-06-08**|**Ordinal Potential-based Player Rating**|Nelson Vadori et.al.|[2306.05366v1](http://arxiv.org/abs/2306.05366v1)|null|
 |**2023-06-08**|**Negotiated Reasoning: On Provably Addressing Relative Over-Generalization**|Junjie Sheng et.al.|[2306.05353v1](http://arxiv.org/abs/2306.05353v1)|null|
 |**2023-06-08**|**Actively learning a Bayesian matrix fusion model with deep side information**|Yangyang Yu et.al.|[2306.05331v1](http://arxiv.org/abs/2306.05331v1)|null|
-|**2023-06-08**|**Real-time whole-heart electromechanical simulations using Latent Neural Ordinary Differential Equations**|Matteo Salvador et.al.|[2306.05321v1](http://arxiv.org/abs/2306.05321v1)|null|
+|**2023-06-08**|**Real-time whole-heart electromechanical simulations using Latent Neural Ordinary Differential Equations**|Matteo Salvador et.al.|[2306.05321v1](http://arxiv.org/abs/2306.05321v1)|**[link](https://github.com/matteosalvador/cardioem-4ch)**|
 |**2023-06-08**|**RNN-Based GNSS Positioning using Satellite Measurement Features and Pseudorange Residuals**|Ibrahim Sbeity et.al.|[2306.05319v1](http://arxiv.org/abs/2306.05319v1)|null|
 |**2023-06-08**|**Correlated Noise in Epoch-Based Stochastic Gradient Descent: Implications for Weight Variances**|Marcel Kühn et.al.|[2306.05300v1](http://arxiv.org/abs/2306.05300v1)|null|
 |**2023-06-08**|**Representing and Learning Functions Invariant Under Crystallographic Groups**|Ryan P. Adams et.al.|[2306.05261v1](http://arxiv.org/abs/2306.05261v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
