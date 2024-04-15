@@ -1,4 +1,4 @@
-## Updated on 2024.04.08
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2109,7 +2109,7 @@
 |**2023-03-21**|**Policy Optimization for Personalized Interventions in Behavioral Health**|Jackie Baek et.al.|[2303.12206v1](http://arxiv.org/abs/2303.12206v1)|null|
 |**2023-03-21**|**Universal Approximation Property of Hamiltonian Deep Neural Networks**|Muhammad Zakwan et.al.|[2303.12147v1](http://arxiv.org/abs/2303.12147v1)|null|
 |**2023-03-21**|**CLSA: Contrastive Learning-based Survival Analysis for Popularity Prediction in MEC Networks**|Zohreh Hajiakhondi-Meybodi et.al.|[2303.12097v1](http://arxiv.org/abs/2303.12097v1)|null|
-|**2023-03-21**|**Influencer Backdoor Attack on Semantic Segmentation**|Haoheng Lan et.al.|[2303.12054v1](http://arxiv.org/abs/2303.12054v1)|null|
+|**2023-03-21**|**Influencer Backdoor Attack on Semantic Segmentation**|Haoheng Lan et.al.|[2303.12054v1](http://arxiv.org/abs/2303.12054v1)|**[link](https://github.com/maxproto/iba)**|
 |**2023-03-21**|**Using Explanations to Guide Models**|Sukrut Rao et.al.|[2303.11932v1](http://arxiv.org/abs/2303.11932v1)|null|
 |**2023-03-21**|**Efficient Decision-based Black-box Patch Attacks on Video Recognition**|Kaixun Jiang et.al.|[2303.11917v1](http://arxiv.org/abs/2303.11917v1)|null|
 |**2023-03-22**|**Multi-agent Reinforcement Learning for Regional Signal control in Large-scale Grid Traffic network**|Hankang Gu et.al.|[2303.11899v2](http://arxiv.org/abs/2303.11899v2)|null|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|**[link](https://github.com/ddrakulic/bqnco)**|
 
-<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Optimization
 
@@ -3313,7 +3313,7 @@
 |**2023-06-30**|**Why Deep Models Often cannot Beat Non-deep Counterparts on Molecular Property Prediction?**|Jun Xia et.al.|[2306.17702v1](http://arxiv.org/abs/2306.17702v1)|null|
 |**2023-06-30**|**Beyond Neural-on-Neural Approaches to Speaker Gender Protection**|Loes van Bemmel et.al.|[2306.17700v1](http://arxiv.org/abs/2306.17700v1)|**[link](https://github.com/loes5307/vocaladversary2022)**|
 |**2023-06-30**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670v1](http://arxiv.org/abs/2306.17670v1)|**[link](https://github.com/thvnvtos/snn-delays)**|
-|**2023-06-30**|**Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies**|Alena Kopaničáková et.al.|[2306.17648v1](http://arxiv.org/abs/2306.17648v1)|null|
+|**2023-06-30**|**Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies**|Alena Kopaničáková et.al.|[2306.17648v1](http://arxiv.org/abs/2306.17648v1)|**[link](https://bitbucket.org/alena_kopanicakova/disttrainn)**|
 |**2023-06-30**|**Feature Representation Learning for NL2SQL Generation Based on Coupling and Decoupling**|Chenduo Hao et.al.|[2306.17646v1](http://arxiv.org/abs/2306.17646v1)|null|
 |**2023-06-30**|**Point-based Value Iteration for Neuro-Symbolic POMDPs**|Rui Yan et.al.|[2306.17639v1](http://arxiv.org/abs/2306.17639v1)|null|
 |**2023-06-30**|**Enhancing Feature Extraction for Indoor Fingerprint Localization Using Diversified Data**|Jiyu Jiao et.al.|[2306.17634v1](http://arxiv.org/abs/2306.17634v1)|null|
@@ -3701,7 +3701,7 @@
 |**2023-06-20**|**Self-learning Monte Carlo with equivariant Transformer**|Yuki Nagai et.al.|[2306.11527v1](http://arxiv.org/abs/2306.11527v1)|null|
 |**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v1](http://arxiv.org/abs/2306.11518v1)|null|
 |**2023-06-20**|**Implicit neural representation with physics-informed neural networks for the reconstruction of the early part of room impulse responses**|Mirco Pezzoli et.al.|[2306.11509v1](http://arxiv.org/abs/2306.11509v1)|null|
-|**2023-06-20**|**Efficient Large-scale Nonstationary Spatial Covariance Function Estimation Using Convolutional Neural Networks**|Pratik Nag et.al.|[2306.11487v1](http://arxiv.org/abs/2306.11487v1)|null|
+|**2023-06-20**|**Efficient Large-scale Nonstationary Spatial Covariance Function Estimation Using Convolutional Neural Networks**|Pratik Nag et.al.|[2306.11487v1](http://arxiv.org/abs/2306.11487v1)|**[link](https://github.com/kaust-es/spatial_classifier_dl)**|
 |**2023-06-20**|**Hypergraph Classification via Persistent Homology**|Mehmet Emin Aktas et.al.|[2306.11484v1](http://arxiv.org/abs/2306.11484v1)|null|
 |**2023-06-20**|**Timestamped Embedding-Matching Acoustic-to-Word CTC ASR**|Woojay Jeon et.al.|[2306.11473v1](http://arxiv.org/abs/2306.11473v1)|null|
 |**2023-06-20**|**Spatio-temporal DeepKriging for Interpolation and Probabilistic Forecasting**|Pratik Nag et.al.|[2306.11472v1](http://arxiv.org/abs/2306.11472v1)|null|
@@ -4616,7 +4616,7 @@
 |**2023-05-22**|**Road Planning for Slums via Deep Reinforcement Learning**|Yu Zheng et.al.|[2305.13060v1](http://arxiv.org/abs/2305.13060v1)|**[link](https://github.com/tsinghua-fib-lab/road-planning-for-slums)**|
 |**2023-05-22**|**RWKV: Reinventing RNNs for the Transformer Era**|Bo Peng et.al.|[2305.13048v1](http://arxiv.org/abs/2305.13048v1)|**[link](https://github.com/blinkdl/chatrwkv)**|
 |**2023-05-22**|**Learning Structured Components: Towards Modular and Interpretable Multivariate Time Series Forecasting**|Jinliang Deng et.al.|[2305.13036v1](http://arxiv.org/abs/2305.13036v1)|**[link](https://github.com/KDDtest/SCNN)**|
-|**2023-05-22**|**Towards generalizing deep-audio fake detection networks**|Konstantin Gasenzer et.al.|[2305.13033v1](http://arxiv.org/abs/2305.13033v1)|null|
+|**2023-05-22**|**Towards generalizing deep-audio fake detection networks**|Konstantin Gasenzer et.al.|[2305.13033v1](http://arxiv.org/abs/2305.13033v1)|**[link](https://github.com/gan-police/audiodeepfake-detection)**|
 |**2023-05-22**|**Adaptive action supervision in reinforcement learning from real-world multi-agent demonstrations**|Keisuke Fujii et.al.|[2305.13030v1](http://arxiv.org/abs/2305.13030v1)|null|
 |**2023-05-22**|**Why current rain denoising models fail on CycleGAN created rain images in autonomous driving**|Michael Kranl et.al.|[2305.12983v1](http://arxiv.org/abs/2305.12983v1)|null|
 |**2023-05-23**|**VanillaNet: the Power of Minimalism in Deep Learning**|Hanting Chen et.al.|[2305.12972v2](http://arxiv.org/abs/2305.12972v2)|**[link](https://github.com/huawei-noah/vanillanet)**|
@@ -6604,7 +6604,7 @@
 |**2023-03-22**|**Training Multilayer Perceptrons by Sampling with Quantum Annealers**|Frances Fengyi Yang et.al.|[2303.12352v1](http://arxiv.org/abs/2303.12352v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
 |**2023-03-22**|**Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification**|Yanbiao Ma et.al.|[2303.12307v1](http://arxiv.org/abs/2303.12307v1)|**[link](https://github.com/mayanbiao1234/geometric-metrics-for-perceptual-manifolds-in-deep-neural-networks)**|
-|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
+|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|**[link](https://github.com/lars-research/rule-learning-expressivity)**|
 |**2023-03-22**|**Evaluating Transformer Models and Human Behaviors on Chinese Character Naming**|Xiaomeng Ma et.al.|[2303.12294v1](http://arxiv.org/abs/2303.12294v1)|**[link](https://github.com/xiaomeng-ma/chinese-character-naming)**|
 |**2023-03-22**|**EBSR: Enhanced Binary Neural Network for Image Super-Resolution**|Renjie Wei et.al.|[2303.12270v1](http://arxiv.org/abs/2303.12270v1)|null|
 |**2023-03-22**|**Brain-inspired bodily self-perception model that replicates the rubber hand illusion**|Yuxuan Zhao et.al.|[2303.12259v1](http://arxiv.org/abs/2303.12259v1)|null|
@@ -6623,7 +6623,7 @@
 |**2023-03-21**|**Deep Learning Closure of the Navier-Stokes Equations for Transitional Flows**|Ashish S. Nair et.al.|[2303.12114v1](http://arxiv.org/abs/2303.12114v1)|null|
 |**2023-03-21**|**CLSA: Contrastive Learning-based Survival Analysis for Popularity Prediction in MEC Networks**|Zohreh Hajiakhondi-Meybodi et.al.|[2303.12097v1](http://arxiv.org/abs/2303.12097v1)|null|
 |**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
-|**2023-03-21**|**Influencer Backdoor Attack on Semantic Segmentation**|Haoheng Lan et.al.|[2303.12054v1](http://arxiv.org/abs/2303.12054v1)|null|
+|**2023-03-21**|**Influencer Backdoor Attack on Semantic Segmentation**|Haoheng Lan et.al.|[2303.12054v1](http://arxiv.org/abs/2303.12054v1)|**[link](https://github.com/maxproto/iba)**|
 |**2023-03-22**|**Reaction dynamics for the Cl( $^2$P) + XCl $\to$ XCl + Cl($^2$ P) (X = H, D, Mu) reaction on a high-fidelity ground state potential energy surface**|Qiang Li et.al.|[2303.11973v2](http://arxiv.org/abs/2303.11973v2)|null|
 |**2023-03-21**|**Explain To Me: Salience-Based Explainability for Synthetic Face Detection Models**|Colton Crum et.al.|[2303.11969v1](http://arxiv.org/abs/2303.11969v1)|null|
 |**2023-03-21**|**Modelling Force-Free Neutron Star Magnetospheres using Physics-Informed Neural Networks**|Jorge F. Urbán et.al.|[2303.11968v1](http://arxiv.org/abs/2303.11968v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
