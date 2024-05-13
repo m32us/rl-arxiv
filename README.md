@@ -1,4 +1,4 @@
-## Updated on 2024.05.06
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|**[link](https://github.com/ddrakulic/bqnco)**|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
 ## Optimization
 
@@ -3670,7 +3670,7 @@
 |**2023-06-21**|**3HAN: A Deep Neural Network for Fake News Detection**|Sneha Singhania et.al.|[2306.12014v1](http://arxiv.org/abs/2306.12014v1)|**[link](https://github.com/ni9elf/3han)**|
 |**2023-06-21**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010v1](http://arxiv.org/abs/2306.12010v1)|null|
 |**2023-06-21**|**Training Transformers with 4-bit Integers**|Haocheng Xi et.al.|[2306.11987v1](http://arxiv.org/abs/2306.11987v1)|**[link](https://github.com/xijiu9/Train_Transformers_with_INT4)**|
-|**2023-06-21**|**Balanced Mixture of SuperNets for Learning the CNN Pooling Architecture**|Mehraveh Javan et.al.|[2306.11982v1](http://arxiv.org/abs/2306.11982v1)|null|
+|**2023-06-21**|**Balanced Mixture of SuperNets for Learning the CNN Pooling Architecture**|Mehraveh Javan et.al.|[2306.11982v1](http://arxiv.org/abs/2306.11982v1)|**[link](https://github.com/mehravehj/Balanced-Mixture-of-SuperNets)**|
 |**2023-06-21**|**Encoding Enhanced Complex CNN for Accurate and Highly Accelerated MRI**|Zimeng Li et.al.|[2306.11977v1](http://arxiv.org/abs/2306.11977v1)|null|
 |**2023-06-21**|**Complementary Learning Subnetworks for Parameter-Efficient Class-Incremental Learning**|Depeng Li et.al.|[2306.11967v1](http://arxiv.org/abs/2306.11967v1)|null|
 |**2023-06-21**|**Symmetry making and symmetry breaking in cortex A collective portrait of ensemble excitation and inhibition**|Nima Dehghani et.al.|[2306.11965v1](http://arxiv.org/abs/2306.11965v1)|null|
@@ -4539,7 +4539,7 @@
 |**2023-05-24**|**Sharpness-Aware Data Poisoning Attack**|Pengfei He et.al.|[2305.14851v1](http://arxiv.org/abs/2305.14851v1)|null|
 |**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|**[link](https://github.com/dreamflake/cfm)**|
 |**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829v1](http://arxiv.org/abs/2305.14829v1)|null|
-|**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
+|**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|**[link](https://github.com/prash29/lager)**|
 |**2023-05-24**|**Directed Message Passing Based on Attention for Prediction of Molecular Properties**|Chen Gong et.al.|[2305.14819v1](http://arxiv.org/abs/2305.14819v1)|**[link](https://github.com/gongchen-1995/d-gats)**|
 |**2023-05-24**|**What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814v1](http://arxiv.org/abs/2305.14814v1)|null|
 |**2023-05-24**|**Sample-Efficient Learning for a Surrogate Model of Three-Phase Distribution System**|Hoang Tien Nguyen et.al.|[2305.14799v1](http://arxiv.org/abs/2305.14799v1)|null|
@@ -6948,7 +6948,7 @@
 |**2023-03-13**|**Provable Convergence of Tensor Decomposition-Based Neural Network Training**|Chenyang Li et.al.|[2303.06815v1](http://arxiv.org/abs/2303.06815v1)|**[link](https://github.com/chenyangli-97/nn-bcd)**|
 |**2023-03-13**|**Boosting Source Code Learning with Data Augmentation: An Empirical Study**|Zeming Dong et.al.|[2303.06808v1](http://arxiv.org/abs/2303.06808v1)|null|
 |**2023-03-13**|**Neural Diarization with Non-autoregressive Intermediate Attractors**|Yusuke Fujita et.al.|[2303.06806v1](http://arxiv.org/abs/2303.06806v1)|**[link](https://github.com/hitachi-speech/EEND)**|
-|**2023-03-13**|**Orthogonal Transform Domain Approaches for the Convolutional Layer**|Hongyi Pan et.al.|[2303.06797v1](http://arxiv.org/abs/2303.06797v1)|null|
+|**2023-03-13**|**Orthogonal Transform Domain Approaches for the Convolutional Layer**|Hongyi Pan et.al.|[2303.06797v1](http://arxiv.org/abs/2303.06797v1)|**[link](https://github.com/phy710/transform-based-layers)**|
 |**2023-03-12**|**Raising The Limit Of Image Rescaling Using Auxiliary Encoding**|Chenzhong Yin et.al.|[2303.06747v1](http://arxiv.org/abs/2303.06747v1)|null|
 |**2023-03-12**|**DNN-Alias: Deep Neural Network Protection Against Side-Channel Attacks via Layer Balancing**|Mahya Morid Ahmadi et.al.|[2303.06746v1](http://arxiv.org/abs/2303.06746v1)|null|
 |**2023-03-12**|**Knowledge-integrated AutoEncoder Model**|Teddy Lazebnik et.al.|[2303.06721v1](http://arxiv.org/abs/2303.06721v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
