@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -497,7 +497,7 @@
 |**2023-06-12**|**High-speed Autonomous Racing using Trajectory-aided Deep Reinforcement Learning**|Benjamin David Evans et.al.|[2306.07003v1](http://arxiv.org/abs/2306.07003v1)|**[link](https://github.com/bdevan5/trajectoryaidedlearning)**|
 |**2023-06-12**|**Cancellation-Free Regret Bounds for Lagrangian Approaches in Constrained Markov Decision Processes**|Adrian Müller et.al.|[2306.07001v1](http://arxiv.org/abs/2306.07001v1)|null|
 |**2023-06-12**|**Feature Fusion from Head to Tail: an Extreme Augmenting Strategy for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2306.06963v1](http://arxiv.org/abs/2306.06963v1)|**[link](https://github.com/keke921/h2t)**|
-|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955v1](http://arxiv.org/abs/2306.06955v1)|null|
+|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955v1](http://arxiv.org/abs/2306.06955v1)|**[link](https://github.com/jmdvinodjmd/HyperITE)**|
 |**2023-06-12**|**High-precision interpolation of stellar atmospheres with a deep neural network using a 1D convolutional auto encoder for feature extraction**|C. Westendorp Plaza et.al.|[2306.06938v1](http://arxiv.org/abs/2306.06938v1)|**[link](https://github.com/cwestend/innterpol)**|
 |**2023-06-12**|**On the Viability of using LLMs for SW/HW Co-Design: An Example in Designing CiM DNN Accelerators**|Zheyu Yan et.al.|[2306.06923v1](http://arxiv.org/abs/2306.06923v1)|null|
 |**2023-06-12**|**Active Learning Guided Fine-Tuning for enhancing Self-Supervised Based Multi-Label Classification of Remote Sensing Images**|Lars Möllenbrok et.al.|[2306.06908v1](http://arxiv.org/abs/2306.06908v1)|null|
@@ -2331,7 +2331,7 @@
 |**2023-03-10**|**Do we need entire training data for adversarial training?**|Vipul Gupta et.al.|[2303.06241v1](http://arxiv.org/abs/2303.06241v1)|null|
 |**2023-03-10**|**Understanding the Synergies between Quality-Diversity and Deep Reinforcement Learning**|Bryan Lim et.al.|[2303.06164v1](http://arxiv.org/abs/2303.06164v1)|null|
 |**2023-03-10**|**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**|Yunzhong Hou et.al.|[2303.06145v1](http://arxiv.org/abs/2303.06145v1)|**[link](https://github.com/hou-yz/mvselect)**|
-|**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
+|**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|**[link](https://github.com/adaptive-intelligent-robotics/memes)**|
 |**2023-03-10**|**Reinforcement Learning Versus Model Predictive Control on Greenhouse Climate Control**|Bernardo Morcego et.al.|[2303.06110v1](http://arxiv.org/abs/2303.06110v1)|null|
 |**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|**[link](https://github.com/gorkamunoz/rl_opts)**|
 |**2023-03-10**|**Tactile-Filter: Interactive Tactile Perception for Part Mating**|Kei Ota et.al.|[2303.06034v1](http://arxiv.org/abs/2303.06034v1)|null|
@@ -2795,7 +2795,7 @@
 |**2023-02-18**|**Transformadores: Fundamentos teoricos y Aplicaciones**|Jordi de la Torre et.al.|[2302.09327v1](http://arxiv.org/abs/2302.09327v1)|null|
 |**2023-02-18**|**Effective Multimodal Reinforcement Learning with Modality Alignment and Importance Enhancement**|Jinming Ma et.al.|[2302.09318v1](http://arxiv.org/abs/2302.09318v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 ## Combinatorial Optimization
 
@@ -3130,7 +3130,7 @@
 |**2023-01-11**|**Photonic Spatial-Euler Ising Machine for Solving 20000-node Max-cut Problem**|Xin Ye et.al.|[2301.04651v1](http://arxiv.org/abs/2301.04651v1)|null|
 |**2023-01-12**|**BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization**|Darko Drakulic et.al.|[2301.03313v2](http://arxiv.org/abs/2301.03313v2)|**[link](https://github.com/ddrakulic/bqnco)**|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 ## Optimization
 
@@ -3878,7 +3878,7 @@
 |**2023-06-12**|**A language-inspired machine learning approach for solving strongly correlated problems with dynamical mean-field theory**|Zelong Zhao et.al.|[2306.06975v1](http://arxiv.org/abs/2306.06975v1)|**[link](https://github.com/zelong-zhao/scalinn)**|
 |**2023-06-12**|**Can Forward Gradient Match Backpropagation?**|Louis Fournier et.al.|[2306.06968v1](http://arxiv.org/abs/2306.06968v1)|**[link](https://github.com/streethagore/forwardlocalgradient)**|
 |**2023-06-12**|**Feature Fusion from Head to Tail: an Extreme Augmenting Strategy for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2306.06963v1](http://arxiv.org/abs/2306.06963v1)|**[link](https://github.com/keke921/h2t)**|
-|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955v1](http://arxiv.org/abs/2306.06955v1)|null|
+|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955v1](http://arxiv.org/abs/2306.06955v1)|**[link](https://github.com/jmdvinodjmd/HyperITE)**|
 |**2023-06-12**|**Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition**|Belen Alastruey et.al.|[2306.06954v1](http://arxiv.org/abs/2306.06954v1)|null|
 |**2023-06-12**|**Numerically stable neural network for simulating Kardar-Paris-Zhang growth in the presence of uncorrelated and correlated noises**|Tianshu Song et.al.|[2306.06952v1](http://arxiv.org/abs/2306.06952v1)|null|
 |**2023-06-12**|**Disorder and quantum transport of helical quantum Hall phase in graphene**|Yue-Ran Ding et.al.|[2306.06939v1](http://arxiv.org/abs/2306.06939v1)|null|
@@ -6594,7 +6594,7 @@
 |**2023-03-22**|**Reliable and Efficient Evaluation of Adversarial Robustness for Deep Hashing-Based Retrieval**|Xunguang Wang et.al.|[2303.12658v1](http://arxiv.org/abs/2303.12658v1)|null|
 |**2023-03-22**|**Traffic Volume Prediction using Memory-Based Recurrent Neural Networks: A comparative analysis of LSTM and GRU**|Lokesh Chandra Das et.al.|[2303.12643v1](http://arxiv.org/abs/2303.12643v1)|null|
 |**2023-03-22**|**Robust single-shot 3D fluorescence imaging in scattering media with a simulator-trained neural network**|Jeffrey Alido et.al.|[2303.12573v1](http://arxiv.org/abs/2303.12573v1)|**[link](https://github.com/bu-cisl/sbrnet)**|
-|**2023-03-22**|**Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction**|Jemin Lee et.al.|[2303.12557v1](http://arxiv.org/abs/2303.12557v1)|null|
+|**2023-03-22**|**Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction**|Jemin Lee et.al.|[2303.12557v1](http://arxiv.org/abs/2303.12557v1)|**[link](https://gitlab.com/ones-ai/q-hyvit)**|
 |**2023-03-22**|**Deployment of Image Analysis Algorithms under Prevalence Shifts**|Patrick Godau et.al.|[2303.12540v1](http://arxiv.org/abs/2303.12540v1)|**[link](https://github.com/imsy-dkfz/prevalence-shifts)**|
 |**2023-03-22**|**Inexact iterative numerical linear algebra for neural network-based spectral estimation and rare-event prediction**|John Strahan et.al.|[2303.12534v1](http://arxiv.org/abs/2303.12534v1)|**[link](https://github.com/dinner-group/inexact-subspace-iteration)**|
 |**2023-03-22**|**Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications**|Luigi Capogrosso et.al.|[2303.12524v1](http://arxiv.org/abs/2303.12524v1)|**[link](https://github.com/luigicapogrosso/split_et_impera)**|
@@ -7554,7 +7554,7 @@
 |**2023-02-21**|**Dynamical mean-field theory for Rényi entanglement entropy and mutual Information in Hubbard Model**|Surajit Bera et.al.|[2302.10940v1](http://arxiv.org/abs/2302.10940v1)|null|
 |**2023-02-21**|**The Evryscope Fast Transient Engine: Real-Time Detection for Rapidly Evolving Transients**|Hank Corbett et.al.|[2302.10929v1](http://arxiv.org/abs/2302.10929v1)|null|
 |**2023-02-21**|**Spatial gradient consistency for unsupervised learning of hyperspectral demosaicking: Application to surgical imaging**|Peichao Li et.al.|[2302.10927v1](http://arxiv.org/abs/2302.10927v1)|null|
-|**2023-02-21**|**Some Fundamental Aspects about Lipschitz Continuity of Neural Network Functions**|Grigory Khromov et.al.|[2302.10886v1](http://arxiv.org/abs/2302.10886v1)|null|
+|**2023-02-21**|**Some Fundamental Aspects about Lipschitz Continuity of Neural Network Functions**|Grigory Khromov et.al.|[2302.10886v1](http://arxiv.org/abs/2302.10886v1)|**[link](https://github.com/gakhromov/lipschitz-continuity-of-nns)**|
 |**2023-02-21**|**Reinforcement Learning-based Control of Nonlinear Systems using Carleman Approximation: Structured and Unstructured Designs**|Jishnudeep Kar et.al.|[2302.10864v1](http://arxiv.org/abs/2302.10864v1)|null|
 |**2023-02-21**|**Deep reinforced learning heuristic tested on spin-glass ground states: The larger picture**|Stefan Boettcher et.al.|[2302.10848v1](http://arxiv.org/abs/2302.10848v1)|null|
 |**2023-02-21**|**A General-Purpose Transferable Predictor for Neural Architecture Search**|Fred X. Han et.al.|[2302.10835v1](http://arxiv.org/abs/2302.10835v1)|null|
@@ -7605,7 +7605,7 @@
 |**2023-02-20**|**Model-based feature selection for neural networks: A mixed-integer programming approach**|Shudian Zhao et.al.|[2302.10344v1](http://arxiv.org/abs/2302.10344v1)|null|
 |**2023-02-20**|**Non-rigid Medical Image Registration using Physics-informed Neural Networks**|Zhe Min et.al.|[2302.10343v1](http://arxiv.org/abs/2302.10343v1)|**[link](https://github.com/zhemin-1992/registration_pinns)**|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 ## Infinite Dimensional Optimization
 
@@ -7690,5 +7690,5 @@
 |**2022-12-08**|**An Agent-Based Distributed Control of Networked SIR Epidemics**|Mohammad Mubarak et.al.|[2209.06250v2](http://arxiv.org/abs/2209.06250v2)|null|
 |**2022-09-13**|**MDM: Molecular Diffusion Model for 3D Molecule Generation**|Lei Huang et.al.|[2209.05710v1](http://arxiv.org/abs/2209.05710v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
