@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.17
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reinforcement Learning
@@ -730,7 +730,7 @@ layout: default
 |**2023-06-01**|**Safe Offline Reinforcement Learning with Real-Time Budget Constraints**|Qian Lin et.al.|[2306.00603v1](http://arxiv.org/abs/2306.00603v1)|**[link](https://github.com/qianlin04/safe-offline-rl-with-diffusion-model)**|
 |**2023-06-01**|**TorchRL: A data-driven decision-making library for PyTorch**|Albert Bou et.al.|[2306.00577v1](http://arxiv.org/abs/2306.00577v1)|**[link](https://github.com/pytorch/rl)**|
 |**2023-06-05**|**Predicting Temporal Aspects of Movement for Predictive Replication in Fog Environments**|Emil Balitzki et.al.|[2306.00575v2](http://arxiv.org/abs/2306.00575v2)|**[link](https://github.com/OpenFogStack/temporal-location-prediction)**|
-|**2023-06-01**|**Hinge-Wasserstein: Mitigating Overconfidence in Regression by Classification**|Ziliang Xiong et.al.|[2306.00560v1](http://arxiv.org/abs/2306.00560v1)|null|
+|**2023-06-01**|**Hinge-Wasserstein: Mitigating Overconfidence in Regression by Classification**|Ziliang Xiong et.al.|[2306.00560v1](http://arxiv.org/abs/2306.00560v1)|**[link](https://github.com/xzleo/hinge-wasserstein)**|
 |**2023-06-01**|**Neuronal Cell Type Classification using Deep Learning**|Ofek Ophir et.al.|[2306.00528v1](http://arxiv.org/abs/2306.00528v1)|null|
 |**2023-06-01**|**A New PHO-rmula for Improved Performance of Semi-Structured Networks**|David Rügamer et.al.|[2306.00522v1](http://arxiv.org/abs/2306.00522v1)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416v1](http://arxiv.org/abs/2306.00416v1)|null|
@@ -2683,7 +2683,7 @@ layout: default
 |**2023-02-23**|**A framework for benchmarking class-out-of-distribution detection and its application to ImageNet**|Ido Galil et.al.|[2302.11893v1](http://arxiv.org/abs/2302.11893v1)|**[link](https://github.com/mdabbah/COOD_benchmarking)**|
 |**2023-02-23**|**What Can We Learn From The Selective Prediction And Uncertainty Estimation Performance Of 523 Imagenet Classifiers**|Ido Galil et.al.|[2302.11874v1](http://arxiv.org/abs/2302.11874v1)|**[link](https://github.com/idogalil/benchmarking-uncertainty-estimation-performance)**|
 |**2023-02-23**|**Sharpness-Aware Minimization: An Implicit Regularization Perspective**|Kayhan Behdin et.al.|[2302.11836v1](http://arxiv.org/abs/2302.11836v1)|null|
-|**2023-02-23**|**Combining search strategies to improve performance in the calibration of economic ABMs**|Aldo Glielmo et.al.|[2302.11835v1](http://arxiv.org/abs/2302.11835v1)|null|
+|**2023-02-23**|**Combining search strategies to improve performance in the calibration of economic ABMs**|Aldo Glielmo et.al.|[2302.11835v1](http://arxiv.org/abs/2302.11835v1)|**[link](https://github.com/bancaditalia/ABCredit.jl)**|
 |**2023-02-23**|**Revisiting the Gumbel-Softmax in MADDPG**|Callum Rhys Tilbury et.al.|[2302.11793v1](http://arxiv.org/abs/2302.11793v1)|**[link](https://github.com/uoe-agents/revisiting-maddpg)**|
 |**2023-02-23**|**Improving the generalization via coupled tensor norm regularization**|Ying Gao et.al.|[2302.11780v1](http://arxiv.org/abs/2302.11780v1)|null|
 |**2023-02-23**|**Asymptotically Unbiased Off-Policy Policy Evaluation when Reusing Old Data in Nonstationary Environments**|Vincent Liu et.al.|[2302.11725v1](http://arxiv.org/abs/2302.11725v1)|null|
@@ -3067,7 +3067,7 @@ layout: default
 |**2023-02-14**|**Advances on Strictly $Δ$ -Modular IPs**|Martin Nägele et.al.|[2302.07029v1](http://arxiv.org/abs/2302.07029v1)|null|
 |**2023-02-21**|**A full-stack view of probabilistic computing with p-bits: devices, architectures and algorithms**|Shuvro Chowdhury et.al.|[2302.06457v2](http://arxiv.org/abs/2302.06457v2)|null|
 |**2023-02-13**|**Near-Optimal Dynamic Time Warping on Run-Length Encoded Strings**|Itai Boneh et.al.|[2302.06252v1](http://arxiv.org/abs/2302.06252v1)|null|
-|**2023-02-13**|**Enhancing SMT-based Weighted Model Integration by Structure Awareness**|Giuseppe Spallitta et.al.|[2302.06188v1](http://arxiv.org/abs/2302.06188v1)|null|
+|**2023-02-13**|**Enhancing SMT-based Weighted Model Integration by Structure Awareness**|Giuseppe Spallitta et.al.|[2302.06188v1](http://arxiv.org/abs/2302.06188v1)|**[link](https://github.com/unitn-sml/wmi-pa)**|
 |**2023-02-13**|**Expediting Distributed DNN Training with Device Topology-Aware Graph Deployment**|Shiwei Zhang et.al.|[2302.06126v1](http://arxiv.org/abs/2302.06126v1)|null|
 |**2023-02-12**|**Infinite Lewis Weights in Spectral Graph Theory**|Amit Suliman et.al.|[2302.05966v1](http://arxiv.org/abs/2302.05966v1)|null|
 |**2023-02-12**|**The Two-Squirrel Problem and Its Relatives**|Sergey Bereg et.al.|[2302.05937v1](http://arxiv.org/abs/2302.05937v1)|null|
@@ -3431,7 +3431,7 @@ layout: default
 |**2023-06-27**|**A Novel Two Stream Decision Level Fusion of Vision and Inertial Sensors Data for Automatic Multimodal Human Activity Recognition System**|Santosh Kumar Yadav et.al.|[2306.15765v1](http://arxiv.org/abs/2306.15765v1)|null|
 |**2023-06-27**|**IMPOSITION: Implicit Backdoor Attack through Scenario Injection**|Mozhgan Pourkeshavarz et.al.|[2306.15755v1](http://arxiv.org/abs/2306.15755v1)|null|
 |**2023-06-27**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v1](http://arxiv.org/abs/2306.15749v1)|**[link](https://github.com/fabrizio-ottati/to-spike-or-not)**|
-|**2023-06-27**|**Physics-inspired spatiotemporal-graph AI ensemble for gravitational wave detection**|Minyang Tian et.al.|[2306.15728v1](http://arxiv.org/abs/2306.15728v1)|null|
+|**2023-06-27**|**Physics-inspired spatiotemporal-graph AI ensemble for gravitational wave detection**|Minyang Tian et.al.|[2306.15728v1](http://arxiv.org/abs/2306.15728v1)|**[link](https://github.com/mtian8/gw_spatiotemporal_gnn)**|
 |**2023-06-27**|**Constraining Below-threshold Radio Source Counts With Machine Learning**|Elisa Todarello et.al.|[2306.15720v1](http://arxiv.org/abs/2306.15720v1)|null|
 |**2023-06-29**|**Likelihood-free neural Bayes estimators for censored inference with peaks-over-threshold models**|Jordan Richards et.al.|[2306.15642v2](http://arxiv.org/abs/2306.15642v2)|**[link](https://github.com/jbrich95/censoredneuralestimators)**|
 |**2023-06-28**|**Automatic Annotation of Direct Speech in Written French Narratives**|Noé Durandard et.al.|[2306.15634v2](http://arxiv.org/abs/2306.15634v2)|**[link](https://github.com/deezer/aads_french)**|
@@ -3835,7 +3835,7 @@ layout: default
 |**2023-06-12**|**Least-Squares Neural Network (LSNN) Method For Linear Advection-Reaction Equation: Non-constant Jumps**|Zhiqiang Cai et.al.|[2306.07445v1](http://arxiv.org/abs/2306.07445v1)|null|
 |**2023-06-12**|**Neural Embeddings for Web Testing**|Andrea Stocco et.al.|[2306.07400v1](http://arxiv.org/abs/2306.07400v1)|**[link](https://github.com/tsigalko18/webembed-replication-package)**|
 |**2023-06-12**|**Adversarial Attacks on the Interpretation of Neuron Activation Maximization**|Geraldin Nanfack et.al.|[2306.07397v1](http://arxiv.org/abs/2306.07397v1)|null|
-|**2023-06-12**|**Supervised Deep Learning for Content-Aware Image Retargeting with Fourier Convolutions**|MohammadHossein Givkashi et.al.|[2306.07383v1](http://arxiv.org/abs/2306.07383v1)|null|
+|**2023-06-12**|**Supervised Deep Learning for Content-Aware Image Retargeting with Fourier Convolutions**|MohammadHossein Givkashi et.al.|[2306.07383v1](http://arxiv.org/abs/2306.07383v1)|**[link](https://github.com/givkashi/cair)**|
 |**2023-06-12**|**Intelligent Multi-channel Meta-imagers for Accelerating Machine Vision**|Hanyu Zheng et.al.|[2306.07365v1](http://arxiv.org/abs/2306.07365v1)|null|
 |**2023-06-12**|**Conformal invariance and multifractality at Anderson transitions in arbitrary dimensions**|Jaychandran Padayasi et.al.|[2306.07340v1](http://arxiv.org/abs/2306.07340v1)|**[link](https://github.com/jaychandran-padayasi/coulomb-gas-expansion)**|
 |**2023-06-12**|**Exact Solution for the Transverse Field Sherrington-Kirkpatrick Spin Glass Model with Continuous-Time Quantum Monte Carlo Method**|Annamária Kiss et.al.|[2306.07337v1](http://arxiv.org/abs/2306.07337v1)|null|
@@ -4216,7 +4216,7 @@ layout: default
 |**2023-06-01**|**Second order phase transition in the six-dimensional Ising spin glass on a field**|Miguel Aguilar-Janita et.al.|[2306.00569v1](http://arxiv.org/abs/2306.00569v1)|null|
 |**2023-06-01**|**Aging on the edge of stability in disordered systems**|Dor Shohat et.al.|[2306.00567v1](http://arxiv.org/abs/2306.00567v1)|null|
 |**2023-06-01**|**Machine Learning and Kalman Filtering for Nanomechanical Mass Spectrometry**|Mete Erdogan et.al.|[2306.00563v1](http://arxiv.org/abs/2306.00563v1)|**[link](https://github.com/meterdogan07/nanomechanical-mass-spectrometry-ml-kf)**|
-|**2023-06-01**|**Hinge-Wasserstein: Mitigating Overconfidence in Regression by Classification**|Ziliang Xiong et.al.|[2306.00560v1](http://arxiv.org/abs/2306.00560v1)|null|
+|**2023-06-01**|**Hinge-Wasserstein: Mitigating Overconfidence in Regression by Classification**|Ziliang Xiong et.al.|[2306.00560v1](http://arxiv.org/abs/2306.00560v1)|**[link](https://github.com/xzleo/hinge-wasserstein)**|
 |**2023-06-01**|**Label- and slide-free tissue histology using 3D epi-mode quantitative phase imaging and virtual H&E staining**|Tanishq Mathew Abraham et.al.|[2306.00548v1](http://arxiv.org/abs/2306.00548v1)|**[link](https://github.com/tmabraham/qobmtohe)**|
 |**2023-06-01**|**A Novel Driver Distraction Behavior Detection Based on Self-Supervised Learning Framework with Masked Image Modeling**|Yingzhi Zhang et.al.|[2306.00543v1](http://arxiv.org/abs/2306.00543v1)|**[link](https://github.com/rocky1salady-killer/sl-ddbd)**|
 |**2023-06-01**|**Neuronal Cell Type Classification using Deep Learning**|Ofek Ophir et.al.|[2306.00528v1](http://arxiv.org/abs/2306.00528v1)|null|
@@ -6948,7 +6948,7 @@ layout: default
 |**2023-03-10**|**A hybrid deep-learning-metaheuristic framework to approximate discrete road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
 |**2023-03-10**|**Combining visibility analysis and deep learning for refinement of semantic 3D building models by conflict classification**|Olaf Wysocki et.al.|[2303.05998v1](http://arxiv.org/abs/2303.05998v1)|null|
 |**2023-03-10**|**An autoencoder neural network integrated into gravitational-wave burst searches to improve the rejection of noise transients**|Sophie Bini et.al.|[2303.05986v1](http://arxiv.org/abs/2303.05986v1)|null|
-|**2023-03-10**|**Neural Gromov-Wasserstein Optimal Transport**|Maksim Nekrashevich et.al.|[2303.05978v1](http://arxiv.org/abs/2303.05978v1)|null|
+|**2023-03-10**|**Neural Gromov-Wasserstein Optimal Transport**|Maksim Nekrashevich et.al.|[2303.05978v1](http://arxiv.org/abs/2303.05978v1)|**[link](https://github.com/ark-130994/gw-solvers)**|
 |**2023-03-10**|**Classifying the evolution of COVID-19 severity on patients with combined dynamic Bayesian networks and neural networks**|David Quesada et.al.|[2303.05972v1](http://arxiv.org/abs/2303.05972v1)|null|
 |**2023-03-10**|**Robust Knowledge Distillation from RNN-T Models With Noisy Training Labels Using Full-Sum Loss**|Mohammad Zeineldeen et.al.|[2303.05958v1](http://arxiv.org/abs/2303.05958v1)|null|
 |**2023-03-10**|**Automated crack propagation measurement on asphalt concrete specimens using an optical flow-based deep neural network**|Zehui Zhu et.al.|[2303.05957v1](http://arxiv.org/abs/2303.05957v1)|**[link](https://github.com/zehuiz2/crackpropnet)**|
@@ -7437,7 +7437,7 @@ layout: default
 |**2023-02-24**|**A Targeted Accuracy Diagnostic for Variational Approximations**|Yu Wang et.al.|[2302.12419v1](http://arxiv.org/abs/2302.12419v1)|**[link](https://github.com/tarps-group/taddaa)**|
 |**2023-02-24**|**HyperAttack: Multi-Gradient-Guided White-box Adversarial Structure Attack of Hypergraph Neural Networks**|Chao Hu et.al.|[2302.12407v1](http://arxiv.org/abs/2302.12407v1)|null|
 |**2023-02-24**|**Cascaded ELM-based Joint Frame Synchronization and Channel Estimation over Rician Fading Channel with Hardware Imperfections**|Chaojin Qing et.al.|[2302.12397v1](http://arxiv.org/abs/2302.12397v1)|null|
-|**2023-02-24**|**TrafFormer: A Transformer Model for Prediction Long-term Traffic**|David Alexander Tedjopurnomo et.al.|[2302.12388v1](http://arxiv.org/abs/2302.12388v1)|null|
+|**2023-02-24**|**TrafFormer: A Transformer Model for Prediction Long-term Traffic**|David Alexander Tedjopurnomo et.al.|[2302.12388v1](http://arxiv.org/abs/2302.12388v1)|**[link](https://github.com/david-tedjopurnomo/trafformer)**|
 |**2023-02-24**|**Generalization Analysis for Contrastive Representation Learning**|Yunwen Lei et.al.|[2302.12383v1](http://arxiv.org/abs/2302.12383v1)|null|
 |**2023-02-24**|**Cosmic Microwave Background Recovery: A Graph-Based Bayesian Convolutional Network Approach**|Jadie Adams et.al.|[2302.12378v1](http://arxiv.org/abs/2302.12378v1)|null|
 |**2023-02-23**|**Less is More: Data Pruning for Faster Adversarial Training**|Yize Li et.al.|[2302.12366v1](http://arxiv.org/abs/2302.12366v1)|null|
